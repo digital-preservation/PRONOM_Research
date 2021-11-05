@@ -1,13 +1,20 @@
-# PRONOM_Research
+# PRONOM_Research Overview
 PRONOM_Research has been created so that there is a permanent GitHub repository for file format submissions and samples. We want those who use and submit to PRONOM to have a better understanding of the work we do on a daily basis. Therefore we have [created an area](https://github.com/digital-preservation/PRONOM_Research/tree/main/Test%20Releases) to which we shall upload the test signatures we are working on, on a weekly basis and a [spreadsheet](https://docs.google.com/spreadsheets/d/1P1GGevHysUQnivsmf6EFo8ZyfKRPwUJa5eoJ3JODRq0/edit?usp=sharing) where you can view the progress of the next release.
 
 # Resources
-PRONOM can be found here: www.nationalarchives.gov.uk/PRONOM
+The main PRONOM website can be found here: www.nationalarchives.gov.uk/PRONOM.
+
+Ross Spencer's signature development utility for both binary and container signatures can be found [here](https://openpreservation.org/blogs/pronom-research-week-signature-development-utility-2-0-ffdev-info/).
+
 A list of blogs, presentations, and other resources to assist with PRONOM research and file format signature development [can be found here](https://docs.google.com/spreadsheets/d/12YnUPnHaoYzDrf2SgxGDxi5e6r3WOpEfk23ibt3qVyg/edit#gid=0).
-If you would like help or advice on conducting your research, crafting your submission, creating a signature, or if you’re having difficulty finding samples, please create a conversation thread on our [Google Group](https://groups.google.com/g/pronom)
+
+If you would like help or advice on conducting your research, crafting your submission, creating a signature, or if you’re having difficulty finding samples, please create a conversation thread on our [Google Group](https://groups.google.com/g/pronom).
+
 Here is the full list of everything in PRONOM as of the v97 release on 1st October 2020 (https://github.com/digital-preservation/pronom-research-week/blob/master/v97_master_list.csv). From here you can see which formats don't currently have MIME/Media types, lists of associated extensions, deprecated formats and formats that have signatures (including container signatures).
-Here is a list of PUIDs that currently lack signatures (https://github.com/digital-preservation/pronom-research-week/blob/master/formats_without_signatures_Oct_2020.csv). You can help by sourcing example files and suggesting potential identification signatures.
-Here is a list of PUIDs that currently only have an 'outline' description (https://github.com/digital-preservation/pronom-research-week/blob/master/formats_with_outline_descriptions_only.csv). You can help by suggestion descriptive text for the PRONOM entry. Descriptions should be objective desciptions of what the format does and can include information about its originating software, but must not contain qualitative information, such as '...is the best format for...'
+
+Here is a list of PUIDs that currently lack signatures (https://github.com/digital-preservation/pronom-research-week/blob/master/formats_without_signatures_Oct_2020.csv). Can you help sourcing example files and suggesting potential identification signatures?
+
+Here is a list of PUIDs that currently only have an 'outline' description (https://github.com/digital-preservation/pronom-research-week/blob/master/formats_with_outline_descriptions_only.csv).  Can you help us with some suggestions for PRONOM descriptive text entry? Descriptions should be objective desciptions of what the format does and can include information about its originating software and so should not contain qualitative information, such as '...is the best format for...'.
 
 # Submissions
 For each submission, please include as much of the following information as possible. It’s okay if you don’t have everything, but please include what you can:
@@ -16,7 +23,7 @@ Format name - Use the official name where known. Please capitalise each word unl
 Version number (where relevant)
 PUID - if it exists already and you’re providing an enhanced description
 Extensions - any extensions known to be associated with the format
-MIME/Media Type - the MIME or Media Type associated with the format. This should be an official Media Type, either registered and listed via the IANA (https://www.iana.org/assignments/media-types/media-types.xhtml) or listed in official format documentation produced by the vendor
+MIME/Media Type - the MIME or Media Type associated with the format. A brief description of what a MIME type is can be found [here](https://developer.mozilla.org/en-US/docs/Web/HTTP/Basics_of_HTTP/MIME_types). This should be an official Media Type, either registered and listed via the IANA (https://www.iana.org/assignments/media-types/media-types.xhtml) or listed in official format documentation produced by the vendor. The best way to search IANA is to find in page and search for key words of the format.
 Description - a concise, objective description of the file format.
 Format type - What type of format is it? (see below)
 Vendor (if known) - which vendor created the format? Which vendor currently supports it?
