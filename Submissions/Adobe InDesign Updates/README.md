@@ -1,6 +1,8 @@
 # Adobe InDesign Signature Updates & New Signatures
 http://fileformats.archiveteam.org/wiki/InDesign_INDD
 
+These additions continue the signatures from 2014 forward. Also added the earlier 1.0, 1.5, and 2.0 formats. 1.5 was necessary as they won't open in 1.0. InDesign CS 5.5 was also necessary as they won't open in CS 5. 
+
 ## *Updates*
 
 - Added template extension (INDT) to all current & new signatures
