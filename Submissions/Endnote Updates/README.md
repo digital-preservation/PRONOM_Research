@@ -14,4 +14,7 @@ Starting in version X (10) to version X9, file format moved to a ZIP container. 
 * **ENLX** CHLdev/4 EndNote Compressed Library for version 20
 
 CHLdev/3 uses the byte pattern:
-* 53514C69746520666F726D6174203300{1-2048}656E6C5F72656673
+```
+53514C69746520666F726D6174203300{1-2048}656E6C5F72656673
+```
+Looks for SQL Lite 3 header and then within 2048 bytes looks for ***enl_refs*** database marker. Also needs priority over fmt/729.
