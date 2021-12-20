@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<ContainerSignatureMapping schemaVersion="1.0" signatureVersion="101013"> 
+    <ContainerSignatures>
+
+        <ContainerSignature Id="1000" ContainerType="ZIP">
+            <Description>Endnote Library</Description>
+            <Files>
+                <File>
+                    <Path>refs.MYD</Path>
+                </File>
+					 <File>
+                    <Path>refs.frm</Path>
+                    <BinarySignatures>
+                        <InternalSignatureCollection>                    
+	                        <InternalSignature ID="300">
+	                            <ByteSequence Reference="BOFoffset">
+	                                <SubSequence Position="1" SubSeqMinOffset="0" SubSeqMaxOffset="0">
+	                                    <Sequence>FE 01 09 09</Sequence>
+	                                </SubSequence>
+	                            </ByteSequence>
+	                        </InternalSignature>
+	                    </InternalSignatureCollection>
+                    </BinarySignatures>
+                </File>             
+            </Files>
+        </ContainerSignature>
+        
+        <ContainerSignature Id="1001" ContainerType="ZIP">
+            <Description>Endnote Library</Description>
+            <Files>
+                <File>
+                    <Path>refs.MYD</Path>
+                </File>
+                <File>
+                    <Path>refs.FRM</Path>
+                    <BinarySignatures>
+                        <InternalSignatureCollection>                    
+                            <InternalSignature ID="300">
+                                <ByteSequence Reference="BOFoffset">
+                                    <SubSequence Position="1" SubSeqMinOffset="0" SubSeqMaxOffset="0">
+                                        <Sequence>FE 01 09 09</Sequence>
+                                    </SubSequence>
+                                </ByteSequence>
+                            </InternalSignature>
+                        </InternalSignatureCollection>
+                    </BinarySignatures>
+                </File>             
+            </Files>
+        </ContainerSignature>
+        
+        <ContainerSignature Id="2000" ContainerType="ZIP">
+            <Description>Endnote Compressed Library</Description>
+            <Files>
+                <File>
+                    <Path>rdb/refs.MYD</Path>
+                </File>
+                <File>
+                    <Path>rdb/refs.frm</Path>
+                    <BinarySignatures>
+                        <InternalSignatureCollection>                    
+                            <InternalSignature ID="300">
+                                <ByteSequence Reference="BOFoffset">
+                                    <SubSequence Position="1" SubSeqMinOffset="0" SubSeqMaxOffset="0">
+                                        <Sequence>FE 01 09 09</Sequence>
+                                    </SubSequence>
+                                </ByteSequence>
+                            </InternalSignature>
+                        </InternalSignatureCollection>
+                    </BinarySignatures>
+                </File>             
+            </Files>
+        </ContainerSignature>
+        
+        <ContainerSignature Id="3000" ContainerType="ZIP">
+            <Description>Endnote Compressed Library</Description>
+            <Files>
+                <File>
+                    <Path>sdb/pdb.eni</Path>
+                </File>
+                <File>
+                    <Path>sdb/sdb.eni</Path>
+                </File>             
+            </Files>
+        </ContainerSignature>
+
+    </ContainerSignatures>
+  
+    <FileFormatMappings>
+    
+    	<!--  Endnote Library Container File (ZIP)-->
+      <FileFormatMapping signatureId="1000" Puid="CHLdev/1"/>
+        <FileFormatMapping signatureId="1001" Puid="CHLdev/1"/>
+        
+        <!--  Endnote Compressed Library Container File (ZIP)-->
+        <FileFormatMapping signatureId="2000" Puid="CHLdev/2"/>
+        
+        <!--  Endnote Compressed Library Container File (ZIP)-->
+        <FileFormatMapping signatureId="3000" Puid="CHLdev/4"/>
+
+    </FileFormatMappings>
+  
+    <TriggerPuids>
+        <TriggerPuid ContainerType="OLE2" Puid="fmt/111"/> 
+        <TriggerPuid ContainerType="ZIP" Puid="fmt/189"/> 
+        <TriggerPuid ContainerType="ZIP" Puid="x-fmt/263"/> 
+    </TriggerPuids>
+
+</ContainerSignatureMapping>
