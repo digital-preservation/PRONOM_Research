@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FFSignatureFile xmlns="http://www.nationalarchives.gov.uk/pronom/SignatureFile" Version="555556" DateCreated="2022-01-07T14:26:06+00:00">
+  <InternalSignatureCollection>
+  
+  <InternalSignature ID="1" Specificity="Specific">
+  <ByteSequence Reference="BOFoffset">
+    <SubSequence MinFragLength="0" Position="1" SubSeqMaxOffset="0" SubSeqMinOffset="0">
+      <Sequence>31BE020000AB0000000000000000</Sequence>
+      <DefaultShift>15</DefaultShift>
+      <Shift Byte="31">14</Shift>
+      <Shift Byte="BE">13</Shift>
+      <Shift Byte="02">12</Shift>
+      <Shift Byte="00">1</Shift>
+      <Shift Byte="AB">9</Shift>
+    </SubSequence>
+  </ByteSequence>
+</InternalSignature>
+
+  <InternalSignature ID="2" Specificity="Specific">
+  <ByteSequence Reference="BOFoffset">
+    <SubSequence MinFragLength="0" Position="1" SubSeqMaxOffset="0" SubSeqMinOffset="0">
+      <Sequence>31BE010000AB0000000000000000</Sequence>
+      <DefaultShift>15</DefaultShift>
+      <Shift Byte="31">14</Shift>
+      <Shift Byte="BE">13</Shift>
+      <Shift Byte="01">12</Shift>
+      <Shift Byte="00">1</Shift>
+      <Shift Byte="AB">9</Shift>
+    </SubSequence>
+  </ByteSequence>
+</InternalSignature>
+
+</InternalSignatureCollection>
+<FileFormatCollection>
+
+  <FileFormat ID="1" Name="Microsoft Word for DOS Style Sheet" PUID="CHLdev/1">
+    <InternalSignatureID>1</InternalSignatureID>
+    <Extension>sty</Extension>
+  </FileFormat>
+  
+    <FileFormat ID="2" Name="Microsoft Word for DOS Glossary" PUID="CHLdev/2">
+    <InternalSignatureID>2</InternalSignatureID>
+    <Extension>gly</Extension>
+  </FileFormat>
+  
+</FileFormatCollection></FFSignatureFile>
