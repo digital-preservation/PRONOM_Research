@@ -1,4 +1,4 @@
-# WordPerect Presentations Version 2
+# WordPerfect Presentations Version 2
 
 WordPerfect Presentations version 2 file format. Extension used for slideshows .SHW
 
