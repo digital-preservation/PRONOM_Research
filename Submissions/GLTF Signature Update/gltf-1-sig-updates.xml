@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FFSignatureFile xmlns="http://www.nationalarchives.gov.uk/pronom/SignatureFile" Version="1" DateCreated="2019-11-21T16:10:10+00:00">
+	<InternalSignatureCollection>
+		<!-- GLTF 1.0 -->
+		<InternalSignature ID="1">
+			<ByteSequence Reference="BOFoffset" Endianness="">
+				<SubSequence Position="1" SubSeqMinOffset="0" SubSeqMaxOffset="5" MinFragLength="0">
+					<Sequence>7B</Sequence>
+					<DefaultShift>2</DefaultShift>
+					<Shift Byte="7B">1</Shift>
+				</SubSequence>
+				<SubSequence Position="2" SubSeqMinOffset="0" MinFragLength="0">
+					<Sequence>22617373657422</Sequence>
+					<DefaultShift>8</DefaultShift>
+					<Shift Byte="22">1</Shift>
+					<Shift Byte="61">6</Shift>
+					<Shift Byte="65">3</Shift>
+					<Shift Byte="73">4</Shift>
+					<Shift Byte="74">2</Shift>
+				</SubSequence>
+				<SubSequence Position="3" SubSeqMinOffset="0" MinFragLength="0">
+					<Sequence>3A</Sequence>
+					<DefaultShift>2</DefaultShift>
+					<Shift Byte="3A">1</Shift>
+				</SubSequence>
+				<SubSequence Position="4" SubSeqMinOffset="0" MinFragLength="0">
+					<Sequence>7B</Sequence>
+					<DefaultShift>2</DefaultShift>
+					<Shift Byte="7B">1</Shift>
+				</SubSequence>
+				<SubSequence Position="5" SubSeqMinOffset="0" MinFragLength="0">
+					<Sequence>2276657273696F6E22</Sequence>
+					<DefaultShift>10</DefaultShift>
+					<Shift Byte="22">1</Shift>
+					<Shift Byte="65">7</Shift>
+					<Shift Byte="69">4</Shift>
+					<Shift Byte="6E">2</Shift>
+					<Shift Byte="6F">3</Shift>
+					<Shift Byte="72">6</Shift>
+					<Shift Byte="73">5</Shift>
+					<Shift Byte="76">8</Shift>
+					<RightFragment Position="1" MinOffset="0" MaxOffset="20">3A</RightFragment>
+					<RightFragment Position="2" MinOffset="0" MaxOffset="20">22312E</RightFragment>
+					<RightFragment Position="3" MinOffset="1" MaxOffset="10">22</RightFragment>
+				</SubSequence>
+			</ByteSequence>
+			<ByteSequence Reference="EOFoffset" Endianness="">
+				<SubSequence Position="1" SubSeqMinOffset="0" SubSeqMaxOffset="5" MinFragLength="0">
+					<Sequence>7D</Sequence>
+					<DefaultShift>-2</DefaultShift>
+					<Shift Byte="7D">-1</Shift>
+				</SubSequence>
+			</ByteSequence>
+		</InternalSignature>
+	</InternalSignatureCollection>
+	
+	<FileFormatCollection>
+		<FileFormat ID="1" Name="GL Transmission Format" PUID="fmt/1314" Version="1.0" MIMEType="application/json">
+			<InternalSignatureID>1</InternalSignatureID>
+			<Extension>gltf</Extension>
+		</FileFormat>
+	</FileFormatCollection>
+</FFSignatureFile>
