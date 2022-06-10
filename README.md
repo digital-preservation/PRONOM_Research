@@ -13,6 +13,7 @@ We want those who use and submit to PRONOM to have a better understanding of the
 * [Here](https://github.com/digital-preservation/pronom-research-week/blob/master/v97_master_list.csv) is the full list of everything in PRONOM as of the v97 release on 1st October 2020. From here you can see which formats don't currently have MIME/Media types, lists of associated extensions, deprecated formats and formats that have signatures (including container signatures).
 * [Here](https://github.com/digital-preservation/pronom-research-week/blob/master/formats_without_signatures_Oct_2020.csv) is a list of PUIDs that currently lack signatures. Can you help sourcing example files and suggesting potential identification signatures?
 * [Here](https://github.com/digital-preservation/pronom-research-week/blob/master/formats_with_outline_descriptions_only.csv) is a list of PUIDs that currently only have an 'outline' description. Can you help us with some suggestions for PRONOM descriptive text entry? Descriptions should be objective descriptions of what the format does and can include information about its originating software and so should not contain qualitative information, such as '...is the best format for...'.
+* [Here](https://docs.google.com/spreadsheets/d/1P1GGevHysUQnivsmf6EFo8ZyfKRPwUJa5eoJ3JODRq0/edit#gid=1343176804) is a list of files which we are looking for samples of, or information about. Can you help by providing some, or point us in the direction of where we can find them?
 
 # Submissions
 
