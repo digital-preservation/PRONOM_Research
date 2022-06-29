@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FFSignatureFile xmlns="http://www.nationalarchives.gov.uk/pronom/SignatureFile" Version="111111" DateCreated="2022-04-01T19:23:31+00:00">
+  <InternalSignatureCollection>
+  
+  <InternalSignature ID="1" Specificity="Specific">
+  <ByteSequence Reference="BOFoffset">
+    <SubSequence MinFragLength="0" Position="1" SubSeqMaxOffset="0" SubSeqMinOffset="0">
+      <Sequence>77696C643A3A67656F73797374656D73</Sequence>
+      <DefaultShift>17</DefaultShift>
+      <Shift Byte="77">16</Shift>
+      <Shift Byte="69">15</Shift>
+      <Shift Byte="6C">14</Shift>
+      <Shift Byte="64">13</Shift>
+      <Shift Byte="3A">11</Shift>
+      <Shift Byte="67">10</Shift>
+      <Shift Byte="65">3</Shift>
+      <Shift Byte="6F">8</Shift>
+      <Shift Byte="73">1</Shift>
+      <Shift Byte="79">6</Shift>
+      <Shift Byte="74">4</Shift>
+      <Shift Byte="6D">2</Shift>
+    </SubSequence>
+  </ByteSequence>
+  <ByteSequence Reference="EOFoffset">
+    <SubSequence MinFragLength="0" Position="1" SubSeqMaxOffset="64" SubSeqMinOffset="0">
+      <Sequence>4C656963612050726F6A6563742046696C65</Sequence>
+      <DefaultShift>-19</DefaultShift>
+      <Shift Byte="4C">-1</Shift>
+      <Shift Byte="65">-2</Shift>
+      <Shift Byte="69">-3</Shift>
+      <Shift Byte="63">-4</Shift>
+      <Shift Byte="61">-5</Shift>
+      <Shift Byte="20">-6</Shift>
+      <Shift Byte="50">-7</Shift>
+      <Shift Byte="72">-8</Shift>
+      <Shift Byte="6F">-9</Shift>
+      <Shift Byte="6A">-10</Shift>
+      <Shift Byte="74">-13</Shift>
+      <Shift Byte="46">-15</Shift>
+      <Shift Byte="6C">-17</Shift>
+    </SubSequence>
+  </ByteSequence>
+</InternalSignature>
+
+</InternalSignatureCollection>
+<FileFormatCollection>
+
+  <FileFormat ID="1" Name="Leica Project File" PUID="CHLdev/1">
+    <InternalSignatureID>1</InternalSignatureID>
+    <Extension>lgs</Extension>
+  </FileFormat>
+  
+</FileFormatCollection></FFSignatureFile>

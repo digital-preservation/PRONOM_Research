@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FFSignatureFile xmlns="http://www.nationalarchives.gov.uk/pronom/SignatureFile" Version="223322" DateCreated="2022-03-01T01:49:15+00:00">
+  <InternalSignatureCollection>
+  
+  <InternalSignature ID="1" Specificity="Specific">
+  <ByteSequence Reference="BOFoffset">
+    <SubSequence MinFragLength="0" Position="1" SubSeqMaxOffset="0" SubSeqMinOffset="0">
+      <Sequence>FF575043</Sequence>
+      <DefaultShift>5</DefaultShift>
+      <Shift Byte="FF">4</Shift>
+      <Shift Byte="57">3</Shift>
+      <Shift Byte="50">2</Shift>
+      <Shift Byte="43">1</Shift>
+      <RightFragment MaxOffset="4" MinOffset="4" Position="1">0F0A0200</RightFragment>
+    </SubSequence>
+  </ByteSequence>
+</InternalSignature>
+
+</InternalSignatureCollection>
+<FileFormatCollection>
+
+  <FileFormat ID="1" Name="WordPerfect Presentation 2" PUID="CHLdev/2" Version="2">
+    <InternalSignatureID>1</InternalSignatureID>
+    <Extension>shw</Extension>
+  </FileFormat>
+  
+</FileFormatCollection></FFSignatureFile>

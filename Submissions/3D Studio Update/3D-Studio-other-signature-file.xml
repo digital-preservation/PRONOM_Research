@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FFSignatureFile xmlns="http://www.nationalarchives.gov.uk/pronom/SignatureFile" Version="432435" DateCreated="2022-04-13T22:19:55+00:00">
+  <InternalSignatureCollection>
+  
+  <InternalSignature ID="1" Specificity="Specific">
+  <ByteSequence Reference="BOFoffset">
+    <SubSequence MinFragLength="0" Position="1" SubSeqMaxOffset="0" SubSeqMinOffset="0">
+      <Sequence>2D2D</Sequence>
+      <DefaultShift>3</DefaultShift>
+      <Shift Byte="2D">1</Shift>
+      <RightFragment MaxOffset="2" MinOffset="2" Position="1">0000</RightFragment>
+    </SubSequence>
+  </ByteSequence>
+</InternalSignature>
+
+  <InternalSignature ID="2" Specificity="Specific">
+  <ByteSequence Reference="BOFoffset">
+    <SubSequence MinFragLength="0" Position="1" SubSeqMaxOffset="0" SubSeqMinOffset="0">
+      <Sequence>3D2D</Sequence>
+      <DefaultShift>3</DefaultShift>
+      <Shift Byte="3D">2</Shift>
+      <Shift Byte="2D">1</Shift>
+      <RightFragment MaxOffset="2" MinOffset="2" Position="1">0000</RightFragment>
+    </SubSequence>
+  </ByteSequence>
+</InternalSignature>
+
+  <InternalSignature ID="3" Specificity="Specific">
+  <ByteSequence Reference="BOFoffset">
+    <SubSequence MinFragLength="0" Position="1" SubSeqMaxOffset="0" SubSeqMinOffset="0">
+      <Sequence>3DC2</Sequence>
+      <DefaultShift>3</DefaultShift>
+      <Shift Byte="3D">2</Shift>
+      <Shift Byte="C2">1</Shift>
+      <RightFragment MaxOffset="3" MinOffset="3" Position="1">00</RightFragment>
+    </SubSequence>
+  </ByteSequence>
+</InternalSignature>
+
+</InternalSignatureCollection>
+<FileFormatCollection>
+
+  <FileFormat ID="150" Name="3D Studio Shapes" PUID="x-fmt/102">
+    <InternalSignatureID>1</InternalSignatureID>
+    <Extension>shp</Extension>
+  </FileFormat>
+  
+    <FileFormat ID="2" Name="3D Studio Loft Object" PUID="CHLdev/2">
+    <InternalSignatureID>2</InternalSignatureID>
+    <Extension>lft</Extension>
+  </FileFormat>
+  
+    <FileFormat ID="3" Name="3D Studio Project" PUID="CHLdev/3">
+    <InternalSignatureID>3</InternalSignatureID>
+    <Extension>prj</Extension>
+  </FileFormat>
+  
+</FileFormatCollection></FFSignatureFile>

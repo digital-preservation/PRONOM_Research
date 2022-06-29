@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FFSignatureFile xmlns="http://www.nationalarchives.gov.uk/pronom/SignatureFile" Version="101014" DateCreated="2022-03-15T23:06:36+00:00">
+  <InternalSignatureCollection>
+  
+  <InternalSignature ID="1" Specificity="Specific">
+  <ByteSequence Reference="BOFoffset">
+    <SubSequence MinFragLength="1030" Position="1" SubSeqMaxOffset="0" SubSeqMinOffset="0">
+      <Sequence>5269636807</Sequence>
+      <DefaultShift>6</DefaultShift>
+      <Shift Byte="52">5</Shift>
+      <Shift Byte="69">4</Shift>
+      <Shift Byte="63">3</Shift>
+      <Shift Byte="68">2</Shift>
+      <Shift Byte="07">1</Shift>
+      <LeftFragment MaxOffset="1026" MinOffset="1026" Position="1">01000000</LeftFragment>
+    </SubSequence>
+  </ByteSequence>
+</InternalSignature>
+
+  <InternalSignature ID="2" Specificity="Specific">
+   <ByteSequence Reference="BOFoffset">
+    <SubSequence MinFragLength="1030" Position="1" SubSeqMaxOffset="0" SubSeqMinOffset="0">
+      <Sequence>5269636808</Sequence>
+      <DefaultShift>6</DefaultShift>
+      <Shift Byte="52">5</Shift>
+      <Shift Byte="69">4</Shift>
+      <Shift Byte="63">3</Shift>
+      <Shift Byte="68">2</Shift>
+      <Shift Byte="08">1</Shift>
+      <LeftFragment MaxOffset="1026" MinOffset="1026" Position="1">01000000</LeftFragment>
+    </SubSequence>
+  </ByteSequence>
+</InternalSignature>
+
+        <InternalSignature ID="270" Specificity="Specific">
+  <ByteSequence Reference="BOFoffset">
+    <SubSequence MinFragLength="1030" Position="1" SubSeqMaxOffset="0" SubSeqMinOffset="0">
+      <Sequence>5269636809</Sequence>
+      <DefaultShift>6</DefaultShift>
+      <Shift Byte="52">5</Shift>
+      <Shift Byte="69">4</Shift>
+      <Shift Byte="63">3</Shift>
+      <Shift Byte="68">2</Shift>
+      <Shift Byte="09">1</Shift>
+      <LeftFragment MaxOffset="1026" MinOffset="1026" Position="1">01000000</LeftFragment>
+    </SubSequence>
+  </ByteSequence>
+</InternalSignature>
+
+  <InternalSignature ID="3" Specificity="Specific">
+  <ByteSequence Reference="BOFoffset">
+    <SubSequence MinFragLength="0" Position="1" SubSeqMaxOffset="0" SubSeqMinOffset="0">
+      <Sequence>772C5320</Sequence>
+      <DefaultShift>5</DefaultShift>
+      <Shift Byte="77">4</Shift>
+      <Shift Byte="2C">3</Shift>
+      <Shift Byte="53">2</Shift>
+      <Shift Byte="20">1</Shift>
+      <RightFragment MaxOffset="1030" MinOffset="1030" Position="1">66</RightFragment>
+    </SubSequence>
+  </ByteSequence>
+</InternalSignature>
+
+  <InternalSignature ID="4" Specificity="Specific">
+  <ByteSequence Reference="BOFoffset">
+    <SubSequence MinFragLength="0" Position="1" SubSeqMaxOffset="0" SubSeqMinOffset="0">
+      <Sequence>772C5320</Sequence>
+      <DefaultShift>5</DefaultShift>
+      <Shift Byte="77">4</Shift>
+      <Shift Byte="2C">3</Shift>
+      <Shift Byte="53">2</Shift>
+      <Shift Byte="20">1</Shift>
+      <RightFragment MaxOffset="1030" MinOffset="1030" Position="1">69</RightFragment>
+    </SubSequence>
+  </ByteSequence>
+</InternalSignature>
+
+  <InternalSignature ID="5" Specificity="Specific">
+  <ByteSequence Reference="BOFoffset">
+    <SubSequence MinFragLength="0" Position="1" SubSeqMaxOffset="0" SubSeqMinOffset="0">
+      <Sequence>772C5320</Sequence>
+      <DefaultShift>5</DefaultShift>
+      <Shift Byte="77">4</Shift>
+      <Shift Byte="2C">3</Shift>
+      <Shift Byte="53">2</Shift>
+      <Shift Byte="20">1</Shift>
+      <RightFragment MaxOffset="1030" MinOffset="1030" Position="1">68</RightFragment>
+    </SubSequence>
+  </ByteSequence>
+</InternalSignature>
+
+</InternalSignatureCollection>
+<FileFormatCollection>
+
+  <FileFormat ID="1" Name="Microsoft Access Database" PUID="CHLdev/10" Version="1.0">
+    <InternalSignatureID>1</InternalSignatureID>
+    <Extension>mdb</Extension>
+    <Extension>mda</Extension>
+  </FileFormat>
+  
+    <FileFormat ID="2" Name="Microsoft Access Database" PUID="CHLdev/11" Version="1.1">
+    <InternalSignatureID>2</InternalSignatureID>
+    <Extension>mdb</Extension>
+    <Extension>mda</Extension>
+  </FileFormat>
+  
+    <FileFormat ID="107" Name="Microsoft Access Database"
+            PUID="x-fmt/66" Version="2.0">
+            <InternalSignatureID>270</InternalSignatureID>
+            <Extension>mdb</Extension>
+            <Extension>mda</Extension>
+        </FileFormat>
+        
+      <FileFormat ID="3" Name="MS Access encrypted" PUID="CHLdev/101" Version="1.0">
+    <InternalSignatureID>3</InternalSignatureID>
+    <Extension>mdb</Extension>
+    <Extension>mda</Extension>
+  </FileFormat>
+  
+    <FileFormat ID="4" Name="MS Access encrypted" PUID="CHLdev/111" Version="1.1">
+    <InternalSignatureID>4</InternalSignatureID>
+    <Extension>mdb</Extension>
+    <Extension>mda</Extension>
+  </FileFormat>
+  
+    <FileFormat ID="5" Name="MS Access encrypted" PUID="CHLdev/200" Version="2.0" MIMEType="">
+    <InternalSignatureID>5</InternalSignatureID>
+    <Extension>mdb</Extension>
+    <Extension>mda</Extension>
+  </FileFormat>
+  
+</FileFormatCollection></FFSignatureFile>
