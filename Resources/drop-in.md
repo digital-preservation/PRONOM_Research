@@ -1,4 +1,4 @@
-# Pronom Drop-in Sessions 
+# PRONOM Drop-in Sessions 
 
 The PRONOM team would also like to share details of their PRONOM drop-in sessions. These are open/ unstructured sessions with members of the PRONOM Team to talk about your current research and ask/answer any questions you may have. We are hoping to trial this at first and currently the dates would be:
 
