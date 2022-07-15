@@ -2,7 +2,7 @@
 
 The PRONOM team would also like to share details of their PRONOM drop-in sessions. These are open/ unstructured sessions with members of the PRONOM Team to talk about your current research and ask/answer any questions you may have. We are hoping to trial this at first and currently the dates would be:
 
-Every 2 weeks at Thursday 4pm UK time:
+Every 2 weeks at Thursday 4pm UK time or 11am (ET):
 
 * 07/07/2022
 
@@ -22,7 +22,7 @@ The meeting link to join for these sessions can be found [here](https://teams.mi
 
  
 
-On the last Thursday of the month 7am UK time:
+On the last Thursday of the month 7am UK time or 4pm Thursday (AEST):
 
 * 28/07/2022
 
