@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FFSignatureFile xmlns="http://www.nationalarchives.gov.uk/pronom/SignatureFile" Version="003005" DateCreated="2022-08-09T05:09:53+00:00">
+  <InternalSignatureCollection>
+
+        <InternalSignature ID="170" Specificity="Specific">
+            <ByteSequence Reference="BOFoffset">
+                <SubSequence MinFragLength="0" Position="1"
+                    SubSeqMaxOffset="0" SubSeqMinOffset="0">
+                    <Sequence>D0CF11E0A1B11AE1</Sequence>
+                    <DefaultShift>9</DefaultShift>
+                    <Shift Byte="11">6</Shift>
+                    <Shift Byte="1A">2</Shift>
+                    <Shift Byte="A1">4</Shift>
+                    <Shift Byte="B1">3</Shift>
+                    <Shift Byte="CF">7</Shift>
+                    <Shift Byte="D0">8</Shift>
+                    <Shift Byte="E0">5</Shift>
+                    <Shift Byte="E1">1</Shift>
+                    <RightFragment MaxOffset="20" MinOffset="20" Position="1">FEFF</RightFragment>
+                </SubSequence>
+            </ByteSequence>
+        </InternalSignature>
+
+</InternalSignatureCollection>
+<FileFormatCollection>
+
+        <FileFormat ID="1783" Name="3DS Max" PUID="fmt/978">
+            <Extension>chr</Extension>
+            <Extension>max</Extension>
+        </FileFormat>
+        
+                <FileFormat ID="1" Name="3D Studio Max" PUID="CHLdev/1" Version="1">
+            <Extension>max</Extension>
+        </FileFormat>
+        
+                <FileFormat ID="2" Name="3D Studio Max" PUID="CHLdev/2" Version="2">
+            <Extension>max</Extension>
+        </FileFormat>
+
+        <FileFormat ID="767" Name="OLE2 Compound Document Format" PUID="fmt/111">
+            <InternalSignatureID>170</InternalSignatureID>
+        </FileFormat>
+
+</FileFormatCollection></FFSignatureFile>
