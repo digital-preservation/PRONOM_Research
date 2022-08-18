@@ -2,7 +2,7 @@
 - http://fileformats.archiveteam.org/wiki/FLA
 - https://www.loc.gov/preservation/digital/formats/fdd/fdd000132.shtml
 
-Authoring format for the popular Flash web animation software. Related to the SWF file format. FLA forwat orignally OLE container until CS4, CS5 onward is in ZIP/XML format. All Adobe Animate versions were combined into one PUID as very little difference in versions.
+Authoring format for the popular Flash web animation software. Related to the SWF file format. FLA format orignally OLE container until CS4, CS5 onward is in ZIP/XML format. All Adobe Animate versions were combined into one PUID as very little difference in versions.
 
 ## *Current Identification Issues*
 Current version of DROID has issues identifying many of the ZIP formats past CS5 as the ZIP structure has some Central directory inconsistencies.
