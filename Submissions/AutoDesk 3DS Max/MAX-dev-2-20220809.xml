@@ -1,0 +1,590 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContainerSignatureMapping SchemaVersion="1.0" SignatureVersion="310307">
+ <ContainerSignatures>
+    
+            <ContainerSignature Id="30100" ContainerType="OLE2">
+      <Description>3D Studio Max v1</Description>
+      <Files>
+        <File>
+          <Path>ClassDirectory</Path>
+          <BinarySignatures>
+            <InternalSignatureCollection>
+              <InternalSignature ID="30100">
+                <ByteSequence Reference="BOFoffset">
+                  <SubSequence Position="1" SubSeqMinOffset="0"
+                    SubSeqMaxOffset="0">
+                    <Sequence>4020</Sequence>
+                  </SubSequence>
+                </ByteSequence>
+              </InternalSignature>
+            </InternalSignatureCollection>
+          </BinarySignatures>
+        </File>
+      </Files>
+    </ContainerSignature>
+    
+                <ContainerSignature Id="30200" ContainerType="OLE2">
+      <Description>3D Studio Max v2</Description>
+      <Files>
+        <File>
+          <Path>ClassDirectory2</Path>
+          <BinarySignatures>
+            <InternalSignatureCollection>
+              <InternalSignature ID="30200">
+                <ByteSequence Reference="BOFoffset">
+                  <SubSequence Position="1" SubSeqMinOffset="0"
+                    SubSeqMaxOffset="0">
+                    <Sequence>4020</Sequence>
+                  </SubSequence>
+                </ByteSequence>
+              </InternalSignature>
+            </InternalSignatureCollection>
+          </BinarySignatures>
+        </File>
+      </Files>
+    </ContainerSignature>
+    
+            <ContainerSignature Id="30300" ContainerType="OLE2">
+      <Description>3DS Max 3</Description>
+      <Files>
+        <File>
+          <Path>DocumentSummaryInformation</Path>
+          <BinarySignatures>
+            <InternalSignatureCollection>
+              <InternalSignature ID="30300">
+                <ByteSequence Reference="BOFoffset">
+                  <SubSequence Position="1" SubSeqMinOffset="0"
+                    SubSeqMaxOffset="1024">
+                    <Sequence>33 44 20 53 74 75 64 69 6F 20 4D 41 58 20 56 65 72 73 69 6F 6E 3A 20 33</Sequence>
+                  </SubSequence>
+                </ByteSequence>
+              </InternalSignature>
+            </InternalSignatureCollection>
+          </BinarySignatures>
+        </File>
+      </Files>
+    </ContainerSignature>
+    
+                <ContainerSignature Id="30400" ContainerType="OLE2">
+      <Description>3DS Max 4</Description>
+      <Files>
+        <File>
+          <Path>DocumentSummaryInformation</Path>
+          <BinarySignatures>
+            <InternalSignatureCollection>
+              <InternalSignature ID="30400">
+                <ByteSequence Reference="BOFoffset">
+                  <SubSequence Position="1" SubSeqMinOffset="0"
+                    SubSeqMaxOffset="1024">
+                    <Sequence>33 64 73 20 6D 61 78 20 56 65 72 73 69 6F 6E 3A 20 34</Sequence>
+                  </SubSequence>
+                </ByteSequence>
+              </InternalSignature>
+            </InternalSignatureCollection>
+          </BinarySignatures>
+        </File>
+      </Files>
+    </ContainerSignature>
+    
+                <ContainerSignature Id="30500" ContainerType="OLE2">
+      <Description>3DS Max 5</Description>
+      <Files>
+        <File>
+          <Path>DocumentSummaryInformation</Path>
+          <BinarySignatures>
+            <InternalSignatureCollection>
+              <InternalSignature ID="30500">
+                <ByteSequence Reference="BOFoffset">
+                  <SubSequence Position="1" SubSeqMinOffset="0"
+                    SubSeqMaxOffset="1024">
+                    <Sequence>33 64 73 20 6D 61 78 20 56 65 72 73 69 6F 6E 3A 20 35</Sequence>
+                  </SubSequence>
+                </ByteSequence>
+              </InternalSignature>
+            </InternalSignatureCollection>
+          </BinarySignatures>
+        </File>
+      </Files>
+    </ContainerSignature>
+    
+                <ContainerSignature Id="30600" ContainerType="OLE2">
+      <Description>3DS Max 6</Description>
+      <Files>
+        <File>
+          <Path>DocumentSummaryInformation</Path>
+          <BinarySignatures>
+            <InternalSignatureCollection>
+              <InternalSignature ID="30600">
+                <ByteSequence Reference="BOFoffset">
+                  <SubSequence Position="1" SubSeqMinOffset="0"
+                    SubSeqMaxOffset="1024">
+                    <Sequence>33 00 64 00 73 00 20 00 6D 00 61 00 78 00 20 00 56 00 65 00 72 00 73 00 69 00 6F 00 6E 00 3A 00 20 00 36 00</Sequence>
+                  </SubSequence>
+                </ByteSequence>
+              </InternalSignature>
+            </InternalSignatureCollection>
+          </BinarySignatures>
+        </File>
+      </Files>
+    </ContainerSignature>
+
+                <ContainerSignature Id="30700" ContainerType="OLE2">
+      <Description>3DS Max 7</Description>
+      <Files>
+        <File>
+          <Path>DocumentSummaryInformation</Path>
+          <BinarySignatures>
+            <InternalSignatureCollection>
+              <InternalSignature ID="30700">
+                <ByteSequence Reference="BOFoffset">
+                  <SubSequence Position="1" SubSeqMinOffset="0"
+                    SubSeqMaxOffset="1024">
+                    <Sequence>33 00 64 00 73 00 20 00 6D 00 61 00 78 00 20 00 56 00 65 00 72 00 73 00 69 00 6F 00 6E 00 3A 00 20 00 37 00</Sequence>
+                  </SubSequence>
+                </ByteSequence>
+              </InternalSignature>
+            </InternalSignatureCollection>
+          </BinarySignatures>
+        </File>
+      </Files>
+    </ContainerSignature>
+    
+                <ContainerSignature Id="30800" ContainerType="OLE2">
+      <Description>3DS Max 8</Description>
+      <Files>
+        <File>
+          <Path>DocumentSummaryInformation</Path>
+          <BinarySignatures>
+            <InternalSignatureCollection>
+              <InternalSignature ID="30800">
+                <ByteSequence Reference="BOFoffset">
+                  <SubSequence Position="1" SubSeqMinOffset="0"
+                    SubSeqMaxOffset="1024">
+                    <Sequence>33 00 64 00 73 00 20 00 6D 00 61 00 78 00 20 00 56 00 65 00 72 00 73 00 69 00 6F 00 6E 00 3A 00 20 00 38 00</Sequence>
+                  </SubSequence>
+                </ByteSequence>
+              </InternalSignature>
+            </InternalSignatureCollection>
+          </BinarySignatures>
+        </File>
+      </Files>
+    </ContainerSignature>
+    
+                <ContainerSignature Id="30900" ContainerType="OLE2">
+      <Description>3DS Max 9</Description>
+      <Files>
+        <File>
+          <Path>DocumentSummaryInformation</Path>
+          <BinarySignatures>
+            <InternalSignatureCollection>
+              <InternalSignature ID="30900">
+                <ByteSequence Reference="BOFoffset">
+                  <SubSequence Position="1" SubSeqMinOffset="0"
+                    SubSeqMaxOffset="1024">
+                    <Sequence>33 00 64 00 73 00 20 00 6D 00 61 00 78 00 20 00 56 00 65 00 72 00 73 00 69 00 6F 00 6E 00 3A 00 20 00 39 00</Sequence>
+                  </SubSequence>
+                </ByteSequence>
+              </InternalSignature>
+            </InternalSignatureCollection>
+          </BinarySignatures>
+        </File>
+      </Files>
+    </ContainerSignature>
+    
+                <ContainerSignature Id="31000" ContainerType="OLE2">
+      <Description>3DS Max 10</Description>
+      <Files>
+        <File>
+          <Path>DocumentSummaryInformation</Path>
+          <BinarySignatures>
+            <InternalSignatureCollection>
+              <InternalSignature ID="31000">
+                <ByteSequence Reference="BOFoffset">
+                  <SubSequence Position="1" SubSeqMinOffset="0"
+                    SubSeqMaxOffset="1024">
+                    <Sequence>33 00 64 00 73 00 20 00 4D 00 61 00 78 00 20 00 56 00 65 00 72 00 73 00 69 00 6F 00 6E 00 3A 00 20 00 31 00 30 00</Sequence>
+                  </SubSequence>
+                </ByteSequence>
+              </InternalSignature>
+            </InternalSignatureCollection>
+          </BinarySignatures>
+        </File>
+      </Files>
+    </ContainerSignature>
+    
+                <ContainerSignature Id="31100" ContainerType="OLE2">
+      <Description>3DS Max 11</Description>
+      <Files>
+        <File>
+          <Path>DocumentSummaryInformation</Path>
+          <BinarySignatures>
+            <InternalSignatureCollection>
+              <InternalSignature ID="31100">
+                <ByteSequence Reference="BOFoffset">
+                  <SubSequence Position="1" SubSeqMinOffset="0"
+                    SubSeqMaxOffset="1024">
+                    <Sequence>33 00 64 00 73 00 20 00 4D 00 61 00 78 00 20 00 56 00 65 00 72 00 73 00 69 00 6F 00 6E 00 3A 00 20 00 31 00 31 00</Sequence>
+                  </SubSequence>
+                </ByteSequence>
+              </InternalSignature>
+            </InternalSignatureCollection>
+          </BinarySignatures>
+        </File>
+      </Files>
+    </ContainerSignature>
+    
+                <ContainerSignature Id="31200" ContainerType="OLE2">
+      <Description>3DS Max 12</Description>
+      <Files>
+        <File>
+          <Path>DocumentSummaryInformation</Path>
+          <BinarySignatures>
+            <InternalSignatureCollection>
+              <InternalSignature ID="31200">
+                <ByteSequence Reference="BOFoffset">
+                  <SubSequence Position="1" SubSeqMinOffset="0"
+                    SubSeqMaxOffset="1024">
+                    <Sequence>33 00 64 00 73 00 20 00 4D 00 61 00 78 00 20 00 56 00 65 00 72 00 73 00 69 00 6F 00 6E 00 3A 00 20 00 31 00 32 00</Sequence>
+                  </SubSequence>
+                </ByteSequence>
+              </InternalSignature>
+            </InternalSignatureCollection>
+          </BinarySignatures>
+        </File>
+      </Files>
+    </ContainerSignature>
+    
+                <ContainerSignature Id="31300" ContainerType="OLE2">
+      <Description>3DS Max 13</Description>
+      <Files>
+        <File>
+          <Path>DocumentSummaryInformation</Path>
+          <BinarySignatures>
+            <InternalSignatureCollection>
+              <InternalSignature ID="31300">
+                <ByteSequence Reference="BOFoffset">
+                  <SubSequence Position="1" SubSeqMinOffset="0"
+                    SubSeqMaxOffset="1024">
+                    <Sequence>33 00 64 00 73 00 20 00 4D 00 61 00 78 00 20 00 56 00 65 00 72 00 73 00 69 00 6F 00 6E 00 3A 00 20 00 31 00 33 00</Sequence>
+                  </SubSequence>
+                </ByteSequence>
+              </InternalSignature>
+            </InternalSignatureCollection>
+          </BinarySignatures>
+        </File>
+      </Files>
+    </ContainerSignature>
+    
+                <ContainerSignature Id="31400" ContainerType="OLE2">
+      <Description>3DS Max 14</Description>
+      <Files>
+        <File>
+          <Path>DocumentSummaryInformation</Path>
+          <BinarySignatures>
+            <InternalSignatureCollection>
+              <InternalSignature ID="31400">
+                <ByteSequence Reference="BOFoffset">
+                  <SubSequence Position="1" SubSeqMinOffset="0"
+                    SubSeqMaxOffset="1024">
+                    <Sequence>33 00 64 00 73 00 20 00 4D 00 61 00 78 00 20 00 56 00 65 00 72 00 73 00 69 00 6F 00 6E 00 3A 00 20 00 31 00 34 00</Sequence>
+                  </SubSequence>
+                </ByteSequence>
+              </InternalSignature>
+            </InternalSignatureCollection>
+          </BinarySignatures>
+        </File>
+      </Files>
+    </ContainerSignature>
+    
+                <ContainerSignature Id="31500" ContainerType="OLE2">
+      <Description>3DS Max 15</Description>
+      <Files>
+        <File>
+          <Path>DocumentSummaryInformation</Path>
+          <BinarySignatures>
+            <InternalSignatureCollection>
+              <InternalSignature ID="31500">
+                <ByteSequence Reference="BOFoffset">
+                  <SubSequence Position="1" SubSeqMinOffset="0"
+                    SubSeqMaxOffset="1024">
+                    <Sequence>33 64 73 20 4D 61 78 20 56 65 72 73 69 6F 6E 3A 20 31 35</Sequence>
+                  </SubSequence>
+                </ByteSequence>
+              </InternalSignature>
+            </InternalSignatureCollection>
+          </BinarySignatures>
+        </File>
+      </Files>
+    </ContainerSignature>
+    
+                <ContainerSignature Id="31600" ContainerType="OLE2">
+      <Description>3DS Max 16</Description>
+      <Files>
+        <File>
+          <Path>DocumentSummaryInformation</Path>
+          <BinarySignatures>
+            <InternalSignatureCollection>
+              <InternalSignature ID="31600">
+                <ByteSequence Reference="BOFoffset">
+                  <SubSequence Position="1" SubSeqMinOffset="0"
+                    SubSeqMaxOffset="1024">
+                    <Sequence>33 64 73 20 4D 61 78 20 56 65 72 73 69 6F 6E 3A 20 31 36</Sequence>
+                  </SubSequence>
+                </ByteSequence>
+              </InternalSignature>
+            </InternalSignatureCollection>
+          </BinarySignatures>
+        </File>
+      </Files>
+    </ContainerSignature>
+    
+                <ContainerSignature Id="31700" ContainerType="OLE2">
+      <Description>3DS Max 17</Description>
+      <Files>
+        <File>
+          <Path>DocumentSummaryInformation</Path>
+          <BinarySignatures>
+            <InternalSignatureCollection>
+              <InternalSignature ID="31700">
+                <ByteSequence Reference="BOFoffset">
+                  <SubSequence Position="1" SubSeqMinOffset="0"
+                    SubSeqMaxOffset="1024">
+                    <Sequence>33 64 73 20 4D 61 78 20 56 65 72 73 69 6F 6E 3A 20 31 37</Sequence>
+                  </SubSequence>
+                </ByteSequence>
+              </InternalSignature>
+            </InternalSignatureCollection>
+          </BinarySignatures>
+        </File>
+      </Files>
+    </ContainerSignature>
+    
+                <ContainerSignature Id="31800" ContainerType="OLE2">
+      <Description>3DS Max 18</Description>
+      <Files>
+        <File>
+          <Path>DocumentSummaryInformation</Path>
+          <BinarySignatures>
+            <InternalSignatureCollection>
+              <InternalSignature ID="31800">
+                <ByteSequence Reference="BOFoffset">
+                  <SubSequence Position="1" SubSeqMinOffset="0"
+                    SubSeqMaxOffset="1024">
+                    <Sequence>33 64 73 20 4D 61 78 20 56 65 72 73 69 6F 6E 3A 20 31 38</Sequence>
+                  </SubSequence>
+                </ByteSequence>
+              </InternalSignature>
+            </InternalSignatureCollection>
+          </BinarySignatures>
+        </File>
+      </Files>
+    </ContainerSignature>
+    
+                <ContainerSignature Id="31900" ContainerType="OLE2">
+      <Description>3DS Max 19</Description>
+      <Files>
+        <File>
+          <Path>DocumentSummaryInformation</Path>
+          <BinarySignatures>
+            <InternalSignatureCollection>
+              <InternalSignature ID="31900">
+                <ByteSequence Reference="BOFoffset">
+                  <SubSequence Position="1" SubSeqMinOffset="0"
+                    SubSeqMaxOffset="1024">
+                    <Sequence>33 64 73 20 4D 61 78 20 56 65 72 73 69 6F 6E 3A 20 31 39</Sequence>
+                  </SubSequence>
+                </ByteSequence>
+              </InternalSignature>
+            </InternalSignatureCollection>
+          </BinarySignatures>
+        </File>
+      </Files>
+    </ContainerSignature>
+    
+                <ContainerSignature Id="32000" ContainerType="OLE2">
+      <Description>3DS Max 20</Description>
+      <Files>
+        <File>
+          <Path>DocumentSummaryInformation</Path>
+          <BinarySignatures>
+            <InternalSignatureCollection>
+              <InternalSignature ID="32000">
+                <ByteSequence Reference="BOFoffset">
+                  <SubSequence Position="1" SubSeqMinOffset="0"
+                    SubSeqMaxOffset="1024">
+                    <Sequence>33 64 73 20 4D 61 78 20 56 65 72 73 69 6F 6E 3A 20 32 30</Sequence>
+                  </SubSequence>
+                </ByteSequence>
+              </InternalSignature>
+            </InternalSignatureCollection>
+          </BinarySignatures>
+        </File>
+      </Files>
+    </ContainerSignature>
+    
+                <ContainerSignature Id="32100" ContainerType="OLE2">
+      <Description>3DS Max 21</Description>
+      <Files>
+        <File>
+          <Path>DocumentSummaryInformation</Path>
+          <BinarySignatures>
+            <InternalSignatureCollection>
+              <InternalSignature ID="32100">
+                <ByteSequence Reference="BOFoffset">
+                  <SubSequence Position="1" SubSeqMinOffset="0"
+                    SubSeqMaxOffset="1024">
+                    <Sequence>33 64 73 20 4D 61 78 20 56 65 72 73 69 6F 6E 3A 20 32 31</Sequence>
+                  </SubSequence>
+                </ByteSequence>
+              </InternalSignature>
+            </InternalSignatureCollection>
+          </BinarySignatures>
+        </File>
+      </Files>
+    </ContainerSignature>
+    
+                <ContainerSignature Id="32200" ContainerType="OLE2">
+      <Description>3DS Max 22</Description>
+      <Files>
+        <File>
+          <Path>DocumentSummaryInformation</Path>
+          <BinarySignatures>
+            <InternalSignatureCollection>
+              <InternalSignature ID="32200">
+                <ByteSequence Reference="BOFoffset">
+                  <SubSequence Position="1" SubSeqMinOffset="0"
+                    SubSeqMaxOffset="1024">
+                    <Sequence>33 64 73 20 4D 61 78 20 56 65 72 73 69 6F 6E 3A 20 32 32</Sequence>
+                  </SubSequence>
+                </ByteSequence>
+              </InternalSignature>
+            </InternalSignatureCollection>
+          </BinarySignatures>
+        </File>
+      </Files>
+    </ContainerSignature>
+    
+                <ContainerSignature Id="32300" ContainerType="OLE2">
+      <Description>3DS Max 23</Description>
+      <Files>
+        <File>
+          <Path>DocumentSummaryInformation</Path>
+          <BinarySignatures>
+            <InternalSignatureCollection>
+              <InternalSignature ID="32300">
+                <ByteSequence Reference="BOFoffset">
+                  <SubSequence Position="1" SubSeqMinOffset="0"
+                    SubSeqMaxOffset="1024">
+                    <Sequence>33 64 73 20 4D 61 78 20 56 65 72 73 69 6F 6E 3A 20 32 33</Sequence>
+                  </SubSequence>
+                </ByteSequence>
+              </InternalSignature>
+            </InternalSignatureCollection>
+          </BinarySignatures>
+        </File>
+      </Files>
+    </ContainerSignature>
+    
+                <ContainerSignature Id="32400" ContainerType="OLE2">
+      <Description>3DS Max 24</Description>
+      <Files>
+        <File>
+          <Path>DocumentSummaryInformation</Path>
+          <BinarySignatures>
+            <InternalSignatureCollection>
+              <InternalSignature ID="32400">
+                <ByteSequence Reference="BOFoffset">
+                  <SubSequence Position="1" SubSeqMinOffset="0"
+                    SubSeqMaxOffset="1024">
+                    <Sequence>33 64 73 20 4D 61 78 20 56 65 72 73 69 6F 6E 3A 20 32 34</Sequence>
+                  </SubSequence>
+                </ByteSequence>
+              </InternalSignature>
+            </InternalSignatureCollection>
+          </BinarySignatures>
+        </File>
+      </Files>
+    </ContainerSignature>
+    
+                <ContainerSignature Id="32500" ContainerType="OLE2">
+      <Description>3DS Max 25</Description>
+      <Files>
+        <File>
+          <Path>DocumentSummaryInformation</Path>
+          <BinarySignatures>
+            <InternalSignatureCollection>
+              <InternalSignature ID="32500">
+                <ByteSequence Reference="BOFoffset">
+                  <SubSequence Position="1" SubSeqMinOffset="0"
+                    SubSeqMaxOffset="1024">
+                    <Sequence>33 64 73 20 4D 61 78 20 56 65 72 73 69 6F 6E 3A 20 32 35</Sequence>
+                  </SubSequence>
+                </ByteSequence>
+              </InternalSignature>
+            </InternalSignatureCollection>
+          </BinarySignatures>
+        </File>
+      </Files>
+    </ContainerSignature>
+  
+ </ContainerSignatures>
+ <FileFormatMappings>
+  
+        <!--  3D Studio Max v1(OLE2)-->
+    <FileFormatMapping signatureId="30100" Puid="CHLdev/1"/>
+        <!--  3D Studio Max v2(OLE2)-->
+    <FileFormatMapping signatureId="30200" Puid="CHLdev/2"/>
+        <!--  3D Studio Max v3(OLE2)-->
+    <FileFormatMapping signatureId="30300" Puid="CHLdev/3"/>
+        <!--  3ds Max v4(OLE2)-->
+    <FileFormatMapping signatureId="30400" Puid="CHLdev/4"/>
+        <!--  3ds Max v5(OLE2)-->
+    <FileFormatMapping signatureId="30500" Puid="CHLdev/5"/>
+    	<!--  3ds Max v6(OLE2)-->
+    <FileFormatMapping signatureId="30600" Puid="CHLdev/6"/>
+    	<!--  3ds Max v7(OLE2)-->
+    <FileFormatMapping signatureId="30700" Puid="CHLdev/7"/>
+    	<!--  3ds Max v8(OLE2)-->
+    <FileFormatMapping signatureId="30800" Puid="CHLdev/8"/>
+    	<!--  3ds Max v9(OLE2)-->
+    <FileFormatMapping signatureId="30900" Puid="CHLdev/9"/>
+    	<!--  3ds Max v10(OLE2)-->
+    <FileFormatMapping signatureId="31000" Puid="CHLdev/10"/>
+    	<!--  33ds Max v11(OLE2)-->
+    <FileFormatMapping signatureId="31100" Puid="CHLdev/11"/>
+    	<!--  3ds Max v12(OLE2)-->
+    <FileFormatMapping signatureId="31200" Puid="CHLdev/12"/>
+    	<!--  3ds Max v13(OLE2)-->
+    <FileFormatMapping signatureId="31300" Puid="CHLdev/13"/>
+    	<!--  3ds Max v14(OLE2)-->
+    <FileFormatMapping signatureId="31400" Puid="CHLdev/14"/>
+        <!--  3ds Max v15(OLE2)-->
+    <FileFormatMapping signatureId="31500" Puid="CHLdev/15"/>
+    	<!--  3ds Max v16(OLE2)-->
+    <FileFormatMapping signatureId="31600" Puid="CHLdev/16"/>
+    	<!--  3ds Max v17(OLE2)-->
+    <FileFormatMapping signatureId="31700" Puid="CHLdev/17"/>
+    	<!--  3ds Max v18(OLE2)-->
+    <FileFormatMapping signatureId="31800" Puid="CHLdev/18"/>
+    	<!--  3ds Max v19(OLE2)-->
+    <FileFormatMapping signatureId="31900" Puid="CHLdev/19"/>
+    	<!--  3ds Max v20(OLE2)-->
+    <FileFormatMapping signatureId="32000" Puid="CHLdev/20"/>
+    	<!--  3ds Max v21(OLE2)-->
+    <FileFormatMapping signatureId="32100" Puid="CHLdev/21"/>
+    	<!--  3ds Max v22(OLE2)-->
+    <FileFormatMapping signatureId="32200" Puid="CHLdev/22"/>
+    	<!--  3ds Max v23(OLE2)-->
+    <FileFormatMapping signatureId="32300" Puid="CHLdev/23"/>
+    	<!--  3ds Max v24(OLE2)-->
+    <FileFormatMapping signatureId="32400" Puid="CHLdev/24"/>
+    	<!--  3ds Max v25(OLE2)-->
+    <FileFormatMapping signatureId="32500" Puid="CHLdev/25"/>
+  
+ </FileFormatMappings>
+ <TriggerPuids>
+  <TriggerPuid ContainerType="OLE2" Puid="fmt/111"></TriggerPuid>
+  <TriggerPuid ContainerType="ZIP" Puid="fmt/189"></TriggerPuid>
+  <TriggerPuid ContainerType="ZIP" Puid="x-fmt/263"></TriggerPuid>
+ </TriggerPuids>
+</ContainerSignatureMapping>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FFSignatureFile xmlns="http://www.nationalarchives.gov.uk/pronom/SignatureFile" Version="301303" DateCreated="2022-08-12T23:25:20+00:00">
+  <InternalSignatureCollection>
+  
+  <InternalSignature ID="1" Specificity="Specific">
+  <ByteSequence Reference="BOFoffset">
+    <SubSequence MinFragLength="0" Position="1" SubSeqMaxOffset="0" SubSeqMinOffset="0">
+      <Sequence>4D534346</Sequence>
+      <DefaultShift>5</DefaultShift>
+      <Shift Byte="4D">4</Shift>
+      <Shift Byte="53">3</Shift>
+      <Shift Byte="43">2</Shift>
+      <Shift Byte="46">1</Shift>
+      <RightFragment MaxOffset="20" MinOffset="20" Position="1">0301</RightFragment>
+    </SubSequence>
+    <SubSequence MinFragLength="0" Position="2" SubSeqMinOffset="0">
+      <Sequence>2E</Sequence>
+      <DefaultShift>2</DefaultShift>
+      <Shift Byte="2E">1</Shift>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="1">505054</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="1">707074</RightFragment>
+    </SubSequence>
+  </ByteSequence>
+</InternalSignature>
+
+  <InternalSignature ID="2" Specificity="Specific">
+  <ByteSequence Reference="BOFoffset">
+    <SubSequence MinFragLength="0" Position="1" SubSeqMaxOffset="0" SubSeqMinOffset="0">
+      <Sequence>4D534346</Sequence>
+      <DefaultShift>5</DefaultShift>
+      <Shift Byte="4D">4</Shift>
+      <Shift Byte="53">3</Shift>
+      <Shift Byte="43">2</Shift>
+      <Shift Byte="46">1</Shift>
+      <RightFragment MaxOffset="20" MinOffset="20" Position="1">0301</RightFragment>
+    </SubSequence>
+    <SubSequence MinFragLength="0" Position="2" SubSeqMinOffset="0">
+      <Sequence>2E</Sequence>
+      <DefaultShift>2</DefaultShift>
+      <Shift Byte="2E">1</Shift>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="1">505542</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="1">707562</RightFragment>
+    </SubSequence>
+  </ByteSequence>
+</InternalSignature>
+
+        <InternalSignature ID="449" Specificity="Specific">
+            <ByteSequence Reference="BOFoffset">
+                <SubSequence MinFragLength="0" Position="1"
+                    SubSeqMaxOffset="0" SubSeqMinOffset="0">
+                    <Sequence>4D534346</Sequence>
+                    <DefaultShift>5</DefaultShift>
+                    <Shift Byte="43">2</Shift>
+                    <Shift Byte="46">1</Shift>
+                    <Shift Byte="4D">4</Shift>
+                    <Shift Byte="53">3</Shift>
+                    <RightFragment MaxOffset="20" MinOffset="20" Position="1">0301</RightFragment>
+                </SubSequence>
+            </ByteSequence>
+        </InternalSignature>
+
+</InternalSignatureCollection>
+<FileFormatCollection>
+
+  <FileFormat ID="306" Name="Microsoft Powerpoint Packaged Presentation" PUID="x-fmt/216" MIMEType="application/vnd.ms-cab-compressed">
+    <InternalSignatureID>1</InternalSignatureID>
+    <Extension>ppz</Extension>
+    <HasPriorityOverFileFormatID>801</HasPriorityOverFileFormatID>
+  </FileFormat>
+  
+    <FileFormat ID="2" Name="Microsoft Publisher Packaged Document" PUID="CHLdev/2" MIMEType="application/vnd.ms-cab-compressed">
+    <InternalSignatureID>2</InternalSignatureID>
+    <Extension>puz</Extension>
+    <HasPriorityOverFileFormatID>801</HasPriorityOverFileFormatID>
+  </FileFormat>
+  
+          <FileFormat ID="801"
+            MIMEType="application/vnd.ms-cab-compressed"
+            Name="Windows Cabinet File" PUID="x-fmt/414">
+            <InternalSignatureID>449</InternalSignatureID>
+            <Extension>cab</Extension>
+        </FileFormat>
+  
+</FileFormatCollection></FFSignatureFile>

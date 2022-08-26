@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FFSignatureFile xmlns="http://www.nationalarchives.gov.uk/pronom/SignatureFile" Version="003106" DateCreated="2022-08-09T05:09:53+00:00">
+  <InternalSignatureCollection>
+
+        <InternalSignature ID="170" Specificity="Specific">
+            <ByteSequence Reference="BOFoffset">
+                <SubSequence MinFragLength="0" Position="1"
+                    SubSeqMaxOffset="0" SubSeqMinOffset="0">
+                    <Sequence>D0CF11E0A1B11AE1</Sequence>
+                    <DefaultShift>9</DefaultShift>
+                    <Shift Byte="11">6</Shift>
+                    <Shift Byte="1A">2</Shift>
+                    <Shift Byte="A1">4</Shift>
+                    <Shift Byte="B1">3</Shift>
+                    <Shift Byte="CF">7</Shift>
+                    <Shift Byte="D0">8</Shift>
+                    <Shift Byte="E0">5</Shift>
+                    <Shift Byte="E1">1</Shift>
+                    <RightFragment MaxOffset="20" MinOffset="20" Position="1">FEFF</RightFragment>
+                </SubSequence>
+            </ByteSequence>
+        </InternalSignature>
+
+</InternalSignatureCollection>
+<FileFormatCollection>
+        
+                <FileFormat ID="1" Name="3D Studio Max" PUID="CHLdev/1" Version="1">
+            <Extension>max</Extension>
+        </FileFormat>
+        
+                <FileFormat ID="2" Name="3D Studio Max" PUID="CHLdev/2" Version="2">
+            <Extension>max</Extension>
+        </FileFormat>
+        
+                <FileFormat ID="3" Name="3D Studio Max" PUID="CHLdev/3" Version="3">
+            <Extension>max</Extension>
+        </FileFormat>
+        
+                <FileFormat ID="4" Name="3ds Max" PUID="CHLdev/4" Version="4">
+            <Extension>max</Extension>
+        </FileFormat>
+        
+                <FileFormat ID="5" Name="3ds Max" PUID="CHLdev/5" Version="5">
+            <Extension>max</Extension>
+        </FileFormat>
+        
+                <FileFormat ID="6" Name="3ds Max" PUID="CHLdev/6" Version="6">
+            <Extension>max</Extension>
+        </FileFormat>
+        
+                <FileFormat ID="7" Name="3ds Max" PUID="CHLdev/7" Version="7">
+            <Extension>max</Extension>
+        </FileFormat>
+        
+                <FileFormat ID="8" Name="3ds Max" PUID="CHLdev/8" Version="8">
+            <Extension>max</Extension>
+        </FileFormat>
+        
+                <FileFormat ID="9" Name="3ds Max" PUID="CHLdev/9" Version="9">
+            <Extension>max</Extension>
+        </FileFormat>
+        
+                <FileFormat ID="10" Name="3ds Max" PUID="CHLdev/10" Version="2008">
+            <Extension>max</Extension>
+        </FileFormat>
+        
+                <FileFormat ID="11" Name="3ds Max" PUID="CHLdev/11" Version="2009">
+            <Extension>max</Extension>
+        </FileFormat>
+        
+                <FileFormat ID="12" Name="3ds Max" PUID="CHLdev/12" Version="2010">
+            <Extension>max</Extension>
+        </FileFormat>
+        
+                <FileFormat ID="13" Name="3ds Max" PUID="CHLdev/13" Version="2011">
+            <Extension>max</Extension>
+        </FileFormat>
+        
+                <FileFormat ID="14" Name="3ds Max" PUID="CHLdev/14" Version="2012">
+            <Extension>max</Extension>
+        </FileFormat>
+
+                <FileFormat ID="15" Name="3ds Max" PUID="CHLdev/15" Version="2013">
+            <Extension>max</Extension>
+        </FileFormat>
+        
+                <FileFormat ID="16" Name="3ds Max" PUID="CHLdev/16" Version="2014">
+            <Extension>max</Extension>
+        </FileFormat>
+        
+                <FileFormat ID="17" Name="3ds Max" PUID="CHLdev/17" Version="2015">
+            <Extension>max</Extension>
+        </FileFormat>
+        
+                <FileFormat ID="18" Name="3ds Max" PUID="CHLdev/18" Version="2016">
+            <Extension>max</Extension>
+        </FileFormat>
+        
+                <FileFormat ID="19" Name="3ds Max" PUID="CHLdev/19" Version="2017">
+            <Extension>max</Extension>
+        </FileFormat>
+        
+                <FileFormat ID="20" Name="3ds Max" PUID="CHLdev/20" Version="2018">
+            <Extension>max</Extension>
+        </FileFormat>
+        
+                <FileFormat ID="21" Name="3ds Max" PUID="CHLdev/21" Version="2019">
+            <Extension>max</Extension>
+        </FileFormat>
+        
+                <FileFormat ID="22" Name="3ds Max" PUID="CHLdev/22" Version="2020">
+            <Extension>max</Extension>
+        </FileFormat>
+        
+                <FileFormat ID="23" Name="3ds Max" PUID="CHLdev/23" Version="2021">
+            <Extension>max</Extension>
+        </FileFormat>
+        
+                <FileFormat ID="24" Name="3ds Max" PUID="CHLdev/24" Version="2022">
+            <Extension>max</Extension>
+        </FileFormat>
+        
+                <FileFormat ID="25" Name="3ds Max" PUID="CHLdev/25" Version="2023">
+            <Extension>max</Extension>
+        </FileFormat>
+
+        <FileFormat ID="767" Name="OLE2 Compound Document Format" PUID="fmt/111">
+            <InternalSignatureID>170</InternalSignatureID>
+        </FileFormat>
+
+</FileFormatCollection></FFSignatureFile>

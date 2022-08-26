@@ -1,0 +1,484 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<ContainerSignatureMapping schemaVersion="1.0" signatureVersion="567816"> 
+    <ContainerSignatures>
+
+        <ContainerSignature Id="1000" ContainerType="OLE2">
+            <Description>Macromedia Flash 1 Document</Description>
+            <Files>
+					 <File>
+                    <Path>Contents</Path>
+                    <BinarySignatures>
+                        <InternalSignatureCollection>                    
+	                        <InternalSignature ID="300">
+	                            <ByteSequence Reference="BOFoffset">
+	                                <SubSequence Position="1" SubSeqMinOffset="0" SubSeqMaxOffset="0">
+	                                    <Sequence>10 [00 01] 00 00</Sequence>
+	                                </SubSequence>
+	                                <SubSequence Position="2" SubSeqMinOffset="0" SubSeqMaxOffset="11">
+	                                <Sequence>'CDocumentPage'</Sequence>
+	                                </SubSequence>
+	                            </ByteSequence>
+	                        </InternalSignature>
+	                    </InternalSignatureCollection>
+                    </BinarySignatures>
+                </File>              
+            </Files>
+        </ContainerSignature>
+        
+        <ContainerSignature Id="1200" ContainerType="OLE2">
+            <Description>Macromedia Flash 2 Document</Description>
+            <Files>
+					 <File>
+                    <Path>Contents</Path>
+                    <BinarySignatures>
+                        <InternalSignatureCollection>                    
+	                        <InternalSignature ID="300">
+	                            <ByteSequence Reference="BOFoffset">
+	                                <SubSequence Position="1" SubSeqMinOffset="0" SubSeqMaxOffset="0">
+	                                    <Sequence>11 [00 01] 00 00</Sequence>
+	                                </SubSequence>
+	                                <SubSequence Position="2" SubSeqMinOffset="0" SubSeqMaxOffset="11">
+	                                <Sequence>'CDocumentPage'</Sequence>
+	                                </SubSequence>
+	                            </ByteSequence>
+	                        </InternalSignature>
+	                    </InternalSignatureCollection>
+                    </BinarySignatures>
+                </File>              
+            </Files>
+        </ContainerSignature>
+        
+        <ContainerSignature Id="1300" ContainerType="OLE2">
+            <Description>Macromedia Flash 3 Document</Description>
+            <Files>
+					 <File>
+                    <Path>Contents</Path>
+                    <BinarySignatures>
+                        <InternalSignatureCollection>                    
+	                        <InternalSignature ID="300">
+	                            <ByteSequence Reference="BOFoffset">
+	                                <SubSequence Position="1" SubSeqMinOffset="0" SubSeqMaxOffset="0">
+	                                    <Sequence>14 [00 01] 00 00</Sequence>
+	                                </SubSequence>
+	                                <SubSequence Position="2" SubSeqMinOffset="0" SubSeqMaxOffset="11">
+	                                <Sequence>'CDocumentPage'</Sequence>
+	                                </SubSequence>
+	                            </ByteSequence>
+	                        </InternalSignature>
+	                    </InternalSignatureCollection>
+                    </BinarySignatures>
+                </File>              
+            </Files>
+        </ContainerSignature>
+        
+        <ContainerSignature Id="1400" ContainerType="OLE2">
+            <Description>Macromedia Flash 4 Document</Description>
+            <Files>
+					 <File>
+                    <Path>Contents</Path>
+                    <BinarySignatures>
+                        <InternalSignatureCollection>                    
+	                        <InternalSignature ID="300">
+	                            <ByteSequence Reference="BOFoffset">
+	                                <SubSequence Position="1" SubSeqMinOffset="0" SubSeqMaxOffset="0">
+	                                    <Sequence>1B [00 01] 00 00</Sequence>
+	                                </SubSequence>
+	                                <SubSequence Position="2" SubSeqMinOffset="0" SubSeqMaxOffset="11">
+	                                <Sequence>'CDocumentPage'</Sequence>
+	                                </SubSequence>
+	                            </ByteSequence>
+	                        </InternalSignature>
+	                    </InternalSignatureCollection>
+                    </BinarySignatures>
+                </File>              
+            </Files>
+        </ContainerSignature>
+        
+        <ContainerSignature Id="1500" ContainerType="OLE2">
+            <Description>Macromedia Flash 5 Document</Description>
+            <Files>
+					 <File>
+                    <Path>Contents</Path>
+                    <BinarySignatures>
+                        <InternalSignatureCollection>                    
+	                        <InternalSignature ID="300">
+	                            <ByteSequence Reference="BOFoffset">
+	                                <SubSequence Position="1" SubSeqMinOffset="0" SubSeqMaxOffset="0">
+	                                    <Sequence>20 [00 01] 00 00</Sequence>
+	                                </SubSequence>
+	                                <SubSequence Position="2" SubSeqMinOffset="0" SubSeqMaxOffset="11">
+	                                <Sequence>'CDocumentPage'</Sequence>
+	                                </SubSequence>
+	                            </ByteSequence>
+	                        </InternalSignature>
+	                    </InternalSignatureCollection>
+                    </BinarySignatures>
+                </File>              
+            </Files>
+        </ContainerSignature>
+        
+        <ContainerSignature Id="1600" ContainerType="OLE2">
+            <Description>Macromedia Flash 6 Document</Description>
+            <Files>
+					 <File>
+                    <Path>Contents</Path>
+                    <BinarySignatures>
+                        <InternalSignatureCollection>                    
+	                        <InternalSignature ID="300">
+	                            <ByteSequence Reference="BOFoffset">
+	                                <SubSequence Position="1" SubSeqMinOffset="0" SubSeqMaxOffset="0">
+	                                    <Sequence>29 [00 01] 00 00</Sequence>
+	                                </SubSequence>
+	                                <SubSequence Position="2" SubSeqMinOffset="0" SubSeqMaxOffset="11">
+	                                <Sequence>'CDocumentPage'</Sequence>
+	                                </SubSequence>
+	                            </ByteSequence>
+	                        </InternalSignature>
+	                    </InternalSignatureCollection>
+                    </BinarySignatures>
+                </File>              
+            </Files>
+        </ContainerSignature>
+        
+        <ContainerSignature Id="1700" ContainerType="OLE2">
+            <Description>Macromedia Flash 7 Document</Description>
+            <Files>
+					 <File>
+                    <Path>Contents</Path>
+                    <BinarySignatures>
+                        <InternalSignatureCollection>                    
+	                        <InternalSignature ID="300">
+	                            <ByteSequence Reference="BOFoffset">
+	                                <SubSequence Position="1" SubSeqMinOffset="0" SubSeqMaxOffset="0">
+	                                    <Sequence>38 [00 01] 00 00</Sequence>
+	                                </SubSequence>
+	                                <SubSequence Position="2" SubSeqMinOffset="0" SubSeqMaxOffset="11">
+	                                <Sequence>'CDocumentPage'</Sequence>
+	                                </SubSequence>
+	                            </ByteSequence>
+	                        </InternalSignature>
+	                    </InternalSignatureCollection>
+                    </BinarySignatures>
+                </File>              
+            </Files>
+        </ContainerSignature>
+        
+        <ContainerSignature Id="1800" ContainerType="OLE2">
+            <Description>Macromedia Flash 8 Document</Description>
+            <Files>
+					 <File>
+                    <Path>Contents</Path>
+                    <BinarySignatures>
+                        <InternalSignatureCollection>                    
+	                        <InternalSignature ID="300">
+	                            <ByteSequence Reference="BOFoffset">
+	                                <SubSequence Position="1" SubSeqMinOffset="0" SubSeqMaxOffset="0">
+	                                    <Sequence>3F [00 01] 00 00</Sequence>
+	                                </SubSequence>
+	                                <SubSequence Position="2" SubSeqMinOffset="0" SubSeqMaxOffset="11">
+	                                <Sequence>'CDocumentPage'</Sequence>
+	                                </SubSequence>
+	                            </ByteSequence>
+	                        </InternalSignature>
+	                    </InternalSignatureCollection>
+                    </BinarySignatures>
+                </File>              
+            </Files>
+        </ContainerSignature>
+        
+        <ContainerSignature Id="1900" ContainerType="OLE2">
+            <Description>Adobe Flash CS3 Document</Description>
+            <Files>
+					 <File>
+                    <Path>Contents</Path>
+                    <BinarySignatures>
+                        <InternalSignatureCollection>                    
+	                        <InternalSignature ID="300">
+	                            <ByteSequence Reference="BOFoffset">
+	                                <SubSequence Position="1" SubSeqMinOffset="0" SubSeqMaxOffset="0">
+	                                    <Sequence>43 [00 01] 00 00</Sequence>
+	                                </SubSequence>
+	                                <SubSequence Position="2" SubSeqMinOffset="0" SubSeqMaxOffset="11">
+	                                <Sequence>'CDocumentPage'</Sequence>
+	                                </SubSequence>
+	                            </ByteSequence>
+	                        </InternalSignature>
+	                    </InternalSignatureCollection>
+                    </BinarySignatures>
+                </File>              
+            </Files>
+        </ContainerSignature>
+        
+        <ContainerSignature Id="2000" ContainerType="OLE2">
+            <Description>Adobe Flash CS4 Document</Description>
+            <Files>
+					 <File>
+                    <Path>Contents</Path>
+                    <BinarySignatures>
+                        <InternalSignatureCollection>                    
+	                        <InternalSignature ID="300">
+	                            <ByteSequence Reference="BOFoffset">
+	                                <SubSequence Position="1" SubSeqMinOffset="0" SubSeqMaxOffset="0">
+	                                    <Sequence>47 [00 01] 00 00</Sequence>
+	                                </SubSequence>
+	                                <SubSequence Position="2" SubSeqMinOffset="0" SubSeqMaxOffset="11">
+	                                <Sequence>'CDocumentPage'</Sequence>
+	                                </SubSequence>
+	                            </ByteSequence>
+	                        </InternalSignature>
+	                    </InternalSignatureCollection>
+                    </BinarySignatures>
+                </File>              
+            </Files>
+        </ContainerSignature>
+
+        <ContainerSignature Id="5000" ContainerType="ZIP">
+            <Description>Flash CS5 Document</Description>
+            <Files>
+                <File>
+                    <Path>PublishSettings.xml</Path>
+                </File>
+					 <File>
+                    <Path>DOMDocument.xml</Path>
+                    <BinarySignatures>
+                        <InternalSignatureCollection>                    
+	                        <InternalSignature ID="300">
+	                            <ByteSequence Reference="BOFoffset">
+	                                <SubSequence Position="1" SubSeqMinOffset="0" SubSeqMaxOffset="200">
+	                                    <Sequence>'xflVersion="2.0"'</Sequence>
+	                                </SubSequence>
+	                            </ByteSequence>
+	                        </InternalSignature>
+	                    </InternalSignatureCollection>
+                    </BinarySignatures>
+                </File>              
+            </Files>
+        </ContainerSignature>
+        
+                <ContainerSignature Id="5500" ContainerType="ZIP">
+            <Description>Flash CS5.5 Document</Description>
+            <Files>
+                <File>
+                    <Path>PublishSettings.xml</Path>
+                </File>
+					 <File>
+                    <Path>DOMDocument.xml</Path>
+                    <BinarySignatures>
+                        <InternalSignatureCollection>                    
+	                        <InternalSignature ID="300">
+	                            <ByteSequence Reference="BOFoffset">
+	                                <SubSequence Position="1" SubSeqMinOffset="0" SubSeqMaxOffset="200">
+	                                    <Sequence>'xflVersion="2.1"'</Sequence>
+	                                </SubSequence>
+	                            </ByteSequence>
+	                        </InternalSignature>
+	                    </InternalSignatureCollection>
+                    </BinarySignatures>
+                </File>              
+            </Files>
+        </ContainerSignature>
+        
+                        <ContainerSignature Id="6000" ContainerType="ZIP">
+            <Description>Flash CS6 Document</Description>
+            <Files>
+                <File>
+                    <Path>PublishSettings.xml</Path>
+                </File>
+					 <File>
+                    <Path>DOMDocument.xml</Path>
+                    <BinarySignatures>
+                        <InternalSignatureCollection>                    
+	                        <InternalSignature ID="300">
+	                            <ByteSequence Reference="BOFoffset">
+	                                <SubSequence Position="1" SubSeqMinOffset="0" SubSeqMaxOffset="200">
+	                                    <Sequence>'xflVersion="2.2"'</Sequence>
+	                                </SubSequence>
+	                            </ByteSequence>
+	                        </InternalSignature>
+	                    </InternalSignatureCollection>
+                    </BinarySignatures>
+                </File>              
+            </Files>
+        </ContainerSignature>
+        
+                        <ContainerSignature Id="7000" ContainerType="ZIP">
+            <Description>Flash CC Document</Description>
+            <Files>
+                <File>
+                    <Path>PublishSettings.xml</Path>
+                </File>
+					 <File>
+                    <Path>DOMDocument.xml</Path>
+                    <BinarySignatures>
+                        <InternalSignatureCollection>                    
+	                        <InternalSignature ID="300">
+	                            <ByteSequence Reference="BOFoffset">
+	                                <SubSequence Position="1" SubSeqMinOffset="0" SubSeqMaxOffset="200">
+	                                    <Sequence>'xflVersion="2.' [33 34] '"'</Sequence>
+	                                </SubSequence>
+	                            </ByteSequence>
+	                        </InternalSignature>
+	                    </InternalSignatureCollection>
+                    </BinarySignatures>
+                </File>              
+            </Files>
+        </ContainerSignature>
+        
+                        <ContainerSignature Id="8000" ContainerType="ZIP">
+            <Description>Flash CC 2014 Document</Description>
+            <Files>
+                <File>
+                    <Path>PublishSettings.xml</Path>
+                </File>
+					 <File>
+                    <Path>DOMDocument.xml</Path>
+                    <BinarySignatures>
+                        <InternalSignatureCollection>                    
+	                        <InternalSignature ID="300">
+	                            <ByteSequence Reference="BOFoffset">
+	                                <SubSequence Position="1" SubSeqMinOffset="0" SubSeqMaxOffset="200">
+	                                    <Sequence>'xflVersion="2.5"'</Sequence>
+	                                </SubSequence>
+	                            </ByteSequence>
+	                        </InternalSignature>
+	                    </InternalSignatureCollection>
+                    </BinarySignatures>
+                </File>              
+            </Files>
+        </ContainerSignature>
+        
+                        <ContainerSignature Id="9000" ContainerType="ZIP">
+            <Description>Flash CC 2015 Document</Description>
+            <Files>
+                <File>
+                    <Path>PublishSettings.xml</Path>
+                </File>
+					 <File>
+                    <Path>DOMDocument.xml</Path>
+                    <BinarySignatures>
+                        <InternalSignatureCollection>                    
+	                        <InternalSignature ID="300">
+	                            <ByteSequence Reference="BOFoffset">
+	                                <SubSequence Position="1" SubSeqMinOffset="0" SubSeqMaxOffset="200">
+	                                    <Sequence>'xflVersion="2.6"'</Sequence>
+	                                </SubSequence>
+	                            </ByteSequence>
+	                        </InternalSignature>
+	                    </InternalSignatureCollection>
+                    </BinarySignatures>
+                </File>              
+            </Files>
+        </ContainerSignature>
+        
+                        <ContainerSignature Id="10000" ContainerType="ZIP">
+            <Description>Animate CC Document</Description>
+            <Files>
+                <File>
+                    <Path>PublishSettings.xml</Path>
+                </File>
+					 <File>
+                    <Path>DOMDocument.xml</Path>
+                    <BinarySignatures>
+                        <InternalSignatureCollection>                    
+	                        <InternalSignature ID="300">
+	                            <ByteSequence Reference="BOFoffset">
+	                                <SubSequence Position="1" SubSeqMinOffset="0" SubSeqMaxOffset="200">
+	                                    <Sequence>'xflVersion="2.' [37 38 39] '"'</Sequence>
+	                                </SubSequence>
+	                            </ByteSequence>
+	                        </InternalSignature>
+	                    </InternalSignatureCollection>
+                    </BinarySignatures>
+                </File>              
+            </Files>
+        </ContainerSignature>
+        
+                        <ContainerSignature Id="11000" ContainerType="ZIP">
+            <Description>Animate CC Document</Description>
+            <Files>
+                <File>
+                    <Path>PublishSettings.xml</Path>
+                </File>
+					 <File>
+                    <Path>DOMDocument.xml</Path>
+                    <BinarySignatures>
+                        <InternalSignatureCollection>                    
+	                        <InternalSignature ID="300">
+	                            <ByteSequence Reference="BOFoffset">
+	                                <SubSequence Position="1" SubSeqMinOffset="0" SubSeqMaxOffset="200">
+	                                    <Sequence>'xflVersion="22.'</Sequence>
+	                                </SubSequence>
+	                            </ByteSequence>
+	                        </InternalSignature>
+	                    </InternalSignatureCollection>
+                    </BinarySignatures>
+                </File>              
+            </Files>
+        </ContainerSignature>
+
+    </ContainerSignatures>
+  
+    <FileFormatMappings>
+    
+        	<!--  Macromedia Flash 1 Document Container File (OLE2)-->
+      <FileFormatMapping signatureId="1000" Puid="CHLdev/01"/>
+      
+        	<!--  Macromedia Flash 2 Document Container File (OLE2)-->
+      <FileFormatMapping signatureId="1200" Puid="CHLdev/02"/>
+      
+        	<!--  Macromedia Flash 3 Document Container File (OLE2)-->
+      <FileFormatMapping signatureId="1300" Puid="CHLdev/03"/>
+      
+        	<!--  Macromedia Flash 4 Document Container File (OLE2)-->
+      <FileFormatMapping signatureId="1400" Puid="CHLdev/04"/>
+      
+        	<!--  Macromedia Flash 5 Document Container File (OLE2)-->
+      <FileFormatMapping signatureId="1500" Puid="CHLdev/05"/>
+      
+        	<!--  Macromedia Flash 6 Document Container File (OLE2)-->
+      <FileFormatMapping signatureId="1600" Puid="CHLdev/06"/>
+      
+        	<!--  Macromedia Flash 7 Document Container File (OLE2)-->
+      <FileFormatMapping signatureId="1700" Puid="CHLdev/07"/>
+      
+        	<!--  Macromedia Flash 8 Document Container File (OLE2)-->
+      <FileFormatMapping signatureId="1800" Puid="CHLdev/08"/>
+      
+        	<!--  Adobe Flash CS3 Document Container File (OLE2)-->
+      <FileFormatMapping signatureId="1900" Puid="CHLdev/09"/>
+      
+        	<!--  Adobe Flash CS4 Document Container File (OLE2)-->
+      <FileFormatMapping signatureId="2000" Puid="CHLdev/10"/>
+    
+    	<!--  Flash CS5 Document Container File (ZIP)-->
+      <FileFormatMapping signatureId="5000" Puid="CHLdev/11"/>
+      
+          	<!--  Flash CS5.5 Document Container File (ZIP)-->
+      <FileFormatMapping signatureId="5500" Puid="CHLdev/115"/>
+      
+                	<!--  Flash CS6 Document Container File (ZIP)-->
+      <FileFormatMapping signatureId="6000" Puid="CHLdev/12"/>
+      
+                	<!--  Flash CC Document Container File (ZIP)-->
+      <FileFormatMapping signatureId="7000" Puid="CHLdev/13"/>
+      
+                	<!--  Flash CC 2014 Document Container File (ZIP)-->
+      <FileFormatMapping signatureId="8000" Puid="CHLdev/14"/>
+      
+                	<!--  Flash CC2015  Document Container File (ZIP)-->
+      <FileFormatMapping signatureId="9000" Puid="CHLdev/15"/>
+      
+                    <!--  Animate CC  Document Container File (ZIP)-->
+      <FileFormatMapping signatureId="10000" Puid="CHLdev/16"/>
+      <FileFormatMapping signatureId="11000" Puid="CHLdev/16"/>
+
+    </FileFormatMappings>
+  
+    <TriggerPuids>
+        <TriggerPuid ContainerType="OLE2" Puid="fmt/111"/> 
+        <TriggerPuid ContainerType="ZIP" Puid="fmt/189"/> 
+        <TriggerPuid ContainerType="ZIP" Puid="x-fmt/263"/> 
+    </TriggerPuids>
+
+</ContainerSignatureMapping>
