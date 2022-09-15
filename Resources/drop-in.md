@@ -14,7 +14,7 @@ Every 2 weeks at Thursday 4pm UK time or 11am (ET):
 
 * 01/09/2022
 
-* 15/09/2022
+* 15/09/2022 (This session will not be going ahead due to team unavailability)
 
 * 29/09/2022
 
