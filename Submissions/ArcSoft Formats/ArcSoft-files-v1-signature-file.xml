@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FFSignatureFile xmlns="http://www.nationalarchives.gov.uk/pronom/SignatureFile" Version="333334" DateCreated="2022-06-01T15:29:37+00:00">
+  <InternalSignatureCollection>
+  
+  <InternalSignature ID="1" Specificity="Specific">
+  <ByteSequence Reference="BOFoffset">
+    <SubSequence MinFragLength="0" Position="1" SubSeqMaxOffset="0" SubSeqMinOffset="0">
+      <Sequence>4653504103000000</Sequence>
+      <DefaultShift>9</DefaultShift>
+      <Shift Byte="46">8</Shift>
+      <Shift Byte="53">7</Shift>
+      <Shift Byte="50">6</Shift>
+      <Shift Byte="41">5</Shift>
+      <Shift Byte="03">4</Shift>
+      <Shift Byte="00">1</Shift>
+    </SubSequence>
+  </ByteSequence>
+</InternalSignature>
+
+  <InternalSignature ID="2" Specificity="Specific">
+  <ByteSequence Reference="BOFoffset">
+    <SubSequence MinFragLength="0" Position="1" SubSeqMaxOffset="0" SubSeqMinOffset="0">
+      <Sequence>50414C4D</Sequence>
+      <DefaultShift>5</DefaultShift>
+      <Shift Byte="50">4</Shift>
+      <Shift Byte="41">3</Shift>
+      <Shift Byte="4C">2</Shift>
+      <Shift Byte="4D">1</Shift>
+    </SubSequence>
+  </ByteSequence>
+</InternalSignature>
+
+</InternalSignatureCollection>
+<FileFormatCollection>
+
+  <FileFormat ID="1" Name="PhotoStudio File" PUID="CHLdev/1">
+    <InternalSignatureID>1</InternalSignatureID>
+    <Extension>psf</Extension>
+  </FileFormat>
+  
+    <FileFormat ID="2" Name="PhotoStudio/Impression Album/SlideShow" PUID="CHLdev/2">
+    <InternalSignatureID>2</InternalSignatureID>
+    <Extension>abm</Extension>
+    <Extension>sld</Extension>
+  </FileFormat>
+  
+</FileFormatCollection></FFSignatureFile>
