@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FFSignatureFile xmlns="http://www.nationalarchives.gov.uk/pronom/SignatureFile" Version="62000" DateCreated="2022-08-26T11:33:54+01:00">
+	<InternalSignatureCollection>
+        <InternalSignature ID="595" Specificity="Specific">
+            <ByteSequence Endianness="Big-endian" Reference="BOFoffset">
+                <SubSequence MinFragLength="15" Position="1"
+                    SubSeqMaxOffset="80" SubSeqMinOffset="80">
+                    <Sequence>0000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000</Sequence>
+                    <DefaultShift>51</DefaultShift>
+                    <Shift Byte="00">1</Shift>
+                    <LeftFragment MaxOffset="1" MinOffset="1" Position="1">4354000000000000000000000000</LeftFragment>
+                    <RightFragment MaxOffset="879" MinOffset="879" Position="1">00</RightFragment>
+                    <RightFragment MaxOffset="879" MinOffset="879" Position="1">01</RightFragment>
+                    <RightFragment MaxOffset="1" MinOffset="1" Position="2">00</RightFragment>
+                    <RightFragment MaxOffset="0" MinOffset="0" Position="3">07</RightFragment>
+                    <RightFragment MaxOffset="0" MinOffset="0" Position="3">08</RightFragment>
+                    <RightFragment MaxOffset="0" MinOffset="0" Position="3">FF</RightFragment>
+                </SubSequence>
+            </ByteSequence>
+        </InternalSignature>
+	</InternalSignatureCollection>
+	<FileFormatCollection>
+        <FileFormat ID="207" Name="Scitex Continuous Tone Bitmap" PUID="x-fmt/146">
+            <InternalSignatureID>595</InternalSignatureID>
+            <Extension>sct</Extension>
+            <Extension>ct</Extension>
+        </FileFormat>
+    </FileFormatCollection>
+</FFSignatureFile>
