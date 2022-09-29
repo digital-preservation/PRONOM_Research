@@ -52,3 +52,6 @@ Image
 Based on the specification, start of codestream marker (0xFF4F) followed by
 image and tile size marker (0xFF51) at BOF, end of codestream marker (0xFFD9)
 at EOF.
+
+## Example
+balloon.j2c attached courtesy of the OPF corpus
