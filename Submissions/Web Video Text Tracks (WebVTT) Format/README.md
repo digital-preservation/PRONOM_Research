@@ -15,5 +15,10 @@ minute (mm) and second (ss) parts must be between 00 and 59 inclusive.
 See [here](https://developer.mozilla.org/en-US/docs/Web/API/WebVTT_API) 
 for reference.
 
+## Internal Signature
+BOF, min offset 0, max offset 3: 574542565454
+
+Variable offset: [30:35][30:39]3A[30:35][30:39]2E[30:39][30:39][30:39]202D2D3E20{0-5}[30:35][30:39]3A[30:35][30:39]2E[30:39][30:39][30:39]
+
 ## Samples
 Samples courtesy of [Mozilla](https://developer.mozilla.org/en-US/docs/Web/API/WebVTT_API)

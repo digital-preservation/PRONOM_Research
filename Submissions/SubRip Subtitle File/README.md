@@ -11,5 +11,8 @@ e.g. `00.00.00,000 --> 00.00.02,310`.
 See [here](https://www.matroska.org/technical/subtitles.html#srt-subtitles) 
 for reference.
 
+## Internal Signature
+Variable offset: [30:39][30:39]3A[30:39][30:39]3A[30:39][30:39]2C[30:39][30:39][30:39]202D2D3E20[30:39][30:39]3A[30:39][30:39]3A[30:39][30:39]2C[30:39][30:39][30:39]
+
 ## Samples
 Sample courtesy of [Matroska](https://www.matroska.org/technical/subtitles.html#srt-subtitles)
