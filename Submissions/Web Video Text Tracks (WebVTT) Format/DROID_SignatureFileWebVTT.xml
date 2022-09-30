@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FFSignatureFile xmlns="http://www.nationalarchives.gov.uk/pronom/SignatureFile" Version="62000" DateCreated="2022-08-26T11:33:54+01:00">
+	<InternalSignatureCollection>
+	    <InternalSignature ID="1819" Specificity="Specific">
+            <ByteSequence Reference="BOFoffset">
+                <SubSequence MinFragLength="0" Position="1"
+                    SubSeqMaxOffset="3" SubSeqMinOffset="0">
+                    <Sequence>574542565454</Sequence>
+                    <DefaultShift>7</DefaultShift>
+                    <Shift Byte="42">4</Shift>
+                    <Shift Byte="45">5</Shift>
+                    <Shift Byte="54">1</Shift>
+                    <Shift Byte="56">3</Shift>
+                    <Shift Byte="57">6</Shift>
+                </SubSequence>
+            </ByteSequence>
+            <ByteSequence Endianness="">
+                <SubSequence Position="1" SubSeqMinOffset="0" MinFragLength="9">
+                    <Sequence>202D2D3E20</Sequence>
+                    <DefaultShift>6</DefaultShift>
+                    <Shift Byte="20">1</Shift>
+                    <Shift Byte="2D">3</Shift>
+                    <Shift Byte="3E">2</Shift>
+                    <LeftFragment Position="1" MinOffset="0" MaxOffset="0">[30:35][30:39]3A[30:35][30:39]2E[30:39][30:39][30:39]</LeftFragment>
+                    <RightFragment Position="1" MinOffset="0" MaxOffset="5">[30:35][30:39]3A[30:35][30:39]2E[30:39][30:39][30:39]</RightFragment>
+                </SubSequence>
+            </ByteSequence>
+        </InternalSignature>
+    </InternalSignatureCollection>
+	<FileFormatCollection>
+        <FileFormat ID="2277" MIMEType="text/vtt"
+            Name="Web Video Text Tracks (WebVTT) Format" PUID="fmt/1454">
+            <InternalSignatureID>1819</InternalSignatureID>
+            <Extension>vtt</Extension>
+        </FileFormat>
+    </FileFormatCollection>
+</FFSignatureFile>
