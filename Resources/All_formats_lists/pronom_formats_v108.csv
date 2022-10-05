@@ -1,0 +1,2220 @@
+PUID,Name,Version,Extensions,Media Types
+fmt/1,Broadcast WAVE,0 Generic,wav ,audio/x-wav
+fmt/2,Broadcast WAVE,1 Generic,wav ,audio/x-wav
+fmt/3,Graphics Interchange Format,87a,gif ,image/gif
+fmt/4,Graphics Interchange Format,89a,gif ,image/gif
+fmt/5,Audio/Video Interleaved Format,,avi ,video/x-msvideo
+fmt/6,Waveform Audio,,wav ,audio/x-wav
+fmt/7,Tagged Image File Format,3,,
+fmt/8,Tagged Image File Format,4,,
+fmt/9,Tagged Image File Format,5,,
+fmt/10,Tagged Image File Format,6,,
+fmt/11,Portable Network Graphics,1.0,png ,image/png
+fmt/12,Portable Network Graphics,1.1,png ,image/png
+fmt/13,Portable Network Graphics,1.2,png ,image/png
+fmt/14,Acrobat PDF 1.0 - Portable Document Format,1.0,pdf ,application/pdf
+fmt/15,Acrobat PDF 1.1 - Portable Document Format,1.1,pdf ,application/pdf
+fmt/16,Acrobat PDF 1.2 - Portable Document Format,1.2,pdf ,application/pdf
+fmt/17,Acrobat PDF 1.3 - Portable Document Format,1.3,pdf ,application/pdf
+fmt/18,Acrobat PDF 1.4 - Portable Document Format,1.4,pdf ,application/pdf
+fmt/19,Acrobat PDF 1.5 - Portable Document Format,1.5,pdf ,application/pdf
+fmt/20,Acrobat PDF 1.6 - Portable Document Format,1.6,pdf ,application/pdf
+fmt/21,AutoCAD Drawing,1.0,dwg ,image/vnd.dwg
+fmt/22,AutoCAD Drawing,1.2,dwg ,image/vnd.dwg
+fmt/23,AutoCAD Drawing,1.3,dwg ,image/vnd.dwg
+fmt/24,AutoCAD Drawing,1.4,dwg ,image/vnd.dwg
+fmt/25,AutoCAD Drawing,2.0,dwg ,image/vnd.dwg
+fmt/26,AutoCAD Drawing,2.1,dwg ,image/vnd.dwg
+fmt/27,AutoCAD Drawing,2.2,dwg ,image/vnd.dwg
+fmt/28,AutoCAD Drawing,2.5,dwg ,image/vnd.dwg
+fmt/29,AutoCAD Drawing,2.6,dwg ,image/vnd.dwg
+fmt/30,AutoCAD Drawing,R9,dwg ,image/vnd.dwg
+fmt/31,AutoCAD Drawing,R10,dwg ,image/vnd.dwg
+fmt/32,AutoCAD Drawing,R11/12,dwg ,image/vnd.dwg
+fmt/33,AutoCAD Drawing,R13,dwg ,image/vnd.dwg
+fmt/34,AutoCAD Drawing,R14,dwg ,image/vnd.dwg
+fmt/35,AutoCAD Drawing,2000-2002,dwg ,image/vnd.dwg
+fmt/36,AutoCAD Drawing,2004-2005,dwg ,image/vnd.dwg
+fmt/37,Microsoft Word for Windows Document,1.0,doc ,application/msword
+fmt/38,Microsoft Word for Windows Document,2.0,doc ,application/msword
+fmt/39,Microsoft Word Document,6.0/95,doc ,application/msword
+fmt/40,Microsoft Word Document,97-2003,doc wbk ,application/msword
+fmt/41,Raw JPEG Stream,,jpe jpeg jpg ,image/jpeg
+fmt/42,JPEG File Interchange Format,1.00,jpe jpeg jpg ,image/jpeg
+fmt/43,JPEG File Interchange Format,1.01,jpe jpeg jpg ,image/jpeg
+fmt/44,JPEG File Interchange Format,1.02,jpe jpeg jpg ,image/jpeg
+fmt/45,Rich Text Format,1.0-1.4,rtf ,application/rtf text/rtf
+fmt/46,Rich Text Format,1.1,,
+fmt/47,Rich Text Format,1.2,,
+fmt/48,Rich Text Format,1.3,,
+fmt/49,Rich Text Format,1.4,,
+fmt/50,Rich Text Format,1.5-1.6,rtf ,application/rtf text/rtf
+fmt/51,Rich Text Format,1.6,,
+fmt/52,Rich Text Format,1.7,rtf ,application/rtf text/rtf
+fmt/53,Rich Text Format,1.8,rtf ,application/rtf text/rtf
+fmt/54,Drawing Interchange Binary Format,1.0,dxb ,
+fmt/55,Microsoft Excel 2.x Worksheet (xls),2,xls ,application/vnd.ms-excel
+fmt/56,Microsoft Excel 3.0 Worksheet (xls),3,xls ,application/vnd.ms-excel
+fmt/57,Microsoft Excel 4.0 Worksheet (xls),4S,xls ,application/vnd.ms-excel
+fmt/58,Microsoft Excel 4.0 Workbook (xls),4W,xlw ,application/vnd.ms-excel
+fmt/59,Microsoft Excel 5.0/95 Workbook (xls),5/95,xls xlw ,application/vnd.ms-excel
+fmt/60,Excel 95 Workbook (xls),7,,
+fmt/61,Microsoft Excel 97 Workbook (xls),8,xls xlw ,application/vnd.ms-excel
+fmt/62,Microsoft Excel 2000-2003 Workbook (xls),8X,xls xlw ,application/vnd.ms-excel
+fmt/63,Drawing Interchange File Format (ASCII),Generic,dxf ,image/vnd.dxf
+fmt/64,Drawing Interchange File Format (ASCII),1.0,dxf ,image/vnd.dxf
+fmt/65,Drawing Interchange File Format (ASCII),1.2,dxf ,image/vnd.dxf
+fmt/66,Drawing Interchange File Format (ASCII),1.3,dxf ,image/vnd.dxf
+fmt/67,Drawing Interchange File Format (ASCII),1.4,dxf ,image/vnd.dxf
+fmt/68,Drawing Interchange File Format (ASCII),2.0,dxf ,image/vnd.dxf
+fmt/69,Drawing Interchange File Format (ASCII),2.1,dxf ,image/vnd.dxf
+fmt/70,Drawing Interchange File Format (ASCII),2.2,dxf ,image/vnd.dxf
+fmt/71,Drawing Interchange File Format (ASCII),2.5,dxf ,image/vnd.dxf
+fmt/72,Drawing Interchange File Format (ASCII),2.6,dxf ,image/vnd.dxf
+fmt/73,Drawing Interchange File Format (ASCII),R9,dxf ,image/vnd.dxf
+fmt/74,Drawing Interchange File Format (ASCII),R10,dxf ,image/vnd.dxf
+fmt/75,Drawing Interchange File Format (ASCII),R11/12,dxf ,image/vnd.dxf
+fmt/76,Drawing Interchange File Format (ASCII),R13,dxf ,image/vnd.dxf
+fmt/77,Drawing Interchange File Format (ASCII),R14,dxf ,image/vnd.dxf
+fmt/78,Drawing Interchange File Format (ASCII),2000-2002,dxf ,image/vnd.dxf
+fmt/79,Drawing Interchange File Format (ASCII),2004/2005/2006,dxf ,image/vnd.dxf
+fmt/80,Drawing Interchange File Format (Binary),R10,dxf ,image/vnd.dxf
+fmt/81,Drawing Interchange File Format (Binary),R11/12,dxf ,image/vnd.dxf
+fmt/82,Drawing Interchange File Format (Binary),R13,dxf ,image/vnd.dxf
+fmt/83,Drawing Interchange File Format (Binary),R14,dxf ,image/vnd.dxf
+fmt/84,Drawing Interchange File Format (Binary),2000-2002,dxf ,image/vnd.dxf
+fmt/85,Drawing Interchange File Format (Binary),2004-2006,dxf ,image/vnd.dxf
+fmt/86,PCX,0,pcc pcx ,image/vnd.zbrush.pcx
+fmt/87,PCX,2,pcc pcx ,image/vnd.zbrush.pcx
+fmt/88,PCX,3,pcc pcx ,image/vnd.zbrush.pcx
+fmt/89,PCX,4,pcc pcx ,image/vnd.zbrush.pcx
+fmt/90,PCX,5,pcc pcx ,image/vnd.zbrush.pcx
+fmt/91,Scalable Vector Graphics,1.0,svg ,image/svg+xml
+fmt/92,Scalable Vector Graphics,1.1,svg ,image/svg+xml
+fmt/93,Virtual Reality Modeling Language,1.0,wrl ,model/vrml
+fmt/94,Virtual Reality Modeling Language,2.0,wrl ,model/vrml
+fmt/95,Acrobat PDF/A - Portable Document Format,1a,pdf ,application/pdf
+fmt/96,Hypertext Markup Language,,htm html ,text/html
+fmt/97,Hypertext Markup Language,2.0,htm html ,text/html
+fmt/98,Hypertext Markup Language,3.2,htm html ,text/html
+fmt/99,Hypertext Markup Language,4.0,htm html ,text/html
+fmt/100,Hypertext Markup Language,4.01,htm html ,text/html
+fmt/101,Extensible Markup Language,1.0,xml ,application/xml text/xml
+fmt/102,Extensible Hypertext Markup Language,1.0,htm html ,application/xhtml+xml
+fmt/103,Extensible Hypertext Markup Language,1.1,htm html ,application/xhtml+xml
+fmt/104,Macromedia Flash,1,swf ,application/x-shockwave-flash
+fmt/105,Macromedia Flash,2,swf ,application/x-shockwave-flash
+fmt/106,Macromedia Flash,3,swf ,application/x-shockwave-flash
+fmt/107,Macromedia Flash,4,swf ,application/x-shockwave-flash
+fmt/108,Macromedia Flash,5,swf ,application/x-shockwave-flash
+fmt/109,Macromedia Flash,6,swf ,application/x-shockwave-flash
+fmt/110,Macromedia Flash,7,swf ,application/x-shockwave-flash
+fmt/111,OLE2 Compound Document Format,,,
+fmt/112,Still Picture Interchange File Format,1.0,jpg spf ,image/jpeg
+fmt/113,Still Picture Interchange File Format,2.0,,image/jpeg
+fmt/114,Windows Bitmap,1.0,bmp ddb ,image/bmp
+fmt/115,Windows Bitmap,2.0,bmp dib ,image/bmp
+fmt/116,Windows Bitmap,3.0,bmp dib ,image/bmp
+fmt/117,Windows Bitmap,3.0 NT,bmp dib ,image/bmp
+fmt/118,Windows Bitmap,4.0,bmp dib ,image/bmp
+fmt/119,Windows Bitmap,5.0,bmp dib ,image/bmp
+fmt/120,DROID File Collection File Format,1.0,xml ,text/xml
+fmt/121,DROID Signature File Format,1.0,xml ,text/xml
+fmt/122,Encapsulated PostScript File Format,1.2,eps epsf ,application/postscript
+fmt/123,Encapsulated PostScript File Format,2.0,eps epsf ,application/postscript
+fmt/124,Encapsulated PostScript File Format,3,eps epsf ps ,application/postscript
+fmt/125,Microsoft Powerpoint Presentation,95,ppt ,application/vnd.ms-powerpoint
+fmt/126,Microsoft Powerpoint Presentation,97-2003,ppt ,application/vnd.ms-powerpoint
+fmt/127,OpenOffice Draw,1.0,sxd ,application/vnd.sun.xml.draw
+fmt/128,OpenOffice Writer,1.0,sxw ,application/vnd.sun.xml.writer
+fmt/129,OpenOffice Calc,1.0,sxc ,application/vnd.sun.xml.calc
+fmt/130,OpenOffice Impress,1.0,sxi ,application/vnd.sun.xml.impress
+fmt/131,Advanced Systems Format,,asf ,application/vnd.ms-asf
+fmt/132,Windows Media Audio,,asf wma ,audio/x-ms-wma
+fmt/133,Windows Media Video,,asf wmv ,video/x-ms-wmv
+fmt/134,MPEG 1/2 Audio Layer 3,,mp3 ,audio/mpeg
+fmt/135,OpenDocument Format,1.0,,
+fmt/136,OpenDocument Text,1.0,odt ott ,application/vnd.oasis.opendocument.text
+fmt/137,OpenDocument Spreadsheet,1.0,ods ots ,application/vnd.oasis.opendocument.spreadsheet
+fmt/138,OpenDocument Presentation,1.0,odp otp ,application/vnd.oasis.opendocument.presentation
+fmt/139,OpenDocument Graphics,1.0,odg otg ,application/vnd.oasis.opendocument.graphics
+fmt/140,OpenDocument Database Format,1.0,odb ,
+fmt/141,Waveform Audio (PCMWAVEFORMAT),,wav wave ,audio/x-wav
+fmt/142,Waveform Audio (WAVEFORMATEX),,wav wave ,audio/x-wav
+fmt/143,Waveform Audio (WAVEFORMATEXTENSIBLE),,wav wave ,audio/x-wav
+fmt/144,Acrobat PDF/X - Portable Document Format - Exchange 1:1999,,pdf ,application/pdf
+fmt/145,Acrobat PDF/X - Portable Document Format - Exchange 1:2001,,pdf ,application/pdf
+fmt/146,Acrobat PDF/X - Portable Document Format - Exchange 1a:2003,,pdf ,application/pdf
+fmt/147,Acrobat PDF/X - Portable Document Format - Exchange 2:2003,,pdf ,application/pdf
+fmt/148,Acrobat PDF/X - Portable Document Format - Exchange 3:2003,,pdf ,application/pdf
+fmt/149,JTIP (JPEG Tiled Image Pyramid),,,
+fmt/150,JPEG-LS,,jls ,
+fmt/151,JPX (JPEG 2000 part 2),,jpf jpx ,image/jpx
+fmt/152,Digital Negative Format (DNG),1.1,dng tif tiff ,image/tiff
+fmt/153,Tagged Image File Format for Image Technology (TIFF/IT),,tif tiff ,image/tiff
+fmt/154,Tagged Image File Format for Electronic Photography (TIFF/EP),,tif tiff ,image/tiff
+fmt/155,Geographic Tagged Image File Format (GeoTIFF),,tif tiff ,image/tiff
+fmt/156,Tagged Image File Format for Internet Fax (TIFF-FX),,tfx tif tiff ,image/tiff
+fmt/157,Acrobat PDF/X - Portable Document Format - Exchange 1a:2001,,pdf ,application/pdf
+fmt/158,Acrobat PDF/X - Portable Document Format - Exchange 3:2002,,pdf ,application/pdf
+fmt/159,EBCDIC-US,,ebcdic ,
+fmt/160,TeX/LaTeX Device Independent Document,,dvi ,application/x-dvi
+fmt/161,SIARD (Software-Independent Archiving of Relational Databases),1.0,siard ,
+fmt/162,Microsoft Multiplan,4.0,mod ,
+fmt/163,Microsoft Works Word Processor 1-3 for DOS and 2 for Windows,,wps ,
+fmt/164,Microsoft Works Word Processor for DOS,1.12,,
+fmt/165,Microsoft Works Word Processor for DOS,2.0,,
+fmt/166,Microsoft Works Spreadsheet,1-5,wks ,
+fmt/167,Microsoft Works Spreadsheet for DOS,1.12,,
+fmt/168,Microsoft Works Spreadsheet for DOS,2.0,,
+fmt/169,Microsoft Works Database for DOS,1.05,wdb ,
+fmt/170,Microsoft Works Database for DOS,1.12,wdb ,
+fmt/171,Microsoft Works Database for DOS,2.0,wdb ,
+fmt/172,Microsoft Excel for Macintosh,3.0,,
+fmt/173,Microsoft Excel for Macintosh,4.0,,
+fmt/174,Microsoft Excel for Macintosh,98,,
+fmt/175,Microsoft Excel for Macintosh,2001,xls ,
+fmt/176,Microsoft Excel for Macintosh,2002,xls ,
+fmt/177,Microsoft Excel for Macintosh,2004,xls ,
+fmt/178,Microsoft Excel for Macintosh,X,,
+fmt/179,Microsoft PowerPoint for Macintosh,4.0,ppt ,
+fmt/180,Microsoft PowerPoint for Macintosh,98,,
+fmt/181,Microsoft PowerPoint for Macintosh,2001,ppt ,
+fmt/182,Microsoft PowerPoint for Macintosh,X,,
+fmt/183,PrimeOCR,3.0,pro ,
+fmt/184,PrimeOCR,3.8,pro ,
+fmt/185,Prime OCR,3.9,pro ,
+fmt/186,PrimeOCR,4.0,pro ,
+fmt/187,PrimeOCR,4.2,pro ,
+fmt/188,PrimeOCR,4.3,pro ,
+fmt/189,Microsoft Office Open XML,2007 onwards,,
+fmt/190,Adobe FrameMaker Document,5.0,fm ,application/vnd.framemaker
+fmt/191,Sony ARW RAW Image File,1.x,arw ,
+fmt/192,Kodak Digital Camera Raw Image File,,dcr ,
+fmt/193,Digital Moving Picture Exchange Bitmap,1.0,dpx ,
+fmt/194,FileMaker Pro Database,7+,fp7 ,
+fmt/195,ERDAS IMAGINE Gray-scale Bitmap Image,,gis ,
+fmt/196,Adobe InDesign Document,CS,ind indd indt ,
+fmt/197,InstallShield Compiled Rules File,,inx ,
+fmt/198,MPEG Audio Stream Layer II,,mp2 mpa mpw ,audio/mpeg
+fmt/199,MPEG-4 Media File,,f4a f4v m4a m4v mp4 ,application/mp4 video/mp4
+fmt/200,Material Exchange Format,Operational Pattern 1a,mxf ,application/mxf
+fmt/201,Mathematica Notebook,,nb ,application/mathematica
+fmt/202,Nikon Digital SLR Camera Raw Image File,,nef nrw ,
+fmt/203,Ogg Vorbis Codec Compressed Multimedia File,,ogg ,audio/ogg
+fmt/204,RealVideo Clip,,rv ,
+fmt/205,Synchronized Multimedia Integration Language (Generic),,smi smil ,
+fmt/206,Structured Query Language Data,,sql ,
+fmt/207,Obsidium Project File,,opf ,
+fmt/208,Binary File,,bin ,
+fmt/209,Sound Designer II Audio File,,sd2 ,
+fmt/210,Statistica Report File,,str ,
+fmt/211,Kodak Photo CD Image,,pcd ,
+fmt/212,Information or Setup File,,inf ,
+fmt/213,ScanIt Document,,sid ,
+fmt/214,Microsoft Excel for Windows,2007 onwards,xlsx ,application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
+fmt/215,Microsoft Powerpoint for Windows,2007 onwards,pptx ,application/vnd.openxmlformats-officedocument.presentationml.presentation
+fmt/216,Microsoft Visio XML Drawing,2003-2010,vdx ,application/vnd.visio
+fmt/217,PaintShop Pro Browser Cache File,,jbf ,
+fmt/218,Microsoft FrontPage,,lck ,
+fmt/219,Microsoft Works Database for Windows,2.0,wdb ,
+fmt/220,Microsoft Works Spreadsheet for Windows,2.0,,
+fmt/221,Microsoft Works Word Processor for Windows,2.0,,
+fmt/222,Microsoft Works Database for Windows,2.0a,wdb ,
+fmt/223,Microsoft Works Database for Windows,3.0,wdb ,
+fmt/224,Microsoft Works Database for Windows,3.0a,wdb ,
+fmt/225,Microsoft Works Database for Windows,3.0b,wdb ,
+fmt/226,Microsoft Works Database for Windows,4.0,wdb ,
+fmt/227,Microsoft Works Spreadsheet for Windows,2.0a,,
+fmt/228,Microsoft Works Spreadsheet for Windows,3.0,,
+fmt/229,Microsoft Works Spreadsheet for Windows,3.0a,,
+fmt/230,Microsoft Works Spreadsheet for Windows,3.0b,,
+fmt/231,Microsoft Works Spreadsheet for Windows,4.0,,
+fmt/232,Microsoft Works Word Processor for Windows,2.0a,,
+fmt/233,Microsoft Works Word Processor 3-4 for Windows,,wps ,
+fmt/234,Microsoft Works Word Processor for Windows,3.0a,,
+fmt/235,Microsoft Works Word Processor for Windows,3.0b,,
+fmt/236,Microsoft Works Word Processor for Windows,4.0,,
+fmt/237,Microsoft Office Binder File for Windows,95,obd ,
+fmt/238,Microsoft Office Binder Template for Windows,95,obt ,
+fmt/239,Microsoft Office Binder Wizard for Windows,95,obz ,
+fmt/240,Microsoft Office Binder File for Windows,97-2000,obd ,
+fmt/241,Microsoft Office Binder Template for Windows,97-2003,obt ,
+fmt/242,Microsoft Office Binder Wizard for Windows,97-2003,obz ,
+fmt/243,GPS Exchange Format,1.0,gpx ,
+fmt/244,Keyhole Markup Language (XML),,kml ,application/vnd.google-earth.kml+xml
+fmt/245,Structured Data Exchange Format,,,
+fmt/246,Microsoft Works Database for Windows,4.0a,wdb ,
+fmt/247,Microsoft Works Spreadsheet for Windows,4.0a,,
+fmt/248,Microsoft Works Word Processor Windows,4.0a,,
+fmt/249,Microsoft Works Database for Windows,4.5,wdb ,
+fmt/250,Microsoft Works Spreadsheet for Windows,4.5,,
+fmt/251,Microsoft Works Word Processor Windows,4.5,,
+fmt/252,Microsoft Works Database for Windows,4.5a,wdb ,
+fmt/253,Microsoft Works Spreadsheet for Windows,4.5a,,
+fmt/254,Microsoft Works Word Processor Windows,4.5a,,
+fmt/255,DjVu File Format,,djv djvu ,image/vnd.djvu image/x-djvu
+fmt/256,Microsoft Works Database for Windows,2000,wdb ,
+fmt/257,Microsoft Works Spreadsheet for Windows,2000,,
+fmt/258,Microsoft Works Word Processor 5-6,,wps ,
+fmt/259,Microsoft Works Database for DOS,3,wdb ,
+fmt/260,Microsoft Works Database for DOS,3a,wdb ,
+fmt/261,Microsoft Works Database for DOS,3b,wdb ,
+fmt/262,Microsoft Works Spreadsheet for DOS,3,,
+fmt/263,Microsoft Works Spreadsheet for DOS,3a,,
+fmt/264,Microsoft Works Spreadsheet for DOS,3b,,
+fmt/265,Microsoft Works Word Processor DOS,3,,
+fmt/266,Microsoft Works Word Processor DOS,3a,,
+fmt/267,Microsoft Works Word Processor DOS,3b,,
+fmt/268,Microsoft Works Database for Macintosh,3,wdb ,
+fmt/269,Microsoft Works Database for Macintosh,4,wdb ,
+fmt/270,Microsoft Works Spreadsheet for Macintosh,3,wks ,
+fmt/271,Microsoft Works Spreadsheet for Macintosh,4,wks ,
+fmt/272,Microsoft Works Word Processor Macintosh,3,wps ,
+fmt/273,Microsoft Works Word Processor Macintosh,4,wps ,
+fmt/274,SPSS Output File (spv),,spv ,
+fmt/275,Microsoft Access Database,2007,accdb ,
+fmt/276,Acrobat PDF 1.7 - Portable Document Format,1.7,pdf ,application/pdf
+fmt/277,ESRI Arc/View Shapefile Index,,shx ,
+fmt/278,Internet Message Format,,eml ,message/rfc822
+fmt/279,FLAC (Free Lossless Audio Codec),1.2.1,flac ,audio/flac
+fmt/280,LaTeX (Master document),,,
+fmt/281,LaTeX (Subdocument),,,
+fmt/282,netCDF-3 Classic,,cdf nc ,application/netcdf application/x-netcdf
+fmt/283,netCDF-3 64-bit,,cdf nc ,application/netcdf application/x-netcdf
+fmt/284,Gridded Binary,1.0,grb wmo ,
+fmt/285,Gridded Binary,2.0,grb wmo ,
+fmt/286,HDF5,1,h5 hdf hdf5 nc ,
+fmt/287,HDF5,2,h5 hdf hdf5 nc ,
+fmt/288,Microsoft Front Page Server Extension Configuration,,,
+fmt/289,WARC,,warc ,application/warc
+fmt/290,OpenDocument Text,1.1,odt ott ,application/vnd.oasis.opendocument.text
+fmt/291,OpenDocument Text,1.2,odt ott ,application/vnd.oasis.opendocument.text
+fmt/292,OpenDocument Presentation,1.1,odp otp ,application/vnd.oasis.opendocument.presentation
+fmt/293,OpenDocument Presentation,1.2,odp otp ,application/vnd.oasis.opendocument.presentation
+fmt/294,OpenDocument Spreadsheet,1.1,ods ots ,application/vnd.oasis.opendocument.spreadsheet
+fmt/295,OpenDocument Spreadsheet,1.2,ods ots ,application/vnd.oasis.opendocument.spreadsheet
+fmt/296,OpenDocument Graphics,1.1,odg otg ,application/vnd.oasis.opendocument.graphics
+fmt/297,OpenDocument Graphics,1.2,odg otg ,application/vnd.oasis.opendocument.graphics
+fmt/298,Autodesk Animator Pro FLIC,,flc ,
+fmt/299,Autodesk Animator (FlicLib),,fli ,
+fmt/300,ChiWriter Document,4,chi ,
+fmt/301,Computer Graphics Metafile ASCII,3,cgm ,image/cgm
+fmt/302,Computer Graphics Metafile ASCII,4,cgm ,image/cgm
+fmt/303,Computer Graphics Metafile (Binary),1,cgm ,image/cgm; version=1
+fmt/304,Computer Graphics Metafile (Binary),2,cgm ,image/cgm; version=2
+fmt/305,Computer Graphics Metafile (Binary),3,cgm ,image/cgm; version=3
+fmt/306,Computer Graphics Metafile (Binary),4,cgm ,image/cgm; version=4
+fmt/307,Quicken Interchange Format,,qif ,application/qif
+fmt/308,Quicken Data Format,,qdf ,
+fmt/309,Open Financial Exchange,1.02,ofx qfx ,application/x-ofx
+fmt/310,Open Financial Exchange,1.03,ofx qfx ,application/x-ofx
+fmt/311,Open Financial Exchange,1.6,ofx qfx ,application/x-ofx
+fmt/312,Open Financial Exchange,2.0.3,ofx qfx ,application/x-ofx
+fmt/313,Open Financial Exchange,2.1.1,ofx qfx ,application/x-ofx
+fmt/314,Play SID Audio,1,psid sid ,audio/prs.sid
+fmt/315,Play SID Audio,2,psid sid ,audio/prs.sid
+fmt/316,Real SID Audio,,sid ,audio/prs.sid
+fmt/317,Macromedia Director,Macintosh,dir dxr ,application/x-director
+fmt/318,Secure DjVU,,djv djvu ,image/vnd.djvu image/x-djvu
+fmt/319,ESRI Spatial Index File,,sbn sbx ,
+fmt/320,ESRI Shapefile Projection (Well-Known Text) Format,,prj ,
+fmt/321,ESRI Shapefile Header Index,,aih ,
+fmt/322,Portable Form File,,pff ,
+fmt/323,Extended Module Audio File,,xm ,audio/xm
+fmt/324,EndNote Style File,,ens ,application/x-endnote-style
+fmt/325,EndNote Library,1-9,enl ,
+fmt/326,EndNote Connection File,,enz ,application/x-endnote-connect application/x-endnote-connection
+fmt/327,EndNote Filter File,,enf ,
+fmt/328,EndNote Import File,,enr enw ,application/x-endnote-refer
+fmt/329,Shell Archive Format,,shar ,application/x-sh application/x-shar
+fmt/330,Peak Graphical Waveform File,,pk ,
+fmt/331,Autorun Configuration File,,inf ,
+fmt/332,ESRI Arc/View Project,3.x,apr def ,
+fmt/333,Chemical Markup Language,,cml ,
+fmt/334,Crystallographic Information Framework,,cif ,
+fmt/335,Dreamweaver Lock File,,lck ,
+fmt/336,Graphic Workshop for Windows Thumbnail File,,thn ,
+fmt/337,MJ2 (Motion JPEG 2000),,mj2 mjp2 ,video/mj2
+fmt/338,Interchange File Format Interleaved Bitmap,,iff lbm ,
+fmt/339,Interchange File Format 8-bit Sampled Voice,,8svx iff ,
+fmt/340,Lotus WordPro Document,97/Millennium,lwp ,application/lwp application/vnd.lotus-wordpro
+fmt/341,Macintosh PICT Image,2.0,pct pic pict ,image/x-pict
+fmt/342,Microsoft Project Export File,4.0,mpx ,application/x-project
+fmt/343,Microsoft Project Export File,3.0,mpx ,application/x-project
+fmt/344,Microsoft Windows Enhanced Metafile,2.0,emf ,image/emf
+fmt/345,Microsoft Windows Enhanced Metafile,3.0,emf ,image/emf
+fmt/346,Microsoft Word for Macintosh Document,1.0,mcw ,application/msword
+fmt/347,MPEG 1/2 Audio Layer I,,mp1 ,audio/mpeg
+fmt/348,Paint Shop Pro Image,9,pspimage ,
+fmt/349,Paint Shop Pro Image,10,pspimage ,
+fmt/350,Paradox Database Table,3.0,db ,
+fmt/351,Paradox Database Table,4.0,db ,
+fmt/352,Paradox Database Table,5.0,db ,
+fmt/353,Tagged Image File Format,,tif tiff ,image/tiff
+fmt/354,Acrobat PDF/A - Portable Document Format,1b,pdf ,application/pdf
+fmt/355,Rich Text Format,1.9,rtf ,application/rtf text/rtf
+fmt/356,Adaptive Multi-Rate Audio,,amr ,audio/amr
+fmt/357,3GPP Audio/Video File,,3gp 3gpp ,audio/3gpp video/3gpp
+fmt/358,Internet Data Query File,,idq ,
+fmt/359,Microsoft Front Page Binary Tree Index,,btr ,
+fmt/360,pulse EKKO data file,,dt1 ,
+fmt/361,pulse EKKO header file,,hd ,
+fmt/362,GSSI SIR-10 RADAN data file,,dzt ,
+fmt/363,SEG Y Data Exchange Format,Generic,segy ,
+fmt/364,National Imagery Transmission Format,1.0,ntf ,application/vnd.nitf
+fmt/365,National Imagery Transmission Format,2.0,ntf ,application/vnd.nitf
+fmt/366,National Imagery Transmission Format,2.1,ntf ,application/vnd.nitf
+fmt/367,ESRI World File Format,,bilw blw bpw btw jgw jpgw pgw rasterw tfw tifw ,
+fmt/368,ASPRS Lidar Data Exchange Format,1.0,las laz ,
+fmt/369,ASPRS Lidar Data Exchange Format,1.1,las laz ,
+fmt/370,ASPRS Lidar Data Exchange Format,1.2,las laz ,
+fmt/371,Enhanced Compression Wavelet,,ecw ,
+fmt/372,Earth Resource Satellite Image Header Format,,ers ,
+fmt/373,FoxPro Database,2.x,dbf ,
+fmt/374,Microsoft Visual FoxPro Database Table File,,dbf ,
+fmt/375,FoxPro Compound Index File,,cdx ,
+fmt/376,FoxPro Report,,frx ,
+fmt/377,Microsoft Visual FoxPro Report,,frx ,
+fmt/378,Chemical Draw Exchange Format,,cdx ,chemical/x-cdx
+fmt/379,Microsoft Visual FoxPro Class Library,,vcx ,
+fmt/380,Microsoft Visual FoxPro Project,,pjx ,
+fmt/381,FoxPro Project,,pjx ,
+fmt/382,Microsoft Visual FoxPro database container (table files),,dbc ,
+fmt/383,VICAR (Video Image Communication and Retrieval) Planetary File Format,,img vic vicar ,
+fmt/384,Microsoft Visual FoxPro database container (memo files),,dct ,
+fmt/385,Microsoft Windows Cursor,,cur ,image/x-win-bitmap
+fmt/386,Microsoft Animated Cursor Format,,ani ,
+fmt/387,VCalendar format,,vcs ,text/x-vCalendar
+fmt/388,Internet Calendar and Scheduling format,,ics ,text/calendar
+fmt/389,Log ASCII Standard Format,1.2,las ,
+fmt/390,Log ASCII Standard Format,2.0,las ,
+fmt/391,Log ASCII Standard Format,3.0,las ,
+fmt/392,MrSID Image Format (Multi-resolution Seamless Image Database),,sid ,
+fmt/393,Borland Reflex flat datafile,,rxd ,
+fmt/394,DS_store file (MAC),,ds_store ,
+fmt/395,vCard,,vcf ,text/vcard
+fmt/396,PocketMobi (Palm Resource) File,,mobi prc ,
+fmt/397,Enigma Binary File (Finale),,mus ,
+fmt/398,Enigma Transportable File (Finale),,etf ,
+fmt/399,Stuffit X Archive File,,sitx ,
+fmt/400,Macromedia FreeHand MX,11,fh11 ,
+fmt/401,X-Windows Screen Dump,X11,xdm xwd ,
+fmt/402,Truevision TGA Bitmap,2.0,icb tga vda vst ,
+fmt/403,SuperCalc Spreadsheet,1,cal ,
+fmt/404,RealAudio,4,ra ,
+fmt/405,Portable Any Map,,pam ,
+fmt/406,Portable Grey Map - Binary,,pgm pgmb ,
+fmt/407,Portable Grey Map - ASCII,,pgm pgma ,
+fmt/408,Portable Pixel Map - Binary,,ppm ppmb ,
+fmt/409,Portable Bitmap Image - Binary,,pbmb pnm ,
+fmt/410,Internet Archive,1.1,arc ,
+fmt/411,RAR Archive,2.9,rar ,application/vnd.rar
+fmt/412,Microsoft Word for Windows,2007 onwards,docx wbk ,application/vnd.openxmlformats-officedocument.wordprocessingml.document
+fmt/413,Scalable Vector Graphics Tiny,1.2,svg ,
+fmt/414,Audio Interchange File Format,1.2,aif aiff ,
+fmt/415,Cinema 4D,4.x,c4d ,
+fmt/416,Apple Core Audio Format,1.0,caf ,
+fmt/417,Adobe Illustrator,88,ai ,application/postscript
+fmt/418,Adobe Illustrator,3.0 / 3.2,ai ,application/postscript
+fmt/419,Adobe Illustrator,4.0,ai ,application/postscript
+fmt/420,Adobe Illustrator,5.0 / 5.5,ai ,application/postscript
+fmt/421,Adobe Illustrator,Japan,ai ,application/postscript
+fmt/422,Adobe Illustrator,6.0,ai eps ,application/postscript
+fmt/423,Adobe Illustrator,7.0,ai ,application/postscript
+fmt/424,OpenDocument Database Format,1.2,odb ,
+fmt/425,Video Object File (MPEG-2 subset),,vob ,
+fmt/426,Harris Matrix,,hm ,
+fmt/427,CorelDraw Drawing,12.0,cdr ,
+fmt/428,CorelDraw Drawing,X3,cdr ,
+fmt/429,CorelDraw Drawing,X4,cdr ,
+fmt/430,CorelDraw Drawing,X5,cdr ,
+fmt/431,Corel R.A.V.E.,2,clk ,
+fmt/432,Corel R.A.V.E.,3,clk ,
+fmt/433,Drawing Interchange File Format (ASCII),2007/2008/2009,dxf ,image/vnd.dxf
+fmt/434,AutoCAD Drawing,2010/2011/2012,dwg ,image/vnd.dwg
+fmt/435,Drawing Interchange File Format (ASCII),2010/2011/2012,dxf ,image/vnd.dxf
+fmt/436,Digital Negative Format (DNG),1.0,dng ,image/tiff
+fmt/437,Digital Negative Format (DNG),1.2,dng ,
+fmt/438,Digital Negative Format (DNG),1.3,dng ,image/tiff
+fmt/439,BSDIFF,4.0,bsdiff ,
+fmt/440,Microsoft Project,2007,mpp ,application/vnd.ms-project
+fmt/441,Windows Media Video 9 Advanced Profile (WVC1),9 Advanced Profile (WVC1),wmv ,
+fmt/442,Microsoft Visio (generic),,vsd ,application/vnd.visio
+fmt/443,Microsoft Visio Drawing,2003-2010,vsd ,application/vnd.visio
+fmt/444,OpenDocument Database Format,1.1,odb ,
+fmt/445,Microsoft Excel Macro-Enabled,2007,xlsm ,application/vnd.ms-excel.sheet.macroEnabled.12
+fmt/446,Adobe Portable Document Catalog Index File,2.0,pdx ,
+fmt/447,Adobe Portable Document Catalog Index File,3.0,pdx ,
+fmt/448,Adobe Portable Document Catalog Index File,3.1,pdx ,
+fmt/449,Adobe Portable Document Catalog Index File,3.2,pdx ,
+fmt/450,VectorWorks,12.5,vwx ,application/vnd.vectorworks
+fmt/451,VectorWorks,2009,vwx ,application/vnd.vectorworks
+fmt/452,Acrobat Catalog Cat File,,cat ,
+fmt/453,Verity Collection Stop List,,stp ,
+fmt/454,Verity Collection Index About File,,abt ,
+fmt/455,Verity Collection Index Pending Transaction File,,trn ,
+fmt/456,Verity Collection Index Style Policy,,plc ,
+fmt/457,Verity Collection Document Dataset Descriptor Style Set,,ddd ,
+fmt/458,Verity Collection Document Index Descriptor Style Set,,did ,
+fmt/459,Verity Collection Word List Descriptor Style Set,,wld ,
+fmt/460,Verity Collection Partition Definition Descriptor Style Set,,pdd ,
+fmt/461,Verity Collection Index Descriptor File,,ddd did pdd wld ,
+fmt/462,MS-DOS Compression Format (SZDD Variant),,,
+fmt/463,JPM (JPEG 2000 part 6),,jpm ,image/jpm
+fmt/464,CorelDraw Drawing,5.0,cdr ,
+fmt/465,CorelDraw Drawing,4.0,cdr ,
+fmt/466,CorelDraw Drawing,2.0,cdr ,
+fmt/467,CorelDraw Drawing,1.0,cdr ,
+fmt/468,ISO 9660 Disk Image File,,bin cdr dmg iso toast ,
+fmt/469,MS DOS Compression Format (KWAJ Variant),,,
+fmt/470,Asymetrix Toolbook File,,sbk tbk ,
+fmt/471,Hypertext Markup Language,5,htm html ,text/html
+fmt/472,Sony Digital Voice File/Sony Memory Stick Voice File,,dvf msv ,
+fmt/473,Microsoft Office Owner File,,doc docx ,
+fmt/474,Windows Help File,,hlp ,
+fmt/475,Microsoft Management Console Snap-in Control file,,msc ,
+fmt/476,Acrobat PDF/A - Portable Document Format,2a,pdf ,application/pdf
+fmt/477,Acrobat PDF/A - Portable Document Format,2b,pdf ,application/pdf
+fmt/478,Acrobat PDF/A - Portable Document Format,2u,pdf ,application/pdf
+fmt/479,Acrobat PDF/A - Portable Document Format,3a,pdf ,application/pdf
+fmt/480,Acrobat PDF/A - Portable Document Format,3b,pdf ,application/pdf
+fmt/481,Acrobat PDF/A - Portable Document Format,3u,pdf ,application/pdf
+fmt/482,Apple iBook format,,ibooks ,application/x-ibooks+zip
+fmt/483,ePub format,,epub ,application/epub+zip
+fmt/484,7Zip format,,7z ,
+fmt/485,Rocket Book eBook format,,rb ,
+fmt/486,Macromedia (Adobe) Director Compressed Resource file,,dcr ,
+fmt/487,Macro Enabled Microsoft Powerpoint,2007 Onwards,pptm ,application/vnd.ms-powerpoint.presentation.macroEnabled.12
+fmt/488,Acrobat PDF/X - Portable Document Format - Exchange PDF/X-4,,pdf ,application/pdf
+fmt/489,Acrobat PDF/X - Portable Document Format - Exchange PDF/X-4p,,pdf ,application/pdf
+fmt/490,Acrobat PDF/X - Portable Document Format - Exchange PDF/X-5g,,pdf ,application/pdf
+fmt/491,Acrobat PDF/X - Portable Document Format - Exchange PDF/X-5pg,,pdf ,application/pdf
+fmt/492,Acrobat PDF/X - Portable Document Format - Exchange PDF/X-5n,,pdf ,application/pdf
+fmt/493,Acrobat PDF/E - Portable Document Format for Engineering PDF/E-1,,pdf ,application/pdf
+fmt/494,Microsoft Office Encrypted Document,2007 Onwards,docx pptx xlsx ,
+fmt/495,ATCO-CIF,,cif ,
+fmt/496,TransXchange File Format,,txc ,
+fmt/497,Wireless Bitmap,,wbmp ,image/vnd-wap-wbmp
+fmt/498,ActiveX License Package file,,lpk ,
+fmt/499,VivoActive,,viv ,video/vnd-vivo
+fmt/500,Internet Explorer for Mac cache file,,waf ,
+fmt/501,PostScript,3.1,ps ,application/postscript
+fmt/502,Bentley V8 DGN,,dgn ,
+fmt/503,AppleDouble Resource Fork,2,,multipart/appledouble
+fmt/504,Standard Flowgram Format,,sff ,
+fmt/505,Adobe Flash,8,swf ,application/x-shockwave-flash
+fmt/506,Adobe Flash,9,swf ,application/x-shockwave-flash
+fmt/507,Adobe Flash,10,swf ,application/x-shockwave-flash
+fmt/508,Quarter Inch Cartridge Host Interchange Format,,qic ,
+fmt/509,Adobe PostScript Font Metrics file,,pfm ,
+fmt/510,PowerProject Teamplan,,pdb ,
+fmt/511,PowerProject,7,pp ,
+fmt/512,PowerProject,8,pp ,
+fmt/513,PowerProject,9,pp ,
+fmt/514,PowerProject,10,pp ,
+fmt/515,PowerProject,11,pp ,
+fmt/516,PowerProject,12.0.01,pp ,
+fmt/517,PowerProject,12.0.02+,pp ,
+fmt/518,Broad Band eBook,LRF,lrf ,
+fmt/519,Polynomial Texture Map,,ptm ,
+fmt/520,OpenType Font File,,otf ,font/otf
+fmt/521,Adobe Multiple Master Metrics font file,,mmm ,
+fmt/522,Open Project File,,pod ,
+fmt/523,Macro enabled Microsoft Word Document OOXML,2007 Onwards,docm ,application/vnd.ms-word.document.macroEnabled.12
+fmt/524,Microsoft Office Theme,,thmx ,application/vnd.ms-officetheme
+fmt/525,Adobe Printer Font Binary,,pfb ,
+fmt/526,Adobe Font List,,lst ,
+fmt/527,Broadcast WAVE,2 Generic,wav ,audio/x-wav
+fmt/528,Multiple-image Network Graphics,,mng ,video/x-mng
+fmt/529,JPEG Network Graphics,,jng ,image/x-jng
+fmt/530,eRuby HTML document,,rhtm rhtml ,
+fmt/531,AutoCAD Drawing,2013/2014,dwg ,image/vnd.dwg
+fmt/532,Drawing Interchange File Format (ASCII),2013/2014/2015/2016/2017,dxf ,image/vnd.dxf
+fmt/533,Adobe FrameMaker Document,2.0,fm ,application/vnd.framemaker
+fmt/534,Adobe FrameMaker Document,3.0,fm ,application/vnd.framemaker
+fmt/535,Adobe FrameMaker Document,4.0,fm ,application/vnd.framemaker
+fmt/536,Adobe FrameMaker Document,5.5,fm ,application/vnd.framemaker
+fmt/537,Adobe FrameMaker Document,6.0,fm ,application/vnd.framemaker
+fmt/538,Adobe FrameMaker Document,7.0,fm ,application/vnd.framemaker
+fmt/539,Adobe FrameMaker Document,9.0,fm ,application/vnd.framemaker
+fmt/540,Cinema 4D,5.x,c4d ,
+fmt/541,Digital Moving Picture Exchange Bitmap,2.0,dpx ,
+fmt/542,GEM Metafile Format,1.01,gem ,
+fmt/543,GEM Metafile Format,3.10,gem ,
+fmt/544,Macromedia FreeHand,7,fh7 ,
+fmt/545,Macromedia FreeHand,8,fh8 ,
+fmt/546,Macromedia FreeHand,9,fh9 ,
+fmt/547,Macromedia FreeHand,10,fh10 ,
+fmt/548,Adobe InDesign Document,CS2,ind indd indt ,
+fmt/549,Adobe InDesign Document,CS3,ind indd indt ,
+fmt/550,Adobe InDesign Document,CS4,ind indd indt ,
+fmt/551,Adobe InDesign Document,CS5,ind indd indt ,
+fmt/552,Adobe InDesign Document,CS6,ind indd indt ,
+fmt/553,Microsoft Excel Chart,2.x,xlc ,application/vnd.ms-excel
+fmt/554,Microsoft Excel Chart,3.0,xlc ,application/vnd.ms-excel
+fmt/555,Microsoft Excel Macro,2.x,xlm ,application/vnd.ms-excel
+fmt/556,Microsoft Excel Macro,3.0,xlm ,application/vnd.ms-excel
+fmt/557,Adobe Illustrator,8.0,ai eps ,application/postscript
+fmt/558,Adobe Illustrator,9.0,ai pdf ,application/postscript
+fmt/559,Adobe Illustrator,10.0,ai pdf ,application/postscript
+fmt/560,Adobe Illustrator,11.0,ai pdf ,application/postscript
+fmt/561,Adobe Illustrator,12.0,ai pdf ,application/postscript
+fmt/562,Adobe Illustrator,13.0,ai pdf ,application/postscript
+fmt/563,Adobe Illustrator,14.0,ai pdf ,application/postscript
+fmt/564,Adobe Illustrator,15.0,ai pdf ,application/postscript
+fmt/565,Adobe Illustrator,16.0,ai pdf ,application/postscript
+fmt/566,WebP,Lossy,webp ,
+fmt/567,WebP,Lossless,webp ,
+fmt/568,WebP,Extended,webp ,
+fmt/569,Matroska,1-4,mk3d mka mks mkv ,
+fmt/570,Extensible Metadata Platform Packet,,xmp ,
+fmt/571,Domino XML Document Export,,dxl ,
+fmt/572,Domino XML Database Export,,dxl ,
+fmt/573,WebM,,webm ,video/webm
+fmt/574,Digital Imaging and Communications in Medicine File Format,,dcm ,application/dicom
+fmt/575,GraphPad Prism,1-3,pzm ,
+fmt/576,GraphPad Prism,4,pzf ,
+fmt/577,Image Cytometry Standard,1,ics ,
+fmt/578,Image Cytometry Standard,2,ics ,
+fmt/579,X3D,3.0,x3d ,
+fmt/580,X3D,3.1,x3d ,
+fmt/581,X3D,3.2,x3d ,
+fmt/582,X3D,3.3,x3d ,
+fmt/583,Vector Markup Language,,htm html vml ,
+fmt/584,Windows Media Metafile,,asx wax wmx wvx ,
+fmt/585,MPEG-2 Transport Stream,,m2t m2ts ts ,
+fmt/586,LifeTechnologies SDS,,sds ,
+fmt/587,LifeTechnologies ABIF,,abif ,
+fmt/588,Redcode RAW (R3D) Media File,1,r3d ,
+fmt/589,Windows Media Playlist,,wpl ,application/vnd.ms-wpl
+fmt/590,JPEG Extended Range,,jxr wdp ,image/jxr
+fmt/591,Radiance RGBE Image Format,,hdr pic rgbe xyze ,image/vnd.radiance
+fmt/592,Canon RAW,2.0,cr2 ,
+fmt/593,Canon RAW,1.0,crw ,
+fmt/594,Microsoft PhotoDraw,1.0,mix ,image/vnd.mix
+fmt/595,Microsoft Excel Non-XML Binary Workbook,2007 onwards,xlsb ,application/vnd.ms-excel.sheet.binary.macroEnabled.12
+fmt/596,Apple Lossless Audio Codec,,m4a mp4 ,
+fmt/597,Microsoft Word Template,2007 onwards,dotx ,application/vnd.openxmlformats-officedocument.wordprocessingml.template
+fmt/598,Microsoft Excel Template,2007 onwards,xltx ,application/vnd.openxmlformats-officedocument.spreadsheetml.template
+fmt/599,Microsoft Word Macro-Enabled Document Template,2007 onwards,dotm ,application/vnd.ms-word.template.macroEnabled.12
+fmt/600,eXtensible ARchive format,,xar ,
+fmt/601,Statistical Analysis System Catalogue XPT (Windows),9.1,xpt ,
+fmt/602,Statistical Analysis System Catalogue XPT (Unix),9.1,xpt ,
+fmt/603,Statistical Analysis System Data XPT (Windows),9.1,xpt ,
+fmt/604,Statistical Analysis System Data XPT (Unix),9.1,xpt ,
+fmt/605,Statistical Analysis System Catalog (Windows),9.1,sas7bcat sc7 ,
+fmt/606,Statistical Analysis System Catalog (Unix),9.1,sas7bcat sc7 ,
+fmt/607,Statistical Analysis System Data (Windows),9.1,sas7bdat sd7 ,
+fmt/608,Statistical Analysis System Data (Unix),9.1,sas7bdat sd7 ,
+fmt/609,Microsoft Word (Generic),6.0-2003,doc ,application/msword
+fmt/610,ARJ File Format,,arj ,
+fmt/611,LDAP Data Interchange Format,,ldif ,
+fmt/612,Mork,,dat mab msf ,
+fmt/613,RAR Archive,5.0,rar ,application/vnd.rar
+fmt/614,Windows Imaging Format,,swm wim ,
+fmt/615,Gimp Image File Format,,xcf ,
+fmt/616,Web Open Font Format,1.0,woff ,font/woff
+fmt/617,GeoGebra,2,ggb ,application/vnd.geogebra.file
+fmt/618,GeoGebra,1.0,geo ,application/vnd.geogebra.file
+fmt/619,GeoGebra,1.x,ggb ,application/vnd.geogebra.file
+fmt/620,GeoGebra,3,ggb ,application/vnd.geogebra.file
+fmt/621,GeoGebra,4,ggb ,application/vnd.geogebra.file
+fmt/622,GeoGebra,5,ggb ,application/vnd.geogebra.file
+fmt/623,SmartDraw,,sdr ,
+fmt/624,RIFF Palette Format,,pal ,
+fmt/625,Apple Disk Copy Image,4.2,dmg image img smi ,
+fmt/626,LHA File Format,,lha lzh ,
+fmt/627,Microsoft Excel Macro-Enabled Template,2007,xltm ,application/vnd.ms-excel.template.macroEnabled.12
+fmt/628,Microsoft Excel Macro-Enabled Add-In,2007,xlam ,application/vnd.ms-excel.addin.macroEnabled.12
+fmt/629,Microsoft PowerPoint Show,2007,ppsx ,application/vnd.openxmlformats-officedocument.presentationml.slideshow
+fmt/630,Microsoft PowerPoint Macro-Enabled Show,2007,ppsm ,application/vnd.ms-powerpoint.slideshow.macroEnabled.12
+fmt/631,Microsoft PowerPoint Template,2007,potx ,application/vnd.openxmlformats-officedocument.presentationml.template
+fmt/632,Microsoft PowerPoint Macro-Enabled Template,2007,potm ,application/vnd.ms-powerpoint.template.macroEnabled.12
+fmt/633,Microsoft PowerPoint Macro-Enabled Add-In,2007,ppam ,application/vnd.ms-powerpoint.addin.macroEnabled.12
+fmt/634,Microsoft Compiled HTML Help,,chm chw ,application/vnd.ms-htmlhelp
+fmt/635,CPIO,,cpio ,
+fmt/636,Microsoft PowerPoint Macro-Enabled Slide,2007,sldm ,application/vnd.ms-powerpoint.slide.macroEnabled.12
+fmt/637,Microsoft OneNote,,one ,application/msonenote
+fmt/638,SPSS Data File,,sav ,
+fmt/639,Stuffit Archive File,5,sit ,application/x-stuffit
+fmt/640,MPEG-2 Elementary Stream,,m2v mpeg mpg ,
+fmt/641,Epson Raw Image Format,,erf ,
+fmt/642,Fujifilm RAW Image Format,,raf ,
+fmt/643,ASTM E57 3D File Format,,e57 ,model/e57
+fmt/644,Nullsoft Scriptable Install System,,nsi ,
+fmt/645,Exchangeable Image File Format (Compressed),2.2.1,jpeg jpg ,image/jpeg
+fmt/646,Apple iWork Keynote,09,key ,
+fmt/647,Microsoft Expression Media,2,ivc ,
+fmt/648,Media View Pro,,mpcatalog ,
+fmt/649,MPEG-1 Elementary Stream,,m1v mpeg mpg ,
+fmt/650,QuarkXPress Report File,,qxp report qxp%20report xtg ,application/vnd.Quark.QuarkXPress
+fmt/651,QuarkXPress Project,10,qpt qwd qxp ,application/vnd.Quark.QuarkXPress
+fmt/652,QuarkXPress Project,6,qpt qwd qxp ,application/vnd.Quark.QuarkXPress
+fmt/653,INTERLIS Transfer File,2.3,xtf ,
+fmt/654,INTERLIS Model File,2.3,ili ,
+fmt/655,KryoFlux,2,raw ,
+fmt/656,KryoFlux,2.2,raw ,
+fmt/657,Open XML Paper Specification,,xps ,application/oxps
+fmt/658,Cypher Query Language,,cql ,
+fmt/659,Industry Foundation Classes,2x2,ifc ,
+fmt/660,Adobe Type 1 Mac Font File,,,
+fmt/661,Sigma RAW Image,,x3f ,
+fmt/662,Panasonic Raw,,rw2 ,
+fmt/663,Industry Foundation Classes XML,,ifcXML ,
+fmt/664,Gerber Format,,gbr ,application/vnd.gerber
+fmt/665,Chasys Draw image file,,cd5 ,
+fmt/666,ART image format,,art ,
+fmt/667,Photoshop Curve File,,acv atf ,
+fmt/668,Olympus RAW,,orf ,
+fmt/669,Minolta RAW,,mrw ,
+fmt/670,PKCS #7 Cryptographic Message File,,p7b p7m p7s ,application/pkcs7-mime application/pkcs7-signature
+fmt/671,Serif PagePlus Publication,Generic,ppp ,
+fmt/672,Serif PagePlus Publication,4,ppp ,
+fmt/673,Serif PagePlus Publication,5,ppp ,
+fmt/674,Serif PagePlus Publication,6,ppp ,
+fmt/675,Serif PagePlus Publication,7,ppp ,
+fmt/676,Serif PagePlus Publication,8,ppp ,
+fmt/677,Serif PagePlus Publication,9,ppp ,
+fmt/678,Serif PagePlus Publication,10,ppp ,
+fmt/679,Serif PagePlus Publication,11,ppp ,
+fmt/680,Serif PagePlus Publication,12,ppp ,
+fmt/681,Serif PagePlus Publication,Home Office,ppp ,
+fmt/682,Thumbs DB file,XP,db ,application/vnd.microsoft.windows.thumbnail-cache
+fmt/683,Advanced Function Presentation,,afp ,
+fmt/684,Vectorworks,2015,vwx ,application/vnd.vectorworks
+fmt/685,QuarkXPress Project,9,qpt qwd qxp ,application/vnd.Quark.QuarkXPress
+fmt/686,Vectorworks,2010,vwx ,application/vnd.vectorworks
+fmt/687,Better Portable Graphics,,bpg ,
+fmt/688,Executable and Linkable Format,32bit Little Endian,elf o ,
+fmt/689,Executable and Linkable Format,32bit Big Endian,elf o ,
+fmt/690,Executable and Linkable Format,64bit Little Endian,elf o ,
+fmt/691,Executable and Linkable Format,64bit Big Endian,elf o ,
+fmt/692,Mach-O,32bit,,
+fmt/693,Mach-O,64bit,,
+fmt/694,Dalvik Executable Format,,dex ,
+fmt/695,Optimised Dalvik Executable Format,,odex ,
+fmt/696,Sibelius,,sib ,
+fmt/697,Additive Manufacturing File Format,,amf ,
+fmt/698,Standard for the Exchange of Product model data,,p21 step stp ,
+fmt/699,Industry Foundation Classes,2x3,ifc ,
+fmt/700,Industry Foundation Classes,4,ifc ,
+fmt/701,Processing Development Environment,,pde ,
+fmt/702,Universal 3D File Format,,u3d ,
+fmt/703,Broadcast WAVE,0 PCM Encoding,wav ,audio/x-wav
+fmt/704,Broadcast WAVE,1 PCM Encoding,wav ,audio/x-wav
+fmt/705,Broadcast WAVE,2 PCM Encoding,wav ,audio/x-wav
+fmt/706,Broadcast WAVE,0 MPEG Encoding,wav ,audio/x-wav
+fmt/707,Broadcast WAVE,1 MPEG Encoding,wav ,audio/x-wav
+fmt/708,Broadcast WAVE,2 MPEG Encoding,wav ,audio/x-wav
+fmt/709,Broadcast WAVE,0 WAVEFORMATEXTENSIBLE Encoding,rf64 wav ,audio/x-wav
+fmt/710,Broadcast WAVE,1 WAVEFORMATEXTENSIBLE Encoding,rf64 wav ,audio/x-wav
+fmt/711,Broadcast WAVE,2 WAVEFORMATEXTENSIBLE Encoding,wav ,audio/x-wav
+fmt/712,RF64,,rf64 wav ,
+fmt/713,RF64 Multichannel Broadcast Wave format,,rf64 wav ,
+fmt/714,Extensible Music Format,,mxmf xmf ,
+fmt/715,Impulse Tracker Module,,it ,
+fmt/716,MOD Audio Module,,mod ,
+fmt/717,Scream Tracker Module,1-2,stm ,
+fmt/718,Scream Tracker Module,3,s3m ,
+fmt/719,MultiTracker Module,,mtm ,
+fmt/720,MBOX,,mbox ,application/mbox
+fmt/721,VLW Font File,,vlw ,
+fmt/722,Oktalyzer Audio file,,okt ,
+fmt/723,Farandole Composer Module,,far ,
+fmt/724,Keyhole Markup Language (Container),,kmz ,application/vnd.google-earth.kmz
+fmt/725,Microsoft Project,2010,mpp ,application/vnd.ms-project
+fmt/726,Virtual Disk Image,,vdi ,
+fmt/727,Cartesian Perceptual Compression image format,,cpc cpi ,
+fmt/728,RealLegal E-Transcript,,ptx ,
+fmt/729,SQLite Database File Format,3,db db3 sqlite sqlite3 ,application/x-sqlite3
+fmt/730,Digital Negative Format (DNG),1.4,dng ,image/tiff
+fmt/731,Bink Video Format,1,bik ,
+fmt/732,Bink Video Format,2,bik2 bk2 ,video/vnd.radgamettools.bink
+fmt/733,FL Studio project file (FLP),,flp ,
+fmt/734,SuperScape Virtual Reality Format,,svr ,
+fmt/735,Dolby Digital AC-3,,ac3 ,audio/ac3
+fmt/736,ClarisWorks,1 (generic),cwk ,
+fmt/737,ClarisWorks,2-3 (generic),cwk ,
+fmt/738,ClarisWorks Drawing,4,cwk ,
+fmt/739,ClarisWorks Word Processor,4,cwk ,
+fmt/740,ClarisWorks Spreadsheet,4,cwk ,
+fmt/741,ClarisWorks Database,4,cwk ,
+fmt/742,ClarisWorks Painting,4,cwk ,
+fmt/743,ClarisWorks/AppleWorks Drawing,5,cwk ,
+fmt/744,ClarisWorks/AppleWorks Word Processor,5,cwk ,
+fmt/745,ClarisWorks/AppleWorks Spreadsheet,5,cwk ,
+fmt/746,ClarisWorks/AppleWorks Database,5,cwk ,
+fmt/747,ClarisWorks/AppleWorks Painting,5,cwk ,
+fmt/748,AppleWorks Drawing,6,cwk ,
+fmt/749,AppleWorks Word Processor,6,cwk ,
+fmt/750,AppleWorks Spreadsheet,6,cwk ,
+fmt/751,AppleWorks Database,6,cwk ,
+fmt/752,AppleWorks Painting,6,cwk ,
+fmt/753,AppleWorks Presentation,6,cwk ,
+fmt/754,Microsoft Word Document (Password Protected),97-2003,doc wbk ,application/msword
+fmt/755,Microsoft Word Document Template (Password Protected),97-2003,dot ,application/msword
+fmt/756,Zope export file,,zexp ,
+fmt/757,Adobe Flash,11,swf ,application/x-shockwave-flash
+fmt/758,Adobe Flash,12,swf ,application/x-shockwave-flash
+fmt/759,Adobe Flash,13,swf ,application/x-shockwave-flash
+fmt/760,Adobe Flash,14,swf ,application/x-shockwave-flash
+fmt/761,Adobe Flash,15,swf ,application/x-shockwave-flash
+fmt/762,Adobe Flash,16,swf ,application/x-shockwave-flash
+fmt/763,Adobe Flash,17,swf ,application/x-shockwave-flash
+fmt/764,Adobe Flash,18,swf ,application/x-shockwave-flash
+fmt/765,Adobe Flash,19,swf ,application/x-shockwave-flash
+fmt/766,Adobe Flash,20,swf ,application/x-shockwave-flash
+fmt/767,Adobe Flash,21,swf ,application/x-shockwave-flash
+fmt/768,Adobe Flash,22,swf ,application/x-shockwave-flash
+fmt/769,Adobe Flash,23,swf ,application/x-shockwave-flash
+fmt/770,Adobe Flash,24,swf ,application/x-shockwave-flash
+fmt/771,Adobe Flash,25,swf ,application/x-shockwave-flash
+fmt/772,Adobe Flash,26,swf ,application/x-shockwave-flash
+fmt/773,Adobe Flash,27,swf ,application/x-shockwave-flash
+fmt/774,Adobe Flash,28,swf ,application/x-shockwave-flash
+fmt/775,Adobe Flash,29,swf ,application/x-shockwave-flash
+fmt/776,Adobe Flash,30,swf ,application/x-shockwave-flash
+fmt/777,Microsoft Network Monitor Packet Capture,1,cap ,
+fmt/778,Microsoft Network Monitor Packet Capture,2,cap ,
+fmt/779,pcap Packet Capture,,cap dmp pcap ,application/vnd.tcpdump.pcap
+fmt/780,pcap Next Generation Packet Capture,,pcapng ,application/vnd.tcpdump.pcap
+fmt/781,Snoop Packet Capture,,snoop ,
+fmt/782,PowerVR Object Data,,pod ,
+fmt/783,Material Exchange Format,Operational Pattern 1b,mxf ,application/mxf
+fmt/784,Material Exchange Format,Operational Pattern 1c,mxf ,application/mxf
+fmt/785,Material Exchange Format,Operational Pattern 2a,mxf ,application/mxf
+fmt/786,Material Exchange Format,Operational Pattern 2b,mxf ,application/mxf
+fmt/787,Material Exchange Format,Operational Pattern 2c,mxf ,application/mxf
+fmt/788,Material Exchange Format,Operational Pattern 3a,mxf ,application/mxf
+fmt/789,Material Exchange Format,Operational Pattern 3b,mxf ,application/mxf
+fmt/790,Material Exchange Format,Operational Pattern 3c,mxf ,application/mxf
+fmt/791,Material Exchange Format,Operational Pattern OP-ATOM,mxf ,application/mxf
+fmt/792,Unified Emulator Format,,hq.uef uef ,
+fmt/793,RPM Package Manager file,1,rpm src.rpm ,
+fmt/794,RPM Package Manager file,2,rpm src.rpm ,
+fmt/795,RPM Package Manager file,3,rpm src.rpm ,
+fmt/796,Adobe After Effects,,aep ,
+fmt/797,Apple ProRes,,mov ,
+fmt/798,The Neuroimaging Informatics Technology Initiative File Format,1,nii ,
+fmt/799,WriteNow,,,
+fmt/800,CSV Schema,,csvs ,text/csv-schema
+fmt/801,TAP (ZX Spectrum),,tap ,
+fmt/802,TAP (Commodore 64),,tap ,
+fmt/803,Encase Image File Format/Expert Witness Compression Format,,e01 ,application/encase
+fmt/804,Logical File Evidence Format,,l01 ,
+fmt/805,XAML Binary Format,,xbf ,
+fmt/806,MATLAB Mat File,Level 5,fig mat ,
+fmt/807,HDF5,0,h5 hdf hdf5 nc ,
+fmt/808,StarOffice Calc,3.x,sdc ,
+fmt/809,StarOffice Calc,4.x,sdc ,
+fmt/810,StarOffice Draw,3.x,sdd ,
+fmt/811,StarOffice Draw,4.x,sdd ,
+fmt/812,StarOffice Writer,3.x,sdw ,
+fmt/813,StarOffice Writer,4.x,sdw ,
+fmt/814,StarOffice Impress,3.x,sdd ,
+fmt/815,StarOffice Impress,4.x,sdd ,
+fmt/816,NUT Open Container Format,,nut ,
+fmt/817,JSON Data Interchange Format,,json ,application/json
+fmt/818,YAML,,yaml yml ,
+fmt/819,CD-ROM/XA (eXtended Architecture),,dat ,
+fmt/820,T64 Tape Image Format,,t64 ,
+fmt/821,G64 GCR-encoded Disk Image Format,,g41 g64 g71 ,
+fmt/822,CRT C64 Cartridge Image Format,,crt ,
+fmt/823,P00 C64 Image Format,,p00 p01 p02 p03 p04 ,
+fmt/824,Apple iWork Pages,Generic,pages ,
+fmt/825,Apple iWork Numbers,Generic,numbers ,
+fmt/826,Scriptware Script Format,,sw3 ,
+fmt/827,Serif DrawPlus Drawing,3,dpp ,
+fmt/828,MATLAB Mat File,Level 7.3,fig mat ,
+fmt/829,3MF 3D Manufacturing Format,,3mf ,application/vnd.ms-3mfdocument
+fmt/830,Qsplat Model,,qs ,
+fmt/831,Polygon File Format,,ply ,
+fmt/832,Open Inventor File Format,1.x,iv ,
+fmt/833,Open Inventor File Format,2.x,iv ,
+fmt/834,Quattro Pro Spreadsheet for Windows,1/5,wb1 ,
+fmt/835,Quattro Pro Spreadsheet for Windows,6,wb2 ,
+fmt/836,Quattro Pro Spreadsheet,7-8,wb3 ,
+fmt/837,Quattro Pro Spreadsheet,9 onwards,qpw ,
+fmt/838,Outlook Express Message Database,,dbx ,
+fmt/839,Outlook Express Folder Database,,dbx ,
+fmt/840,ADX Audio Format,,adx ,
+fmt/841,Interleaved ADX Audio Format (AIX),,aix ,
+fmt/842,AccessData Custom Content Image,,ad1 ad2 ad3 ad4 ad5 ,
+fmt/843,AccessData Custom Content Image (Encrypted),,ad1 ad2 ad3 ad4 ad5 ,
+fmt/844,Advanced Forensic Format,,aff ,
+fmt/845,ClarisWorks Drawing,2-3,cwk ,
+fmt/846,ClarisWorks Word Processor,2-3,cwk ,
+fmt/847,ClarisWorks Spreadsheet,2-3,cwk ,
+fmt/848,ClarisWorks Database,2-3,cwk ,
+fmt/849,ClarisWorks Painting,2-3,cwk ,
+fmt/850,NuFile Exchange Archival Library,,bxy sdk shk ,
+fmt/851,Genealogical Data Communication (GEDCOM) Format,,ged ,
+fmt/852,Serif DrawPlus Drawing,4,dpp ,
+fmt/853,Serif DrawPlus Drawing,5,dpp ,
+fmt/854,Personal Ancestral File (PAF),3,paf ,
+fmt/855,Personal Ancestral File (PAF),4,paf ,
+fmt/856,Personal Ancestral File (PAF),5,paf ,
+fmt/857,Navisworks Document,Generic,nwc nwd ,
+fmt/858,Navisworks Document,2010,nwc nwd ,
+fmt/859,Navisworks Document,2011,nwc nwd ,
+fmt/860,Navisworks Document,2012,nwc nwd ,
+fmt/861,Maya Binary File Format,32 Bit,mb ,
+fmt/862,Maya Binary File Format,64 Bit,mb ,
+fmt/863,Maya ASCII File Format,,ma ,
+fmt/864,3DM,5,3dm ,
+fmt/865,STL (Standard Tessellation Language) Binary,,stl ,
+fmt/866,Apple Safari Webarchive,,webarchive ,
+fmt/867,Microsoft Reader eBook,,lit ,
+fmt/868,MySQL Table Definition Format,,frm ,
+fmt/869,CDX Internet Archive Index,,cdx ,
+fmt/870,Perl Script,,pl ,
+fmt/871,Adobe Content Server Message File,,acsm ,application/vnd.adobe.adept+xml
+fmt/872,Free Lossless Image Format (FLIF),,flif ,image/flif
+fmt/873,Notation3,,n3 ,text/n3
+fmt/874,Turtle,,ttl ,text/turtle
+fmt/875,RDF/XML,,rdf ,application/rdf+xml
+fmt/876,Pagemaker Document (Generic),,p65 pmd pmt ,application/vnd.pagemaker
+fmt/877,Corel Presentation,7-8-9,shw ,
+fmt/878,Corel Presentation,3,shw ,
+fmt/879,Fortran,,f f03 f90 f95 for ,
+fmt/880,JSON-LD,,jsonld ,
+fmt/881,Microsoft Document Imaging File Format,,mdi ,image/vnd.ms-modi
+fmt/882,Wordstar 2000,1,,
+fmt/883,Siegfried Signature File,,sig ,
+fmt/884,AXD HTTP Handler File,,axd ,
+fmt/885,BASIC File,,bas ,
+fmt/886,HTML Components,,htc ,
+fmt/887,SafeGuard Encrypted Virtual Disk,,hdr vol ,
+fmt/888,QuadriSpace Format,,qsd qsl qsm qst ,
+fmt/889,Feather,,feather ,
+fmt/890,AbiWord Document,,abw ,
+fmt/891,AbiWord Document Template,,awt ,
+fmt/892,Compound WordPerfect for Windows Document,6 onwards,doc w60 wp wp6 wpd ,application/vnd.wordperfect
+fmt/893,i2 Analysts Notebook,,anb ,
+fmt/894,Gaussian Input Data File,,gjf ,
+fmt/895,JEOL NMR Spectroscopy,,jdf ,
+fmt/896,MusicXML,,musicxml xml ,application/vnd.recordare.musicxml+xml
+fmt/897,Compressed MusicXML,,mxl ,application/vnd.recordare.musicxml
+fmt/898,Zoomify Image Format,,zif ,
+fmt/899,Windows Portable Executable,32 bit,dll exe sys ,application/vnd.microsoft.portable-executable
+fmt/900,Windows Portable Executable,64 bit,dll exe sys ,application/vnd.microsoft.portable-executable
+fmt/901,Microsoft Works Spreadsheet,6-9,xlr ,
+fmt/902,Blender 3D,32 bit,blend ,
+fmt/903,Blender 3D,64 bit,blend ,
+fmt/904,Bluetooth Snoop Packet Capture,,log ,
+fmt/905,Variant Call Format,1.x,vcf ,
+fmt/906,Variant Call Format,2.x,vcf ,
+fmt/907,Variant Call Format,3.x,vcf ,
+fmt/908,Variant Call Format,4.x,vcf ,
+fmt/909,CRAM File Format,1.x,cram ,
+fmt/910,CRAM File Format,2.x,cram ,
+fmt/911,CRAM File Format,3.x,cram ,
+fmt/912,Microsoft Paint,2,msp ,
+fmt/913,Caligari trueSpace File Format,ASCII,cob scn ,
+fmt/914,Caligari trueSpace File Format,Binary,cob scn ,
+fmt/915,Mapsforge Binary Map File Format,,map ,
+fmt/916,ESRI ArcMap Document,,mxd mxt ,
+fmt/917,AmiraMesh,ASCII 1.0,am amiramesh hx ,
+fmt/918,AmiraMesh,3D ASCII 2.0,am amiramesh hx ,
+fmt/919,AmiraMesh,3D Binary 2.0,am amiramesh hx ,
+fmt/920,AmiraMesh,3D Binary Little Endian 2.0,am amiramesh hx ,
+fmt/921,AmiraMesh,Binary Little Endian 2.1,am amiramesh hx ,
+fmt/922,Xar Image Format,,xar ,
+fmt/923,Microsoft xWMA,,xwma ,
+fmt/924,Microsoft Visio Drawing,2013,vsdx ,application/vnd.ms-visio.drawing.main+xml
+fmt/925,Microsoft Visio Stencil,2013,vssx ,application/vnd.ms-visio.stencil.main+xml
+fmt/926,Microsoft Visio Template,2013,vstx ,application/vnd.ms-visio.template.main+xml
+fmt/927,Microsoft Visio Macro-Enabled Drawing,2013,vsdm ,application/vnd.ms-visio.drawing.macroEnabled.main+xml
+fmt/928,Microsoft Visio Macro-Enabled Stencil,2013,vssm ,application/vnd.ms-visio.stencil.macroEnabled.main+xml
+fmt/929,Microsoft Visio Macro-Enabled Template,2013,vstm ,application/vnd.ms-visio.template.macroEnabled.main+xml
+fmt/930,Magick Image File Format,,mif ,
+fmt/931,Mathcad Document,Binary,mcd ,
+fmt/932,Mathcad Document,XML,xmcd ,
+fmt/933,Simple Vector Format,1,svf ,image/vnd-svf
+fmt/934,Simple Vector Format,2,svf ,image/vnd-svf
+fmt/935,Animated Portable Network Graphics,,apng png ,image/vnd.mozilla.apng
+fmt/936,Microsoft Picture It! Image File,1,mix ,image/vnd.mix
+fmt/937,Adobe Air,1.0,air ,application/vnd.adobe.air-application-installer-package+zip
+fmt/938,Python Script File,,py ,
+fmt/939,Python Compiled File,2.7,pyc ,
+fmt/940,Python Compiled File,3.4,pyc ,
+fmt/941,Back Up File,,bak ,
+fmt/942,Adobe Air,1.5,air ,application/vnd.adobe.air-application-installer-package+zip
+fmt/943,Adobe Air,2.0,air ,application/vnd.adobe.air-application-installer-package+zip
+fmt/944,Ogg Multimedia Container,,ogg ogv opus spx ,application/ogg
+fmt/945,Ogg Theora Video,,ogg ogv ,video/ogg
+fmt/946,Ogg Opus Codec Compressed Multimedia File,,ogg opus ,audio/ogg audio/opus
+fmt/947,Ogg FLAC Compressed Multimedia File,,ogg ,audio/ogg
+fmt/948,Ogg Speex Codec Multimedia File,,ogg spx ,audio/ogg audio/speex
+fmt/949,WordPerfect,4.0/4.1/4.2,wp4 wpd ,application/vnd.wordperfect
+fmt/950,MIME Email,1.0,eml ,message/rfc822
+fmt/951,Sonic Foundry WAVE 64,,w64 wav ,
+fmt/952,True Audio,1,tta ,audio/tta
+fmt/953,True Audio,2,tta ,audio/tta
+fmt/954,Adaptive Multi-Rate Wideband Audio,,awb ,audio/amr-wb
+fmt/955,Downloadable Sounds Audio,,dls ,audio/dls
+fmt/956,RIFF-based MIDI,,rmi ,
+fmt/957,DirectMusic Segment File Format,,sgt ,
+fmt/958,DirectMusic Style File Format,,sty ,
+fmt/959,Portable Sound Format,,gsf gsflib minigsf minipsf minipsf1 psf psf1 psflib ,
+fmt/960,DOS Sound and Music Interface Advanced Module Format,,amf ,
+fmt/961,Mobile eXtensible Music Format,,mxmf ,audio/mobile-xmf
+fmt/962,QCP Audio File Format,,qcp ,audio/qcelp
+fmt/963,OMNIC Spectral Data File,,spa ,
+fmt/964,Final Draft Document,5-7,fdr ,
+fmt/965,Music Encoding Initiative,,mei ,
+fmt/966,AppleDouble Resource Fork,1,,multipart/appledouble
+fmt/967,AppleSingle,1,as ,application/applefile
+fmt/968,AppleSingle,2,as ,application/applefile
+fmt/969,Rich Text Format,0,rtf ,application/rtf
+fmt/970,Khronos Texture File,,ktx ,image/ktx
+fmt/971,Microsoft Windows Movie Maker File,,mswmm ,
+fmt/972,Dolby MLP Lossless Audio,,mlp ,audio/vnd.dolby.mlp
+fmt/973,DTS Coherent Acoustics (DCA) Audio,,dts ,audio/vnd.dts
+fmt/974,Notation Interchange File Format,,nif ,application/vnd.music-niff
+fmt/975,Jamcracker Tracker Module,,jam ,
+fmt/976,MagicaVoxel Vox format,,vox ,
+fmt/977,AutoCAD Design Web Format(DWFx),,dwfx ,
+fmt/978,3DS Max,,chr max ,
+fmt/979,XML Property List,,plist ,
+fmt/980,AAE Sidecar Format,,aae ,
+fmt/981,EazyDraw File Format,,ezdraw ,
+fmt/982,iMovieProj File Format,,iMovieProj ,
+fmt/983,NIB File Format,,nib ,
+fmt/984,Binary Property List,,aae ezdraw iMovieProj nib plist ,
+fmt/985,Valve Texture Format,,vtf ,image/vnd.valve.source.texture
+fmt/986,Extensible Metadata Platform Format,,xmp ,
+fmt/987,Microsoft OneNote Package File,,onepkg ,
+fmt/988,ESRI ArcScene Document,,sxd ,
+fmt/989,ESRI ArcGlobe Document,,3dd ,
+fmt/990,ESRI File Geodatabase,,,
+fmt/991,SHA256 File,,sha256 ,
+fmt/992,SHA1 File,,sha1 ,
+fmt/993,MD5 File,,md5 ,
+fmt/994,Jeffs Image Format,,jif ,
+fmt/995,SIARD (Software-Independent Archiving of Relational Databases),2.0,siard ,
+fmt/996,Adobe Photoshop Large Document Format,,psb ,image/vnd.adobe.photoshop
+fmt/997,SPSS Portable Data Format,,por ,
+fmt/998,OpenRaster Image Format,,ora ,image/openraster
+fmt/999,Krita Document Format,,kra ,application/x-krita
+fmt/1000,TZX Format,,tzx ,
+fmt/1001,OpenEXR,2,exr ,image/x-exr
+fmt/1002,Nearly Raw Raster Data,1,nrrd ,
+fmt/1003,Nearly Raw Raster Data,2,nrrd ,
+fmt/1004,Nearly Raw Raster Data,3,nrrd ,
+fmt/1005,Nearly Raw Raster Data,4,nrrd ,
+fmt/1006,Nearly Raw Raster Data,5,nrrd ,
+fmt/1007,Digital Speech Standard,,dss ,
+fmt/1008,DSS Pro,,ds2 ,
+fmt/1009,FBX (Filmbox) Binary,,,
+fmt/1010,FBX (Filmbox) Text,,fbx ,
+fmt/1011,INTERLIS Transfer File,2.2,xml xtf ,
+fmt/1012,INTERLIS Model File,2.2,ili ,
+fmt/1013,INTERLIS Transfer File,1,itf ,
+fmt/1014,INTERLIS Model File,1,ili ,
+fmt/1015,Statistical Analysis System Data (Windows),Generic,sas7bdat sd7 ,
+fmt/1016,Statistical Analysis System Data (Unix),Generic,sas7bdat sd7 ,
+fmt/1017,Statistical Analysis System Data (Windows),8.2,sas7bdat sd7 ,
+fmt/1018,Statistical Analysis System Data (Unix),8.2,sas7bdat sd7 ,
+fmt/1019,Statistical Analysis System Data (Windows),9.2,sas7bdat sd7 ,
+fmt/1020,Statistical Analysis System Data (Unix),9.2,sas7bdat sd7 ,
+fmt/1021,Statistical Analysis System Data (Windows),9.3,sas7bdat sd7 ,
+fmt/1022,Statistical Analysis System Data (Unix),9.3,sas7bdat sd7 ,
+fmt/1023,Statistical Analysis System Catalog (Windows),Generic,sas7bcat sc7 ,
+fmt/1024,Statistical Analysis System Catalog (Unix),Generic,sas7bcat sc7 ,
+fmt/1025,Statistical Analysis System Catalog (Windows),9.2,sas7bcat sc7 ,
+fmt/1026,Statistical Analysis System Catalog (Unix),9.2,sas7bcat sc7 ,
+fmt/1027,Statistical Analysis System Catalog (Windows),9.3,sas7bcat sc7 ,
+fmt/1028,Statistical Analysis System Catalog (Unix),9.3,sas7bcat sc7 ,
+fmt/1029,Stata Data (DTA) Format,104,dta ,
+fmt/1030,Stata Data (DTA) Format,105,dta ,
+fmt/1031,Stata Data (DTA) Format,110,dta ,
+fmt/1032,Stata Data (DTA) Format,111,dta ,
+fmt/1033,Stata Data (DTA) Format,113,dta ,
+fmt/1034,Stata Data (DTA) Format,114,dta ,
+fmt/1035,Stata Data (DTA) Format,115,dta ,
+fmt/1036,Stata Data (DTA) Format,117,dta ,
+fmt/1037,Stata Data (DTA) Format,118,dta ,
+fmt/1038,Redcode RAW (R3D) Media File,2,r3d ,
+fmt/1039,Redcode Metadata (RMD) File,,rmd ,
+fmt/1040,DirectDraw Surface,,dds ,
+fmt/1041,HDF,1-4,h4 hdf ,
+fmt/1042,WordPerfect Graphics Metafile,2.0,wpg ,
+fmt/1043,Microsoft PRX File,,prx ,
+fmt/1044,AutoShade Rendering Slide,,rnd ,
+fmt/1045,Q&A Word Processor Document,,,
+fmt/1046,Draco File Format,,drc ,
+fmt/1047,Geography Markup Language,3.2,gml ,application/gml+xml
+fmt/1048,OGR GFS File,,gfs ,
+fmt/1049,QuickDraw 3D Metafile (ASCII),,3dmf ,
+fmt/1050,QuickDraw 3D Metafile (Binary),1,3dmf ,
+fmt/1051,Windows Journal Format,,jnt jtp ,
+fmt/1052,BKNAS Seismic Data Format,1.0,bknas ,
+fmt/1053,Adobe Audio Waveform,,pek ,
+fmt/1054,AVCHD Clip Information File,,clpi cpi ,
+fmt/1055,M2TS,,m2ts mts ,
+fmt/1056,SNAP Main Data File,,mdf ,
+fmt/1057,SNAP Archive Data File,,adf ,
+fmt/1058,SNAP Processed Data File,,snpdf ,
+fmt/1059,FileMaker Pro Database,2,fm ,
+fmt/1060,Phase One Raw Image,,cap capture ,
+fmt/1061,Phase One IIQ Raw Image,,iiq ,
+fmt/1062,Hasselblad 3FR Raw Image,,3fr ,
+fmt/1063,Leaf Mosaic Raw Image,,mos ,
+fmt/1064,Portable Database,1,pdb ,
+fmt/1065,Portable Database,2,pdb ,
+fmt/1066,Portable Database,3,pdb ,
+fmt/1067,Silo,PDB Variant,silo ,
+fmt/1068,Silo,HDF5 Variant,silo ,
+fmt/1069,Cue Sheet,,cue ,
+fmt/1070,Preferred Executable Format,,,
+fmt/1071,Apple Disk Image,,dmg ,application/x-apple-diskimage
+fmt/1072,FileMaker Pro Database,1,,
+fmt/1073,Google Document Link File,,gdoc gdraw gform gmap gsheet gsite gslides ,
+fmt/1074,AVCHD Playlist File,,mpl mpls ,
+fmt/1075,AVCHD Movie Object File,,bdm bdmv ,
+fmt/1076,AVCHD Index File,,bdm bdmv ,
+fmt/1077,AVCHD Thumbnail Index File,,tid ,
+fmt/1078,Microsoft Program Database,2.00,pdb ,
+fmt/1079,Microsoft Program Database,7.00,pdb ,
+fmt/1080,ASP Application Directive File,,asax ,
+fmt/1081,ASP Control Directive File,,ascx ,
+fmt/1082,ASP WebService Directive File,,asmx ,
+fmt/1083,Hangul Word Processor Document,3,hwp ,
+fmt/1084,Hangul Word Processor Document,5,hwp ,
+fmt/1085,TRIM Context Reference File,,tr5 txt ,
+fmt/1086,Monkey's Audio File,,ape ,
+fmt/1087,FAT Disk Image,,dsk ima img ,
+fmt/1088,Visual Basic (VB) File,,vb ,
+fmt/1089,VBScript (VBS) File,,vbs ,
+fmt/1090,Exclude File,,exclude ,
+fmt/1091,Scribus Document,,scd sla ,application/vnd.scribus
+fmt/1092,Alias Pix Image File,,ico pix ,
+fmt/1093,Alias Scene Description Language,,sdl ,
+fmt/1094,The Neuroimaging Informatics Technology Initiative File Format,2,nii ,
+fmt/1095,PEA Archive Format,,pea ,
+fmt/1096,FreeArc Archive Format,,arc ,
+fmt/1097,ZPAQ Archive Format,,zpaq ,
+fmt/1098,XZ File Format,,xz ,
+fmt/1099,TCR eBook,,tcr ,
+fmt/1100,yEnc Encoded File,,yenc ,
+fmt/1101,High Efficiency Image File Format,,heic ,image/heif
+fmt/1102,Uuencoded File,,uue ,
+fmt/1103,AutoCAD Hatch Pattern,,pat ,
+fmt/1104,Seattle FilmWorks SFW Image Format,,sfw ,
+fmt/1105,Hierarchical File System,,img ,
+fmt/1106,Python Compiled File,2.0,pyc ,
+fmt/1107,Python Compiled File,2.1,pyc ,
+fmt/1108,Python Compiled File,2.2,pyc ,
+fmt/1109,Python Compiled File,2.3,pyc ,
+fmt/1110,Python Compiled File,2.4,pyc ,
+fmt/1111,Python Compiled File,2.5,pyc ,
+fmt/1112,Python Compiled File,2.6,pyc ,
+fmt/1113,Python Compiled File,3.0,pyc ,
+fmt/1114,Python Compiled File,3.1,pyc ,
+fmt/1115,Python Compiled File,3.2,pyc ,
+fmt/1116,Python Compiled File,3.3,pyc ,
+fmt/1117,Python Compiled File,3.5,pyc ,
+fmt/1118,Python Compiled File,3.6,pyc ,
+fmt/1119,Jupyter Python Notebook,,ipynb ,
+fmt/1120,DIFFRACplus Raw Data File Format,1,raw ,
+fmt/1121,DIFFRACplus Raw Data File Format,2,raw ,
+fmt/1122,VAMAS Surface Chemical Analysis Standard Data Transfer Format,,vms ,
+fmt/1123,Origin Project Format,Non-Unicode,ogg ogm ogw opj ,
+fmt/1124,Origin Project Format,Unicode,oggu ogmu ogwu opju ,
+fmt/1125,JASCO JWS Format,OLE2,jws ,
+fmt/1126,Sony SR2 RAW Image File,,sr2 ,
+fmt/1127,Sony ARW RAW Image File,2.x,arw ,
+fmt/1128,Progressive Graphics File,,pgf ,
+fmt/1129,PDF 2.0 - Portable Document Format,2.0,pdf ,application/pdf
+fmt/1130,C3D File Format,,c3d ,
+fmt/1131,Gatan Digital Micrograph File Format (DM3),3,dm3 ,
+fmt/1132,Netscape Bookmark File Format,,htm html ,
+fmt/1133,Farbfeld Image Format,,ff ,
+fmt/1134,GPS Exchange Format,1.1,gpx ,
+fmt/1135,SQLite Database File Format,2,db sqlite ,
+fmt/1136,MiniCAD,6,mcd ,application/vnd.vectorworks
+fmt/1137,MiniCAD,7,mcd ,application/vnd.vectorworks
+fmt/1138,MiniCAD/VectorWorks,8,mcd vwx ,application/vnd.vectorworks
+fmt/1139,VectorWorks,9,vwx ,application/vnd.vectorworks
+fmt/1140,VectorWorks,10,vwx ,application/vnd.vectorworks
+fmt/1141,VectorWorks,11,vwx ,application/vnd.vectorworks
+fmt/1142,VectorWorks Plugin or Script,,vsm vso vst ,application/vnd.vectorworks
+fmt/1143,ZISRAW (CZI) File Format,,czi ,
+fmt/1144,CompuServe WinCIM Message Format,,msg plx ,
+fmt/1145,Maxwell Render Material File,,mxm ,
+fmt/1146,Maxwell Render Image Format,,mxi ,
+fmt/1147,Maxwell Render Scene File Format,,mxs ,
+fmt/1148,SIDOUN WinAVA Format,,swa ,
+fmt/1149,Markdown,,md ,text/markdown
+fmt/1150,4X Movie File,,4xa 4xm ,
+fmt/1151,Lightwright Show File,1,lw lw1 ,
+fmt/1152,Lightwright Show File,2,lw2 ,
+fmt/1153,Lightwright Show File,3,lw3 ,
+fmt/1154,Lightwright Show File,4,lw4 ,
+fmt/1155,Lightwright Show File,5,lw5 ,
+fmt/1156,Lightwright Show File,6,lw6 ,
+fmt/1157,Folio Infobase File,2,nfo ,
+fmt/1158,Folio Infobase File,3,nfo ,
+fmt/1159,Folio Infobase File,4,nfo ,
+fmt/1160,Folio Shadow File,3,sdw ,
+fmt/1161,Folio Shadow File,4,sdw ,
+fmt/1162,Folio Flat File,,fff ,
+fmt/1163,Folio Definition File,,def ,
+fmt/1164,Praat Picture File,,prapic ,
+fmt/1165,Praat Script File,,praat ,
+fmt/1166,Niton Data Transfer,,ndt ,
+fmt/1167,Softimage 3D Picture File Format,,pic ,
+fmt/1168,Maya Icons or Swatches file,,icons swatches ,
+fmt/1169,Maya IFF Image File,,ico iff ,
+fmt/1170,Alias Studio Wire File,8.5,,
+fmt/1171,Alias PowerAnimator File,9.0,,
+fmt/1172,Web Open Font Format,2.0,woff2 ,font/woff2
+fmt/1173,FrameMD5,,framemd5 md5 ,
+fmt/1174,Hewlett Packard Graphics Language,2,000 ,application/vnd.hp-HPGL
+fmt/1175,Alias Studio Wire File,9.0,,
+fmt/1176,Nullsoft Streaming Video,,nsv ,
+fmt/1177,MicroStation Material Library,,mat ,
+fmt/1178,Synthetic Music Mobile Application Format,,mmf ,application/vnd.yamaha.smaf-audio
+fmt/1179,Away3D Data Format,2.x,awd ,
+fmt/1180,Cinema 4D,6+,c4d ,
+fmt/1181,Bodypaint 3D,,b3d ,
+fmt/1182,Blitz3D File Format,,b3d ,
+fmt/1183,MicroStation Material Palette,,pal ,
+fmt/1184,InDesign Markup Language Package,,idml ,application/vnd.adobe.indesign-idml-package
+fmt/1185,Apple Icon Image Format,,icns ,
+fmt/1186,Dr. Halo Image Palette,,pal ,
+fmt/1187,Apple iWork Template,13,template ,
+fmt/1188,Ogre Mesh 1.x,,mesh ,
+fmt/1189,Ogre Mesh XML,,xml ,
+fmt/1190,Adobe SWC Package,,swc ,
+fmt/1191,Adobe InDesign Book,,indb ,
+fmt/1192,Adobe InDesign Library,4,indl ,
+fmt/1193,ZModeler Z3D,1,z3d ,
+fmt/1194,ZModeler Z3D,2,z3d ,
+fmt/1195,ZModeler Z3D,3,z3d ,
+fmt/1196,SIARD (Software-Independent Archiving of Relational Databases),2.1,siard ,
+fmt/1197,MyISAM Indexes File,,myi ,
+fmt/1198,RData,Binary,rdata ,
+fmt/1199,RData,ASCII,rdata ,
+fmt/1200,PowerDraw,6,,
+fmt/1201,PowerCADD,,,
+fmt/1202,Guymager Acquisition Info File,,info ,
+fmt/1203,QuickDraw 3D Metafile (Binary),0,3dmf ,
+fmt/1204,Strata StudioPro Vis Format,,,
+fmt/1205,LightWave 3D Object,,lw ,
+fmt/1206,Impulse 3D Data Description Object,,iob ,
+fmt/1207,Sony SFK File,,sfk ,
+fmt/1208,Virtools File Format,,cmo nmo nms vmo ,
+fmt/1209,COLLADA Digital Asset Exchange (DAE),,dae ,model/vnd.collada+xml
+fmt/1210,Wavefront OBJ File,,obj ,
+fmt/1211,Wavefront Material Template Library,,mtl ,
+fmt/1212,HP System Software Manager CVA File,,cva ,
+fmt/1213,Zoner Callisto Metafile,2,f ,
+fmt/1214,Cakewalk WRK Project,,wrk ,
+fmt/1215,ERDAS Hierarchical File Architecture Format,,aoi aux cff fft gcc img ovr rrd sig sml ,
+fmt/1216,Lotus Freelance Show,,prz ,application/vnd.lotus-freelance
+fmt/1217,Leonardo Image Format,,leo ,
+fmt/1218,SubRip Subtitle File,,srt ,
+fmt/1219,Gnumeric,,gnumeric ,application/x-gnumeric
+fmt/1220,WordPerfect for Macintosh Document,2.x,,application/vnd.wordperfect
+fmt/1221,WordPerfect for Macintosh Document,3.x,,application/vnd.wordperfect
+fmt/1222,WordPerfect for Macintosh Document,3.5-4.x,,application/vnd.wordperfect
+fmt/1223,PaperPort MAX,2,max ,
+fmt/1224,PaperPort MAX,3-4,max ,
+fmt/1225,PaperPort MAX,5-7,max ,
+fmt/1226,Sparky,2,ucsf ,
+fmt/1227,NMRView,,nv ,
+fmt/1228,NMRPipe,,dat ft2 ft3 pipe ,
+fmt/1229,Sibelius Sound Set Definition,,set ,
+fmt/1230,SK-XML,1.0,ddoc ,
+fmt/1231,DIGIDOC-XML,1.1,ddoc ,
+fmt/1232,DIGIDOC-XML,1.2,ddoc ,
+fmt/1233,DIGIDOC-XML,1.3,ddoc ,
+fmt/1234,Smacker Video,,smk ,video/vnd.radgamettools.smacker
+fmt/1235,EclipseCrossword Puzzle File,,ecw ,
+fmt/1236,EclipseCrossword Word List File,,ewl ,
+fmt/1237,FileMaker Pro Database,12,fmp12 ,
+fmt/1238,Band Interleaved By Line (BIL) Image Encoding,,bil ,
+fmt/1239,Band Interleaved By Pixel (BIP) Image Encoding,,bip ,
+fmt/1240,Band Sequential (BSQ) Image Encoding,,bsq ,
+fmt/1241,FO File,,fo ,
+fmt/1242,ZFO (Form) File,,zfo ,application/vnd.software602.filler.form-xml-zip
+fmt/1243,ZFO (Message) File,,zfo ,application/vnd.software602.filler.form-xml-zip
+fmt/1244,ZFO (Sent Message) File,,zfo ,application/vnd.software602.filler.form-xml-zip
+fmt/1245,ZFO (Proof of Delivery) File,,zfo ,application/vnd.software602.filler.form-xml-zip
+fmt/1246,SOSI,,sos ,text/vnd.sosi
+fmt/1247,SOSI,4.0,sos ,text/vnd.sosi
+fmt/1248,SOSI,4.1,sos ,text/vnd.sosi
+fmt/1249,SOSI,4.5,sos ,text/vnd.sosi
+fmt/1250,SOSI,8.1,sos ,text/vnd.sosi
+fmt/1251,Electronically Certified Document (EDOC),,edoc ,application/vnd.etsi.asic-e+zip
+fmt/1252,Raw Flux Image,,rfi ,
+fmt/1253,ESRI Code Page File,,cpg ,
+fmt/1254,Cardfile,,crd ,
+fmt/1255,Windows Address Book,,wab ,
+fmt/1256,MapInfo Workspace File,,wor ,
+fmt/1257,AutoCAD Temporary File,,ac$ ,
+fmt/1258,Microsoft Access Workgroup Information File,,mdw ,
+fmt/1259,SketchUp Document,1,skb skp ,
+fmt/1260,SketchUp Document,2,skb skp ,
+fmt/1261,SketchUp Document,3,skb skp ,
+fmt/1262,SketchUp Document,4,skb skp ,
+fmt/1263,SketchUp Document,5,skb skp ,
+fmt/1264,SketchUp Document,6,skb skp ,
+fmt/1265,SketchUp Document,7,skb skp ,
+fmt/1266,SketchUp Document,8,skb skp ,
+fmt/1267,SketchUp Document,13,skb skp ,
+fmt/1268,SketchUp Document,14,skb skp ,
+fmt/1269,SketchUp Document,15,skb skp ,
+fmt/1270,SketchUp Document,16,skb skp ,
+fmt/1271,SketchUp Document,17,skb skp ,
+fmt/1272,SketchUp Document,18,skb skp ,
+fmt/1273,SketchUp Document,19,skb skp ,
+fmt/1274,Sonic Scenarist Closed Caption Format,,scc ,
+fmt/1275,3M Printscape,2,psc ,
+fmt/1276,SureThing Project File,,std ,
+fmt/1277,Cindex Document,2,cdx tpl ,
+fmt/1278,Cindex Document,3,ucdx utpl ,
+fmt/1279,Cindex Document,4,ucdx utpl ,
+fmt/1280,NCH Dictation Audio File,,dct ,
+fmt/1281,WARC,1.1,warc ,application/warc
+fmt/1282,PFS:First Choice Document,1-2,doc ,
+fmt/1283,PFS:First Choice Document,3,doc ,
+fmt/1284,PFS:First Choice Database,,fol ,
+fmt/1285,PFS:First Choice Graph,,gra ,
+fmt/1286,Envoy Document File,1,evy ,
+fmt/1287,Envoy Document File,7,evy ,
+fmt/1288,IESNA LM-63 Photometric Data File,,ies ,
+fmt/1289,RFFlow Chart,3,flo ,
+fmt/1290,RFFlow Chart,4,flo ,
+fmt/1291,RFFlow Chart,5,flo ,
+fmt/1292,EIOffice Document,,eio ,
+fmt/1293,602Text Document,,wpd wpt ,
+fmt/1294,602Tab Spreadsheet,,wls ,
+fmt/1295,Calendar Creator Event,3-4,ce3 ,
+fmt/1296,Calendar Creator File,4,cc3 ,
+fmt/1297,Calendar Creator File,5-6,cc5 ,
+fmt/1298,Calendar Creator File,7-8,bcc ,
+fmt/1299,Broderbund Print Shop Deluxe,5-6,pcb pcc pce pcp pda pdb pdc pdg pdl pdp pds pho ppi pso ,
+fmt/1300,Broderbund The Print Shop/PrintMaster/American Greetings Project,10-23,ban biz bro cal car cer cft env fax hcr lbl let not nws pcr php sig sti tsh web ,
+fmt/1301,The Print Shop Project,2-5,psproj ,
+fmt/1302,PrintMaster Gold Project,1,ban cal car let sig ,
+fmt/1303,Microsoft Shell Scrap Object File,,shs ,
+fmt/1304,LocoScript Document,1,,
+fmt/1305,LocoScript Document,2,,
+fmt/1306,LocoScript Document,3,,
+fmt/1307,LocoScript Document,4,,
+fmt/1308,LocoScript PC,,,
+fmt/1309,LocoScript Professional,,,
+fmt/1310,LocoFile,,,
+fmt/1311,Tweet JSON,,json ,application/json
+fmt/1312,CorelCHART Document,3-4,cch ,
+fmt/1313,CorelCHART Document,5,cch ,
+fmt/1314,GL Transmission Format (Text),1.0,gltf ,application/json
+fmt/1315,GL Transmission Format (Text),2.0,gltf ,application/json
+fmt/1316,GL Transmission Format (Binary),,glb ,model/gltf-binary
+fmt/1317,QuarkXPress Document,3.1,qwd qxd qxt ,application/vnd.Quark.QuarkXPress
+fmt/1318,QuarkXPress Document,3.3,qwd qxd qxt ,application/vnd.Quark.QuarkXPress
+fmt/1319,QuarkXPress Document,4,qwd qxd qxt ,application/vnd.Quark.QuarkXPress
+fmt/1320,QuarkXPress Document,5,qwd qxd qxt ,application/vnd.Quark.QuarkXPress
+fmt/1321,QuarkXPress Project,7,qpt qwd qxp ,application/vnd.Quark.QuarkXPress
+fmt/1322,QuarkXPress Project,8,qpt qwd qxp ,application/vnd.Quark.QuarkXPress
+fmt/1323,QuarkXPress Project,9.1,qpt qwd qxp ,application/vnd.Quark.QuarkXPress
+fmt/1324,QuarkXPress Project,2015,qpt qwd qxp ,application/vnd.Quark.QuarkXPress
+fmt/1325,QuarkXPress Project,2016,qpt qwd qxp ,application/vnd.Quark.QuarkXPress
+fmt/1326,QuarkXPress Project,2017,qpt qwd qxp ,application/vnd.Quark.QuarkXPress
+fmt/1327,QuarkXPress Project,2018,qpt qwd qxp ,application/vnd.Quark.QuarkXPress
+fmt/1328,QuarkXPress Project,2019,qpt qwd qxp ,application/vnd.Quark.QuarkXPress
+fmt/1329,Avery Label Pro Document,3,lpd ,
+fmt/1330,Avery DesignPro Document,4,zdp ,
+fmt/1331,Avery DesignPro Document,5,zdl ,
+fmt/1332,HP Photo Album,,albm ,
+fmt/1333,Sony PictureGear Studio PhotoAlbum,,amd amu ,
+fmt/1334,Sony PictureGear Studio PrintStudio,,lmd lmu ,
+fmt/1335,Sony PictureGear Studio Binder,,bxt bxu ,
+fmt/1336,LEADTools Lead 1Bit Compressed Image,,cmp ,
+fmt/1337,LEADToolsCompressed Image,,cmp ,
+fmt/1338,RootsMagic Database,4-7,rmgc ,
+fmt/1339,PaperPort MAX,8-12,max ,
+fmt/1340,BDOC,1,bdoc ,application/vnd.bdoc-1.0
+fmt/1341,Associated Signature Container Simple (ASiC-S),,asics scs ,application/vnd.etsi.asic-s+zip
+fmt/1342,BDOC,2.x,asice bdoc ,application/vnd.etsi.asic-e+zip
+fmt/1343,PTGui Project File,10,pts ,
+fmt/1344,PTGui Project File,11,pts ,
+fmt/1345,Legacy Family Tree Database,3-9,fdb ,
+fmt/1346,Autodesk Revit File,4,rfa rft rte rvt ,
+fmt/1347,Autodesk Revit Project File,2008,rft rte rvt ,
+fmt/1348,Autodesk Revit Family File,2008,rfa rft ,
+fmt/1349,Autodesk Revit Family File,2010,rfa rft ,
+fmt/1350,Autodesk Revit Project File,2019,rte rvt ,
+fmt/1351,Autodesk Revit Family File,2019,rfa rft ,
+fmt/1352,FamilyTree Maker Database,1-4,fbk ftw ,
+fmt/1353,FamilyTree Maker Database,5-16,fbk ftw ,
+fmt/1354,QuickBooks Backup File,,qbb ,
+fmt/1355,WARC,1.0,warc ,application/warc
+fmt/1356,Virtual Format (Raster),,vrt ,
+fmt/1357,Virtual Format (Vector),,vrt ,
+fmt/1358,MicroStation Base File,,bse ,
+fmt/1359,Softdisk Text Compressor,,ctx ,
+fmt/1360,Picture Publisher Bitmap,6-10,ppf ,
+fmt/1361,Amiga Disk File,,adf ,
+fmt/1362,Microsoft MapPoint Document,,ptm ,
+fmt/1363,DeluxePaint Animation File,,anm ,
+fmt/1364,V-Ray Material,XML,vismat ,
+fmt/1365,Debug File,,dbg ,
+fmt/1366,ESRI Published Map Format,,pmf ,
+fmt/1367,GeoJSON,,geojson ,application/geo+json
+fmt/1368,Nero CoverDesigner File,,ncd ,
+fmt/1369,Error File,,err ,
+fmt/1370,Advanced Disk Catalog,,adc ,
+fmt/1371,OmniPage Pro Document,10,opd ,
+fmt/1372,OmniPage Document,12,opd ,
+fmt/1373,OmniPage Document,18,opd ,
+fmt/1374,XDOMEA,1.0,xml ,
+fmt/1375,XDOMEA,2.0.0,xml ,
+fmt/1376,XDOMEA,2.0.1,xml ,
+fmt/1377,XDOMEA,2.1.0,xml ,
+fmt/1378,XDOMEA,2.2.0,xml ,
+fmt/1379,XDOMEA,2.3.0,xml ,
+fmt/1380,XDOMEA,2.4.0,,
+fmt/1381,VariCAD Drawing,7+,dwb ,
+fmt/1382,Embedded OpenType (EOT) File Format,0x00010000,eot ,application/vnd.ms-fontobject
+fmt/1383,Embedded OpenType (EOT) File Format,0x00020001,eot ,application/vnd.ms-fontobject
+fmt/1384,Embedded OpenType (EOT) File Format,0x00020002,eot ,application/vnd.ms-fontobject
+fmt/1385,Bruker PDZ,,pdz xpdz ,
+fmt/1386,Muvee autoProducer Project File,1-5,mve ,
+fmt/1387,Muvee autoProducer Project File,6,mvex ,
+fmt/1388,Muvee Reveal Project File,,rvl ,
+fmt/1389,Drawing Interchange Format (ASCII),2018/2019/2020,dxf ,image/vnd.dxf
+fmt/1390,Drawing Interchange Format (Binary),2007-2009,dxf ,image/vnd.dxf
+fmt/1391,Drawing Interchange Format (Binary),2010-2012,dxf ,image/vnd.dxf
+fmt/1392,Drawing Interchange Format (Binary),2013-2017,dxf ,image/vnd.dxf
+fmt/1393,Drawing Interchange Format (Binary),2018-2021,dxf ,image/vnd.dxf
+fmt/1394,Drawing Interchange Format (Binary),Generic,dxf ,image/vnd.dxf
+fmt/1395,AutoCAD Drawing,2018/2019/2020/2021,dwg ,image/vnd.dwg
+fmt/1396,FinePrint,,fp ,
+fmt/1397,FARO Laser Scan File,,fls ,
+fmt/1398,FARO WorkSpace File,,fws ,
+fmt/1399,DiskDoubler,,,
+fmt/1400,Ichitaro Document,8,$td jtd jtt ,application/x-js-taro
+fmt/1401,Student Writing Center Report,,rp rpt ,
+fmt/1402,Student Writing Center Journal,,jn jnt ,
+fmt/1403,Student Writing Center Sign,,sg sgt ,
+fmt/1404,Student Writing Center Newsletter,,nl nlt ,
+fmt/1405,Student Writing Center Letter,,lt ltt ,
+fmt/1406,Flow Charting,I-II+,cht ,
+fmt/1407,Flow Charting,3,fcd ,
+fmt/1408,Flow Charting,4,gfc ,
+fmt/1409,Flow Charting,5,fc5 ,
+fmt/1410,Flow Charting,6,fcx ,
+fmt/1411,Flow Charting,PDQ,pdq ,
+fmt/1412,Flow Charting Graphic Flowcharting Image,,gfi ,
+fmt/1413,Corel Gallery Clipart,BMF,bmf ,
+fmt/1414,PFS:Write Document,,pfs ,
+fmt/1415,GST Publisher File,1,dtp ,
+fmt/1416,GST Publisher File,2,dtp ,
+fmt/1417,Corel Print House Document,1,cpd cph ,
+fmt/1418,Corel Print House Document,2,cpd cph ,
+fmt/1419,Corel Print House/Print Office Document,3,cpd cph cpo ,
+fmt/1420,Corel Print House/Print Office Document,4,cpd cph cpo ,
+fmt/1421,Corel Print House/Print Office Document,5,cpd cph cpo ,
+fmt/1422,Corel Photo House Image,,cps ,
+fmt/1423,HP TRIM Outlook Saved Message File,,mbx vmbx ,
+fmt/1424,WordPerfect Encrypted Document,4.2,wp ,application/vnd.wordperfect
+fmt/1425,MacDraw,0.9,,
+fmt/1426,MacDraw,1.x,,
+fmt/1427,MacDraw,II,,
+fmt/1428,MacDraw,Pro,,
+fmt/1429,MacPaint Image,2,,
+fmt/1430,Minitab Worksheet,8-11,mtw ,
+fmt/1431,Minitab Portable Worksheet,,mtp ,
+fmt/1432,Minitab Worksheet,12,mtw ,
+fmt/1433,Minitab Worksheet,13,mtw ,
+fmt/1434,Minitab Project,12-13,mpj ,
+fmt/1435,Minitab Worksheet,14,mtw ,
+fmt/1436,Minitab Project,14,mpj ,
+fmt/1437,Minitab Worksheet,15+,mtw ,
+fmt/1438,Minitab Project,15+,mpj ,
+fmt/1439,Apple iWork Pages,09,pages ,
+fmt/1440,Apple iWork Numbers,09,,
+fmt/1441,Apple iWork Document,14,iwa key numbers pages template ,
+fmt/1442,QuarkXPress Document,1-2,,application/vnd.Quark.QuarkXPress
+fmt/1443,QuarkXPress Document,3.0,,application/vnd.Quark.QuarkXPress
+fmt/1444,QuarkXPress Document,3.2,qwd qxd qxt ,application/vnd.Quark.QuarkXPress
+fmt/1445,QuarkXPress Project,9.2,qpt qwd qxp ,application/vnd.Quark.QuarkXPress
+fmt/1446,QuarkXPress Project,10.1,qpt qwd qxp ,application/vnd.Quark.QuarkXPress
+fmt/1447,XLD4 (Bitmap Image),,q4 ,
+fmt/1448,XLD4 (Graphic Data Document),,q4d ,
+fmt/1449,Aldus FreeHand Drawing,1,,
+fmt/1450,Aldus FreeHand Drawing,2,,
+fmt/1451,PDF Portfolio,1.7,pdf ,
+fmt/1452,Lotus 1-2-3 Worksheet,97,123 ,application/vnd.lotus-1-2-3 application/x-123
+fmt/1453,Lotus 1-2-3 Worksheet,9.8 Millennium,123 ,application/vnd.lotus-1-2-3 application/x-123
+fmt/1454,Web Video Text Tracks (WebVTT) Format,,vtt ,text/vtt
+fmt/1455,Primavera P6 Project Management XER File,,xer ,
+fmt/1456,Autocad DMP File,,dmp ,
+fmt/1457,OrgPlus File,,ops opx opxt ,
+fmt/1458,Arts & Letters Graphics File,,ged ,
+fmt/1459,Stuffit Archive File,1.5,sit ,application/x-stuffit
+fmt/1460,Stuffit Archive File,1.6-4.5,sit ,application/x-stuffit
+fmt/1461,Autorun Maestro Menu File,,mnu ,
+fmt/1462,Comic Book Archive,,cb7 cba cbr cbt cbz ,
+fmt/1463,Ableton Live Set,8.2.1 onwards,als ,
+fmt/1464,Maestro Music File,,,
+fmt/1465,OrCAD Layout File,,max ,
+fmt/1466,InstallShield Executable,,ex_ ,
+fmt/1467,STOS Memory Bank,,mbk ,
+fmt/1468,multiArtist File,,mg1 mg2 mg4 mg8 ,
+fmt/1469,MAKIchan Graphics File,,mag max mki ,
+fmt/1470,MIG Graphics File,,mig ,
+fmt/1471,Multi Palette Picture File,,mpp ,
+fmt/1472,Magic Shadow Archiver Disk Image File,,msa ,application/vnd.msa-disk-image
+fmt/1473,Archimedes Tracker Module,,musx ,
+fmt/1474,TEI P4 XML - Single Text File,P4,odd tei xml ,application/tei+xml
+fmt/1475,TEI P4 XML - Corpus File,P4,odd tei xml ,application/tei+xml
+fmt/1476,TEI P5 - Single Text File,P5,odd tei xml ,application/tei+xml
+fmt/1477,TEI P5 XML - Corpus File,P5,odd tei xml ,application/tei+xml
+fmt/1478,Unisig,,,
+fmt/1479,XIFF (Xerox Image File Format),2,xif ,image/vnd.xiff
+fmt/1480,XIFF (Xerox Image File Format),3,xif ,image/vnd.xiff
+fmt/1481,Micrografx In-A-Vision Drawing,,pic ,
+fmt/1482,Access Report Snapshot,,snp ,
+fmt/1483,Mar Archive,,mac mar ,
+fmt/1484,JPEG XL Codestream,,jxl ,image/jxl
+fmt/1485,JPEG XL,,jxl ,image/jxl
+fmt/1486,Novell Address Book,,nab ,
+fmt/1487,Timeline Maker Document,,tlm tlm3 tlm4 tlmp ,
+fmt/1488,Phantom CINE Video File,,cin cine ,
+fmt/1489,Phantom CINE Compressed Video File,,cci ,
+fmt/1490,HyperCard Stack,,,
+fmt/1491,Harvard Graphics Presentation,1-3,prs ,
+fmt/1492,Harvard Graphics Presentation,4,pr4 ,
+fmt/1493,NTI JewelCase Maker,,jwc ,
+fmt/1494,QuarkXPress Project,2020,qpt qwd qxp ,application/vnd.Quark.QuarkXPress
+fmt/1495,QuarkXPress Project,2021,qpt qwd qxp ,application/vnd.Quark.QuarkXPress
+fmt/1496,ZoomBrowser Ex Thumbnail Cache,,info ,
+fmt/1497,XV Thumbnail,,p7 ,
+fmt/1498,Cool Edit/Adobe Audition Session File,Binary,ses ,
+fmt/1499,Adobe Audition Session File,XML,sesx ,
+fmt/1500,Adobe Acrobat Forms Data Format,1.x,fdf ,application/vnd.fdf
+fmt/1501,XML Forms Data Format,,xfdf ,application/vnd.adobe.xfdf
+fmt/1502,Agisoft Project Archive,,psz ,
+fmt/1503,Agisoft Project File,,psx ,
+fmt/1504,Agisoft Tiled Model,,tls ,
+fmt/1505,Agisoft Point Cloud,,oc3 ,
+fmt/1506,EinScan RGE 3D Range File,,rge ,
+fmt/1507,Exchangeable Image File Format (Compressed),2.3.x,jpeg jpg ,image/jpeg
+fmt/1508,Microsoft Visio Drawing,2,vsd vss vst ,application/vnd.visio
+fmt/1509,Microsoft Visio Drawing,3,vsd vss vst ,application/vnd.visio
+fmt/1510,Microsoft Visio Drawing,4,vsd vss vst vsw ,application/vnd.visio
+fmt/1511,Microsoft Publisher,1,pub ,application/x-mspublisher
+fmt/1512,Microsoft Publisher,2003,pub ,application/x-mspublisher
+fmt/1513,Microsoft Publisher,2007,pub ,application/x-mspublisher
+fmt/1514,Microsoft Publisher,2010,pub ,application/x-mspublisher
+fmt/1515,Microsoft Publisher,2013,pub ,application/x-mspublisher
+fmt/1516,Microsoft Publisher,2016-2019,pub ,application/x-mspublisher
+fmt/1517,Serif PhotoPlus Image,5-X2,spp ,
+fmt/1518,Serif PhotoPlus Image,X3 Onwards,spp ,
+fmt/1519,Serif DrawPlus Drawing,6,dpa dpp dpx ,
+fmt/1520,Serif DrawPlus Drawing,7,dpa dpp dpx ,
+fmt/1521,Serif DrawPlus Drawing,8,dpa dpp dpx ,
+fmt/1522,Serif DrawPlus Drawing,X2,dpa dpp dpx ,
+fmt/1523,Serif DrawPlus Drawing,X3,dpa dpp dpx ,
+fmt/1524,Serif DrawPlus Drawing,X4,dpa dpp dpx ,
+fmt/1525,Serif DrawPlus Drawing,X5,dpa dpp dpx ,
+fmt/1526,Serif DrawPlus Drawing,X6,dpa dpp dpx ,
+fmt/1527,Serif DrawPlus Drawing,X8,dpa dpp dpx ,
+fmt/1528,Serif DrawPlus Drawing,Generic,dpa dpp ,
+fmt/1529,Serif PagePlus Publication,X3,ppb ppp ppx ,
+fmt/1530,Serif PagePlus Publication,X4,ppb ppp ppx ,
+fmt/1531,Serif PagePlus Publication,X5,ppb ppp ppx ,
+fmt/1532,Serif PagePlus Publication,X6,ppb ppp ppx ,
+fmt/1533,Serif PagePlus Publication,X7,ppb ppp ppx ,
+fmt/1534,Serif PagePlus Publication,X8,ppb ppp ppx ,
+fmt/1535,Serif PagePlus Publication,X9,ppb ppp ppx ,
+fmt/1536,Serif PagePlus Publication,SE,ppb ppp ppx ,
+fmt/1537,Serif PagePlus Publication,1-3,ppp ppt ,
+fmt/1538,CompuServe RLE,,rle ,
+fmt/1539,Raster Matrix Format,,rsw ,
+fmt/1540,NeoDisk Icon File,3,nic ,
+fmt/1541,Visual Basic Form File,4 onwards,frm ,
+fmt/1542,Visual Basic Form File,3 or earlier,frm ,
+fmt/1543,ELAN Annotation File,,eaf ,
+fmt/1544,ELAN Preference File,,pfsx ,
+fmt/1545,NeoDesk Icon File,1 and 2,nic ,
+fmt/1546,Daisy-Dot Font File,I and II,nlq ,
+fmt/1547,Daisy-Dot Font File,III,nlq ,
+fmt/1548,Visual Basics MAK File,3 or earlier,mak ,
+fmt/1549,Bentley Microstation Hidden Line File,,hln ,
+fmt/1550,MATLAB Mat File,Level 4,mat ,
+fmt/1551,NetWare Loadable Module,,nlm ,
+fmt/1552,Surprise! Adlib Tracker v2.0,2.0,sa2 ,
+fmt/1553,Septentrio Binary Format,,sbf ,
+fmt/1554,DNA Sequence Chromatogram File,3.00,scf ,
+fmt/1555,Standard Data Format,,sdf ,
+fmt/1556,Starlink Data Format,,sdf ,
+fmt/1557,Cyber Paint Sequence,,seq ,
+fmt/1558,SelF-eXtracting LHA/LZH Compressed Files,,sfx ,
+fmt/1559,Beam Software SIFF File,,son vb ,
+fmt/1560,Sample Vision Audio File Format,,smp ,
+fmt/1561,SpritePad Image Format,,spd ,
+fmt/1562,AutoDesk Indexed Point Cloud,,pcg ,
+fmt/1563,ERDAS Imagine Large Raster Spill File,,ige ,
+fmt/1564,Associated Signature Container Extended (ASiC-E),,asice sce ,application/vnd.etsi.asic-e+zip
+fmt/1565,reStructuredText,,rst ,
+fmt/1566,ColdFusion Markup Language,,cfm ,
+fmt/1567,ISDOC Information System Document (Generic),5.x,isdoc ,
+fmt/1568,ISDOCX Information System Document (Generic),5.x,isdocx ,
+fmt/1569,Bitstream Speedo Fonts,,spd ,
+fmt/1570,ISDOC Information System Document,6.0.1,isdoc ,
+fmt/1571,ISDOCX Information System Document,6.0.1,isdocx ,
+fmt/1572,OrCAD Project File,,opj ,
+fmt/1573,Visual Basic Project File,1-6,vbp ,
+fmt/1574,Visual Basic Project Workspace File,1-6,vbw ,
+fmt/1575,Spectrum 512 Compressed | Spectrum 512 Smooshed,,spc sps ,
+fmt/1576,Spectrum 512 Uncompressed | Spectrum 512 Uncompressed Enhanced,,spu ,
+fmt/1577,Spectrum 512 Extended,1,spx ,
+fmt/1578,Spectrum 512 Extended,2,spx ,
+fmt/1579,SPYne Containers,,spy ,
+fmt/1580,Envision Publisher File,,evp ,
+fmt/1581,Envision Publisher Font Files,,svf ,
+fmt/1582,Vim SWAP File,,swp ,
+fmt/1583,SXG (ZX Spectrum) Graphic File,,sxg ,
+fmt/1584,ADRIFT Text Adventure File,,taf ,
+fmt/1585,TurboCalc Document,,tcd ,
+fmt/1586,TheDraw Save File,,td ,
+fmt/1587,COKE Format (Atari Falcon),,tg1 ,
+fmt/1588,TGIF File Format,,obj tgif ,
+fmt/1589,Taquart Interlace Picture,,tip ,
+fmt/1590,Visual Basic Binary Form File,,frx ,
+fmt/1591,ESRI ArcInfo Coverage Annotation File,,txt ,
+fmt/1592,ASEG-GDF2 Description File,,des ,
+fmt/1593,ASEG-GDF2- Data Definition File,,dfn ,
+fmt/1594,ESRI ArcInfo DAT File (External),,dat ,
+fmt/1595,Canon Raw,3.0,cr3 ,
+fmt/1596,ESRI ArcInfo Grid .nit File,,nit ,
+fmt/1597,PageMaker Template File,5.0,pt5 ,
+fmt/1598,Stata .do Command File,,do ,
+fmt/1599,R Program File,,r ,
+fmt/1600,ESRI ArcInfo DAT File (Internal),,,
+fmt/1601,Type Library,Type 1,tlb ,
+fmt/1602,Type Library,Type 2,tlb ,
+fmt/1603,TUNDRA,,tnd ,
+fmt/1604,EggPaint (Atari Falcon),,trp ,
+fmt/1605,True Colour Sprites [Spooky Sprites] (Atari Falcon),,trs ,
+fmt/1606,Packed-Ice True Colour Sprites [Spooky Sprites] (Atari Falcon),,trs ,
+fmt/1607,True Colour Picture [Spooky Sprites] (Atari Falcon),,trp tru ,
+fmt/1608,Packed-Ice True Colour Picture [Spooky Sprites] (Atari Falcon),,trp tru ,
+fmt/1609,exFAT (Extensible File Allocation Table) Disc Image,,img ,
+fmt/1610,Viacom New Media Graphics,,000 vnm ,
+fmt/1611,WRAptor Compressed File,1; 2; 3,wr3 wra ,
+fmt/1612,XBIN (eXtended BIN),,xb ,
+fmt/1613,XML Shareable Playlist Format,,xspf ,
+fmt/1614,Esri ArcExplorer Project File,,aep ,
+fmt/1615,CATIA Drawing,5,catdrawing ,
+fmt/1616,BibTeX Database File,,bib ,
+fmt/1617,Devicetree Blob (DTB),17,dtb ,
+fmt/1618,SGML/XML Entity File,,ent ,application/xml-external-parsed-entity
+fmt/1619,Pascal Source Code,,pas ,
+fmt/1620,Aero Studio Song,,aero ,
+fmt/1621,AHX-Module Format (formerly THX module format),0-2,ahx ,
+fmt/1622,Asylum Music Format,,amf ,
+fmt/1623,Art Of Noise,4 Channel Module,aon ,
+fmt/1624,Art Of Noise,8 Channel Module,aon ,
+fmt/1625,ESRI Colour File Format,,clr ,
+fmt/1626,MicroStation Symbology Resource File,,rsc ,
+fmt/1627,Z Print Build File,,zbd ,
+fmt/1628,Adobe InDesign Document,1.0,ind indd ,
+fmt/1629,Adobe InDesign Document,1.5,ind indd indt ,
+fmt/1630,Adobe InDesign Document,2.0,ind indd indt ,
+fmt/1631,Adobe InDesign Document,CS5.5,ind indd indt ,
+fmt/1632,Adobe InDesign Document,CC,ind indd indt ,
+fmt/1633,Adobe InDesign Document,CC 2014,ind indd indt ,
+fmt/1634,Adobe InDesign Document,CC 2015,ind indd indt ,
+fmt/1635,Adobe InDesign Document,CC 2017,ind indd indt ,
+fmt/1636,Adobe InDesign Document,CC 2018,ind indd indt ,
+fmt/1637,Adobe InDesign Document,CC 2019,ind indd indt ,
+fmt/1638,Adobe InDesign Document,CC 2020,ind indd indt ,
+fmt/1639,Adobe InDesign Document,CC 2021,ind indd indt ,
+fmt/1640,Adobe InDesign Document,CC 2022,ind indd indt ,
+fmt/1641,Adobe InDesign Interchange Document,,inx ,
+fmt/1642,Adobe InDesign Library,2,indl ,
+fmt/1643,Lenel Network Video Recorder File,,lnr ,
+fmt/1644,Roxio Label Creator Project File,4-5,jwl ,
+fmt/1645,Roxio Label Creator Project File,6-7,jwl ,
+fmt/1646,Roxio Label Creator Project File,8-11,jwl ,
+fmt/1647,Inspiration Software File,,isf ,
+fmt/1648,Crystal Reports File,,rpt ,application/x-rpt
+fmt/1649,AGS 4 Data Format,4.0. 4.1,ags ,
+fmt/1650,Bayesian Interchange Format File,,bif ,
+fmt/1651,Garmin Flexible and Interoperable Data Transfer file,,fit ,
+fmt/1652,Typescript,,ts tsx ,
+fmt/1653,STAD PAC File,,pac seq ,
+fmt/1654,Palm Database ImageViewer Format,,pdb ,
+fmt/1655,cdrLabel Label File,,clb ,
+fmt/1656,Microsoft Help Contents File,,cnt ,
+fmt/1657,XIMG (Extended GEM Bit Image),,img ximg ,
+fmt/1658,XL-Paint MaX,,max xlp ,
+fmt/1659,XL-Paint,,raw ,
+fmt/1660,Arts & Letters Clip Art Library,,yal ,
+fmt/1661,Yamaha Wave Audio,Generic,f01 s01 u01 w01 ,
+fmt/1662,Yamaha TX Wave Audio,,txw w01 w02 w03 w04 w05 w06 w07 w08 w09 w10 w11 w12 w13 w14 w15 w16 w17 w18 w19 w20 w21 w22 ,
+fmt/1663,YAODL (Yet Another Object Description Language) File,,ydl ,
+fmt/1664,RED Thumbnail File,,rtn ,
+fmt/1665,Easy CD Creator Layout | Roxio Easy CD Creator Layout,5-6,cl5 rcl ,
+fmt/1666,Roxio Easy Media Creator Layout,7,rcl ,
+fmt/1667,Roxio Easy Media Creator - Classic Creator File,8-10,rcl ,
+fmt/1668,Roxio Easy Media Creator Layout,8-10,roxio ,
+fmt/1669,Roxio Data Project File,11,rox ,
+fmt/1670,Roxio Audio Project File,11,rox ,
+fmt/1671,Z Compressed Data,,z ,
+fmt/1672,Linux/i386 Binary Executable File ZMAGIC,,o so ,
+fmt/1673,ZBrush MatCap,,zmt ,
+fmt/1674,ZyXEL Voice Format Audio,,ad2 zvd zyx ,
+fmt/1675,IntelliFont Font File,,lib type ,
+fmt/1676,Covox ADPCM Audio Files,,cvx v2s v3s v4s v8 vmf ,
+fmt/1677,Microsoft Office File List,,xml ,
+fmt/1678,MATLAB Script File,,m ,
+fmt/1679,Garmin track log file,,gmn ,
+fmt/1680,INTREPID Standard Information File,3.7 onwards,isi ,
+fmt/1681,OBO Flat File Format,1.2,obo ,
+fmt/1682,EndNote Library,X - X9,enl ,
+fmt/1683,EndNote Compressed Library,X - X9,enlx ,
+fmt/1684,EndNote Library,20,enl ,
+fmt/1685,EndNote Compressed Library,20,enlx ,
+fmt/1686,PageMaker Mac Document,4.0,,application/vnd.pagemaker
+fmt/1687,PageMaker Mac Document,5.0,,application/vnd.pagemaker
+fmt/1688,Microsoft Word for MS-DOS Document,6.0,doc ,application/msword
+fmt/1689,Microsoft Word for MS-DOS Glossary File,Generic,gly ,application/msword
+fmt/1690,Microsoft Word for MS-DOS Style Sheet File,Generic,sty ,application/msword
+fmt/1691,Microsoft Word for MS-DOS Printer Description File,Generic,prd ,application/msword
+fmt/1692,ESRI ArcGIS Raw Raster Reader/ Writer,,hdr ,
+fmt/1693,Asymetrix Compel Presentation,1.0,cpl ,
+fmt/1694,Asymetrix Compel Presentation,2.0,cpl ,
+fmt/1695,602 Text file,1.0-1.51,602 ,
+fmt/1696,ESRI Attribute Index Files,,ain ,
+fmt/1697,Calc602 Spreadsheet file or backup file,1.51,bak tc6 ,
+fmt/1698,Calc602 Spreadsheet file or backup file v.1.00,1.00,bak tc6 ,
+fmt/1699,602 Graph/Chart File,1.51,gc6 ,
+fmt/1700,OGC GeoPackage,1.0-1.31,gpkg ,application/geopackage+sqlite3
+fmt/1701,Persuasion Mac Document,1.0,pr1 ,
+fmt/1702,Persuasion Mac Document,2.0,pr2 ,
+fmt/1703,Persuasion Mac Document,2.1,pr2 ,
+fmt/1704,Persuasion Mac Document,3.0,pr3 ,
+fmt/1705,Persuasion Mac Document,4.0,pn4 ,
+fmt/1706,Persuasion Windows Document,2.0,at2 pr2 ,
+fmt/1707,Persuasion Windows Document,3.x - 4.x,at3 at4 pn4 pr3 ,
+fmt/1708,Persuasion Player File,3,ppf ,
+fmt/1709,Persuasion Presentation Interchange File,,prf ,
+fmt/1710,Persuasion Auto-Template Interchange File,,atf ,
+fmt/1711,Software602 Printer Configuration File,1.0,cfg ,
+fmt/1712,Calc602 Macro File,,mc6 ,
+fmt/1713,Calc602 Project File,1.0,pc6 ,
+fmt/1714,CATIA Model File,3,model ,
+fmt/1715,Applet Effect Factory Config File,,data ,
+fmt/1716,Cintel Raw Image/DaVinci Resolve Image,,cri dvcc ,
+fmt/1717,Time Stamp Token,,tst ,application/vnd.etsi.timestamp-token
+fmt/1718,PageMaker Mac Document,6.5-7.0,p65 pmd pmt t65 ,application/vnd.pagemaker
+fmt/1719,PageMaker Mac Document,6.0,pm6 pt6 ,application/vnd.pagemaker
+fmt/1720,Portable Compiled Format,,pcf ,
+fmt/1721,Pablo Paint Raster Image,,pa3 ppp ,
+fmt/1722,BIM Metadata File,,bim ,
+fmt/1723,Wordcraft Chapter Files,,001 ,
+fmt/1724,LegalDocML Document,,xml ,
+fmt/1725,Capture One Settings File,,cos ,
+fmt/1726,Geosoft Map Description File,,mdf ,
+fmt/1727,Pro Tools Session File,10 onwards,ptx ,
+fmt/1728,dBASE Windows Form File,,wfm ,
+fmt/1729,Esri Shapefile Geospatial Metadata File,,xml ,
+fmt/1730,Data File,Generic,dat ,
+fmt/1731,PowerGraphics Image File,,pgr ,
+fmt/1732,Prism Paint Bitmap,,pnt tpi ,
+fmt/1733,PaintShop Plus Compressed Format,,da4 psc ,
+fmt/1734,Portfolio Graphics Compressed File,,pgc ,
+fmt/1735,C/C++ Header File,,h hpp hxx ,
+fmt/1736,Creative Voice File,,voc ,
+fmt/1737,Flow Cytometry Standard File,1.0-3.1,fcs , application/vnd.isac.fcs
+fmt/1738,UDF Disc Image,,cdr dmg iso toast ,
+fmt/1739,UDF-ISO 9660 Bridge Disc,,cdr dmg iso toast ,
+fmt/1740,Apple Partition Map Disk Image,,bin cdr dmg img iso toast ,
+fmt/1741,Apple Partition Map ISO 9660 Hybrid,,cdr iso toast ,
+fmt/1742,Hierarchical File System Plus,,dmg img toast ,
+fmt/1743,Nero Burning ROM Image File,Generic,nrg ,
+fmt/1744,Psion Series 3 Bitmap,,pic ,
+fmt/1745,PixArt Bitmap,,pix ,
+fmt/1746,Rocky Interlace Picture,,rip ,
+fmt/1747,Microsoft PowerPoint Presentation,2.x,ppt ,application/vnd.ms-PowerPoint
+fmt/1748,Microsoft PowerPoint Presentation,3.x,ppt ,application/vnd.ms-PowerPoint
+fmt/1749,Canon MIF File,,mif ,
+fmt/1750,Canon CIF File,,cif ,
+fmt/1751,Canon SIF File,,sif ,
+fmt/1752,OpenDocument Database Format,1.3,odb ,application/vnd.oasis.opendocument.base
+fmt/1753,OpenDocument Graphics,1.3,odg ,application/vnd.oasis.opendocument.graphics
+fmt/1754,OpenDocument Presentation,1.3,odp ,application/vnd.oasis.opendocument.presentation
+fmt/1755,OpenDocument Spreadsheet,1.3,ods ,application/vnd.oasis.opendocument.spreadsheet
+fmt/1756,OpenDocument Text,1.3,odt ,application/vnd.oasis.opendocument.text
+fmt/1757,Apple Partition Map - ISO 9660 - UDF Hybrid Disk Image,,dmg iso toast ,
+fmt/1758,Media Descriptor File,,mdf ,
+fmt/1759,Media Descriptor Sidecar File,,mds ,
+fmt/1760,CloneCD Control File,,ccd ,
+fmt/1761,MacBinary,I,,
+fmt/1762,MacBinary,II,bin ,
+fmt/1763,MacBinary,III,bin ,
+fmt/1764,Sony SLV File,,slv ,
+fmt/1765,Media Hash List,,mhl ,
+fmt/1766,Sony SML File,,sml ,
+x-fmt/1,Microsoft Word for Macintosh Document,3.0,mcw ,application/msword
+x-fmt/2,Microsoft Word for Macintosh Document,6.0,,
+x-fmt/3,Online Description Tool Format,,odt ,
+x-fmt/4,Write for Windows Document,3.1,wri ,
+x-fmt/5,Works for Macintosh Document,4.0,,
+x-fmt/6,FoxPro Database,2.0,dbf ,
+x-fmt/7,FoxPro Database,2.5,dbf ,
+x-fmt/8,dBASE Database,II,dbf ,
+x-fmt/9,dBASE Database,III,dbf ,
+x-fmt/10,dBASE Database,IV,dbf ,application/dbase
+x-fmt/11,Revisable-Form-Text Document Content Architecture,,,
+x-fmt/12,Write for Windows Document,3.0,wri ,
+x-fmt/13,Tab-separated values,,tsv ,text/tab-separated-values
+x-fmt/14,Macintosh Text File,,,text/plain
+x-fmt/15,MS-DOS Text File,,,text/plain
+x-fmt/16,Unicode Text File,,,text/plain
+x-fmt/17,Microsoft Excel Template,97-2003,xlt ,application/vnd.ms-excel
+x-fmt/18,Comma Separated Values,,csv ,text/csv
+x-fmt/19,3D Studio,,3ds ,
+x-fmt/20,Adobe Illustrator,1.0 / 1.1,ai ,application/postscript
+x-fmt/21,7-bit ANSI Text,,ans ,text/plain
+x-fmt/22,7-bit ASCII Text,,asc ,text/plain
+x-fmt/23,Microsoft Excel Backup,,xlk ,
+x-fmt/24,AutoCAD Block Attribute Template,,blk ,
+x-fmt/25,OS/2 Bitmap,1.0,,
+x-fmt/26,AutoCAD Batch Plot File,1.0-R14,bp2 bpl ,
+x-fmt/27,AutoCAD Batch Plot File,2000-2005,bp3 ,
+x-fmt/28,CALS Compressed Bitmap,,cal ,
+x-fmt/29,CorelDraw Drawing,6.0,cdr ,
+x-fmt/30,CorelDraw Template,,cdt ,
+x-fmt/31,CorelDraw Compressed Drawing,1,cdx cjw ,
+x-fmt/32,Harvard Graphics Chart,3.0,ch3 ,
+x-fmt/33,Corel R.A.V.E.,1,clk ,
+x-fmt/34,Corel Presentation Exchange File,5.0,cmx ,
+x-fmt/35,Corel Presentation Exchange File,6 and Later,cmx ,
+x-fmt/36,CorelDraw Compressed Drawing,2,cpx ,
+x-fmt/37,AutoCAD Colour-Dependant Plot Style Table,,ctb ,
+x-fmt/38,AutoCAD Custom Dictionary,,cus ,
+x-fmt/39,AutoCAD dbConnect Query Set,,dbq ,
+x-fmt/40,AutoCAD dbConnect Template Set,,dbt ,
+x-fmt/41,Data Interchange Format,,dif ,
+x-fmt/42,Wordperfect Secondary File,5.0,doc ,
+x-fmt/43,Wordperfect Secondary File,5.1/5.2,doc ,
+x-fmt/44,WordPerfect for MS-DOS/Windows Document,6.0,doc w60 wp wp6 wpd ,application/vnd.wordperfect
+x-fmt/45,Microsoft Word Document Template,97-2003,dot ,
+x-fmt/46,Microsoft Excel ODBC Query,,dqy ,
+x-fmt/47,Micrografx Draw,1-2,drw ,
+x-fmt/48,Visual Basic Macro,,dvb ,
+x-fmt/49,AutoCAD Design Web Format,6.0,dwf ,application/dwf application/x-dwf drawing/x-dwf image/vnd.dwf image/x-dwf model/vnd.dwf
+x-fmt/50,AutoCAD Drawing Standards File,,dws ,
+x-fmt/51,AutoCAD Drawing Template,,dwt ,
+x-fmt/52,Drawing Interchange Format Style Extract,,dxx ,
+x-fmt/53,Macromedia Freehand,4 & 5,fh4 fh5 ,
+x-fmt/54,AutoCAD Font Mapping Table,,fmp ,
+x-fmt/55,Frame Vector Metafile,,fmv ,
+x-fmt/56,Kodak FlashPix Image,,fpx ,image/vnd.fpx
+x-fmt/57,Ventura Publisher Vector Graphics,,gem ,
+x-fmt/58,Microsoft Excel Web Query,,iqy ,
+x-fmt/59,AutoCAD Last Saved Layer State,,las ,
+x-fmt/60,AutoCAD Linetype Definition File,,lin ,
+x-fmt/61,AutoCAD Landscape Library,,lli ,
+x-fmt/62,Log File,,log ,
+x-fmt/63,AutoLISP File,,lsp ,
+x-fmt/64,Microsoft Word for Macintosh Document,4.0,mcw ,application/msword
+x-fmt/65,Microsoft Word for Macintosh Document,5.0,mcw ,application/msword
+x-fmt/66,Microsoft Access Database,2.0,mdb ,
+x-fmt/67,OS/2 Presentation Manager Metafile (MET),,met ,
+x-fmt/68,AutoCAD Compiled Menu,,mnc ,
+x-fmt/69,AutoLISP Menu Source File,,mnl ,
+x-fmt/70,AutoCAD Menu Resource File,,mnr mnt ,
+x-fmt/71,AutoCAD Source Menu File,,mns ,
+x-fmt/72,AutoCAD Template Menu File,,mnu ,
+x-fmt/73,Microsoft Outlook Address Book,,olk ,
+x-fmt/74,Microsoft Excel OLAP Query,,oqy ,
+x-fmt/75,Microsoft Outlook Personal Address Book,,pab ,
+x-fmt/76,CorelDraw Pattern,,pat ,
+x-fmt/77,AutoCAD Plot Configuration File,R14,pc2 ,
+x-fmt/78,AutoCAD Plot Configuration File,2000,pc3 ,
+x-fmt/79,AutoCAD Plot Configuration File,1.0-R13,pcp ,
+x-fmt/80,Macintosh PICT Image,1.0,pct pict ,image/x-pict
+x-fmt/81,Inkwriter/Notetaker Template,,pdt ,
+x-fmt/82,Lotus 1-2-3 Chart,,pic ,
+x-fmt/83,Hewlett Packard Vector Graphic Plotter File,,plt ,
+x-fmt/84,Microsoft Powerpoint Design Template,,pot ,
+x-fmt/85,Picture Publisher Bitmap,5.0,pp5 ,
+x-fmt/86,Microsoft Powerpoint Add-In,,ppa ,
+x-fmt/87,Microsoft Powerpoint Presentation Show,97-2003,pps ,application/vnd.ms-powerpoint
+x-fmt/88,Microsoft PowerPoint Presentation,4.x,ppt ,application/vnd.ms-powerpoint
+x-fmt/89,Freelance File,1.0-2.1,pre ,
+x-fmt/90,Microsoft Print File,,prn ,
+x-fmt/91,Postscript,1.0,ps ,application/postscript
+x-fmt/92,Adobe Photoshop,,pdd psd ,image/vnd.adobe.photoshop
+x-fmt/93,Postscript Support File,,psf ,
+x-fmt/94,Pocket Word Document,,psw pwd ,
+x-fmt/95,Inkwriter/Notetaker Document,,pwi ,
+x-fmt/96,Pocket Word Template,,pwt ,
+x-fmt/97,Microsoft Excel OLE DB Query,,rqy ,
+x-fmt/98,AutoCAD ACIS Export File,,sat ,
+x-fmt/99,Schedule+ Contacts,,scd ,
+x-fmt/100,AutoCAD Script,,scr ,
+x-fmt/101,Harvard Graphics Show,3.0,sh3 ,
+x-fmt/102,3D Studio Shapes,,shp ,
+x-fmt/103,AutoCAD Compiled Shape/Font File,,shx ,
+x-fmt/104,AutoCAD Slide Library,,slb ,
+x-fmt/105,AutoCAD Slide,,sld ,application/sld application/x-sld image/x-sld
+x-fmt/106,Microsoft Symbolic Link (SYLK) File,,slk ,
+x-fmt/107,AutoCAD Named Plot Style Table,,stb ,
+x-fmt/108,STL (Standard Tessellation Language) ASCII,,stl ,
+x-fmt/109,Scalable Vector Graphics Compressed,,svgz ,image/svg+xml
+x-fmt/110,Fixed Width Values Text File,,,text/plain
+x-fmt/111,Plain Text File,,txt ,text/plain
+x-fmt/112,AutoCAD External Database Configuration File,,udl ,
+x-fmt/113,Microsoft Visio Drawing,5.0,vsd vss vst ,application/vnd.visio
+x-fmt/114,Lotus 1-2-3 Worksheet,2.0,wk1 wk2 ,application/vnd.lotus-1-2-3 application/x-123
+x-fmt/115,Lotus 1-2-3 Worksheet,3.0,wk3 ,application/lotus123 application/vnd.lotus-1-2-3
+x-fmt/116,Lotus 1-2-3 Worksheet,4-5,wk4 ,application/lotus123 application/vnd.lotus-1-2-3
+x-fmt/117,Lotus 1-2-3 Worksheet,1.0,wks ,application/vnd.lotus-1-2-3 application/x-123
+x-fmt/118,Microsoft Works Spreadsheet,2.0,,
+x-fmt/119,Windows Metafile Image,,wmf ,image/wmf
+x-fmt/120,Microsoft Works for Windows,4.0,wps ,
+x-fmt/121,Quattro Pro Spreadsheet for DOS,1-4,wkq wq1 ,
+x-fmt/122,Quattro Pro Spreadsheet for DOS,5,wkq wq2 ,
+x-fmt/123,Microsoft Excel Macro,4.0,xla xlm ,application/vnd.ms-excel
+x-fmt/124,Microsoft Excel Add-In,,xla xll ,
+x-fmt/125,Microsoft Excel Toolbar,,xlb ,
+x-fmt/126,Microsoft Excel Chart,4.0,xlc ,
+x-fmt/127,AutoCAD Xref Log,,xlg ,
+x-fmt/128,Microsoft Excel Workspace,,xlw ,
+x-fmt/129,Microsoft Word for Macintosh Document,X,,
+x-fmt/130,MS-DOS Text File with line breaks,,,text/plain
+x-fmt/131,Stationery for Mac OS X,,doc ,
+x-fmt/132,Speller Custom Dictionary,,dic ,
+x-fmt/133,Speller Exclude Dictionary,,dic ,
+x-fmt/134,AutoCAD Device-Independent Binary Plotter File,,adi ,
+x-fmt/135,Audio Interchange File Format,1.3,,
+x-fmt/136,Audio Interchange File Format (compressed),,aifc ,audio/x-aiff
+x-fmt/137,Electronic Arts Music,,asf ,
+x-fmt/138,Active Server Page,,asp ,
+x-fmt/139,NeXT/Sun sound,,au ,audio/basic
+x-fmt/140,Silicon Graphics Image,,bw rgb ,image/x-sgi-bw
+x-fmt/141,Calendar Creator Plus Data File,2,cce ,
+x-fmt/142,Computer Graphics Metafile ASCII,1,cgm ,image/cgm
+x-fmt/143,OS/2 Change Control File,,cin ,
+x-fmt/144,Corel Photo-Paint Image,,cpt ,
+x-fmt/145,Stats+ Data File,,,
+x-fmt/146,Scitex Continuous Tone Bitmap,,ct ,
+x-fmt/147,Paradox Database Table,7,db ,
+x-fmt/148,IBM DisplayWrite DCA Text File,,dca ,
+x-fmt/149,Desktop Color Separation File,,dcs ,
+x-fmt/150,Visual FoxPro Database Container File,,dcx ,
+x-fmt/151,Micrografx Designer,,dsf ,
+x-fmt/152,Digital Video,,dv ,video/dv
+x-fmt/153,Microsoft Windows Enhanced Metafile,1.0,emf ,image/emf
+x-fmt/154,AutoDesk FLIC Animation,,fli ,
+x-fmt/155,AutoCAD Film Roll,,flm ,
+x-fmt/156,Ventura Publisher,,gen ,
+x-fmt/157,Interchange File,,iff ,
+x-fmt/158,Initial Graphics Exchange Specification (IGES),5.x,iges igs ,model/iges
+x-fmt/159,GEM Image,,img ,
+x-fmt/160,Java Servlet Page,,jsp ,text/html
+x-fmt/161,MacPaint Image,1,mac ,
+x-fmt/162,Adobe FrameMaker Interchange Format,,mif ,application/vnd.mif
+x-fmt/163,NAP Metafile,,nap ,
+x-fmt/164,Portable Bitmap Image - ASCII,,pbm ,image/x-portable-bitmap
+x-fmt/165,Kodak PhotoCD Image,1.0,,
+x-fmt/166,PICS Animation,,pcs ,
+x-fmt/167,Adobe PhotoDeluxe,,pdd ,
+x-fmt/168,Broderbund Print Shop Deluxe,1-4,pcc pda pdb pdc pdg pdl pds ,
+x-fmt/169,PHP Script Page,,php ,text/html
+x-fmt/170,PC Paint Bitmap,,pic ,
+x-fmt/171,Inset Systems Bitmap,,pix ,
+x-fmt/172,Microsoft FoxPro Library,,plb ,
+x-fmt/173,PageMaker PC Document,5.0,pm5 pt5 ,application/vnd.pagemaker
+x-fmt/174,PageMaker PC Document,6.0,pm6 pt6 ,application/vnd.pagemaker
+x-fmt/175,MacPaint Graphics,,pnt ,
+x-fmt/176,Picture Publisher Bitmap,4,pp4 ,
+x-fmt/177,Microsoft PowerPoint Graphics File,,ppi ,
+x-fmt/178,Portable Pixel Map - ASCII,,ppm ,image/x-portable-pixmap
+x-fmt/179,Microsoft Visual Modeller Petal file (ASCII),,ptl ,
+x-fmt/180,Instalit Script,,pvd ,
+x-fmt/181,PageMaker PC Document,6.5-7.0,p65 pmd pmt t65 ,application/vnd.pagemaker
+x-fmt/182,QuarkXPress Data File,,qcd qpt qwd qwt qxb qxd qxl qxp qxt ,application/vnd.Quark.QuarkXPress
+x-fmt/183,RealAudio Metafile,,ram ,audio/vnd.rn-realaudio audio/x-pn-realaudio
+x-fmt/184,Sun Raster Image,,ras sun ,image/x-sun-raster
+x-fmt/185,Raw Bitmap,,raw ,
+x-fmt/186,Silicon Graphics RGB File,,,
+x-fmt/187,Painter RIFF Image File,,rif ,
+x-fmt/188,SDSC Image Tool Wavefront Raster Image,,rla ,
+x-fmt/189,SDSC Image Tool Run-Length Encoded Bitmap,,rle ,
+x-fmt/190,RealMedia,,rm rmvb ,application/vnd.rn-realmedia
+x-fmt/191,AMI Professional Document,,sam ,application/vnd.lotus-wordpro
+x-fmt/192,SAS for MS-DOS Catalog,,sct ,
+x-fmt/193,Unisys (Sperry) System Data File,,sdf ,
+x-fmt/194,IRIS Graphics,,,
+x-fmt/195,Standard Generalized Markup Language,,sgm sgml ,text/sgml
+x-fmt/196,NeXt Sound,,,
+x-fmt/197,DataFlex Query Tag Name,,tag ,
+x-fmt/198,Pagemaker TableEditor Graphics,,tbl ,
+x-fmt/199,Turbo Debugger Keystroke Recording File,,tdk ,
+x-fmt/200,PageMaker Time Stamp File,4.0,tym ,
+x-fmt/201,CCITT G.711 Audio,,ulaw ,
+x-fmt/202,Corel Wavelet Compressed Bitmap,,wi wvl ,
+x-fmt/203,WordPerfect for Windows Document,5.2,w52 wp wp5 wpd ,application/vnd.wordperfect
+x-fmt/204,Microsoft Word for Windows Macro,,wpm ,
+x-fmt/205,WordStar for MS-DOS Document,5.0,ws ws5 ,
+x-fmt/206,WordStar for Windows Document,1.0,ws wsd wsw ,
+x-fmt/207,X-Windows Bitmap Image,X11,xbm ,image/x-xbitmap
+x-fmt/208,X-Windows Pixmap Image,X10,xpm ,image/x-xpixmap
+x-fmt/209,SDSC Image Tool X Window Dump Format,,xwd ,
+x-fmt/210,XYWrite Document,,xy ,
+x-fmt/211,XYWrite Document,III,xy3 ,
+x-fmt/212,Lotus 1-2-3 Worksheet,5.0,,
+x-fmt/213,Quicken Data File,,abd qdf qel ,
+x-fmt/214,Microsoft Paint,1,msp ,
+x-fmt/215,GEM Metafile Format,1.00,gem ,
+x-fmt/216,Microsoft Powerpoint Packaged Presentation,,ppz ,
+x-fmt/217,Adobe ACD,,acd ,
+x-fmt/218,ESRI Arc/Info Binary Grid,,adf ,
+x-fmt/219,Internet Archive,1.0,arc ,application/x-internet-archive
+x-fmt/220,Applixware Spreadsheet,,as ,
+x-fmt/221,MapBrowser/MapWriter Vector Map Data,,cbd ,
+x-fmt/222,CD Audio,,cda ,application/x-cdf
+x-fmt/223,Autodesk Animator CEL File Format,,cel ,
+x-fmt/224,Cascading Style Sheet,,css ,text/css
+x-fmt/225,ESRI MapInfo Data File,,mid ,
+x-fmt/226,ESRI Arc/Info Export File,,e00 e01 e02 e03 e04 e05 e06 e07 e08 e09 e10 e11 e12 e13 e14 e15 e16 e17 e18 e19 e20 x00 ,
+x-fmt/227,Geography Markup Language,,gml ,application/gml+xml
+x-fmt/228,Applixware Bitmap,,im ,
+x-fmt/229,Intergraph Raster Image,,ing ,
+x-fmt/230,MIDI Audio,,mid midi ,audio/midi
+x-fmt/231,ESRI MapInfo Export File,,mif ,
+x-fmt/232,Microsoft Project Export File,1.0,mpx ,application/x-project
+x-fmt/233,Paint Shop Pro Image,3.0,psp ,
+x-fmt/234,Paint Shop Pro Image,5.0,psp ,
+x-fmt/235,ESRI Arc/View ShapeFile,,shp ,
+x-fmt/236,WordStar for MS-DOS Document,5.5,ws ,
+x-fmt/237,WordStar for MS-DOS Document,6.0,ws ws6 ,
+x-fmt/238,Microsoft Access Database,95,mdb ,
+x-fmt/239,Microsoft Access Database,97,mdb ,
+x-fmt/240,Microsoft Access Database,2000,mdb ,
+x-fmt/241,Microsoft Access Database,2002,mdb ,
+x-fmt/242,Microsoft FoxPro Database,2.6,dbf ,
+x-fmt/243,Microsoft Project,4.0,mpp ,application/vnd.ms-project
+x-fmt/244,Microsoft Project,95,mpp ,application/vnd.ms-project
+x-fmt/245,Microsoft Project,98,mpp ,application/vnd.ms-project
+x-fmt/246,Microsoft Project,2000,,
+x-fmt/247,Microsoft Project,2000-2003,mpp ,application/vnd.ms-project
+x-fmt/248,Microsoft Outlook Personal Folders (ANSI),1997-2002,pst ,
+x-fmt/249,Microsoft Outlook Personal Folders (Unicode),2003-2007,pst ,
+x-fmt/250,Microsoft Outlook Personal Folders,,,
+x-fmt/251,Microsoft Outlook Personal Folders,,,
+x-fmt/252,Microsoft Publisher,2.0,pub ,application/x-mspublisher
+x-fmt/253,Microsoft Publisher,95,pub ,application/x-mspublisher
+x-fmt/254,Microsoft Publisher,97,pub ,application/x-mspublisher
+x-fmt/255,Microsoft Publisher,98,pub ,application/x-mspublisher
+x-fmt/256,Microsoft Publisher,2000,pub ,application/x-mspublisher
+x-fmt/257,Microsoft Publisher,2002,pub ,application/x-mspublisher
+x-fmt/258,Microsoft Visio Drawing,2000-2002,vsd vss vst ,application/vnd.visio
+x-fmt/259,Microsoft Visio Drawing,2002,,
+x-fmt/260,WordStar for MS-DOS Document,4.0,ws ws4 ,
+x-fmt/261,WordStar for MS-DOS Document,7.0,ws ws7 ,
+x-fmt/262,WordStar for Windows Document,2.0,ws wsw ,
+x-fmt/263,ZIP Format,,zip ,application/zip
+x-fmt/264,RAR Archive,2.0,rar ,application/vnd.rar
+x-fmt/265,Tape Archive Format,,tar ,application/x-tar
+x-fmt/266,GZIP Format,,gz z ,application/gzip
+x-fmt/267,BZIP Compressed Archive,,bz ,
+x-fmt/268,BZIP2 Compressed Archive,,bz2 ,application/x-bzip2
+x-fmt/269,ZOO Compressed Archive,,zoo ,
+x-fmt/270,OS/2 Bitmap,2.0,bmp ,image/bmp
+x-fmt/271,dBASE Database,III+,dbf ,
+x-fmt/272,dBASE Database,V,dbf ,
+x-fmt/273,Microsoft Word for MS-DOS Document,3.0,,
+x-fmt/274,Microsoft Word for MS-DOS Document,1.x - 4.0,doc ,application/msword
+x-fmt/275,Microsoft Word for MS-DOS Document,5.0 - 5.4,doc ,application/msword
+x-fmt/276,Microsoft Word for MS-DOS Document,5.5,doc ,application/msword
+x-fmt/277,Real Video,,rv ,video/vnd.rn-realvideo
+x-fmt/278,RealAudio,3,ra ,audio/vnd.rn-realaudio
+x-fmt/279,MPEG 1/2 Audio Layer 3 Streaming,,m3u ,audio/mpeg
+x-fmt/280,XML Schema Definition,,xsd ,application/xml
+x-fmt/281,Extensible Stylesheet Language,,xsl ,application/xml
+x-fmt/282,8-bit ANSI Text,,ans ,text/plain
+x-fmt/283,8-bit ASCII Text,,asc ,text/plain
+x-fmt/284,IBM DisplayWrite Final Form Text File,,fft ,
+x-fmt/285,IBM DisplayWrite Revisable Form Text File,,rft ,
+x-fmt/286,DEC Data Exchange File,,dx ,application/dec-dx.
+x-fmt/287,DEC WPS Plus Document,,wpl ,
+x-fmt/288,IBM DisplayWrite Document,2,,
+x-fmt/289,IBM DisplayWrite Document,3,,
+x-fmt/290,AMI Draw Vector Image,,sdw ,
+x-fmt/291,CorelDraw Drawing,7.0,cdr ,
+x-fmt/292,CorelDraw Drawing,8.0,cdr ,
+x-fmt/293,Hewlett Packard Graphics Language,,hpgl ,application/vnd.hp-HPGL
+x-fmt/294,Micrografx Draw,3.0,drw ,
+x-fmt/295,Micrografx Draw,4.0,drt drw ,
+x-fmt/296,Micrografx Designer,3.1,drw ,
+x-fmt/297,Paint Shop Pro Image,6.0,psp pspimage ,
+x-fmt/298,Paint Shop Pro Image,7,psp pspimage ,
+x-fmt/299,X-Windows Bitmap Image,X10,xbm ,image/x-xbitmap
+x-fmt/300,X-Windows Screen Dump File,X10,xdm xwd ,image/x-xwindowdump
+x-fmt/301,ACBM Graphics,,acb ,
+x-fmt/302,Adobe FrameMaker Document,8.0,fm ,application/vnd.framemaker
+x-fmt/303,Aldus Freehand Drawing,3,fh3 ,
+x-fmt/304,Aldus Freehand Drawing,4,fh4 ,
+x-fmt/305,Apple Sound,,afc ,
+x-fmt/306,AutoSketch Drawing,,skf ,
+x-fmt/307,Paradox Database Memo Field (Binary Large Object),,dbq mb ,
+x-fmt/308,Btrieve Database,5.1,btr ,
+x-fmt/309,ChiWriter Document,3,chi ,
+x-fmt/310,CorelCHART Document,,cch ,
+x-fmt/311,dBASE Text Memo,,dbt ,
+x-fmt/312,DesignCAD Drawing,,dc dc2 ,
+x-fmt/313,DesignCAD for Windows Drawing,,dw2 ,
+x-fmt/314,Digital Terrain Elevation Data,,avg dt0 dt1 dt2 dted max min ,
+x-fmt/315,Document Type Definition,,dtd ,
+x-fmt/316,Dr Halo Bitmap,,cut ,
+x-fmt/317,ESRI Arc/View Project,2.x,apr ,
+x-fmt/318,FileMaker Pro Database,3,fm fmp fp fp3 ,application/x-filemaker
+x-fmt/319,FileMaker Pro Database,5,fm fmp fp fp5 ,
+x-fmt/320,Fractal Image,,fif ,
+x-fmt/321,Framework Database,II,fw fw2 ,
+x-fmt/322,Framework Database,III,fw3 ,
+x-fmt/323,Framework Database,IV,fw4 ,
+x-fmt/324,Harvard Graphics Show,2.0,shw ,
+x-fmt/325,Harvard Graphics Vector Graphics,2.0,cht ,
+x-fmt/326,Hewlett Packard AdvanceWrite Text File,,aw ,
+x-fmt/327,IntelliDraw Vector Graphics,,idw ,
+x-fmt/328,InterBase Database,,gdb ,
+x-fmt/329,Interleaf Document,,doc ,
+x-fmt/330,JustWrite Text Document,,jw jwt ,
+x-fmt/331,Lotus 1-2-3 Spreadsheet Formatting File,2.3-2.4,fm1 fmt ,
+x-fmt/332,Lotus 1-2-3 Spreadsheet Formatting File,3.0,fm3 ,
+x-fmt/333,Lotus Approach View File,97,apr ,application/vnd.lotus-approach
+x-fmt/334,Lotus Approach View File,,apt ,application/vnd.lotus-approach
+x-fmt/335,Lotus Freelance Smartmaster Graphics,,mas ,application/vnd.lotus-freelance
+x-fmt/336,Lotus Notes Database,2,ns2 nsf ,application/vnd.lotus-notes
+x-fmt/337,Lotus Notes Database,3,ns3 nsf ,application/vnd.lotus-notes
+x-fmt/338,Lotus Notes Database,4,ns4 nsf ,application/vnd.lotus-notes
+x-fmt/339,Lotus Notes File,,box ,
+x-fmt/340,Lotus WordPro Document,96,lwp ,application/lwp application/vnd.lotus-wordpro
+x-fmt/341,Macromedia Director,PC,dir dxr ,application/x-director
+x-fmt/342,Microsoft FoxPro Memo,,fpt frt pjt vct ,
+x-fmt/343,Microsoft Visual FoxPro Table,,dbx ,
+x-fmt/344,Microsoft Works Database,,bdb ,
+x-fmt/345,Microsoft Works Document,,bps ,
+x-fmt/346,Microstation CAD Drawing,95,dgn ,
+x-fmt/347,MultiMate Text File,4.x,dox ,
+x-fmt/348,Multipage Zsoft Paintbrush Bitmap Graphics,,dcx ,image/x-dcx
+x-fmt/349,Nota Bene Text File,,nb ,
+x-fmt/350,OmniPage Pro Document,5-9,met ,
+x-fmt/351,PageMaker Document,3.0,pm3 ,
+x-fmt/352,PageMaker PC Document,4.0,pm4 pt4 ,application/vnd.pagemaker
+x-fmt/353,Professional Write Text File,,pw ,
+x-fmt/354,SAP Document,,ali ,
+x-fmt/355,SAS Data File,,ssd ,
+x-fmt/356,SAS for MS-DOS Database,,ssd ,
+x-fmt/357,Scanstudio 16-Colour Bitmap,,adc ,
+x-fmt/358,Silicon Graphics Graphics File,,,
+x-fmt/359,StarOffice Calc,5.x,sdc ,
+x-fmt/360,StarOffice Impress,5.x,sdd ,
+x-fmt/361,StatGraphics Data File,,aws ,
+x-fmt/362,StratGraphics Data File,,asf ,
+x-fmt/363,SuperCalc Spreadsheet,4,cal ,
+x-fmt/364,SuperCalc Spreadsheet,5,cal ,
+x-fmt/365,TeX Binary File,,dvi ,application/x-dvi
+x-fmt/367,Truevision TGA Bitmap,1.0,afi bpx icb tga vda vst ,
+x-fmt/368,VisiCalc Database,,dif ,
+x-fmt/369,Vista Pro Graphics,,dem ,
+x-fmt/370,WordStar for MS-DOS Document,3.0,ws ws3 ,
+x-fmt/371,XYWrite for Windows Document,4.0,xyw ,
+x-fmt/372,XYWrite Document,III+,xyp ,
+x-fmt/373,XYWrite Document,IV,xy4 ,
+x-fmt/374,CorelDraw Drawing,9.0,cdr ,
+x-fmt/375,CorelDraw Drawing,10.0,cdr ,
+x-fmt/376,Paint Shop Pro Image,8,pspimage ,
+x-fmt/377,Paint Shop Pro Image,4.00,psp ,
+x-fmt/378,CorelDraw Drawing,11.0,cdr ,
+x-fmt/379,CorelDraw Drawing,3.0,cdr ,
+x-fmt/380,dBASE for Windows database,5.0,dbf ,
+x-fmt/381,Dia Graphics Format,,dia ,
+x-fmt/382,Macromedia FLV,1,flv ,video/x-flv
+x-fmt/383,Flexible Image Transport System,,fits ,application/fits image/fits
+x-fmt/384,Quicktime,,mov qtm ,video/quicktime
+x-fmt/385,MPEG-1 Program Stream,,mpeg mpg ,video/mpeg
+x-fmt/386,MPEG-2 Program Stream,,mod mpeg mpg ,video/mpeg
+x-fmt/387,Exchangeable Image File Format (Uncompressed),2.2,tif tiff ,image/tiff
+x-fmt/388,Exchangeable Image File Format (Uncompressed),2.1,tif tiff ,image/tiff
+x-fmt/389,Exchangeable Image File Format (Audio),2.1,wav ,audio/x-wav
+x-fmt/390,Exchangeable Image File Format (Compressed),2.1,jpeg jpg ,image/jpeg
+x-fmt/391,Exchangeable Image File Format (Compressed),2.2,jpeg jpg ,image/jpeg
+x-fmt/392,JP2 (JPEG 2000 part 1),,jp2 ,image/jp2
+x-fmt/393,WordPerfect for MS-DOS Document,5.0,w50 wp wp5 wpd ,application/vnd.wordperfect
+x-fmt/394,WordPerfect for MS-DOS/Windows Document,5.1,w51 wp wp5 wpd ,application/vnd.wordperfect
+x-fmt/395,WordPerfect Graphics Metafile,1.0,wpg ,
+x-fmt/396,Exchangeable Image File Format (Audio),2.2,wav ,audio/x-wav
+x-fmt/397,Exchangeable Image File Format (Audio),2.0,wav ,audio/x-wav
+x-fmt/398,Exchangeable Image File Format (Compressed),2.0,jpeg jpg ,image/jpeg
+x-fmt/399,Exchangeable Image File Format (Uncompressed),2.0,tif tiff ,image/tiff
+x-fmt/400,StarOffice Writer,5.x,sdw ,application/vnd.stardivision.writer
+x-fmt/401,StarOffice Draw,5.x,sda ,application/vnd.stardivision.draw
+x-fmt/402,StarOffice Draw,5.2,,
+x-fmt/403,StarOffice Writer,5.2,,
+x-fmt/404,StarOffice Calc,5.2,,
+x-fmt/405,StarOffice Impress,5.2,,
+x-fmt/406,PostScript,2.0,ps ,application/postscript
+x-fmt/407,PostScript,2.1,ps ,application/postscript
+x-fmt/408,PostScript,3.0,ps ,application/postscript
+x-fmt/409,MS-DOS Executable,,exe ,
+x-fmt/410,Windows New Executable,,exe ,
+x-fmt/411,Windows Portable Executable,,dll exe sys ,application/vnd.microsoft.portable-executable
+x-fmt/412,Java Archive Format,,jar ,application/java-archive
+x-fmt/413,Batch file (executable),,bat ,
+x-fmt/414,Windows Cabinet File,,cab ,application/vnd.ms-cab-compressed
+x-fmt/415,Java Compiled Object Code,,class ,
+x-fmt/416,BinHex Binary Text,,hqx ,
+x-fmt/417,HTML Extension File,,htx ,
+x-fmt/418,Icon file format,,ico ,image/vnd.microsoft.icon image/x-icon
+x-fmt/419,DVD data file and backup data file,,bup ifo ,
+x-fmt/420,Windows Setup File,,inf ,application/inf
+x-fmt/421,Text Configuration file,,ini ,
+x-fmt/422,Java language source code file,,java ,
+x-fmt/423,JavaScript file,,js ,application/javascript
+x-fmt/424,Deluxe Paint bitmap,,lbm ,
+x-fmt/425,Generic Library File,,lib ,
+x-fmt/426,License file,,lic ,
+x-fmt/427,Acrobat Language definition file,,lng ,
+x-fmt/428,Microsoft Windows Shortcut,,lnk ,
+x-fmt/429,MHTML,,mht mhtml ,multipart/related
+x-fmt/430,Microsoft Outlook Email Message,97-2003,msg oft ,
+x-fmt/432,3DM,4,3dm ,
+x-fmt/433,3DM,1,3dm ,
+x-fmt/434,3DM,2,3dm ,
+x-fmt/435,3DM,3,3dm ,
+x-fmt/436,CATIA Model,4,mod model ,
+x-fmt/437,CATIA Project,4,project ,
+x-fmt/438,CATIA Material Description,5,catmaterial ,
+x-fmt/439,CATIA Model (Part Description),5,catpart ,
+x-fmt/440,CATIA Product Description,5,catproduct ,
+x-fmt/441,AutoCAD Database File Locking Information,,dwl ,application/octet-stream
+x-fmt/442,form*Z Project File,,fmz ,application/octet-stream
+x-fmt/443,Revit Family File,,rfa ,application/octet-stream
+x-fmt/444,Revit Family Template,,rft ,application/octet-stream
+x-fmt/445,Revit Template,,rte ,application/octet-stream
+x-fmt/446,Revit External Group,,rvg ,application/octet-stream
+x-fmt/447,Revit Project,,rvt ,application/octet-stream
+x-fmt/448,Revit Workspace,,rws ,application/octet-stream
+x-fmt/449,Steel Detailing Neutral Format,,sdn ,text/plain
+x-fmt/450,Adobe InDesign Document,Generic,ind indd indt ,application/octet-stream
+x-fmt/451,SketchUp Document,,skb skp ,
+x-fmt/452,SketchUp Document,,,
+x-fmt/453,TrueType Font,,ttf ,font/ttf
+x-fmt/454,Microsoft Internet Shortcut,,url ,text/plain
+x-fmt/455,AutoCAD Drawing,2007-2008,dwg ,image/vnd.dwg
