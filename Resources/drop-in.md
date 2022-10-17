@@ -8,6 +8,8 @@ Every 2 weeks at Thursday 4pm UK time or 11am (ET):
 
 * 27/10/2022 (PRONOM Hackathon Special)
 
+* 01/11/2022 (PRONOM Hackathon Special)
+
 * 03/11/2022 (PRONOM Hackathon Special)
 
 * 10/11/2022
@@ -27,6 +29,8 @@ The meeting link to join for these sessions can be found [here](https://teams.mi
 On the last Thursday of the month 7am UK time or 4pm Thursday (AEST):
 
 * 27/10/2022 (PRONOM Hackathon Special)
+
+* 03/11/2022 (PRONOM Hackathon Special)
 
 * 24/11/2022
 
