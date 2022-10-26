@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FFSignatureFile xmlns="http://www.nationalarchives.gov.uk/pronom/SignatureFile" Version="62000" DateCreated="2022-08-26T11:33:54+01:00">
+	<InternalSignatureCollection>
+        <InternalSignature ID="10000">
+            <ByteSequence Endianness="">
+                <SubSequence Position="1" SubSeqMinOffset="0" MinFragLength="12">
+                    <Sequence>202D2D3E20</Sequence>
+                    <DefaultShift>6</DefaultShift>
+                    <Shift Byte="20">1</Shift>
+                    <Shift Byte="2D">3</Shift>
+                    <Shift Byte="3E">2</Shift>
+                    <LeftFragment Position="1" MinOffset="0" MaxOffset="0">[30:39][30:39]3A[30:39][30:39]3A[30:39][30:39]2C[30:39][30:39][30:39]</LeftFragment>
+                    <RightFragment Position="1" MinOffset="0" MaxOffset="0">[30:39][30:39]3A[30:39][30:39]3A[30:39][30:39]2C[30:39][30:39][30:39]</RightFragment>
+                </SubSequence>
+            </ByteSequence>
+        </InternalSignature>
+	</InternalSignatureCollection>
+	<FileFormatCollection>
+        <FileFormat ID="2028" Name="SubRip Subtitle File" Version="" PUID="fmt/1218">
+            <Extension>srt</Extension>
+            <InternalSignatureID>10000</InternalSignatureID>
+        </FileFormat>
+    </FileFormatCollection>
+</FFSignatureFile>
