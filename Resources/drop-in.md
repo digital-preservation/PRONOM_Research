@@ -26,7 +26,7 @@ The meeting link to join for these sessions can be found [here](https://teams.mi
 
  
 
-On the last Thursday of the month 7am UK time or 4pm Thursday (AEST):
+On the last Thursday of the month 7am UK time or 5pm Thursday (AET):
 
 * 27/10/2022 (PRONOM Hackathon Special)
 
