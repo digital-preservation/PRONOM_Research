@@ -14,7 +14,7 @@ For those who want to correct the signatures within PRONOM, analyse hex or submi
 
 ## Stream 2
 
-For those of you who may not want to analyse the contents of files we'd still love your help. Many of the file formats in PRONOM do not have full descriptions of the properties of the file format. They only have what we call 'Outline Descriptions'. We have a list [here](https://github.com/digital-preservation/pronom-research-week/blob/master/formats_with_outline_descriptions_only.csv) of these dated from 2020 so double check the format in the database [here](https://www.nationalarchives.gov.uk/PRONOM/PUID/proPUIDSearch.aspx?status=new) to check we haven't updated it. For descriptions we try and keep it concise and objective.
+For those of you who may not want to analyse the contents of files we'd still love your help. Many of the file formats in PRONOM do not have full descriptions of the properties of the file format. They only have what we call 'Outline Descriptions'. We have a list [here](https://github.com/digital-preservation/pronom-research-week/blob/master/formats_with_outline_descriptions_only.csv) of these dated from 2020 so double check the format in the database [here](https://www.nationalarchives.gov.uk/PRONOM/PUID/proPUIDSearch.aspx?status=new) to check we haven't updated it. For descriptions we try and keep it concise and objective. More about updating PRONOM descriptions and other information in the database can be found on [the main page of this repository](https://github.com/digital-preservation/PRONOM_Research).
 
 ## Resources
 
