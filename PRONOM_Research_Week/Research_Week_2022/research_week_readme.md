@@ -31,4 +31,4 @@ You can also submit information regarding file formats to us using [pull request
 
 ## Contact
 We always like to hear from anyone interested in file format research! For any quidance or enquiries regarding PRONOM please email us on PRONOM@nationalarchives.gov.uk or use the [Issues page](https://github.com/digital-preservation/PRONOM_Research/issues). For the week we will be increasing the amount of drop-in sessions we usually hold. The times to join the drop-in sessions can be found [here](https://github.com/digital-preservation/PRONOM_Research/blob/main/Resources/drop-in.md).
-We will also be talking about Research Week on the 28th at DPConnect with the DPC.
+We will also be talking about Research Week on the [28th at DPConnect with the DPC](https://www.dpconline.org/events/eventdetail/48/-/dpclinic-october-pronom-special).
