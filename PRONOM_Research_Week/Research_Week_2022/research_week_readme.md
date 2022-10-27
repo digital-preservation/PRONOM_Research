@@ -8,11 +8,11 @@ PRONOM Research Week is a yearly initiative over the course of a week to help fo
 
 We want everyone to have the opportunity to get involved (if they would like to)! This year we will have two streams, one for those that want to submit full PRONOM entries or correct signatures and a second for those who would like to update information or write descriptions for the file formats in the database. Both are incredibly valuable to the work that PRONOM does.
 
-## Stream 1
+### Stream 1
 
 For those who want to correct the signatures within PRONOM, analyse hex or submit full file formats. You may have a file format that hasn't been identifying that you wish to create a siganture for or noticed something that isn't in PRONOM. A full list of file formats in PRONOM can be found [here](https://github.com/digital-preservation/PRONOM_Research/blob/main/Resources/All_formats_lists/pronom_formats_v108.csv) as of v.108. Stuck for inspiration? An updated list of file formats with no signatures can be found [here](https://github.com/digital-preservation/PRONOM_Research/blob/main/Resources/formats_without_signatures/formats_without_signatures_october_2022.csv).
 
-## Stream 2
+### Stream 2
 
 For those of you who may not want to analyse the contents of files we'd still love your help. Many of the file formats in PRONOM do not have full descriptions of the properties of the file format. They only have what we call 'Outline Descriptions'. We have a list [here](https://github.com/digital-preservation/pronom-research-week/blob/master/formats_with_outline_descriptions_only.csv) of these dated from 2020 so double check the format in the database [here](https://www.nationalarchives.gov.uk/PRONOM/PUID/proPUIDSearch.aspx?status=new) to check we haven't updated it. For descriptions we try and keep it concise and objective. More about updating PRONOM descriptions and other information in the database can be found on [the main page of this repository](https://github.com/digital-preservation/PRONOM_Research).
 
