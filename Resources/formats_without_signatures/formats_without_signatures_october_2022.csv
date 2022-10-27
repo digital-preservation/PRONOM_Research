@@ -1,0 +1,394 @@
+PUID,Name,Version,Extensions,Binary signature?,Container Signature?,Deprecated?
+fmt/7,Tagged Image File Format,3,,X,X,Yes
+fmt/8,Tagged Image File Format,4,,X,X,Yes
+fmt/9,Tagged Image File Format,5,,X,X,Yes
+fmt/10,Tagged Image File Format,6,,X,X,Yes
+fmt/46,Rich Text Format,1.1,,X,X,Yes
+fmt/47,Rich Text Format,1.2,,X,X,Yes
+fmt/48,Rich Text Format,1.3,,X,X,Yes
+fmt/49,Rich Text Format,1.4,,X,X,Yes
+fmt/51,Rich Text Format,1.6,,X,X,Yes
+fmt/60,Excel 95 Workbook (xls),7,,X,X,Yes
+fmt/113,Still Picture Interchange File Format,2.0,,X,X,X
+fmt/149,JTIP (JPEG Tiled Image Pyramid),,,X,X,X
+fmt/150,JPEG-LS,,jls ,X,X,X
+fmt/153,Tagged Image File Format for Image Technology (TIFF/IT),,tif tiff ,X,X,X
+fmt/156,Tagged Image File Format for Internet Fax (TIFF-FX),,tfx tif tiff ,X,X,X
+fmt/159,EBCDIC-US,,ebcdic ,X,X,X
+fmt/162,Microsoft Multiplan,4.0,mod ,X,X,X
+fmt/164,Microsoft Works Word Processor for DOS,1.12,,X,X,Yes
+fmt/165,Microsoft Works Word Processor for DOS,2.0,,X,X,Yes
+fmt/167,Microsoft Works Spreadsheet for DOS,1.12,,X,X,Yes
+fmt/168,Microsoft Works Spreadsheet for DOS,2.0,,X,X,Yes
+fmt/169,Microsoft Works Database for DOS,1.05,wdb ,X,X,X
+fmt/170,Microsoft Works Database for DOS,1.12,wdb ,X,X,X
+fmt/171,Microsoft Works Database for DOS,2.0,wdb ,X,X,X
+fmt/172,Microsoft Excel for Macintosh,3.0,,X,X,Yes
+fmt/173,Microsoft Excel for Macintosh,4.0,,X,X,Yes
+fmt/174,Microsoft Excel for Macintosh,98,,X,X,Yes
+fmt/175,Microsoft Excel for Macintosh,2001,xls ,X,X,X
+fmt/176,Microsoft Excel for Macintosh,2002,xls ,X,X,X
+fmt/177,Microsoft Excel for Macintosh,2004,xls ,X,X,X
+fmt/178,Microsoft Excel for Macintosh,X,,X,X,Yes
+fmt/179,Microsoft PowerPoint for Macintosh,4.0,ppt ,X,X,X
+fmt/180,Microsoft PowerPoint for Macintosh,98,,X,X,Yes
+fmt/181,Microsoft PowerPoint for Macintosh,2001,ppt ,X,X,X
+fmt/182,Microsoft PowerPoint for Macintosh,X,,X,X,Yes
+fmt/195,ERDAS IMAGINE Gray-scale Bitmap Image,,gis ,X,X,X
+fmt/201,Mathematica Notebook,,nb ,X,X,X
+fmt/204,RealVideo Clip,,rv ,X,X,X
+fmt/206,Structured Query Language Data,,sql ,X,X,X
+fmt/207,Obsidium Project File,,opf ,X,X,X
+fmt/208,Binary File,,bin ,X,X,X
+fmt/209,Sound Designer II Audio File,,sd2 ,X,X,X
+fmt/210,Statistica Report File,,str ,X,X,X
+fmt/212,Information or Setup File,,inf ,X,X,X
+fmt/213,ScanIt Document,,sid ,X,X,X
+fmt/218,Microsoft FrontPage,,lck ,X,X,X
+fmt/219,Microsoft Works Database for Windows,2.0,wdb ,X,X,X
+fmt/220,Microsoft Works Spreadsheet for Windows,2.0,,X,X,Yes
+fmt/221,Microsoft Works Word Processor for Windows,2.0,,X,X,Yes
+fmt/222,Microsoft Works Database for Windows,2.0a,wdb ,X,X,X
+fmt/223,Microsoft Works Database for Windows,3.0,wdb ,X,X,X
+fmt/224,Microsoft Works Database for Windows,3.0a,wdb ,X,X,X
+fmt/225,Microsoft Works Database for Windows,3.0b,wdb ,X,X,X
+fmt/226,Microsoft Works Database for Windows,4.0,wdb ,X,X,X
+fmt/227,Microsoft Works Spreadsheet for Windows,2.0a,,X,X,Yes
+fmt/228,Microsoft Works Spreadsheet for Windows,3.0,,X,X,Yes
+fmt/229,Microsoft Works Spreadsheet for Windows,3.0a,,X,X,Yes
+fmt/230,Microsoft Works Spreadsheet for Windows,3.0b,,X,X,Yes
+fmt/231,Microsoft Works Spreadsheet for Windows,4.0,,X,X,Yes
+fmt/232,Microsoft Works Word Processor for Windows,2.0a,,X,X,Yes
+fmt/234,Microsoft Works Word Processor for Windows,3.0a,,X,X,Yes
+fmt/235,Microsoft Works Word Processor for Windows,3.0b,,X,X,Yes
+fmt/236,Microsoft Works Word Processor for Windows,4.0,,X,X,Yes
+fmt/237,Microsoft Office Binder File for Windows,95,obd ,X,X,X
+fmt/238,Microsoft Office Binder Template for Windows,95,obt ,X,X,X
+fmt/239,Microsoft Office Binder Wizard for Windows,95,obz ,X,X,X
+fmt/241,Microsoft Office Binder Template for Windows,97-2003,obt ,X,X,X
+fmt/242,Microsoft Office Binder Wizard for Windows,97-2003,obz ,X,X,X
+fmt/245,Structured Data Exchange Format,,,X,X,X
+fmt/246,Microsoft Works Database for Windows,4.0a,wdb ,X,X,X
+fmt/247,Microsoft Works Spreadsheet for Windows,4.0a,,X,X,Yes
+fmt/248,Microsoft Works Word Processor Windows,4.0a,,X,X,Yes
+fmt/249,Microsoft Works Database for Windows,4.5,wdb ,X,X,X
+fmt/250,Microsoft Works Spreadsheet for Windows,4.5,,X,X,Yes
+fmt/251,Microsoft Works Word Processor Windows,4.5,,X,X,Yes
+fmt/252,Microsoft Works Database for Windows,4.5a,wdb ,X,X,X
+fmt/253,Microsoft Works Spreadsheet for Windows,4.5a,,X,X,Yes
+fmt/254,Microsoft Works Word Processor Windows,4.5a,,X,X,Yes
+fmt/256,Microsoft Works Database for Windows,2000,wdb ,X,X,X
+fmt/257,Microsoft Works Spreadsheet for Windows,2000,,X,X,Yes
+fmt/259,Microsoft Works Database for DOS,3,wdb ,X,X,X
+fmt/260,Microsoft Works Database for DOS,3a,wdb ,X,X,X
+fmt/261,Microsoft Works Database for DOS,3b,wdb ,X,X,X
+fmt/262,Microsoft Works Spreadsheet for DOS,3,,X,X,Yes
+fmt/263,Microsoft Works Spreadsheet for DOS,3a,,X,X,Yes
+fmt/264,Microsoft Works Spreadsheet for DOS,3b,,X,X,Yes
+fmt/265,Microsoft Works Word Processor DOS,3,,X,X,Yes
+fmt/266,Microsoft Works Word Processor DOS,3a,,X,X,Yes
+fmt/267,Microsoft Works Word Processor DOS,3b,,X,X,Yes
+fmt/268,Microsoft Works Database for Macintosh,3,wdb ,X,X,X
+fmt/269,Microsoft Works Database for Macintosh,4,wdb ,X,X,X
+fmt/270,Microsoft Works Spreadsheet for Macintosh,3,wks ,X,X,X
+fmt/271,Microsoft Works Spreadsheet for Macintosh,4,wks ,X,X,X
+fmt/272,Microsoft Works Word Processor Macintosh,3,wps ,X,X,X
+fmt/273,Microsoft Works Word Processor Macintosh,4,wps ,X,X,X
+fmt/335,Dreamweaver Lock File,,lck ,X,X,X
+fmt/367,ESRI World File Format,,bilw blw bpw btw jgw jpgw pgw rasterw tfw tifw ,X,X,X
+fmt/421,Adobe Illustrator,Japan,ai ,X,X,X
+fmt/497,Wireless Bitmap,,wbmp ,X,X,X
+fmt/530,eRuby HTML document,,rhtm rhtml ,X,X,X
+fmt/644,Nullsoft Scriptable Install System,,nsi ,X,X,X
+fmt/658,Cypher Query Language,,cql ,X,X,X
+fmt/664,Gerber Format,,gbr ,X,X,X
+fmt/667,Photoshop Curve File,,acv atf ,X,X,X
+fmt/701,Processing Development Environment,,pde ,X,X,X
+fmt/720,MBOX,,mbox ,X,X,X
+fmt/721,VLW Font File,,vlw ,X,X,X
+fmt/800,CSV Schema,,csvs ,X,X,X
+fmt/817,JSON Data Interchange Format,,json ,X,X,X
+fmt/818,YAML,,yaml yml ,X,X,X
+fmt/824,Apple iWork Pages,Generic,pages ,X,X,X
+fmt/825,Apple iWork Numbers,Generic,numbers ,X,X,X
+fmt/865,STL (Standard Tessellation Language) Binary,,stl ,X,X,X
+fmt/870,Perl Script,,pl ,X,X,X
+fmt/873,Notation3,,n3 ,X,X,X
+fmt/874,Turtle,,ttl ,X,X,X
+fmt/875,RDF/XML,,rdf ,X,X,X
+fmt/879,Fortran,,f f03 f90 f95 for ,X,X,X
+fmt/880,JSON-LD,,jsonld ,X,X,X
+fmt/884,AXD HTTP Handler File,,axd ,X,X,X
+fmt/885,BASIC File,,bas ,X,X,X
+fmt/886,HTML Components,,htc ,X,X,X
+fmt/897,Compressed MusicXML,,mxl ,X,X,X
+fmt/938,Python Script File,,py ,X,X,X
+fmt/941,Back Up File,,bak ,X,X,X
+fmt/949,WordPerfect,4.0/4.1/4.2,wp4 wpd ,X,X,X
+fmt/990,ESRI File Geodatabase,,,X,X,X
+fmt/991,SHA256 File,,sha256 ,X,X,X
+fmt/992,SHA1 File,,sha1 ,X,X,X
+fmt/993,MD5 File,,md5 ,X,X,X
+fmt/1062,Hasselblad 3FR Raw Image,,3fr ,X,X,X
+fmt/1088,Visual Basic (VB) File,,vb ,X,X,X
+fmt/1089,VBScript (VBS) File,,vbs ,X,X,X
+fmt/1090,Exclude File,,exclude ,X,X,X
+fmt/1119,Jupyter Python Notebook,,ipynb ,X,X,X
+fmt/1149,Markdown,,md ,X,X,X
+fmt/1165,Praat Script File,,praat ,X,X,X
+fmt/1218,SubRip Subtitle File,,srt ,X,X,X
+fmt/1229,Sibelius Sound Set Definition,,set ,X,X,X
+fmt/1238,Band Interleaved By Line (BIL) Image Encoding,,bil ,X,X,X
+fmt/1239,Band Interleaved By Pixel (BIP) Image Encoding,,bip ,X,X,X
+fmt/1240,Band Sequential (BSQ) Image Encoding,,bsq ,X,X,X
+fmt/1253,ESRI Code Page File,,cpg ,X,X,X
+fmt/1257,AutoCAD Temporary File,,ac$ ,X,X,X
+fmt/1365,Debug File,,dbg ,X,X,X
+fmt/1367,GeoJSON,,geojson ,X,X,X
+fmt/1369,Error File,,err ,X,X,X
+fmt/1423,HP TRIM Outlook Saved Message File,,mbx vmbx ,X,X,X
+fmt/1462,Comic Book Archive,,cb7 cba cbr cbt cbz ,X,X,X
+fmt/1545,NeoDesk Icon File,1 and 2,nic ,X,X,X
+fmt/1550,MATLAB Mat File,Level 4,mat ,X,X,X
+fmt/1565,reStructuredText,,rst ,X,X,X
+fmt/1576,Spectrum 512 Uncompressed | Spectrum 512 Uncompressed Enhanced,,spu ,X,X,X
+fmt/1590,Visual Basic Binary Form File,,frx ,X,X,X
+fmt/1597,PageMaker Template File,5.0,pt5 ,X,X,X
+fmt/1598,Stata .do Command File,,do ,X,X,X
+fmt/1599,R Program File,,r ,X,X,X
+fmt/1600,ESRI ArcInfo DAT File (Internal),,,X,X,X
+fmt/1619,Pascal Source Code,,pas ,X,X,X
+fmt/1625,ESRI Colour File Format,,clr ,X,X,X
+fmt/1650,Bayesian Interchange Format File,,bif ,X,X,X
+fmt/1652,Typescript,,ts tsx ,X,X,X
+fmt/1655,cdrLabel Label File,,clb ,X,X,X
+fmt/1678,MATLAB Script File,,m ,X,X,X
+fmt/1712,Calc602 Macro File,,mc6 ,X,X,X
+fmt/1717,Time Stamp Token,,tst ,X,X,X
+fmt/1723,Wordcraft Chapter Files,,1,X,X,X
+fmt/1730,Data File,Generic,dat ,X,X,X
+fmt/1735,C/C++ Header File,,h hpp hxx ,X,X,X
+fmt/1758,Media Descriptor File,,mdf ,X,X,X
+fmt/1761,MacBinary,I,,X,X,X
+x-fmt/2,Microsoft Word for Macintosh Document,6.0,,X,X,Yes
+x-fmt/3,Online Description Tool Format,,odt ,X,X,X
+x-fmt/5,Works for Macintosh Document,4.0,,X,X,X
+x-fmt/6,FoxPro Database,2.0,dbf ,X,X,X
+x-fmt/7,FoxPro Database,2.5,dbf ,X,X,X
+x-fmt/11,Revisable-Form-Text Document Content Architecture,,,X,X,X
+x-fmt/13,Tab-separated values,,tsv ,X,X,X
+x-fmt/14,Macintosh Text File,,,X,X,X
+x-fmt/15,MS-DOS Text File,,,X,X,X
+x-fmt/16,Unicode Text File,,,X,X,X
+x-fmt/18,Comma Separated Values,,csv ,X,X,X
+x-fmt/21,7-bit ANSI Text,,ans ,X,X,X
+x-fmt/22,7-bit ASCII Text,,asc ,X,X,X
+x-fmt/23,Microsoft Excel Backup,,xlk ,X,X,X
+x-fmt/24,AutoCAD Block Attribute Template,,blk ,X,X,X
+x-fmt/25,OS/2 Bitmap,1.0,,X,X,Yes
+x-fmt/26,AutoCAD Batch Plot File,1.0-R14,bp2 bpl ,X,X,X
+x-fmt/27,AutoCAD Batch Plot File,2000-2005,bp3 ,X,X,X
+x-fmt/30,CorelDraw Template,,cdt ,X,X,X
+x-fmt/38,AutoCAD Custom Dictionary,,cus ,X,X,X
+x-fmt/39,AutoCAD dbConnect Query Set,,dbq ,X,X,X
+x-fmt/40,AutoCAD dbConnect Template Set,,dbt ,X,X,X
+x-fmt/42,Wordperfect Secondary File,5.0,doc ,X,X,X
+x-fmt/43,Wordperfect Secondary File,5.1/5.2,doc ,X,X,X
+x-fmt/46,Microsoft Excel ODBC Query,,dqy ,X,X,X
+x-fmt/48,Visual Basic Macro,,dvb ,X,X,X
+x-fmt/50,AutoCAD Drawing Standards File,,dws ,X,X,X
+x-fmt/51,AutoCAD Drawing Template,,dwt ,X,X,X
+x-fmt/52,Drawing Interchange Format Style Extract,,dxx ,X,X,X
+x-fmt/54,AutoCAD Font Mapping Table,,fmp ,X,X,X
+x-fmt/55,Frame Vector Metafile,,fmv ,X,X,X
+x-fmt/57,Ventura Publisher Vector Graphics,,gem ,X,X,X
+x-fmt/58,Microsoft Excel Web Query,,iqy ,X,X,X
+x-fmt/59,AutoCAD Last Saved Layer State,,las ,X,X,X
+x-fmt/60,AutoCAD Linetype Definition File,,lin ,X,X,X
+x-fmt/61,AutoCAD Landscape Library,,lli ,X,X,X
+x-fmt/62,Log File,,log ,X,X,X
+x-fmt/63,AutoLISP File,,lsp ,X,X,X
+x-fmt/68,AutoCAD Compiled Menu,,mnc ,X,X,X
+x-fmt/69,AutoLISP Menu Source File,,mnl ,X,X,X
+x-fmt/70,AutoCAD Menu Resource File,,mnr mnt ,X,X,X
+x-fmt/71,AutoCAD Source Menu File,,mns ,X,X,X
+x-fmt/72,AutoCAD Template Menu File,,mnu ,X,X,X
+x-fmt/73,Microsoft Outlook Address Book,,olk ,X,X,X
+x-fmt/74,Microsoft Excel OLAP Query,,oqy ,X,X,X
+x-fmt/76,CorelDraw Pattern,,pat ,X,X,X
+x-fmt/77,AutoCAD Plot Configuration File,R14,pc2 ,X,X,X
+x-fmt/79,AutoCAD Plot Configuration File,1.0-R13,pcp ,X,X,X
+x-fmt/81,Inkwriter/Notetaker Template,,pdt ,X,X,X
+x-fmt/83,Hewlett Packard Vector Graphic Plotter File,,plt ,X,X,X
+x-fmt/84,Microsoft Powerpoint Design Template,,pot ,X,X,X
+x-fmt/86,Microsoft Powerpoint Add-In,,ppa ,X,X,X
+x-fmt/87,Microsoft Powerpoint Presentation Show,97-2003,pps ,X,X,X
+x-fmt/89,Freelance File,1.0-2.1,pre ,X,X,X
+x-fmt/90,Microsoft Print File,,prn ,X,X,X
+x-fmt/93,Postscript Support File,,psf ,X,X,X
+x-fmt/96,Pocket Word Template,,pwt ,X,X,X
+x-fmt/97,Microsoft Excel OLE DB Query,,rqy ,X,X,X
+x-fmt/98,AutoCAD ACIS Export File,,sat ,X,X,X
+x-fmt/99,Schedule+ Contacts,,scd ,X,X,X
+x-fmt/100,AutoCAD Script,,scr ,X,X,X
+x-fmt/102,3D Studio Shapes,,shp ,X,X,X
+x-fmt/109,Scalable Vector Graphics Compressed,,svgz ,X,X,X
+x-fmt/110,Fixed Width Values Text File,,,X,X,X
+x-fmt/111,Plain Text File,,txt ,X,X,X
+x-fmt/112,AutoCAD External Database Configuration File,,udl ,X,X,X
+x-fmt/118,Microsoft Works Spreadsheet,2.0,,X,X,Yes
+x-fmt/120,Microsoft Works for Windows,4.0,wps ,X,X,X
+x-fmt/123,Microsoft Excel Macro,4.0,xla xlm ,X,X,X
+x-fmt/124,Microsoft Excel Add-In,,xla xll ,X,X,X
+x-fmt/125,Microsoft Excel Toolbar,,xlb ,X,X,X
+x-fmt/127,AutoCAD Xref Log,,xlg ,X,X,X
+x-fmt/128,Microsoft Excel Workspace,,xlw ,X,X,X
+x-fmt/129,Microsoft Word for Macintosh Document,X,,X,X,Yes
+x-fmt/130,MS-DOS Text File with line breaks,,,X,X,X
+x-fmt/131,Stationery for Mac OS X,,doc ,X,X,X
+x-fmt/132,Speller Custom Dictionary,,dic ,X,X,X
+x-fmt/133,Speller Exclude Dictionary,,dic ,X,X,X
+x-fmt/134,AutoCAD Device-Independent Binary Plotter File,,adi ,X,X,X
+x-fmt/135,Audio Interchange File Format,1.3,,X,X,Yes
+x-fmt/138,Active Server Page,,asp ,X,X,X
+x-fmt/143,OS/2 Change Control File,,cin ,X,X,X
+x-fmt/145,Stats+ Data File,,,X,X,X
+x-fmt/148,IBM DisplayWrite DCA Text File,,dca ,X,X,X
+x-fmt/149,Desktop Color Separation File,,dcs ,X,X,X
+x-fmt/152,Digital Video,,dv ,X,X,X
+x-fmt/155,AutoCAD Film Roll,,flm ,X,X,X
+x-fmt/156,Ventura Publisher,,gen ,X,X,X
+x-fmt/160,Java Servlet Page,,jsp ,X,X,X
+x-fmt/163,NAP Metafile,,nap ,X,X,X
+x-fmt/165,Kodak PhotoCD Image,1.0,,X,X,Yes
+x-fmt/166,PICS Animation,,pcs ,X,X,X
+x-fmt/167,Adobe PhotoDeluxe,,pdd ,X,X,X
+x-fmt/169,PHP Script Page,,php ,X,X,X
+x-fmt/171,Inset Systems Bitmap,,pix ,X,X,X
+x-fmt/172,Microsoft FoxPro Library,,plb ,X,X,X
+x-fmt/175,MacPaint Graphics,,pnt ,X,X,X
+x-fmt/177,Microsoft PowerPoint Graphics File,,ppi ,X,X,X
+x-fmt/179,Microsoft Visual Modeller Petal file (ASCII),,ptl ,X,X,X
+x-fmt/180,Instalit Script,,pvd ,X,X,X
+x-fmt/185,Raw Bitmap,,raw ,X,X,X
+x-fmt/186,Silicon Graphics RGB File,,,X,X,Yes
+x-fmt/188,SDSC Image Tool Wavefront Raster Image,,rla ,X,X,X
+x-fmt/189,SDSC Image Tool Run-Length Encoded Bitmap,,rle ,X,X,X
+x-fmt/192,SAS for MS-DOS Catalog,,sct ,X,X,X
+x-fmt/193,Unisys (Sperry) System Data File,,sdf ,X,X,X
+x-fmt/194,IRIS Graphics,,,X,X,Yes
+x-fmt/195,Standard Generalized Markup Language,,sgm sgml ,X,X,X
+x-fmt/196,NeXt Sound,,,X,X,Yes
+x-fmt/197,DataFlex Query Tag Name,,tag ,X,X,X
+x-fmt/198,Pagemaker TableEditor Graphics,,tbl ,X,X,X
+x-fmt/199,Turbo Debugger Keystroke Recording File,,tdk ,X,X,X
+x-fmt/200,PageMaker Time Stamp File,4.0,tym ,X,X,X
+x-fmt/201,CCITT G.711 Audio,,ulaw ,X,X,X
+x-fmt/203,WordPerfect for Windows Document,5.2,w52 wp wp5 wpd ,X,X,X
+x-fmt/204,Microsoft Word for Windows Macro,,wpm ,X,X,X
+x-fmt/206,WordStar for Windows Document,1.0,ws wsd wsw ,X,X,X
+x-fmt/209,SDSC Image Tool X Window Dump Format,,xwd ,X,X,X
+x-fmt/210,XYWrite Document,,xy ,X,X,X
+x-fmt/211,XYWrite Document,III,xy3 ,X,X,X
+x-fmt/212,Lotus 1-2-3 Worksheet,5.0,,X,X,Yes
+x-fmt/213,Quicken Data File,,abd qdf qel ,X,X,X
+x-fmt/216,Microsoft Powerpoint Packaged Presentation,,ppz ,X,X,X
+x-fmt/217,Adobe ACD,,acd ,X,X,X
+x-fmt/224,Cascading Style Sheet,,css ,X,X,X
+x-fmt/225,ESRI MapInfo Data File,,mid ,X,X,X
+x-fmt/229,Intergraph Raster Image,,ing ,X,X,X
+x-fmt/242,Microsoft FoxPro Database,2.6,dbf ,X,X,X
+x-fmt/246,Microsoft Project,2000,,X,X,Yes
+x-fmt/250,Microsoft Outlook Personal Folders,,,X,X,Yes
+x-fmt/251,Microsoft Outlook Personal Folders,,,X,X,Yes
+x-fmt/259,Microsoft Visio Drawing,2002,,X,X,X
+x-fmt/260,WordStar for MS-DOS Document,4.0,ws ws4 ,X,X,X
+x-fmt/262,WordStar for Windows Document,2.0,ws wsw ,X,X,X
+x-fmt/272,dBASE Database,V,dbf ,X,X,X
+x-fmt/273,Microsoft Word for MS-DOS Document,3.0,,X,X,Yes
+x-fmt/277,Real Video,,rv ,X,X,X
+x-fmt/279,MPEG 1/2 Audio Layer 3 Streaming,,m3u ,X,X,X
+x-fmt/281,Extensible Stylesheet Language,,xsl ,X,X,X
+x-fmt/282,8-bit ANSI Text,,ans ,X,X,X
+x-fmt/283,8-bit ASCII Text,,asc ,X,X,X
+x-fmt/284,IBM DisplayWrite Final Form Text File,,fft ,X,X,X
+x-fmt/285,IBM DisplayWrite Revisable Form Text File,,rft ,X,X,X
+x-fmt/286,DEC Data Exchange File,,dx ,X,X,X
+x-fmt/287,DEC WPS Plus Document,,wpl ,X,X,X
+x-fmt/288,IBM DisplayWrite Document,2,,X,X,X
+x-fmt/289,IBM DisplayWrite Document,3,,X,X,X
+x-fmt/293,Hewlett Packard Graphics Language,,hpgl ,X,X,X
+x-fmt/296,Micrografx Designer,3.1,drw ,X,X,X
+x-fmt/301,ACBM Graphics,,acb ,X,X,X
+x-fmt/305,Apple Sound,,afc ,X,X,X
+x-fmt/306,AutoSketch Drawing,,skf ,X,X,X
+x-fmt/308,Btrieve Database,5.1,btr ,X,X,X
+x-fmt/310,CorelCHART Document,,cch ,X,X,X
+x-fmt/311,dBASE Text Memo,,dbt ,X,X,X
+x-fmt/312,DesignCAD Drawing,,dc dc2 ,X,X,X
+x-fmt/313,DesignCAD for Windows Drawing,,dw2 ,X,X,X
+x-fmt/315,Document Type Definition,,dtd ,X,X,X
+x-fmt/316,Dr Halo Bitmap,,cut ,X,X,X
+x-fmt/321,Framework Database,II,fw fw2 ,X,X,X
+x-fmt/322,Framework Database,III,fw3 ,X,X,X
+x-fmt/323,Framework Database,IV,fw4 ,X,X,X
+x-fmt/326,Hewlett Packard AdvanceWrite Text File,,aw ,X,X,X
+x-fmt/327,IntelliDraw Vector Graphics,,idw ,X,X,X
+x-fmt/328,InterBase Database,,gdb ,X,X,X
+x-fmt/329,Interleaf Document,,doc ,X,X,X
+x-fmt/332,Lotus 1-2-3 Spreadsheet Formatting File,3.0,fm3 ,X,X,X
+x-fmt/333,Lotus Approach View File,97,apr ,X,X,X
+x-fmt/334,Lotus Approach View File,,apt ,X,X,X
+x-fmt/335,Lotus Freelance Smartmaster Graphics,,mas ,X,X,X
+x-fmt/336,Lotus Notes Database,2,ns2 nsf ,X,X,X
+x-fmt/337,Lotus Notes Database,3,ns3 nsf ,X,X,X
+x-fmt/338,Lotus Notes Database,4,ns4 nsf ,X,X,X
+x-fmt/339,Lotus Notes File,,box ,X,X,X
+x-fmt/343,Microsoft Visual FoxPro Table,,dbx ,X,X,X
+x-fmt/344,Microsoft Works Database,,bdb ,X,X,X
+x-fmt/345,Microsoft Works Document,,bps ,X,X,X
+x-fmt/346,Microstation CAD Drawing,95,dgn ,X,X,X
+x-fmt/347,MultiMate Text File,4.x,dox ,X,X,X
+x-fmt/349,Nota Bene Text File,,nb ,X,X,X
+x-fmt/351,PageMaker Document,3.0,pm3 ,X,X,X
+x-fmt/353,Professional Write Text File,,pw ,X,X,X
+x-fmt/354,SAP Document,,ali ,X,X,X
+x-fmt/355,SAS Data File,,ssd ,X,X,X
+x-fmt/356,SAS for MS-DOS Database,,ssd ,X,X,X
+x-fmt/357,Scanstudio 16-Colour Bitmap,,adc ,X,X,X
+x-fmt/358,Silicon Graphics Graphics File,,,X,X,Yes
+x-fmt/361,StatGraphics Data File,,aws ,X,X,X
+x-fmt/362,StratGraphics Data File,,asf ,X,X,X
+x-fmt/365,TeX Binary File,,dvi ,X,X,X
+x-fmt/368,VisiCalc Database,,dif ,X,X,X
+x-fmt/369,Vista Pro Graphics,,dem ,X,X,X
+x-fmt/370,WordStar for MS-DOS Document,3.0,ws ws3 ,X,X,X
+x-fmt/371,XYWrite for Windows Document,4.0,xyw ,X,X,X
+x-fmt/372,XYWrite Document,III+,xyp ,X,X,X
+x-fmt/373,XYWrite Document,IV,xy4 ,X,X,X
+x-fmt/380,dBASE for Windows database,5.0,dbf ,X,X,X
+x-fmt/381,Dia Graphics Format,,dia ,X,X,X
+x-fmt/402,StarOffice Draw,5.2,,X,X,Yes
+x-fmt/403,StarOffice Writer,5.2,,X,X,Yes
+x-fmt/404,StarOffice Calc,5.2,,X,X,Yes
+x-fmt/405,StarOffice Impress,5.2,,X,X,Yes
+x-fmt/413,Batch file (executable),,bat ,X,X,X
+x-fmt/417,HTML Extension File,,htx ,X,X,X
+x-fmt/421,Text Configuration file,,ini ,X,X,X
+x-fmt/422,Java language source code file,,java ,X,X,X
+x-fmt/423,JavaScript file,,js ,X,X,X
+x-fmt/424,Deluxe Paint bitmap,,lbm ,X,X,X
+x-fmt/425,Generic Library File,,lib ,X,X,X
+x-fmt/426,License file,,lic ,X,X,X
+x-fmt/427,Acrobat Language definition file,,lng ,X,X,X
+x-fmt/437,CATIA Project,4,project ,X,X,X
+x-fmt/441,AutoCAD Database File Locking Information,,dwl ,X,X,X
+x-fmt/442,form*Z Project File,,fmz ,X,X,X
+x-fmt/443,Revit Family File,,rfa ,X,X,X
+x-fmt/444,Revit Family Template,,rft ,X,X,X
+x-fmt/445,Revit Template,,rte ,X,X,X
+x-fmt/446,Revit External Group,,rvg ,X,X,X
+x-fmt/447,Revit Project,,rvt ,X,X,X
+x-fmt/448,Revit Workspace,,rws ,X,X,X
+x-fmt/449,Steel Detailing Neutral Format,,sdn ,X,X,X
+x-fmt/452,SketchUp Document,,,X,X,Yes

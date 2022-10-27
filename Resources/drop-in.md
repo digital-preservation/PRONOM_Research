@@ -1,34 +1,36 @@
 # PRONOM Drop-in Sessions 
 
-The PRONOM team would also like to share details of their PRONOM drop-in sessions. These are open/ unstructured sessions with members of the PRONOM Team to talk about your current research and ask/answer any questions you may have. We are hoping to trial this at first and currently the dates would be:
+The PRONOM team would also like to share details of their PRONOM drop-in sessions. These are open/unstructured sessions with members of the PRONOM Team to talk about your current research and ask/answer any questions you may have. We are hoping to trial this at first and currently the dates would be:
 
-Every 2 weeks at Thursday 4pm UK time or 11am (ET):
+Every 2 weeks at Thursday 4pm UK time or 11am (ET).The meeting link to join for these sessions can be found [here](https://teams.microsoft.com/l/meetup-join/19%3ameeting_OThkMzIwMWItYTUzYS00NDIxLTgzNTEtMzAwMGQzYWZhNmJi%40thread.v2/0?context=%7b%22Tid%22%3a%22f99512c1-fd9f-4475-9896-9a0b3cdc50ec%22%2c%22Oid%22%3a%22e02319b9-2b3a-4408-86ee-7cd0ba62ed9f%22%7d). The next few dates can be found below:
 
-* 07/07/2022
+* 27/10/2022 (PRONOM Hackathon Special)
 
-* 21/07/2022
+* 01/11/2022 (PRONOM Hackathon Special)
 
-* 04/08/2022
+* 03/11/2022 (PRONOM Hackathon Special)
 
-* 18/08/2022
+* 10/11/2022
 
-* 01/09/2022
+* 24/11/2022
 
-* 15/09/2022 (This session will not be going ahead due to team unavailability)
+* 08/12/2022
 
-* 29/09/2022
+* 22/12/2022
 
-The meeting link to join for these sessions can be found [here](https://teams.microsoft.com/l/meetup-join/19%3ameeting_OThkMzIwMWItYTUzYS00NDIxLTgzNTEtMzAwMGQzYWZhNmJi%40thread.v2/0?context=%7b%22Tid%22%3a%22f99512c1-fd9f-4475-9896-9a0b3cdc50ec%22%2c%22Oid%22%3a%22e02319b9-2b3a-4408-86ee-7cd0ba62ed9f%22%7d).
+* 05/01/2023   
 
  
 
-On the last Thursday of the month 7am UK time or 4pm Thursday (AEST):
+On the last Thursday of the month 7am UK time or 5pm Thursday (AET). The meeting link to join for these sessions can be found [here](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MDIzODI0M2YtZWQ5ZS00NjgyLWIwODMtYTljOWUzMTI1Yjlk%40thread.v2/0?context=%7b%22Tid%22%3a%22f99512c1-fd9f-4475-9896-9a0b3cdc50ec%22%2c%22Oid%22%3a%22e02319b9-2b3a-4408-86ee-7cd0ba62ed9f%22%7d). The next few dates can be found below:
 
-* 28/07/2022
+* 27/10/2022 (PRONOM Hackathon Special)
 
-* 25/08/2022
+* 03/11/2022 (PRONOM Hackathon Special)
 
-* 29/09/2022
+* 24/11/2022
 
-The meeting link to join for these sessions can be found [here](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MDIzODI0M2YtZWQ5ZS00NjgyLWIwODMtYTljOWUzMTI1Yjlk%40thread.v2/0?context=%7b%22Tid%22%3a%22f99512c1-fd9f-4475-9896-9a0b3cdc50ec%22%2c%22Oid%22%3a%22e02319b9-2b3a-4408-86ee-7cd0ba62ed9f%22%7d).
+* 29/12/2022
+
+
 

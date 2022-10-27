@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FFSignatureFile xmlns="http://www.nationalarchives.gov.uk/pronom/SignatureFile" Version="1" DateCreated="2022-02-08T12:01:06+00:00">
+  <InternalSignatureCollection>
+  <InternalSignature ID="1" Specificity="Specific">
+  <ByteSequence Reference="BOFoffset">
+    <SubSequence MinFragLength="0" Position="1" SubSeqMaxOffset="0" SubSeqMinOffset="0">
+      <Sequence>FF4FFF51</Sequence>
+      <DefaultShift>5</DefaultShift>
+      <Shift Byte="FF">2</Shift>
+      <Shift Byte="4F">3</Shift>
+      <Shift Byte="51">1</Shift>
+    </SubSequence>
+  </ByteSequence>
+  <ByteSequence Reference="EOFoffset">
+    <SubSequence MinFragLength="0" Position="1" SubSeqMaxOffset="0" SubSeqMinOffset="0">
+      <Sequence>FFD9</Sequence>
+      <DefaultShift>-3</DefaultShift>
+      <Shift Byte="FF">-1</Shift>
+      <Shift Byte="D9">-2</Shift>
+    </SubSequence>
+  </ByteSequence>
+</InternalSignature>
+</InternalSignatureCollection>
+<FileFormatCollection>
+  <FileFormat ID="1" Name="JPEG 2000 Codestream" PUID="dev/1" Version="" MIMEType="image/jp2">
+    <InternalSignatureID>1</InternalSignatureID>
+    <Extension>j2k,j2c,jpc</Extension>
+  </FileFormat>
+</FileFormatCollection></FFSignatureFile>
