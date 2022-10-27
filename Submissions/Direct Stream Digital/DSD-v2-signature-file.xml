@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FFSignatureFile xmlns="http://www.nationalarchives.gov.uk/pronom/SignatureFile" Version="111114" DateCreated="2022-09-24T02:26:17+00:00">
+  <InternalSignatureCollection>
+  
+  <InternalSignature ID="1" Specificity="Specific">
+  <ByteSequence Reference="BOFoffset">
+    <SubSequence MinFragLength="0" Position="1" SubSeqMaxOffset="0" SubSeqMinOffset="0">
+      <Sequence>44534420</Sequence>
+      <DefaultShift>5</DefaultShift>
+      <Shift Byte="44">2</Shift>
+      <Shift Byte="53">3</Shift>
+      <Shift Byte="20">1</Shift>
+      <RightFragment MaxOffset="24" MinOffset="24" Position="1">666D7420</RightFragment>
+    </SubSequence>
+  </ByteSequence>
+</InternalSignature>
+
+  <InternalSignature ID="2" Specificity="Specific">
+  <ByteSequence Reference="BOFoffset">
+    <SubSequence MinFragLength="12" Position="1" SubSeqMaxOffset="0" SubSeqMinOffset="0">
+      <Sequence>4453442046564552</Sequence>
+      <DefaultShift>9</DefaultShift>
+      <Shift Byte="44">6</Shift>
+      <Shift Byte="53">7</Shift>
+      <Shift Byte="20">5</Shift>
+      <Shift Byte="46">4</Shift>
+      <Shift Byte="56">3</Shift>
+      <Shift Byte="45">2</Shift>
+      <Shift Byte="52">1</Shift>
+      <LeftFragment MaxOffset="8" MinOffset="8" Position="1">46524D38</LeftFragment>
+    </SubSequence>
+  </ByteSequence>
+</InternalSignature>
+
+</InternalSignatureCollection>
+<FileFormatCollection>
+
+  <FileFormat ID="1" Name="DSD Stream File" PUID="CHLdev/1" MIMEType="audio/x-dsf">
+    <InternalSignatureID>1</InternalSignatureID>
+    <Extension>dsf</Extension>
+  </FileFormat>
+  
+    <FileFormat ID="2" Name="Direct Stream Digital Interchange File Format" PUID="CHLdev/2" MIMEType="audio/x-dff">
+    <InternalSignatureID>2</InternalSignatureID>
+    <Extension>dff</Extension>
+  </FileFormat>
+  
+</FileFormatCollection></FFSignatureFile>
