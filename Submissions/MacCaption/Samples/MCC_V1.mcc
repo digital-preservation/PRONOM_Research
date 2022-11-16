@@ -1,0 +1,45 @@
+File Format=MacCaption_MCC V1.0
+
+///////////////////////////////////////////////////////////////////////////////////
+// Computer Prompting and Captioning Company
+// Ancillary Data Packet Transfer File
+//
+// Permission to generate this format is granted provided that
+//   1. This ANC Transfer file format is used on an as-is basis and no warranty is given, and
+//   2. This entire descriptive information text is included in a generated .mcc file.
+//
+// General file format:
+//   HH:MM:SS:FF(tab)[Hexadecimal ANC data in groups of 2 characters]
+//     Hexadecimal data starts with the Ancillary Data Packet DID (Data ID defined in S291M)
+//       and concludes with the Check Sum following the User Data Words.
+//     Each time code line must contain at most one complete ancillary data packet.
+//     To transfer additional ANC Data successive lines may contain identical time code.
+//     Time Code Rate=[24, 25, 30, 30DF, 50, 60]
+//     Time Code Rate=[24, 25, 30, 30DF, 50, 60]
+//
+//   ANC data bytes may be represented by one ASCII character according to the following schema:
+//     G  FAh 00h 00h
+//     H  2 x (FAh 00h 00h)
+//     I  3 x (FAh 00h 00h)
+//     J  4 x (FAh 00h 00h)
+//     K  5 x (FAh 00h 00h)
+//     L  6 x (FAh 00h 00h)
+//     M  7 x (FAh 00h 00h)
+//     N  8 x (FAh 00h 00h)
+//     O  9 x (FAh 00h 00h)
+//     P  FBh 80h 80h
+//     Q  FCh 80h 80h
+//     R  FDh 80h 80h
+//     S  96h 69h
+//     T  61h 01h
+//     U  E1h 00h 00h 00h
+//     Z  00h
+//
+///////////////////////////////////////////////////////////////////////////////////
+
+UUID=150885DF-12D9-4AFE-8AD5-37A931FE0727
+Creation Program=MacCaption Version 7.0.3.242278
+Creation Date=Sunday, November 13, 2022
+Creation Time=18:48:23
+Time Code Rate=30DF
+
