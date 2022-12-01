@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FFSignatureFile xmlns="http://www.nationalarchives.gov.uk/pronom/SignatureFile" Version="123458" DateCreated="2022-09-24T05:17:19+00:00">
+  <InternalSignatureCollection>
+  <InternalSignature ID="1" Specificity="Specific">
+  <ByteSequence Reference="BOFoffset">
+    <SubSequence MinFragLength="4" Position="1" SubSeqMaxOffset="0" SubSeqMinOffset="0">
+      <Sequence>12C601000400000001030000</Sequence>
+      <DefaultShift>13</DefaultShift>
+      <Shift Byte="12">12</Shift>
+      <Shift Byte="C6">11</Shift>
+      <Shift Byte="01">4</Shift>
+      <Shift Byte="00">1</Shift>
+      <Shift Byte="04">8</Shift>
+      <Shift Byte="03">3</Shift>
+      <LeftFragment MaxOffset="4080" MinOffset="0" Position="1">49492A00</LeftFragment>
+    </SubSequence>
+    <SubSequence MinFragLength="0" Position="2" SubSeqMinOffset="0">
+      <Sequence>56432D35</Sequence>
+      <DefaultShift>5</DefaultShift>
+      <Shift Byte="56">4</Shift>
+      <Shift Byte="43">3</Shift>
+      <Shift Byte="2D">2</Shift>
+      <Shift Byte="35">1</Shift>
+    </SubSequence>
+  </ByteSequence>
+</InternalSignature>
+</InternalSignatureCollection>
+<FileFormatCollection>
+  <FileFormat ID="1" Name="General Purpose Raw" PUID="CHLdev/1" MIMEType="image/x-gopro-gpr">
+    <InternalSignatureID>1</InternalSignatureID>
+    <Extension>gpr</Extension>
+  </FileFormat>
+</FileFormatCollection></FFSignatureFile>

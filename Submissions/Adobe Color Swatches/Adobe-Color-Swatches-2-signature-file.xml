@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FFSignatureFile xmlns="http://www.nationalarchives.gov.uk/pronom/SignatureFile" Version="121216" DateCreated="2022-10-29T19:15:47+00:00">
+  <InternalSignatureCollection>
+
+  <InternalSignature ID="2" Specificity="Specific">
+  <ByteSequence Reference="BOFoffset">
+    <SubSequence MinFragLength="0" Position="1" SubSeqMaxOffset="0" SubSeqMinOffset="0">
+      <Sequence>415345460001</Sequence>
+      <DefaultShift>7</DefaultShift>
+      <Shift Byte="41">6</Shift>
+      <Shift Byte="53">5</Shift>
+      <Shift Byte="45">4</Shift>
+      <Shift Byte="46">3</Shift>
+      <Shift Byte="00">2</Shift>
+      <Shift Byte="01">1</Shift>
+    </SubSequence>
+  </ByteSequence>
+</InternalSignature>
+
+  <InternalSignature ID="3" Specificity="Specific">
+  <ByteSequence Reference="BOFoffset">
+    <SubSequence MinFragLength="0" Position="1" SubSeqMaxOffset="0" SubSeqMinOffset="0">
+      <Sequence>384243420001</Sequence>
+      <DefaultShift>7</DefaultShift>
+      <Shift Byte="38">6</Shift>
+      <Shift Byte="42">3</Shift>
+      <Shift Byte="43">4</Shift>
+      <Shift Byte="00">2</Shift>
+      <Shift Byte="01">1</Shift>
+    </SubSequence>
+  </ByteSequence>
+</InternalSignature>
+
+</InternalSignatureCollection>
+<FileFormatCollection>
+
+  <FileFormat ID="1" Name="Adobe Color Swatch" PUID="CHLdev/1">
+    <Extension>aco</Extension>
+  </FileFormat>
+  
+    <FileFormat ID="2" Name="Adobe Swatch Exchange" PUID="CHLdev/2" Version="1">
+    <InternalSignatureID>2</InternalSignatureID>
+    <Extension>ase</Extension>
+  </FileFormat>
+  
+    <FileFormat ID="3" Name="Adobe Color Book" PUID="CHLdev/3" Version="1">
+    <InternalSignatureID>3</InternalSignatureID>
+    <Extension>acb</Extension>
+  </FileFormat>
+  
+</FileFormatCollection></FFSignatureFile>

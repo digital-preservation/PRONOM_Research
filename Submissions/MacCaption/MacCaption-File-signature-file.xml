@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FFSignatureFile xmlns="http://www.nationalarchives.gov.uk/pronom/SignatureFile" Version="121245" DateCreated="2022-11-15T22:04:55+00:00">
+  <InternalSignatureCollection>
+  
+  <InternalSignature ID="1" Specificity="Specific">
+  <ByteSequence Reference="BOFoffset">
+    <SubSequence MinFragLength="0" Position="1" SubSeqMaxOffset="0" SubSeqMinOffset="0">
+      <Sequence>46696C6520466F726D61743D4D616343617074696F6E5F4D4343205631</Sequence>
+      <DefaultShift>30</DefaultShift>
+      <Shift Byte="46">24</Shift>
+      <Shift Byte="69">10</Shift>
+      <Shift Byte="6C">27</Shift>
+      <Shift Byte="65">26</Shift>
+      <Shift Byte="20">3</Shift>
+      <Shift Byte="6F">9</Shift>
+      <Shift Byte="72">22</Shift>
+      <Shift Byte="6D">21</Shift>
+      <Shift Byte="61">13</Shift>
+      <Shift Byte="74">11</Shift>
+      <Shift Byte="3D">18</Shift>
+      <Shift Byte="4D">6</Shift>
+      <Shift Byte="63">15</Shift>
+      <Shift Byte="43">4</Shift>
+      <Shift Byte="70">12</Shift>
+      <Shift Byte="6E">8</Shift>
+      <Shift Byte="5F">7</Shift>
+      <Shift Byte="56">2</Shift>
+      <Shift Byte="31">1</Shift>
+    </SubSequence>
+  </ByteSequence>
+</InternalSignature>
+
+  <InternalSignature ID="2" Specificity="Specific">
+  <ByteSequence Reference="BOFoffset">
+    <SubSequence MinFragLength="0" Position="1" SubSeqMaxOffset="0" SubSeqMinOffset="0">
+      <Sequence>46696C6520466F726D61743D4D616343617074696F6E5F4D4343205632</Sequence>
+      <DefaultShift>30</DefaultShift>
+      <Shift Byte="46">24</Shift>
+      <Shift Byte="69">10</Shift>
+      <Shift Byte="6C">27</Shift>
+      <Shift Byte="65">26</Shift>
+      <Shift Byte="20">3</Shift>
+      <Shift Byte="6F">9</Shift>
+      <Shift Byte="72">22</Shift>
+      <Shift Byte="6D">21</Shift>
+      <Shift Byte="61">13</Shift>
+      <Shift Byte="74">11</Shift>
+      <Shift Byte="3D">18</Shift>
+      <Shift Byte="4D">6</Shift>
+      <Shift Byte="63">15</Shift>
+      <Shift Byte="43">4</Shift>
+      <Shift Byte="70">12</Shift>
+      <Shift Byte="6E">8</Shift>
+      <Shift Byte="5F">7</Shift>
+      <Shift Byte="56">2</Shift>
+      <Shift Byte="32">1</Shift>
+    </SubSequence>
+  </ByteSequence>
+</InternalSignature>
+
+  <InternalSignature ID="3" Specificity="Specific">
+  <ByteSequence Reference="BOFoffset">
+    <SubSequence MinFragLength="0" Position="1" SubSeqMaxOffset="0" SubSeqMinOffset="0">
+      <Sequence>4D616343617074696F6E5F434341</Sequence>
+      <DefaultShift>15</DefaultShift>
+      <Shift Byte="4D">14</Shift>
+      <Shift Byte="61">10</Shift>
+      <Shift Byte="63">12</Shift>
+      <Shift Byte="43">2</Shift>
+      <Shift Byte="70">9</Shift>
+      <Shift Byte="74">8</Shift>
+      <Shift Byte="69">7</Shift>
+      <Shift Byte="6F">6</Shift>
+      <Shift Byte="6E">5</Shift>
+      <Shift Byte="5F">4</Shift>
+      <Shift Byte="41">1</Shift>
+    </SubSequence>
+  </ByteSequence>
+</InternalSignature>
+
+</InternalSignatureCollection>
+<FileFormatCollection>
+
+  <FileFormat ID="1" Name="MacCaption File" PUID="CHLdev/1" Version="1.0">
+    <InternalSignatureID>1</InternalSignatureID>
+    <Extension>mcc</Extension>
+  </FileFormat>
+  
+    <FileFormat ID="2" Name="MacCaption File" PUID="CHLdev/2" Version="2.0">
+    <InternalSignatureID>2</InternalSignatureID>
+    <Extension>mcc</Extension>
+  </FileFormat>
+  
+   <FileFormat ID="3" Name="MacCaption Project" PUID="CHLdev/3">
+    <InternalSignatureID>3</InternalSignatureID>
+    <Extension>cca</Extension>
+  </FileFormat>
+  
+</FileFormatCollection></FFSignatureFile>
