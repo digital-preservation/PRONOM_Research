@@ -8,5 +8,5 @@ The .EIP file format packs your original RAW file with all necessary settings fi
 ## Container
 
 BYUdev/1
-* ZIP Container, identification based on ```<Manifest>``` root tag in Manifest.xml
+* ZIP Container, identification based on ```<Manifest>``` root tag in manifest.xml
 
