@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<FFSignatureFile xmlns="http://www.nationalarchives.gov.uk/pronom/SignatureFile" Version="202020" DateCreated="2015-01-06T07:33:54+01:00">
+<FFSignatureFile xmlns="http://www.nationalarchives.gov.uk/pronom/SignatureFile" Version="202021" DateCreated="2015-01-06T07:33:54+01:00">
   <InternalSignatureCollection>
   
           <InternalSignature ID="170" Specificity="Specific">
@@ -91,6 +91,52 @@
                 </SubSequence>
             </ByteSequence>
         </InternalSignature>
+        
+          <InternalSignature ID="2" Specificity="Specific">
+  <ByteSequence Reference="BOFoffset">
+    <SubSequence MinFragLength="0" Position="1" SubSeqMaxOffset="0" SubSeqMinOffset="0">
+      <Sequence>3C3F786D6C2076657273696F6E3D</Sequence>
+      <DefaultShift>15</DefaultShift>
+      <Shift Byte="3C">14</Shift>
+      <Shift Byte="3F">13</Shift>
+      <Shift Byte="78">12</Shift>
+      <Shift Byte="6D">11</Shift>
+      <Shift Byte="6C">10</Shift>
+      <Shift Byte="20">9</Shift>
+      <Shift Byte="76">8</Shift>
+      <Shift Byte="65">7</Shift>
+      <Shift Byte="72">6</Shift>
+      <Shift Byte="73">5</Shift>
+      <Shift Byte="69">4</Shift>
+      <Shift Byte="6F">3</Shift>
+      <Shift Byte="6E">2</Shift>
+      <Shift Byte="3D">1</Shift>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="1">22</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="1">27</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="2">312E30</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="3">22</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="3">27</RightFragment>
+    </SubSequence>
+  </ByteSequence>
+  <ByteSequence Reference="BOFoffset">
+    <SubSequence MinFragLength="11" Position="1" SubSeqMaxOffset="22" SubSeqMinOffset="22">
+      <Sequence>417574686F72</Sequence>
+      <DefaultShift>7</DefaultShift>
+      <Shift Byte="41">6</Shift>
+      <Shift Byte="75">5</Shift>
+      <Shift Byte="74">4</Shift>
+      <Shift Byte="68">3</Shift>
+      <Shift Byte="6F">2</Shift>
+      <Shift Byte="72">1</Shift>
+      <LeftFragment MaxOffset="0" MinOffset="0" Position="1">22</LeftFragment>
+      <LeftFragment MaxOffset="0" MinOffset="0" Position="1">27</LeftFragment>
+      <LeftFragment MaxOffset="0" MinOffset="0" Position="2">3C45204B3D</LeftFragment>
+      <LeftFragment MaxOffset="256" MinOffset="0" Position="3">3C494D473E</LeftFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="1">22</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="1">27</RightFragment>
+    </SubSequence>
+  </ByteSequence>
+</InternalSignature>
 
 </InternalSignatureCollection>
 
@@ -98,6 +144,11 @@
 
   <FileFormat ID="1" Name="Enhanced Image Package" PUID="BYUdev/1" MIMEType="application/x-captureone">
     <Extension>eip</Extension>
+  </FileFormat>
+  
+    <FileFormat ID="2" Name="CaptureOne Session File" PUID="BYUdev/2">
+    <InternalSignatureID>2</InternalSignatureID>
+    <Extension>cos</Extension>
   </FileFormat>
 
    <FileFormat ID="767" Name="OLE2 Compound Document Format" PUID="fmt/111">
