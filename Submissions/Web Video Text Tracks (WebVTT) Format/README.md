@@ -1,4 +1,4 @@
-# Web Video Text Tracks (WebVTT) Format 
+# Web Video Text Tracks (WebVTT) Format PRONOM v.110
 
 ## File Format Identification Signatures
 VTT files are text files wich contain annotations linked to time intervals. Each 

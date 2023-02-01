@@ -1,4 +1,4 @@
-# xdomea 3.0.0
+# xdomea 3.0.0 - PRONOM V.110
 
 ## Description
 
