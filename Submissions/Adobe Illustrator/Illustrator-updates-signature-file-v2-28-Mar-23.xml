@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<FFSignatureFile DateCreated="2023-03-10T21:40:40" Version="161628" xmlns="http://www.nationalarchives.gov.uk/pronom/SignatureFile">
+<FFSignatureFile DateCreated="2023-03-10T21:40:40" Version="161632" xmlns="http://www.nationalarchives.gov.uk/pronom/SignatureFile">
     <InternalSignatureCollection>
 
         <InternalSignature ID="880" Specificity="Specific">
@@ -490,6 +490,20 @@
       <RightFragment MaxOffset="0" MinOffset="0" Position="1">34</RightFragment>
     </SubSequence>
     <SubSequence MinFragLength="0" Position="2" SubSeqMinOffset="0">
+      <Sequence>41495072697661746544617461</Sequence>
+      <DefaultShift>14</DefaultShift>
+      <Shift Byte="41">13</Shift>
+      <Shift Byte="49">12</Shift>
+      <Shift Byte="50">11</Shift>
+      <Shift Byte="72">10</Shift>
+      <Shift Byte="69">9</Shift>
+      <Shift Byte="76">8</Shift>
+      <Shift Byte="61">1</Shift>
+      <Shift Byte="74">2</Shift>
+      <Shift Byte="65">5</Shift>
+      <Shift Byte="44">4</Shift>
+    </SubSequence>
+    <SubSequence MinFragLength="0" Position="3" SubSeqMinOffset="0">
       <Sequence>252150532D41646F62652D332E30</Sequence>
       <DefaultShift>15</DefaultShift>
       <Shift Byte="25">14</Shift>
@@ -506,7 +520,7 @@
       <Shift Byte="2E">2</Shift>
       <Shift Byte="30">1</Shift>
     </SubSequence>
-    <SubSequence MinFragLength="0" Position="3" SubSeqMinOffset="0">
+    <SubSequence MinFragLength="0" Position="4" SubSeqMinOffset="0">
       <Sequence>254149355F46696C65466F726D617420</Sequence>
       <DefaultShift>17</DefaultShift>
       <Shift Byte="25">16</Shift>
@@ -543,7 +557,25 @@
       <Shift Byte="2E">2</Shift>
       <Shift Byte="34">1</Shift>
     </SubSequence>
-    <SubSequence MinFragLength="0" Position="2" SubSeqMinOffset="0">
+  </ByteSequence>
+  <ByteSequence>
+    <SubSequence MinFragLength="0" Position="1" SubSeqMinOffset="0">
+      <Sequence>41495072697661746544617461</Sequence>
+      <DefaultShift>14</DefaultShift>
+      <Shift Byte="41">13</Shift>
+      <Shift Byte="49">12</Shift>
+      <Shift Byte="50">11</Shift>
+      <Shift Byte="72">10</Shift>
+      <Shift Byte="69">9</Shift>
+      <Shift Byte="76">8</Shift>
+      <Shift Byte="61">1</Shift>
+      <Shift Byte="74">2</Shift>
+      <Shift Byte="65">5</Shift>
+      <Shift Byte="44">4</Shift>
+    </SubSequence>
+  </ByteSequence>
+  <ByteSequence>
+    <SubSequence MinFragLength="0" Position="1" SubSeqMinOffset="0">
       <Sequence>252150532D41646F62652D332E30</Sequence>
       <DefaultShift>15</DefaultShift>
       <Shift Byte="25">14</Shift>
@@ -560,7 +592,9 @@
       <Shift Byte="2E">2</Shift>
       <Shift Byte="30">1</Shift>
     </SubSequence>
-    <SubSequence MinFragLength="0" Position="3" SubSeqMinOffset="0">
+  </ByteSequence>
+    <ByteSequence>
+    <SubSequence MinFragLength="0" Position="1" SubSeqMinOffset="0">
       <Sequence>254149355F46696C65466F726D61742036</Sequence>
       <DefaultShift>18</DefaultShift>
       <Shift Byte="25">17</Shift>
@@ -597,6 +631,20 @@
       <Shift Byte="34">1</Shift>
     </SubSequence>
     <SubSequence MinFragLength="0" Position="2" SubSeqMinOffset="0">
+      <Sequence>41495072697661746544617461</Sequence>
+      <DefaultShift>14</DefaultShift>
+      <Shift Byte="41">13</Shift>
+      <Shift Byte="49">12</Shift>
+      <Shift Byte="50">11</Shift>
+      <Shift Byte="72">10</Shift>
+      <Shift Byte="69">9</Shift>
+      <Shift Byte="76">8</Shift>
+      <Shift Byte="61">1</Shift>
+      <Shift Byte="74">2</Shift>
+      <Shift Byte="65">5</Shift>
+      <Shift Byte="44">4</Shift>
+    </SubSequence>
+    <SubSequence MinFragLength="0" Position="3" SubSeqMinOffset="0">
       <Sequence>252150532D41646F62652D332E30</Sequence>
       <DefaultShift>15</DefaultShift>
       <Shift Byte="25">14</Shift>
@@ -613,7 +661,7 @@
       <Shift Byte="2E">2</Shift>
       <Shift Byte="30">1</Shift>
     </SubSequence>
-    <SubSequence MinFragLength="0" Position="3" SubSeqMinOffset="0">
+    <SubSequence MinFragLength="0" Position="4" SubSeqMinOffset="0">
       <Sequence>254149355F46696C65466F726D61742037</Sequence>
       <DefaultShift>18</DefaultShift>
       <Shift Byte="25">17</Shift>
@@ -651,6 +699,20 @@
       <Shift Byte="34">1</Shift>
     </SubSequence>
     <SubSequence MinFragLength="0" Position="2" SubSeqMinOffset="0">
+      <Sequence>41495072697661746544617461</Sequence>
+      <DefaultShift>14</DefaultShift>
+      <Shift Byte="41">13</Shift>
+      <Shift Byte="49">12</Shift>
+      <Shift Byte="50">11</Shift>
+      <Shift Byte="72">10</Shift>
+      <Shift Byte="69">9</Shift>
+      <Shift Byte="76">8</Shift>
+      <Shift Byte="61">1</Shift>
+      <Shift Byte="74">2</Shift>
+      <Shift Byte="65">5</Shift>
+      <Shift Byte="44">4</Shift>
+    </SubSequence>
+    <SubSequence MinFragLength="0" Position="3" SubSeqMinOffset="0">
       <Sequence>252150532D41646F62652D332E30</Sequence>
       <DefaultShift>15</DefaultShift>
       <Shift Byte="25">14</Shift>
@@ -667,7 +729,7 @@
       <Shift Byte="2E">2</Shift>
       <Shift Byte="30">1</Shift>
     </SubSequence>
-    <SubSequence MinFragLength="0" Position="3" SubSeqMinOffset="0">
+    <SubSequence MinFragLength="0" Position="4" SubSeqMinOffset="0">
       <Sequence>254149355F46696C65466F726D61742038</Sequence>
       <DefaultShift>18</DefaultShift>
       <Shift Byte="25">17</Shift>
@@ -689,7 +751,6 @@
     </SubSequence>
   </ByteSequence>
 </InternalSignature>
-
   <InternalSignature ID="896" Specificity="Specific">
   <ByteSequence Reference="BOFoffset">
     <SubSequence MinFragLength="0" Position="1" SubSeqMaxOffset="0" SubSeqMinOffset="0">
@@ -3496,33 +3557,29 @@
             <HasPriorityOverFileFormatID>771</HasPriorityOverFileFormatID>
             <HasPriorityOverFileFormatID>773</HasPriorityOverFileFormatID>
         </FileFormat>
-        <FileFormat ID="1346" MIMEType="application/postscript"
+        <FileFormat ID="1346" MIMEType="application/vnd.adobe.illustrator"
             Name="Adobe Illustrator" PUID="fmt/558" Version="9.0">
             <InternalSignatureID>892</InternalSignatureID>
             <Extension>ai</Extension>
-            <Extension>pdf</Extension>
             <HasPriorityOverFileFormatID>616</HasPriorityOverFileFormatID>
             <HasPriorityOverFileFormatID>617</HasPriorityOverFileFormatID>
         </FileFormat>
-        <FileFormat ID="1347" MIMEType="application/postscript"
+        <FileFormat ID="1347" MIMEType="application/vnd.adobe.illustrator"
             Name="Adobe Illustrator" PUID="fmt/559" Version="10.0">
             <InternalSignatureID>893</InternalSignatureID>
             <Extension>ai</Extension>
-            <Extension>pdf</Extension>
             <HasPriorityOverFileFormatID>617</HasPriorityOverFileFormatID>
         </FileFormat>
-        <FileFormat ID="1348" MIMEType="application/postscript"
+        <FileFormat ID="1348" MIMEType="application/vnd.adobe.illustrator"
             Name="Adobe Illustrator" PUID="fmt/560" Version="11.0">
             <InternalSignatureID>894</InternalSignatureID>
             <Extension>ai</Extension>
-            <Extension>pdf</Extension>
             <HasPriorityOverFileFormatID>617</HasPriorityOverFileFormatID>
         </FileFormat>
-        <FileFormat ID="1349" MIMEType="application/postscript"
+        <FileFormat ID="1349" MIMEType="application/vnd.adobe.illustrator"
             Name="Adobe Illustrator" PUID="fmt/561" Version="12.0">
             <InternalSignatureID>895</InternalSignatureID>
             <Extension>ai</Extension>
-            <Extension>pdf</Extension>
             <HasPriorityOverFileFormatID>617</HasPriorityOverFileFormatID>
         </FileFormat>
         <FileFormat ID="1350" MIMEType="application/vnd.adobe.illustrator"
