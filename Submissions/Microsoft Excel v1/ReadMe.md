@@ -1,0 +1,1 @@
+* Early Microsoft Excel and MultiPlan file formats
