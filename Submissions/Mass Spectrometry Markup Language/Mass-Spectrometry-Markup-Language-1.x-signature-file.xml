@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FFSignatureFile xmlns="http://www.nationalarchives.gov.uk/pronom/SignatureFile" Version="111112" DateCreated="2023-05-03T21:58:23+00:00">
+  <InternalSignatureCollection>
+  <InternalSignature ID="1" Specificity="Specific">
+  <ByteSequence Reference="BOFoffset">
+    <SubSequence MinFragLength="32" Position="1" SubSeqMaxOffset="0" SubSeqMinOffset="0">
+      <Sequence>687474703A2F2F7073692E6875706F2E6F72672F6D732F6D7A6D6C</Sequence>
+      <DefaultShift>28</DefaultShift>
+      <Shift Byte="68">16</Shift>
+      <Shift Byte="74">25</Shift>
+      <Shift Byte="70">14</Shift>
+      <Shift Byte="3A">23</Shift>
+      <Shift Byte="2F">5</Shift>
+      <Shift Byte="73">6</Shift>
+      <Shift Byte="69">18</Shift>
+      <Shift Byte="2E">12</Shift>
+      <Shift Byte="75">15</Shift>
+      <Shift Byte="6F">11</Shift>
+      <Shift Byte="72">10</Shift>
+      <Shift Byte="67">9</Shift>
+      <Shift Byte="6D">2</Shift>
+      <Shift Byte="7A">3</Shift>
+      <Shift Byte="6C">1</Shift>
+      <LeftFragment MaxOffset="0" MinOffset="0" Position="1">22</LeftFragment>
+      <LeftFragment MaxOffset="0" MinOffset="0" Position="1">27</LeftFragment>
+      <LeftFragment MaxOffset="0" MinOffset="0" Position="2">3C6D7A4D4C20786D6C6E733D</LeftFragment>
+      <LeftFragment MaxOffset="512" MinOffset="0" Position="3">22</LeftFragment>
+      <LeftFragment MaxOffset="512" MinOffset="0" Position="3">27</LeftFragment>
+      <LeftFragment MaxOffset="0" MinOffset="0" Position="4">312E30</LeftFragment>
+      <LeftFragment MaxOffset="0" MinOffset="0" Position="5">22</LeftFragment>
+      <LeftFragment MaxOffset="0" MinOffset="0" Position="5">27</LeftFragment>
+      <LeftFragment MaxOffset="30" MinOffset="0" Position="6">3D</LeftFragment>
+      <LeftFragment MaxOffset="30" MinOffset="0" Position="7">76657273696F6E</LeftFragment>
+      <LeftFragment MaxOffset="30" MinOffset="0" Position="8">20</LeftFragment>
+      <LeftFragment MaxOffset="30" MinOffset="0" Position="8">09</LeftFragment>
+      <LeftFragment MaxOffset="0" MinOffset="0" Position="9">3C3F786D6C</LeftFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="1">22</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="1">27</RightFragment>
+    </SubSequence>
+  </ByteSequence>
+</InternalSignature>
+</InternalSignatureCollection>
+<FileFormatCollection>
+  <FileFormat ID="1" Name="Mass Spectrometry Markup Language" PUID="BYUdev/1" Version="1.x" MIMEType="text/xml">
+    <InternalSignatureID>1</InternalSignatureID>
+    <Extension>mzML</Extension>
+  </FileFormat>
+</FileFormatCollection></FFSignatureFile>
