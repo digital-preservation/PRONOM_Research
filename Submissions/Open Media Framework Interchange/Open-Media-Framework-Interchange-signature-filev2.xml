@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FFSignatureFile xmlns="http://www.nationalarchives.gov.uk/pronom/SignatureFile" Version="212129" DateCreated="2022-06-24T22:05:18+00:00">
+  <InternalSignatureCollection>
+  
+  <InternalSignature ID="10" Specificity="Specific">
+  <ByteSequence Reference="BOFoffset">
+    <SubSequence MinFragLength="0" Position="1" SubSeqMaxOffset="65536" SubSeqMinOffset="0">
+      <Sequence>4F4D46493A4F626A4944</Sequence>
+      <DefaultShift>11</DefaultShift>
+      <Shift Byte="4F">5</Shift>
+      <Shift Byte="4D">9</Shift>
+      <Shift Byte="46">8</Shift>
+      <Shift Byte="49">2</Shift>
+      <Shift Byte="3A">6</Shift>
+      <Shift Byte="62">4</Shift>
+      <Shift Byte="6A">3</Shift>
+      <Shift Byte="44">1</Shift>
+    </SubSequence>
+  </ByteSequence>
+  <ByteSequence Reference="EOFoffset">
+    <SubSequence MinFragLength="2" Position="1" SubSeqMaxOffset="24" SubSeqMinOffset="0">
+      <Sequence>A4434DA5486472D7</Sequence>
+      <DefaultShift>-9</DefaultShift>
+      <Shift Byte="A4">-1</Shift>
+      <Shift Byte="43">-2</Shift>
+      <Shift Byte="4D">-3</Shift>
+      <Shift Byte="A5">-4</Shift>
+      <Shift Byte="48">-5</Shift>
+      <Shift Byte="64">-6</Shift>
+      <Shift Byte="72">-7</Shift>
+      <Shift Byte="D7">-8</Shift>
+      <RightFragment MaxOffset="4" MinOffset="4" Position="1">0100</RightFragment>
+      <RightFragment MaxOffset="4" MinOffset="4" Position="1">0001</RightFragment>
+    </SubSequence>
+  </ByteSequence>
+</InternalSignature>
+
+  <InternalSignature ID="11" Specificity="Specific">
+  <ByteSequence Reference="EOFoffset">
+    <SubSequence MinFragLength="0" Position="1" SubSeqMaxOffset="65536" SubSeqMinOffset="0">
+      <Sequence>4F4D46493A4F626A4944</Sequence>
+      <DefaultShift>11</DefaultShift>
+      <Shift Byte="4F">5</Shift>
+      <Shift Byte="4D">9</Shift>
+      <Shift Byte="46">8</Shift>
+      <Shift Byte="49">2</Shift>
+      <Shift Byte="3A">6</Shift>
+      <Shift Byte="62">4</Shift>
+      <Shift Byte="6A">3</Shift>
+      <Shift Byte="44">1</Shift>
+    </SubSequence>
+  </ByteSequence>
+  <ByteSequence Reference="EOFoffset">
+    <SubSequence MinFragLength="2" Position="1" SubSeqMaxOffset="24" SubSeqMinOffset="0">
+      <Sequence>A4434DA5486472D7</Sequence>
+      <DefaultShift>-9</DefaultShift>
+      <Shift Byte="A4">-1</Shift>
+      <Shift Byte="43">-2</Shift>
+      <Shift Byte="4D">-3</Shift>
+      <Shift Byte="A5">-4</Shift>
+      <Shift Byte="48">-5</Shift>
+      <Shift Byte="64">-6</Shift>
+      <Shift Byte="72">-7</Shift>
+      <Shift Byte="D7">-8</Shift>
+      <RightFragment MaxOffset="4" MinOffset="4" Position="1">0100</RightFragment>
+      <RightFragment MaxOffset="4" MinOffset="4" Position="1">0001</RightFragment>
+    </SubSequence>
+  </ByteSequence>
+</InternalSignature>
+
+  <InternalSignature ID="20" Specificity="Specific">
+  <ByteSequence Reference="BOFoffset">
+    <SubSequence MinFragLength="0" Position="1" SubSeqMaxOffset="65536" SubSeqMinOffset="0">
+      <Sequence>4F4D46493A4F4F424A3A4F626A436C617373</Sequence>
+      <DefaultShift>19</DefaultShift>
+      <Shift Byte="4F">8</Shift>
+      <Shift Byte="4D">17</Shift>
+      <Shift Byte="46">16</Shift>
+      <Shift Byte="49">15</Shift>
+      <Shift Byte="3A">9</Shift>
+      <Shift Byte="42">11</Shift>
+      <Shift Byte="4A">10</Shift>
+      <Shift Byte="62">7</Shift>
+      <Shift Byte="6A">6</Shift>
+      <Shift Byte="43">5</Shift>
+      <Shift Byte="6C">4</Shift>
+      <Shift Byte="61">3</Shift>
+      <Shift Byte="73">1</Shift>
+    </SubSequence>
+  </ByteSequence>
+  <ByteSequence Reference="EOFoffset">
+    <SubSequence MinFragLength="2" Position="1" SubSeqMaxOffset="24" SubSeqMinOffset="0">
+      <Sequence>A4434DA5486472D7</Sequence>
+      <DefaultShift>-9</DefaultShift>
+      <Shift Byte="A4">-1</Shift>
+      <Shift Byte="43">-2</Shift>
+      <Shift Byte="4D">-3</Shift>
+      <Shift Byte="A5">-4</Shift>
+      <Shift Byte="48">-5</Shift>
+      <Shift Byte="64">-6</Shift>
+      <Shift Byte="72">-7</Shift>
+      <Shift Byte="D7">-8</Shift>
+      <RightFragment MaxOffset="4" MinOffset="4" Position="1">0200</RightFragment>
+      <RightFragment MaxOffset="4" MinOffset="4" Position="1">0002</RightFragment>
+    </SubSequence>
+  </ByteSequence>
+</InternalSignature>
+
+  <InternalSignature ID="21" Specificity="Specific">
+  <ByteSequence Reference="EOFoffset">
+    <SubSequence MinFragLength="0" Position="1" SubSeqMaxOffset="65536" SubSeqMinOffset="0">
+      <Sequence>4F4D46493A4F4F424A3A4F626A436C617373</Sequence>
+      <DefaultShift>19</DefaultShift>
+      <Shift Byte="4F">8</Shift>
+      <Shift Byte="4D">17</Shift>
+      <Shift Byte="46">16</Shift>
+      <Shift Byte="49">15</Shift>
+      <Shift Byte="3A">9</Shift>
+      <Shift Byte="42">11</Shift>
+      <Shift Byte="4A">10</Shift>
+      <Shift Byte="62">7</Shift>
+      <Shift Byte="6A">6</Shift>
+      <Shift Byte="43">5</Shift>
+      <Shift Byte="6C">4</Shift>
+      <Shift Byte="61">3</Shift>
+      <Shift Byte="73">1</Shift>
+    </SubSequence>
+  </ByteSequence>
+  <ByteSequence Reference="EOFoffset">
+    <SubSequence MinFragLength="2" Position="1" SubSeqMaxOffset="24" SubSeqMinOffset="0">
+      <Sequence>A4434DA5486472D7</Sequence>
+      <DefaultShift>-9</DefaultShift>
+      <Shift Byte="A4">-1</Shift>
+      <Shift Byte="43">-2</Shift>
+      <Shift Byte="4D">-3</Shift>
+      <Shift Byte="A5">-4</Shift>
+      <Shift Byte="48">-5</Shift>
+      <Shift Byte="64">-6</Shift>
+      <Shift Byte="72">-7</Shift>
+      <Shift Byte="D7">-8</Shift>
+      <RightFragment MaxOffset="4" MinOffset="4" Position="1">0200</RightFragment>
+      <RightFragment MaxOffset="4" MinOffset="4" Position="1">0002</RightFragment>
+    </SubSequence>
+  </ByteSequence>
+</InternalSignature>
+
+</InternalSignatureCollection>
+<FileFormatCollection>
+
+  <FileFormat ID="1" Name="Open Media Framework Interchange" PUID="CHLdev/1" Version="1.0">
+    <InternalSignatureID>10</InternalSignatureID>
+    <InternalSignatureID>11</InternalSignatureID>
+    <Extension>omf</Extension>
+  </FileFormat>
+  
+    <FileFormat ID="2" Name="Open Media Framework Interchange" PUID="CHLdev/2" Version="2.0">
+    <InternalSignatureID>20</InternalSignatureID>
+    <InternalSignatureID>21</InternalSignatureID>
+    <Extension>omf</Extension>
+  </FileFormat>
+  
+</FileFormatCollection></FFSignatureFile>

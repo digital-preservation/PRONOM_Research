@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FFSignatureFile xmlns="http://www.nationalarchives.gov.uk/pronom/SignatureFile" Version="2455781" DateCreated="2023-05-05T05:41:57+00:00">
+  <InternalSignatureCollection>
+  
+  <InternalSignature ID="1" Specificity="Specific">
+  <ByteSequence Reference="BOFoffset">
+    <SubSequence MinFragLength="0" Position="1" SubSeqMaxOffset="0" SubSeqMinOffset="0">
+      <Sequence>23212F62696E2F73680A23204D657461436172642032</Sequence>
+      <DefaultShift>23</DefaultShift>
+      <Shift Byte="23">12</Shift>
+      <Shift Byte="21">21</Shift>
+      <Shift Byte="2F">16</Shift>
+      <Shift Byte="62">19</Shift>
+      <Shift Byte="69">18</Shift>
+      <Shift Byte="6E">17</Shift>
+      <Shift Byte="73">15</Shift>
+      <Shift Byte="68">14</Shift>
+      <Shift Byte="0A">13</Shift>
+      <Shift Byte="20">2</Shift>
+      <Shift Byte="4D">10</Shift>
+      <Shift Byte="65">9</Shift>
+      <Shift Byte="74">8</Shift>
+      <Shift Byte="61">5</Shift>
+      <Shift Byte="43">6</Shift>
+      <Shift Byte="72">4</Shift>
+      <Shift Byte="64">3</Shift>
+      <Shift Byte="32">1</Shift>
+    </SubSequence>
+  </ByteSequence>
+</InternalSignature>
+
+  <InternalSignature ID="2" Specificity="Specific">
+  <ByteSequence Reference="BOFoffset">
+    <SubSequence MinFragLength="0" Position="1" SubSeqMaxOffset="0" SubSeqMinOffset="0">
+      <Sequence>5245564F32373030</Sequence>
+      <DefaultShift>9</DefaultShift>
+      <Shift Byte="52">8</Shift>
+      <Shift Byte="45">7</Shift>
+      <Shift Byte="56">6</Shift>
+      <Shift Byte="4F">5</Shift>
+      <Shift Byte="32">4</Shift>
+      <Shift Byte="37">3</Shift>
+      <Shift Byte="30">1</Shift>
+    </SubSequence>
+  </ByteSequence>
+</InternalSignature>
+
+  <InternalSignature ID="3" Specificity="Specific">
+  <ByteSequence Reference="BOFoffset">
+    <SubSequence MinFragLength="0" Position="1" SubSeqMaxOffset="0" SubSeqMinOffset="0">
+      <Sequence>5245564F35353030</Sequence>
+      <DefaultShift>9</DefaultShift>
+      <Shift Byte="52">8</Shift>
+      <Shift Byte="45">7</Shift>
+      <Shift Byte="56">6</Shift>
+      <Shift Byte="4F">5</Shift>
+      <Shift Byte="35">3</Shift>
+      <Shift Byte="30">1</Shift>
+    </SubSequence>
+  </ByteSequence>
+</InternalSignature>
+
+  <InternalSignature ID="4" Specificity="Specific">
+  <ByteSequence Reference="BOFoffset">
+    <SubSequence MinFragLength="0" Position="1" SubSeqMaxOffset="0" SubSeqMinOffset="0">
+      <Sequence>5245564F37303030</Sequence>
+      <DefaultShift>9</DefaultShift>
+      <Shift Byte="52">8</Shift>
+      <Shift Byte="45">7</Shift>
+      <Shift Byte="56">6</Shift>
+      <Shift Byte="4F">5</Shift>
+      <Shift Byte="37">4</Shift>
+      <Shift Byte="30">1</Shift>
+    </SubSequence>
+  </ByteSequence>
+</InternalSignature>
+
+  <InternalSignature ID="5" Specificity="Specific">
+  <ByteSequence Reference="BOFoffset">
+    <SubSequence MinFragLength="0" Position="1" SubSeqMaxOffset="0" SubSeqMinOffset="0">
+      <Sequence>5245564F38303030</Sequence>
+      <DefaultShift>9</DefaultShift>
+      <Shift Byte="52">8</Shift>
+      <Shift Byte="45">7</Shift>
+      <Shift Byte="56">6</Shift>
+      <Shift Byte="4F">5</Shift>
+      <Shift Byte="38">4</Shift>
+      <Shift Byte="30">1</Shift>
+    </SubSequence>
+  </ByteSequence>
+</InternalSignature>
+
+  <InternalSignature ID="6" Specificity="Specific">
+  <ByteSequence Reference="BOFoffset">
+    <SubSequence MinFragLength="0" Position="1" SubSeqMaxOffset="0" SubSeqMinOffset="0">
+      <Sequence>5245564F38313030</Sequence>
+      <DefaultShift>9</DefaultShift>
+      <Shift Byte="52">8</Shift>
+      <Shift Byte="45">7</Shift>
+      <Shift Byte="56">6</Shift>
+      <Shift Byte="4F">5</Shift>
+      <Shift Byte="38">4</Shift>
+      <Shift Byte="31">3</Shift>
+      <Shift Byte="30">1</Shift>
+    </SubSequence>
+  </ByteSequence>
+</InternalSignature>
+
+</InternalSignatureCollection>
+<FileFormatCollection>
+
+  <FileFormat ID="1" Name="MetaCard Stack" PUID="BYUdev/1" Version="2.x">
+    <InternalSignatureID>1</InternalSignatureID>
+    <Extension>mc</Extension>
+    <Extension>rev</Extension>
+  </FileFormat>
+    
+      <FileFormat ID="2" Name="Revolution Stack" PUID="BYUdev/2" Version="2.7">
+    <InternalSignatureID>2</InternalSignatureID>
+    <Extension>rev</Extension>
+    <Extension>livecode</Extension>
+  </FileFormat>
+  
+      <FileFormat ID="3" Name="LiveCode Stack" PUID="BYUdev/3" Version="5.5">
+    <InternalSignatureID>3</InternalSignatureID>
+    <Extension>rev</Extension>
+    <Extension>livecode</Extension>
+  </FileFormat>
+  
+      <FileFormat ID="4" Name="LiveCode Stack" PUID="BYUdev/4" Version="7.0">
+    <InternalSignatureID>4</InternalSignatureID>
+    <Extension>rev</Extension>
+    <Extension>livecode</Extension>
+  </FileFormat>
+  
+      <FileFormat ID="5" Name="LiveCode Stack" PUID="BYUdev/5" Version="8.0">
+    <InternalSignatureID>5</InternalSignatureID>
+    <Extension>rev</Extension>
+    <Extension>livecode</Extension>
+  </FileFormat>
+  
+        <FileFormat ID="6" Name="LiveCode Stack" PUID="BYUdev/6" Version="8.1+">
+    <InternalSignatureID>6</InternalSignatureID>
+    <Extension>rev</Extension>
+    <Extension>livecode</Extension>
+  </FileFormat>
+    
+</FileFormatCollection></FFSignatureFile>
