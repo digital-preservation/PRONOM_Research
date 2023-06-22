@@ -6,7 +6,7 @@ Every 2 weeks at Thursday 4pm UK time or 11am (ET). The meeting link to join for
 
 * 08/06/2023
 
-* 22/06/2023
+* 22/06/2023 (National Archives staff are now unavailable for this session but there may be others in the meeting if you do wish to join.)
 
 * 06/07/2023   
 
