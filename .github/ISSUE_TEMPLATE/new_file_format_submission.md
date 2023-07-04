@@ -1,5 +1,5 @@
 ---
-name: New_File_Format_Submission
+name: New File Format Submission
 about: This template is designed for anyone who would like to suggest a new file format
   for PRONOM
 title: ''
@@ -51,4 +51,4 @@ What type of format is it (see below)?
 
 
 **File format identification signatures**
-(for the brave!).
+(for the brave!). If you'd like to find out more about creating file format signatures please refer to our starter pack under resources.
