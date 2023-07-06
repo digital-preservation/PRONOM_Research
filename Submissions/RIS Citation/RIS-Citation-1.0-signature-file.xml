@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FFSignatureFile xmlns="http://www.nationalarchives.gov.uk/pronom/SignatureFile" Version="555556" DateCreated="2023-07-06T04:29:40+00:00">
+  <InternalSignatureCollection>
+  
+  <InternalSignature ID="1" Specificity="Specific">
+  <ByteSequence Reference="BOFoffset">
+    <SubSequence MinFragLength="0" Position="1" SubSeqMaxOffset="128" SubSeqMinOffset="0">
+      <Sequence>545920</Sequence>
+      <DefaultShift>4</DefaultShift>
+      <Shift Byte="54">3</Shift>
+      <Shift Byte="59">2</Shift>
+      <Shift Byte="20">1</Shift>
+    </SubSequence>
+  </ByteSequence>
+  <ByteSequence Reference="EOFoffset">
+    <SubSequence MinFragLength="0" Position="1" SubSeqMaxOffset="32" SubSeqMinOffset="0">
+      <Sequence>455220202D</Sequence>
+      <DefaultShift>-6</DefaultShift>
+      <Shift Byte="45">-1</Shift>
+      <Shift Byte="52">-2</Shift>
+      <Shift Byte="20">-3</Shift>
+      <Shift Byte="2D">-5</Shift>
+    </SubSequence>
+  </ByteSequence>
+</InternalSignature>
+
+</InternalSignatureCollection>
+<FileFormatCollection>
+
+  <FileFormat ID="1" Name="RIS Citation" PUID="BYUdev/1" MIMEType="application/x-research-info-systems">
+    <InternalSignatureID>1</InternalSignatureID>
+    <Extension>ris</Extension>
+  </FileFormat>
+  
+</FileFormatCollection></FFSignatureFile>
