@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<ContainerSignatureMapping schemaVersion="1.0" signatureVersion="202331"> 
+    <ContainerSignatures>
+    
+        <ContainerSignature Id="2012" ContainerType="ZIP">
+            <Description>CorelDRAW Drawing X4</Description>
+            <Files>
+					 <File>
+                    <Path>content/riffData.cdr</Path>
+                    <BinarySignatures>
+                        <InternalSignatureCollection>                    
+	                        <InternalSignature ID="2012">
+	                            <ByteSequence Reference="BOFoffset">
+	                                <SubSequence Position="1" SubSeqMinOffset="0" SubSeqMaxOffset="0">
+	                                    <Sequence>52 49 46 46</Sequence>
+	                                </SubSequence>
+	                                <SubSequence Position="2" SubSeqMinOffset="0" SubSeqMaxOffset="4">
+                    					<Sequence>43 44 52 45</Sequence>
+                  					</SubSequence>
+	                            </ByteSequence>
+	                        </InternalSignature>
+	                    </InternalSignatureCollection>
+                    </BinarySignatures>
+                </File>             
+            </Files>
+        </ContainerSignature>
+
+        <ContainerSignature Id="2013" ContainerType="ZIP">
+            <Description>CorelDRAW Drawing X5</Description>
+            <Files>
+					 <File>
+                    <Path>content/riffData.cdr</Path>
+                    <BinarySignatures>
+                        <InternalSignatureCollection>                    
+	                        <InternalSignature ID="2013">
+	                            <ByteSequence Reference="BOFoffset">
+	                                <SubSequence Position="1" SubSeqMinOffset="0" SubSeqMaxOffset="0">
+	                                    <Sequence>52 49 46 46</Sequence>
+	                                </SubSequence>
+	                                <SubSequence Position="2" SubSeqMinOffset="0" SubSeqMaxOffset="4">
+                    					<Sequence>43 44 52 46</Sequence>
+                  					</SubSequence>
+	                            </ByteSequence>
+	                        </InternalSignature>
+	                    </InternalSignatureCollection>
+                    </BinarySignatures>
+                </File>             
+            </Files>
+        </ContainerSignature>
+
+        <ContainerSignature Id="2014" ContainerType="ZIP">
+            <Description>CorelDRAW Drawing X6</Description>
+            <Files>
+					 <File>
+                    <Path>content/root.dat</Path>
+                    <BinarySignatures>
+                        <InternalSignatureCollection>                    
+	                        <InternalSignature ID="2014">
+	                            <ByteSequence Reference="BOFoffset">
+	                                <SubSequence Position="1" SubSeqMinOffset="0" SubSeqMaxOffset="0">
+	                                    <Sequence>52 49 46 46</Sequence>
+	                                </SubSequence>
+	                                <SubSequence Position="2" SubSeqMinOffset="0" SubSeqMaxOffset="4">
+                    					<Sequence>43 44 52 47</Sequence>
+                  					</SubSequence>
+	                            </ByteSequence>
+	                        </InternalSignature>
+	                    </InternalSignatureCollection>
+                    </BinarySignatures>
+                </File>             
+            </Files>
+        </ContainerSignature>
+
+        <ContainerSignature Id="2015" ContainerType="ZIP">
+            <Description>CorelDRAW Drawing X7</Description>
+            <Files>
+                <File>
+                    <Path>mimetype</Path>
+                </File>
+					 <File>
+                    <Path>content/root.dat</Path>
+                    <BinarySignatures>
+                        <InternalSignatureCollection>                    
+	                        <InternalSignature ID="2015">
+	                            <ByteSequence Reference="BOFoffset">
+	                                <SubSequence Position="1" SubSeqMinOffset="0" SubSeqMaxOffset="0">
+	                                    <Sequence>52 49 46 46</Sequence>
+	                                </SubSequence>
+	                                <SubSequence Position="2" SubSeqMinOffset="0" SubSeqMaxOffset="4">
+                    					<Sequence>43 44 52 48</Sequence>
+                  					</SubSequence>
+	                            </ByteSequence>
+	                        </InternalSignature>
+	                    </InternalSignatureCollection>
+                    </BinarySignatures>
+                </File>             
+            </Files>
+        </ContainerSignature>
+
+        <ContainerSignature Id="2016" ContainerType="ZIP">
+            <Description>CorelDRAW Drawing X8</Description>
+            <Files>
+                <File>
+                    <Path>mimetype</Path>
+                </File>
+					 <File>
+                    <Path>content/root.dat</Path>
+                    <BinarySignatures>
+                        <InternalSignatureCollection>                    
+	                        <InternalSignature ID="2016">
+	                            <ByteSequence Reference="BOFoffset">
+	                                <SubSequence Position="1" SubSeqMinOffset="0" SubSeqMaxOffset="0">
+	                                    <Sequence>52 49 46 46</Sequence>
+	                                </SubSequence>
+	                                <SubSequence Position="2" SubSeqMinOffset="0" SubSeqMaxOffset="4">
+                    					<Sequence>43 44 52 4A</Sequence>
+                  					</SubSequence>
+	                            </ByteSequence>
+	                        </InternalSignature>
+	                    </InternalSignatureCollection>
+                    </BinarySignatures>
+                </File>             
+            </Files>
+        </ContainerSignature>
+
+        <ContainerSignature Id="2017" ContainerType="ZIP">
+            <Description>CorelDRAW Drawing 2017</Description>
+            <Files>
+                <File>
+                    <Path>mimetype</Path>
+                </File>
+					 <File>
+                    <Path>content/root.dat</Path>
+                    <BinarySignatures>
+                        <InternalSignatureCollection>                    
+	                        <InternalSignature ID="2017">
+	                            <ByteSequence Reference="BOFoffset">
+	                                <SubSequence Position="1" SubSeqMinOffset="0" SubSeqMaxOffset="0">
+	                                    <Sequence>52 49 46 46</Sequence>
+	                                </SubSequence>
+	                                <SubSequence Position="2" SubSeqMinOffset="0" SubSeqMaxOffset="4">
+                    					<Sequence>43 44 52 4B</Sequence>
+                  					</SubSequence>
+	                            </ByteSequence>
+	                        </InternalSignature>
+	                    </InternalSignatureCollection>
+                    </BinarySignatures>
+                </File>             
+            </Files>
+        </ContainerSignature>
+
+        <ContainerSignature Id="2018" ContainerType="ZIP">
+            <Description>CorelDRAW Drawing 2018</Description>
+            <Files>
+                <File>
+                    <Path>mimetype</Path>
+                </File>
+					 <File>
+                    <Path>content/root.dat</Path>
+                    <BinarySignatures>
+                        <InternalSignatureCollection>                    
+	                        <InternalSignature ID="2018">
+	                            <ByteSequence Reference="BOFoffset">
+	                                <SubSequence Position="1" SubSeqMinOffset="0" SubSeqMaxOffset="0">
+	                                    <Sequence>52 49 46 46</Sequence>
+	                                </SubSequence>
+	                                <SubSequence Position="2" SubSeqMinOffset="0" SubSeqMaxOffset="4">
+                    					<Sequence>43 44 52 4C</Sequence>
+                  					</SubSequence>
+	                            </ByteSequence>
+	                        </InternalSignature>
+	                    </InternalSignatureCollection>
+                    </BinarySignatures>
+                </File>             
+            </Files>
+        </ContainerSignature>
+
+        <ContainerSignature Id="2019" ContainerType="ZIP">
+            <Description>CorelDRAW Drawing 2019</Description>
+            <Files>
+                <File>
+                    <Path>mimetype</Path>
+                </File>
+					 <File>
+                    <Path>content/root.dat</Path>
+                    <BinarySignatures>
+                        <InternalSignatureCollection>                    
+	                        <InternalSignature ID="2019">
+	                            <ByteSequence Reference="BOFoffset">
+	                                <SubSequence Position="1" SubSeqMinOffset="0" SubSeqMaxOffset="0">
+	                                    <Sequence>52 49 46 46</Sequence>
+	                                </SubSequence>
+	                                <SubSequence Position="2" SubSeqMinOffset="0" SubSeqMaxOffset="4">
+                    					<Sequence>43 44 52 4D</Sequence>
+                  					</SubSequence>
+	                            </ByteSequence>
+	                        </InternalSignature>
+	                    </InternalSignatureCollection>
+                    </BinarySignatures>
+                </File>             
+            </Files>
+        </ContainerSignature>
+
+        <ContainerSignature Id="2020" ContainerType="ZIP">
+            <Description>CorelDRAW Drawing 2020</Description>
+            <Files>
+                <File>
+                    <Path>mimetype</Path>
+                </File>
+					 <File>
+                    <Path>content/root.dat</Path>
+                    <BinarySignatures>
+                        <InternalSignatureCollection>                    
+	                        <InternalSignature ID="2020">
+	                            <ByteSequence Reference="BOFoffset">
+	                                <SubSequence Position="1" SubSeqMinOffset="0" SubSeqMaxOffset="0">
+	                                    <Sequence>52 49 46 46</Sequence>
+	                                </SubSequence>
+	                                <SubSequence Position="2" SubSeqMinOffset="0" SubSeqMaxOffset="4">
+                    					<Sequence>43 44 52 4E</Sequence>
+                  					</SubSequence>
+	                            </ByteSequence>
+	                        </InternalSignature>
+	                    </InternalSignatureCollection>
+                    </BinarySignatures>
+                </File>             
+            </Files>
+        </ContainerSignature>
+
+        <ContainerSignature Id="2021" ContainerType="ZIP">
+            <Description>CorelDRAW Drawing 2021</Description>
+            <Files>
+                <File>
+                    <Path>mimetype</Path>
+                </File>
+					 <File>
+                    <Path>content/root.dat</Path>
+                    <BinarySignatures>
+                        <InternalSignatureCollection>                    
+	                        <InternalSignature ID="2021">
+	                            <ByteSequence Reference="BOFoffset">
+	                                <SubSequence Position="1" SubSeqMinOffset="0" SubSeqMaxOffset="0">
+	                                    <Sequence>52 49 46 46</Sequence>
+	                                </SubSequence>
+	                                <SubSequence Position="2" SubSeqMinOffset="0" SubSeqMaxOffset="4">
+                    					<Sequence>43 44 52 4F</Sequence>
+                  					</SubSequence>
+	                            </ByteSequence>
+	                        </InternalSignature>
+	                    </InternalSignatureCollection>
+                    </BinarySignatures>
+                </File>             
+            </Files>
+        </ContainerSignature>
+        
+                <ContainerSignature Id="2022" ContainerType="ZIP">
+            <Description>CorelDRAW Drawing 2022</Description>
+            <Files>
+                <File>
+                    <Path>mimetype</Path>
+                </File>
+					 <File>
+                    <Path>content/root.dat</Path>
+                    <BinarySignatures>
+                        <InternalSignatureCollection>                    
+	                        <InternalSignature ID="2022">
+	                            <ByteSequence Reference="BOFoffset">
+	                                <SubSequence Position="1" SubSeqMinOffset="0" SubSeqMaxOffset="0">
+	                                    <Sequence>52 49 46 46</Sequence>
+	                                </SubSequence>
+	                                <SubSequence Position="2" SubSeqMinOffset="0" SubSeqMaxOffset="4">
+                    					<Sequence>43 44 52 50</Sequence>
+                  					</SubSequence>
+	                            </ByteSequence>
+	                        </InternalSignature>
+	                    </InternalSignatureCollection>
+                    </BinarySignatures>
+                </File>             
+            </Files>
+        </ContainerSignature>
+        
+                <ContainerSignature Id="2023" ContainerType="ZIP">
+            <Description>CorelDRAW Drawing 2023</Description>
+            <Files>
+                <File>
+                    <Path>mimetype</Path>
+                </File>
+					 <File>
+                    <Path>content/root.dat</Path>
+                    <BinarySignatures>
+                        <InternalSignatureCollection>                    
+	                        <InternalSignature ID="2023">
+	                            <ByteSequence Reference="BOFoffset">
+	                                <SubSequence Position="1" SubSeqMinOffset="0" SubSeqMaxOffset="0">
+	                                    <Sequence>52 49 46 46</Sequence>
+	                                </SubSequence>
+	                                <SubSequence Position="2" SubSeqMinOffset="0" SubSeqMaxOffset="4">
+                    					<Sequence>43 44 52 51</Sequence>
+                  					</SubSequence>
+	                            </ByteSequence>
+	                        </InternalSignature>
+	                    </InternalSignatureCollection>
+                    </BinarySignatures>
+                </File>             
+            </Files>
+        </ContainerSignature>
+
+    </ContainerSignatures>
+  
+    <FileFormatMappings>
+    
+    	<!--  CDR Zip Container File (ZIP)-->
+      <FileFormatMapping signatureId="2012" Puid="fmt/429"/>
+      <FileFormatMapping signatureId="2013" Puid="fmt/430"/>
+      <FileFormatMapping signatureId="2014" Puid="BYUdev/16"/>
+      <FileFormatMapping signatureId="2015" Puid="BYUdev/17"/>
+      <FileFormatMapping signatureId="2016" Puid="BYUdev/18"/>
+      <FileFormatMapping signatureId="2017" Puid="BYUdev/19"/>
+      <FileFormatMapping signatureId="2018" Puid="BYUdev/20"/>
+      <FileFormatMapping signatureId="2019" Puid="BYUdev/21"/>
+      <FileFormatMapping signatureId="2020" Puid="BYUdev/22"/>
+      <FileFormatMapping signatureId="2021" Puid="BYUdev/23"/>
+      <FileFormatMapping signatureId="2022" Puid="BYUdev/24"/>
+      <FileFormatMapping signatureId="2023" Puid="BYUdev/243"/>
+
+    </FileFormatMappings>
+  
+    <TriggerPuids>
+        <TriggerPuid ContainerType="OLE2" Puid="fmt/111"/> 
+        <TriggerPuid ContainerType="ZIP" Puid="fmt/189"/> 
+        <TriggerPuid ContainerType="ZIP" Puid="x-fmt/263"/> 
+    </TriggerPuids>
+
+</ContainerSignatureMapping>
