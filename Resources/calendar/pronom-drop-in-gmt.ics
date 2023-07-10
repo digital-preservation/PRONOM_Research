@@ -29,8 +29,8 @@ DTSTART;TZID=Europe/Berlin:20230525T170000
 RRULE:FREQ=WEEKLY;INTERVAL=2;BYDAY=TH
 DTEND;TZID=Europe/Berlin:20230525T180000
 SUMMARY:PRONOM Drop-in Session (GMT, ET)
-URL:https://teams.microsoft.com/l/meetup-join/19%253ameeting_OThkMzIwMWItYTUzYS00NDIxLTgzNTEtMzAwMGQzYWZhNmJi%2540thread.v2/0?context=%257b%2522Tid%2522%253a%2522f99512c1-fd9f-4475-9896-9a0b3cdc50ec%2522%252c%2522Oid%2522%253a%2522e02319b9-2b3a-4408-86ee-7cd0ba62ed9f%2522%257d
-DESCRIPTION:The PRONOM team would also like to share details of their PRONOM drop-in sessions. These are open/unstructured sessions with members of the PRONOM Team to talk about your current research and ask/answer any questions you may have. \n\nhttps://teams.microsoft.com/l/meetup-join/19%253ameeting_OThkMzIwMWItYTUzYS00NDIxLTgzNTEtMzAwMGQzYWZhNmJi%2540thread.v2/0?context=%257b%2522Tid%2522%253a%2522f99512c1-fd9f-4475-9896-9a0b3cdc50ec%2522%252c%2522Oid%2522%253a%2522e02319b9-2b3a-4408-86ee-7cd0ba62ed9f%2522%257d \n\n
+URL:https://teams.microsoft.com/l/meetup-join/19%3ameeting_OThkMzIwMWItYTUzYS00NDIxLTgzNTEtMzAwMGQzYWZhNmJi%40thread.v2/0?context=%7b%22Tid%22%3a%22f99512c1-fd9f-4475-9896-9a0b3cdc50ec%22%2c%22Oid%22%3a%22e02319b9-2b3a-4408-86ee-7cd0ba62ed9f%22%7d
+DESCRIPTION:The PRONOM team would also like to share details of their PRONOM drop-in sessions. These are open/unstructured sessions with members of the PRONOM Team to talk about your current research and ask/answer any questions you may have. \n\nhttps://teams.microsoft.com/l/meetup-join/19%3ameeting_OThkMzIwMWItYTUzYS00NDIxLTgzNTEtMzAwMGQzYWZhNmJi%40thread.v2/0?context=%7b%22Tid%22%3a%22f99512c1-fd9f-4475-9896-9a0b3cdc50ec%22%2c%22Oid%22%3a%22e02319b9-2b3a-4408-86ee-7cd0ba62ed9f%22%7d \n\n
 LOCATION:Online
 END:VEVENT
 END:VCALENDAR
