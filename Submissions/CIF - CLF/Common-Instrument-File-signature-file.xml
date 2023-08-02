@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FFSignatureFile xmlns="http://www.nationalarchives.gov.uk/pronom/SignatureFile" Version="222115" DateCreated="2023-07-31T19:01:11+00:00">
+  <InternalSignatureCollection>
+  
+  <InternalSignature ID="1" Specificity="Specific">
+  <ByteSequence Reference="BOFoffset">
+    <SubSequence MinFragLength="36" Position="1" SubSeqMaxOffset="0" SubSeqMinOffset="0">
+      <Sequence>00000000000000000000000000000000</Sequence>
+      <DefaultShift>17</DefaultShift>
+      <Shift Byte="00">1</Shift>
+      <LeftFragment MaxOffset="10" MinOffset="10" Position="1">76312E306100</LeftFragment>
+      <LeftFragment MaxOffset="15" MinOffset="15" Position="2">42BD0A0001</LeftFragment>
+    </SubSequence>
+  </ByteSequence>
+</InternalSignature>
+
+  <InternalSignature ID="2" Specificity="Specific">
+  <ByteSequence Reference="BOFoffset">
+    <SubSequence MinFragLength="36" Position="1" SubSeqMaxOffset="0" SubSeqMinOffset="0">
+      <Sequence>00000000000000000000000000000000</Sequence>
+      <DefaultShift>17</DefaultShift>
+      <Shift Byte="00">1</Shift>
+      <LeftFragment MaxOffset="10" MinOffset="10" Position="1">76312E306100</LeftFragment>
+      <LeftFragment MaxOffset="15" MinOffset="15" Position="2">43BD0A0001</LeftFragment>
+    </SubSequence>
+  </ByteSequence>
+</InternalSignature>
+
+  <InternalSignature ID="3" Specificity="Specific">
+  <ByteSequence Reference="BOFoffset">
+    <SubSequence MinFragLength="36" Position="1" SubSeqMaxOffset="0" SubSeqMinOffset="0">
+      <Sequence>00000000000000000000000000000000</Sequence>
+      <DefaultShift>17</DefaultShift>
+      <Shift Byte="00">1</Shift>
+      <LeftFragment MaxOffset="12" MinOffset="12" Position="1">2E30</LeftFragment>
+      <LeftFragment MaxOffset="0" MinOffset="0" Position="2">31</LeftFragment>
+      <LeftFragment MaxOffset="0" MinOffset="0" Position="2">32</LeftFragment>
+      <LeftFragment MaxOffset="0" MinOffset="0" Position="3">76</LeftFragment>
+      <LeftFragment MaxOffset="15" MinOffset="15" Position="4">40BD0A0001</LeftFragment>
+    </SubSequence>
+  </ByteSequence>
+</InternalSignature>
+
+  <InternalSignature ID="4" Specificity="Specific">
+  <ByteSequence Reference="BOFoffset">
+    <SubSequence MinFragLength="36" Position="1" SubSeqMaxOffset="0" SubSeqMinOffset="0">
+      <Sequence>00000000000000000000000000000000</Sequence>
+      <DefaultShift>17</DefaultShift>
+      <Shift Byte="00">1</Shift>
+      <LeftFragment MaxOffset="12" MinOffset="12" Position="1">2E30</LeftFragment>
+      <LeftFragment MaxOffset="0" MinOffset="0" Position="2">31</LeftFragment>
+      <LeftFragment MaxOffset="0" MinOffset="0" Position="2">32</LeftFragment>
+      <LeftFragment MaxOffset="0" MinOffset="0" Position="3">76</LeftFragment>
+      <LeftFragment MaxOffset="15" MinOffset="15" Position="4">41BD0A0001</LeftFragment>
+    </SubSequence>
+  </ByteSequence>
+</InternalSignature>
+
+</InternalSignatureCollection>
+<FileFormatCollection>
+
+  <FileFormat ID="1" Name="Common Instrument File" PUID="BYUdev/1" Version="1">
+    <InternalSignatureID>1</InternalSignatureID>
+    <Extension>ci1</Extension>
+  </FileFormat>
+  
+  <FileFormat ID="2" Name="Common Instrument File" PUID="BYUdev/2" Version="2">
+    <InternalSignatureID>2</InternalSignatureID>
+    <Extension>ci2</Extension>
+  </FileFormat>
+  
+    <FileFormat ID="3" Name="Common Loudspeaker File" PUID="BYUdev/3" Version="1">
+    <InternalSignatureID>3</InternalSignatureID>
+    <Extension>cf1</Extension>
+  </FileFormat>
+  
+    <FileFormat ID="4" Name="Common Loudspeaker File" PUID="BYUdev/4" Version="2">
+    <InternalSignatureID>4</InternalSignatureID>
+    <Extension>cf2</Extension>
+  </FileFormat>
+  
+</FileFormatCollection></FFSignatureFile>
