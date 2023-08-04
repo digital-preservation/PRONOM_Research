@@ -1,0 +1,25 @@
+0 HEAD
+1 SOUR PAF 4.0
+2 NAME Personal Ancestral File
+2 VERS 4.0.4.18
+2 CORP The Church of Jesus Christ of Latter-day Saints
+3 ADDR 50 East North Temple Street
+4 CONT Salt Lake City, UT 84150
+1 DEST PAF
+1 DATE 3 AUG 2023
+2 TIME 16:57:07
+1 FILE paf4-s01.ged
+1 GEDC
+2 VERS 4.0
+2 FORM LINEAGE-LINKED
+1 CHAR ANSEL
+1 LANG English
+1 SUBM @SUB1@
+0 @SUB1@ SUBM
+1 NAME John Doe
+1 ADDR 1234 Easy Street
+2 CONT SLC, UT
+0 @I1@ INDI
+1 NAME John /Doe/
+1 SEX M
+0 TRLR
