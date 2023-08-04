@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FFSignatureFile xmlns="http://www.nationalarchives.gov.uk/pronom/SignatureFile" Version="199701" DateCreated="2023-08-04T20:12:23+00:00">
+  <InternalSignatureCollection>
+  <InternalSignature ID="1" Specificity="Specific">
+  <ByteSequence Reference="BOFoffset">
+    <SubSequence MinFragLength="0" Position="1" SubSeqMaxOffset="0" SubSeqMinOffset="0">
+      <Sequence>0000014000000003</Sequence>
+      <DefaultShift>9</DefaultShift>
+      <Shift Byte="00">2</Shift>
+      <Shift Byte="01">6</Shift>
+      <Shift Byte="40">5</Shift>
+      <Shift Byte="03">1</Shift>
+      <RightFragment MaxOffset="28" MinOffset="28" Position="1">4D4143525A</RightFragment>
+      <RightFragment MaxOffset="283" MinOffset="283" Position="2">FF</RightFragment>
+    </SubSequence>
+  </ByteSequence>
+</InternalSignature>
+</InternalSignatureCollection>
+<FileFormatCollection>
+  <FileFormat ID="1" Name="Shockwave Audio File" PUID="BYUdev/1" Version="" MIMEType="">
+    <InternalSignatureID>1</InternalSignatureID>
+    <Extension>swa</Extension>
+  </FileFormat>
+</FileFormatCollection></FFSignatureFile>
