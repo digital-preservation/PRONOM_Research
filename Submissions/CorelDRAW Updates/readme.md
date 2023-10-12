@@ -44,5 +44,7 @@ Name="CorelDraw Drawing" PUID="fmt/430" Version="X5"
 
 X4 & X5 formats already have a binary signature but should have a container signature as the binary signature is too strict and misses some sample files. This brings all ZIP container CDR files inline with standard practice. 
 
+Hi Tyler, unsure if you'll ge this, worth a try. I only seem to have samples for 2023 and X6- do you have samples of the other cersions please? Sorry to ask. 
+
 One format that could also be added was a variant of version 8, called Version 8 Bidi, it is a lowercase ```cdr8```, and could be added as another signature for x-fmt/292 or a new signature.
 
