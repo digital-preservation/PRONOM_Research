@@ -46,4 +46,3 @@ X4 & X5 formats already have a binary signature but should have a container sign
 
 One format that could also be added was a variant of version 8, called Version 8 Bidi, it is a lowercase ```cdr8```, and could be added as another signature for x-fmt/292 or a new signature.
 
-Hi Tyler, Unsure if you'll see this, but will give it a try. Thanks for all these, just adding. I see samples here for X6 and 2023 versions, but could you point me in the direction of samples for x4, x5, 8bidi, x7. x8 and 2017- 2022 please? It's a big ask, sorry. 
