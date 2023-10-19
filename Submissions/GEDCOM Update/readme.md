@@ -1,0 +1,32 @@
+# GEDCOM File Format Updates
+
+http://fileformats.archiveteam.org/wiki/GEDCOM
+
+## Pattern
+
+Version 3 only requires the tags HEAD, SOUR, DEST and the ending TRLR. BYUdev/3
+
+BOF ```302048454144(0D0A|0D|0A)3120534F5552{0-128}312044455354```
+EOF ```302054524C52```
+
+Version 4 requires the HEAD.GEDC.VERS sequence. BYUdev/4
+
+BOF ```302048454144{0-1024}47454443(0D0A|0D|0A)3220564552532034```
+EOF ```302054524C52```
+
+Version 5 is similar. BYUdev/5
+
+BOF ```302048454144{0-1024}47454443(0D0A|0D|0A)3220564552532035```
+EOF ```302054524C52```
+
+Version 7 is also similar. BYUdev/7
+
+BOF ```302048454144{0-1024}47454443(0D0A|0D|0A)3220564552532037```
+EOF ```302054524C52```
+
+Family Tree Maker Text File. BYUdev/8
+
+BOF ```3020484541444552(0D0A|0D|0A)3120534F55524345```
+EOF ```3020545241494C4552```
+
+Version 7 GED-ZIP format BYUdev/1

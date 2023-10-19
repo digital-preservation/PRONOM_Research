@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FFSignatureFile xmlns="http://www.nationalarchives.gov.uk/pronom/SignatureFile" Version="444452" DateCreated="2023-09-28T22:10:52+00:00">
+  <InternalSignatureCollection>
+  <InternalSignature ID="1" Specificity="Specific">
+  <ByteSequence Reference="BOFoffset">
+    <SubSequence MinFragLength="0" Position="1" SubSeqMaxOffset="4084" SubSeqMinOffset="0">
+      <Sequence>28546869732066696C65206D75737420626520636F6E76657274656420776974682042696E486578</Sequence>
+      <DefaultShift>41</DefaultShift>
+      <Shift Byte="28">40</Shift>
+      <Shift Byte="54">39</Shift>
+      <Shift Byte="68">8</Shift>
+      <Shift Byte="69">5</Shift>
+      <Shift Byte="73">27</Shift>
+      <Shift Byte="20">7</Shift>
+      <Shift Byte="66">34</Shift>
+      <Shift Byte="6C">32</Shift>
+      <Shift Byte="65">2</Shift>
+      <Shift Byte="6D">29</Shift>
+      <Shift Byte="75">28</Shift>
+      <Shift Byte="74">9</Shift>
+      <Shift Byte="62">24</Shift>
+      <Shift Byte="63">21</Shift>
+      <Shift Byte="6F">20</Shift>
+      <Shift Byte="6E">4</Shift>
+      <Shift Byte="76">18</Shift>
+      <Shift Byte="72">16</Shift>
+      <Shift Byte="64">13</Shift>
+      <Shift Byte="77">11</Shift>
+      <Shift Byte="42">6</Shift>
+      <Shift Byte="48">3</Shift>
+      <Shift Byte="78">1</Shift>
+      <RightFragment MaxOffset="9" MinOffset="6" Position="1">3A</RightFragment>
+    </SubSequence>
+  </ByteSequence>
+  <ByteSequence Reference="EOFoffset">
+    <SubSequence MinFragLength="0" Position="1" SubSeqMaxOffset="64" SubSeqMinOffset="0">
+      <Sequence>3A</Sequence>
+      <DefaultShift>-2</DefaultShift>
+      <Shift Byte="3A">-1</Shift>
+    </SubSequence>
+  </ByteSequence>
+</InternalSignature>
+</InternalSignatureCollection>
+<FileFormatCollection>
+  <FileFormat ID="1" Name="BinHex Binary Text" PUID="x-fmt/416" Version="4" MIMEType="application/mac-binhex40">
+    <InternalSignatureID>1</InternalSignatureID>
+    <Extension>hqx</Extension>
+  </FileFormat>
+</FileFormatCollection></FFSignatureFile>

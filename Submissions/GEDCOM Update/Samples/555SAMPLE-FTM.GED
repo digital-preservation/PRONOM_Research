@@ -1,0 +1,121 @@
+0 HEADER
+1 SOURCE FTW
+2 VERSION Family Tree Maker 2005 Starter Edition (12.0.345 SP1) August 20, 2004
+2 NAME Family Tree Maker 2005 Starter Edition for Windows
+2 CORPORATE MyFamily.com, Inc.
+3 ADDRESS 360 W 4800 N
+4 CONTINUED Provo, UT 84604
+3 PHONE (801) 705-7000
+1 DESTINATION FTW
+1 DATE 3 AUG 2023
+1 CHARACTER IBMPC
+1 SUBMITTER Unknown
+1 FILE C:\Program Files\Family Tree Maker 2005\555SAMPLE-FTM.GED
+1 GEDCOM
+2 VERSION 5.5
+2 FORM LINEAGE-LINKED
+1 _SCHEMA
+2 INDIVIDUAL
+3 _FACT1
+4 LABEL Fact 1
+3 _FACT2
+4 LABEL Fact 2
+3 _FACT3
+4 LABEL Fact 3
+3 _FACT4
+4 LABEL Fact 4
+3 _FACT5
+4 LABEL Fact 5
+3 _FACT6
+4 LABEL Fact 6
+3 _FACT7
+4 LABEL Fact 7
+3 _FACT8
+4 LABEL Fact 8
+3 _FACT9
+4 LABEL Fact 9
+3 _FACT10
+4 LABEL Fact 10
+3 _FACT11
+4 LABEL Fact 11
+3 _FACT12
+4 LABEL Fact 12
+3 _FACT13
+4 LABEL Fact 13
+3 _MREL
+4 LABEL Relationship to Mother
+3 _FREL
+4 LABEL Relationship to Father
+2 FAMILY
+3 _FACT1
+4 LABEL Marriage fact
+3 _FACT2
+4 LABEL Fact 2
+3 _MSTAT
+4 LABEL Marriage Beginning Status
+3 _MEND
+4 LABEL Marriage Ending Status
+0 @I01@ INDIVIDUAL
+1 NAME Robert Eugene /Williams/
+1 SEX M
+1 BIRTH
+2 DATE 2 OCT 1822
+2 PLACE Weston, Madison, Connecticut, United States of America
+2 SOURCE @S1690@
+3 PAGE Sec. 2, p. 45
+1 DEATH
+2 DATE 14 APR 1905
+2 PLACE Stamford, Fairfield, Connecticut, United States of America
+1 BURIAL
+2 PLACE Spring Hill Cemetery, Stamford, Fairfield, Connecticut, United States of America
+1 RESIDENCE
+2 DATE BET 1900 AND 1905
+1 FAMILY_SPOUSE @F2@
+1 FAMILY_SPOUSE @F1@
+0 @I02@ INDIVIDUAL
+1 NAME Mary Ann /Wilson/
+1 SEX F
+1 BIRTH
+2 DATE BEF 1828
+2 PLACE Connecticut, United States of America
+1 FAMILY_SPOUSE @F1@
+0 @I03@ INDIVIDUAL
+1 NAME Joe /Williams/
+1 SEX M
+1 BIRTH
+2 DATE 11 JUN 1861
+2 PLACE Idaho Falls, Bonneville, Idaho, United States of America
+1 ADOPTION
+2 DATE 16 MAR 1864
+1 FAMILY_CHILD @F1@
+1 FAMILY_CHILD @F2@
+0 @F1@ FAMILY
+1 HUSBAND @I01@
+1 WIFE @I02@
+1 CHILD @I03@
+2 _FREL Adopted
+2 _MREL Adopted
+1 MARRIAGE
+2 DATE DEC 1859
+2 PLACE Rapid City, Pennington, South Dakota, United States of America
+0 @F2@ FAMILY
+1 HUSBAND @I01@
+1 CHILD @I03@
+2 _FREL Adopted
+2 _MREL Unknown
+0 @S1690@ SOURCE
+1 TITLE Madison County Birth, Death, and Marriage Records
+1 NOTE @NS16901@
+1 REPOSITORY
+2 NOTE @NS16903@
+2 CALL_NUMBER 13B-1234.01
+0 @NS16901@ NOTE ABBR Madison BMD Records
+0 @NS16903@ NOTE  
+1 CONTINUED NAME Family History Library
+1 CONTINUED ADDR 
+1 CONTINUED ADR1 35 N West Temple Street
+1 CONTINUED CITY Salt Lake City
+1 CONTINUED STAE Utah
+1 CONTINUED POST 84150
+1 CONTINUED CTRY United States of America
+0 TRAILER
