@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FFSignatureFile xmlns="http://www.nationalarchives.gov.uk/pronom/SignatureFile" Version="123126" DateCreated="2023-11-09T04:24:19+00:00">
+  <InternalSignatureCollection>
+  
+  <InternalSignature ID="10" Specificity="Specific">
+  <ByteSequence Reference="BOFoffset">
+    <SubSequence MinFragLength="4" Position="1" SubSeqMaxOffset="0" SubSeqMinOffset="0">
+      <Sequence>AB270000</Sequence>
+      <DefaultShift>5</DefaultShift>
+      <Shift Byte="AB">4</Shift>
+      <Shift Byte="27">3</Shift>
+      <Shift Byte="00">1</Shift>
+      <LeftFragment MaxOffset="1" MinOffset="1" Position="1">532700</LeftFragment>
+    </SubSequence>
+  </ByteSequence>
+</InternalSignature>
+
+  <InternalSignature ID="11" Specificity="Specific">
+  <ByteSequence Reference="BOFoffset">
+    <SubSequence MinFragLength="0" Position="1" SubSeqMaxOffset="0" SubSeqMinOffset="0">
+      <Sequence>11AB000013E80000</Sequence>
+      <DefaultShift>9</DefaultShift>
+      <Shift Byte="11">8</Shift>
+      <Shift Byte="AB">7</Shift>
+      <Shift Byte="00">1</Shift>
+      <Shift Byte="13">4</Shift>
+      <Shift Byte="E8">3</Shift>
+    </SubSequence>
+  </ByteSequence>
+</InternalSignature>
+
+  <InternalSignature ID="12" Specificity="Specific">
+  <ByteSequence Reference="BOFoffset">
+    <SubSequence MinFragLength="0" Position="1" SubSeqMaxOffset="0" SubSeqMinOffset="0">
+      <Sequence>08E7000058090100</Sequence>
+      <DefaultShift>9</DefaultShift>
+      <Shift Byte="08">8</Shift>
+      <Shift Byte="E7">7</Shift>
+      <Shift Byte="00">1</Shift>
+      <Shift Byte="58">4</Shift>
+      <Shift Byte="09">3</Shift>
+      <Shift Byte="01">2</Shift>
+    </SubSequence>
+  </ByteSequence>
+</InternalSignature>
+
+  <InternalSignature ID="20" Specificity="Specific">
+  <ByteSequence Reference="BOFoffset">
+    <SubSequence MinFragLength="0" Position="1" SubSeqMaxOffset="1" SubSeqMinOffset="1">
+      <Sequence>EC000008AB0800</Sequence>
+      <DefaultShift>8</DefaultShift>
+      <Shift Byte="EC">7</Shift>
+      <Shift Byte="00">1</Shift>
+      <Shift Byte="08">2</Shift>
+      <Shift Byte="AB">3</Shift>
+    </SubSequence>
+  </ByteSequence>
+</InternalSignature>
+
+  <InternalSignature ID="30" Specificity="Specific">
+  <ByteSequence Reference="BOFoffset">
+    <SubSequence MinFragLength="0" Position="1" SubSeqMaxOffset="1" SubSeqMinOffset="1">
+      <Sequence>ED000008AB0800</Sequence>
+      <DefaultShift>8</DefaultShift>
+      <Shift Byte="ED">7</Shift>
+      <Shift Byte="00">1</Shift>
+      <Shift Byte="08">2</Shift>
+      <Shift Byte="AB">3</Shift>
+    </SubSequence>
+  </ByteSequence>
+</InternalSignature>
+
+  <InternalSignature ID="40" Specificity="Specific">
+  <ByteSequence Reference="BOFoffset">
+    <SubSequence MinFragLength="0" Position="1" SubSeqMaxOffset="0" SubSeqMinOffset="0">
+      <Sequence>0900040040011000</Sequence>
+      <DefaultShift>9</DefaultShift>
+      <Shift Byte="09">8</Shift>
+      <Shift Byte="00">1</Shift>
+      <Shift Byte="04">6</Shift>
+      <Shift Byte="40">4</Shift>
+      <Shift Byte="01">3</Shift>
+      <Shift Byte="10">2</Shift>
+    </SubSequence>
+  </ByteSequence>
+</InternalSignature>
+
+  <InternalSignature ID="42" Specificity="Specific">
+  <ByteSequence Reference="BOFoffset">
+    <SubSequence MinFragLength="0" Position="1" SubSeqMaxOffset="1" SubSeqMinOffset="1">
+      <Sequence>EF4D50A4010000</Sequence>
+      <DefaultShift>8</DefaultShift>
+      <Shift Byte="EF">7</Shift>
+      <Shift Byte="4D">6</Shift>
+      <Shift Byte="50">5</Shift>
+      <Shift Byte="A4">4</Shift>
+      <Shift Byte="01">3</Shift>
+      <Shift Byte="00">1</Shift>
+    </SubSequence>
+  </ByteSequence>
+</InternalSignature>
+
+  <InternalSignature ID="101" Specificity="Specific">
+  <ByteSequence Reference="BOFoffset">
+    <SubSequence MinFragLength="4" Position="1" SubSeqMaxOffset="0" SubSeqMinOffset="0">
+      <Sequence>13E80000</Sequence>
+      <DefaultShift>5</DefaultShift>
+      <Shift Byte="13">4</Shift>
+      <Shift Byte="E8">3</Shift>
+      <Shift Byte="00">1</Shift>
+      <LeftFragment MaxOffset="1" MinOffset="1" Position="1">018C00</LeftFragment>
+    </SubSequence>
+  </ByteSequence>
+</InternalSignature>
+
+  <InternalSignature ID="102" Specificity="Specific">
+  <ByteSequence Reference="BOFoffset">
+    <SubSequence MinFragLength="0" Position="1" SubSeqMaxOffset="0" SubSeqMinOffset="0">
+      <Sequence>8D01000008AB0000</Sequence>
+      <DefaultShift>9</DefaultShift>
+      <Shift Byte="8D">8</Shift>
+      <Shift Byte="01">7</Shift>
+      <Shift Byte="00">1</Shift>
+      <Shift Byte="08">4</Shift>
+      <Shift Byte="AB">3</Shift>
+    </SubSequence>
+  </ByteSequence>
+</InternalSignature>
+
+  <InternalSignature ID="201" Specificity="Specific">
+  <ByteSequence Reference="BOFoffset">
+    <SubSequence MinFragLength="0" Position="1" SubSeqMaxOffset="0" SubSeqMinOffset="0">
+      <Sequence>8E01000008AB0000</Sequence>
+      <DefaultShift>9</DefaultShift>
+      <Shift Byte="8E">8</Shift>
+      <Shift Byte="01">7</Shift>
+      <Shift Byte="00">1</Shift>
+      <Shift Byte="08">4</Shift>
+      <Shift Byte="AB">3</Shift>
+    </SubSequence>
+  </ByteSequence>
+</InternalSignature>
+
+  <InternalSignature ID="301" Specificity="Specific">
+  <ByteSequence Reference="BOFoffset">
+    <SubSequence MinFragLength="0" Position="1" SubSeqMaxOffset="0" SubSeqMinOffset="0">
+      <Sequence>9001000008AB0000</Sequence>
+      <DefaultShift>9</DefaultShift>
+      <Shift Byte="90">8</Shift>
+      <Shift Byte="01">7</Shift>
+      <Shift Byte="00">1</Shift>
+      <Shift Byte="08">4</Shift>
+      <Shift Byte="AB">3</Shift>
+    </SubSequence>
+  </ByteSequence>
+</InternalSignature>
+
+  <InternalSignature ID="21" Specificity="Specific">
+  <ByteSequence Reference="BOFoffset">
+    <SubSequence MinFragLength="0" Position="1" SubSeqMaxOffset="0" SubSeqMinOffset="0">
+      <Sequence>0900040000000001</Sequence>
+      <DefaultShift>9</DefaultShift>
+      <Shift Byte="09">8</Shift>
+      <Shift Byte="00">2</Shift>
+      <Shift Byte="04">6</Shift>
+      <Shift Byte="01">1</Shift>
+    </SubSequence>
+  </ByteSequence>
+</InternalSignature>
+
+        <InternalSignature ID="603" Specificity="Specific">
+  <ByteSequence Reference="BOFoffset">
+    <SubSequence MinFragLength="0" Position="1" SubSeqMaxOffset="0" SubSeqMinOffset="0">
+      <Sequence>49443B50</Sequence>
+      <DefaultShift>5</DefaultShift>
+      <Shift Byte="49">4</Shift>
+      <Shift Byte="44">3</Shift>
+      <Shift Byte="3B">2</Shift>
+      <Shift Byte="50">1</Shift>
+    </SubSequence>
+  </ByteSequence>
+  <ByteSequence Reference="EOFoffset">
+    <SubSequence MinFragLength="1" Position="1" SubSeqMaxOffset="0" SubSeqMinOffset="0">
+      <Sequence>45</Sequence>
+      <DefaultShift>-2</DefaultShift>
+      <Shift Byte="45">-1</Shift>
+      <LeftFragment MaxOffset="0" MinOffset="0" Position="1">0D</LeftFragment>
+      <LeftFragment MaxOffset="0" MinOffset="0" Position="1">0D0A</LeftFragment>
+      <LeftFragment MaxOffset="0" MinOffset="0" Position="1">0A</LeftFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="1">0D</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="1">0D0A</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="1">0A</RightFragment>
+    </SubSequence>
+  </ByteSequence>
+        </InternalSignature>
+        
+                <InternalSignature ID="72" Specificity="Specific">
+            <ByteSequence Reference="BOFoffset">
+                <SubSequence MinFragLength="0" Position="1"
+                    SubSeqMaxOffset="0" SubSeqMinOffset="0">
+                    <Sequence>09000400</Sequence>
+                    <DefaultShift>5</DefaultShift>
+                    <Shift Byte="00">1</Shift>
+                    <Shift Byte="04">2</Shift>
+                    <Shift Byte="09">4</Shift>
+                    <RightFragment MaxOffset="2" MinOffset="2" Position="1">1000</RightFragment>
+                </SubSequence>
+            </ByteSequence>
+        </InternalSignature>
+        <InternalSignature ID="73" Specificity="Specific">
+            <ByteSequence Reference="BOFoffset">
+                <SubSequence MinFragLength="0" Position="1"
+                    SubSeqMaxOffset="0" SubSeqMinOffset="0">
+                    <Sequence>09020600</Sequence>
+                    <DefaultShift>5</DefaultShift>
+                    <Shift Byte="00">1</Shift>
+                    <Shift Byte="02">3</Shift>
+                    <Shift Byte="06">2</Shift>
+                    <Shift Byte="09">4</Shift>
+                    <RightFragment MaxOffset="2" MinOffset="2" Position="1">1000</RightFragment>
+                </SubSequence>
+            </ByteSequence>
+        </InternalSignature>
+        <InternalSignature ID="74" Specificity="Specific">
+            <ByteSequence Reference="BOFoffset">
+                <SubSequence MinFragLength="0" Position="1"
+                    SubSeqMaxOffset="0" SubSeqMinOffset="0">
+                    <Sequence>09040600</Sequence>
+                    <DefaultShift>5</DefaultShift>
+                    <Shift Byte="00">1</Shift>
+                    <Shift Byte="04">3</Shift>
+                    <Shift Byte="06">2</Shift>
+                    <Shift Byte="09">4</Shift>
+                    <RightFragment MaxOffset="2" MinOffset="2" Position="1">1000</RightFragment>
+                </SubSequence>
+            </ByteSequence>
+        </InternalSignature>
+        <InternalSignature ID="75" Specificity="Specific">
+            <ByteSequence Reference="BOFoffset">
+                <SubSequence MinFragLength="0" Position="1"
+                    SubSeqMaxOffset="0" SubSeqMinOffset="0">
+                    <Sequence>09040600</Sequence>
+                    <DefaultShift>5</DefaultShift>
+                    <Shift Byte="00">1</Shift>
+                    <Shift Byte="04">3</Shift>
+                    <Shift Byte="06">2</Shift>
+                    <Shift Byte="09">4</Shift>
+                    <RightFragment MaxOffset="0" MinOffset="0" Position="1">0000</RightFragment>
+                    <RightFragment MaxOffset="0" MinOffset="0" Position="1">0004</RightFragment>
+                    <RightFragment MaxOffset="0" MinOffset="0" Position="2">0001</RightFragment>
+                </SubSequence>
+            </ByteSequence>
+        </InternalSignature>
+        
+                <InternalSignature ID="874" Specificity="Specific">
+            <ByteSequence Reference="BOFoffset">
+                <SubSequence MinFragLength="0" Position="1"
+                    SubSeqMaxOffset="0" SubSeqMinOffset="0">
+                    <Sequence>09000400</Sequence>
+                    <DefaultShift>5</DefaultShift>
+                    <Shift Byte="00">1</Shift>
+                    <Shift Byte="04">2</Shift>
+                    <Shift Byte="09">4</Shift>
+                    <RightFragment MaxOffset="2" MinOffset="2" Position="1">2000</RightFragment>
+                </SubSequence>
+            </ByteSequence>
+        </InternalSignature>
+        
+                <InternalSignature ID="877" Specificity="Specific">
+            <ByteSequence Reference="BOFoffset">
+                <SubSequence MinFragLength="0" Position="1"
+                    SubSeqMaxOffset="0" SubSeqMinOffset="0">
+                    <Sequence>09000400</Sequence>
+                    <DefaultShift>5</DefaultShift>
+                    <Shift Byte="00">1</Shift>
+                    <Shift Byte="04">2</Shift>
+                    <Shift Byte="09">4</Shift>
+                    <RightFragment MaxOffset="2" MinOffset="2" Position="1">4000</RightFragment>
+                </SubSequence>
+            </ByteSequence>
+        </InternalSignature>
+
+</InternalSignatureCollection>
+<FileFormatCollection>
+
+  <FileFormat ID="10" Name="Microsoft Excel Worksheet For Macintosh" PUID="BYUdev/10" Version="1.x" MIMEType="application/vnd.ms-excel">
+    <InternalSignatureID>10</InternalSignatureID>
+    <Extension>xls</Extension>
+  </FileFormat>
+  
+    <FileFormat ID="11" Name="Microsoft Multiplan for Macintosh" PUID="BYUdev/11" Version="1.x">
+    <InternalSignatureID>11</InternalSignatureID>
+    <Extension>mod</Extension>
+  </FileFormat>
+  
+    <FileFormat ID="12" Name="Microsoft Multiplan" PUID="BYUdev/12" Version="1.x">
+    <InternalSignatureID>12</InternalSignatureID>
+    <Extension>mod</Extension>
+  </FileFormat>
+  
+    <FileFormat ID="20" Name="Microsoft Multiplan" PUID="BYUdev/20" Version="2.x">
+    <InternalSignatureID>20</InternalSignatureID>
+    <Extension>mod</Extension>
+  </FileFormat>
+  
+    <FileFormat ID="30" Name="Microsoft Multiplan" PUID="BYUdev/30" Version="3.x">
+    <InternalSignatureID>30</InternalSignatureID>
+    <Extension>mod</Extension>
+  </FileFormat>
+  
+    <FileFormat ID="889" Name="Microsoft Multiplan" PUID="fmt/162" Version="4.0">
+    <InternalSignatureID>40</InternalSignatureID>
+    <Extension>mod</Extension>
+    <HasPriorityOverFileFormatID>678</HasPriorityOverFileFormatID>
+  </FileFormat>
+  
+    <FileFormat ID="42" Name="Microsoft Multiplan" PUID="BYUdev/42" Version="4.2">
+    <InternalSignatureID>42</InternalSignatureID>
+    <Extension>mod</Extension>
+  </FileFormat>
+  
+    <FileFormat ID="101" Name="Microsoft Chart for Macintosh" PUID="BYUdev/101" Version="1">
+    <InternalSignatureID>101</InternalSignatureID>
+    <Extension>mc</Extension>
+  </FileFormat>
+  
+    <FileFormat ID="102" Name="Microsoft Chart" PUID="BYUdev/102" Version="1">
+    <InternalSignatureID>102</InternalSignatureID>
+    <Extension>mc</Extension>
+  </FileFormat>
+  
+    <FileFormat ID="201" Name="Microsoft Chart" PUID="BYUdev/201" Version="2">
+    <InternalSignatureID>201</InternalSignatureID>
+    <Extension>mc</Extension>
+  </FileFormat>
+  
+    <FileFormat ID="301" Name="Microsoft Chart" PUID="BYUdev/301" Version="3">
+    <InternalSignatureID>301</InternalSignatureID>
+    <Extension>mc</Extension>
+  </FileFormat>
+  
+                <FileFormat ID="186" Name="Microsoft Excel Workspace File" PUID="x-fmt/128">
+                    <InternalSignatureID>21</InternalSignatureID>
+            <Extension>xlw</Extension>
+        </FileFormat>
+  
+          <FileFormat ID="154" Name="Microsoft Symbolic Link (SYLK) File" PUID="x-fmt/106">
+            <InternalSignatureID>603</InternalSignatureID>
+            <Extension>slk</Extension>
+        </FileFormat>
+        
+                <FileFormat ID="678" MIMEType="application/vnd.ms-excel"
+            Name="Microsoft Excel 2.x Worksheet (xls)" PUID="fmt/55" Version="2">
+            <InternalSignatureID>72</InternalSignatureID>
+            <Extension>xls</Extension>
+        </FileFormat>
+                <FileFormat ID="679" MIMEType="application/vnd.ms-excel"
+            Name="Microsoft Excel 3.0 Worksheet (xls)" PUID="fmt/56" Version="3">
+            <InternalSignatureID>73</InternalSignatureID>
+            <Extension>xls</Extension>
+        </FileFormat>
+                <FileFormat ID="680" MIMEType="application/vnd.ms-excel"
+            Name="Microsoft Excel 4.0 Worksheet (xls)" PUID="fmt/57" Version="4S">
+            <InternalSignatureID>74</InternalSignatureID>
+            <Extension>xls</Extension>
+        </FileFormat>
+        <FileFormat ID="681" MIMEType="application/vnd.ms-excel"
+            Name="Microsoft Excel 4.0 Workbook (xls)" PUID="fmt/58" Version="4W">
+            <InternalSignatureID>75</InternalSignatureID>
+            <Extension>xlw</Extension>
+        </FileFormat>
+                <FileFormat ID="1343" MIMEType="application/vnd.ms-excel"
+            Name="Microsoft Excel Macro" PUID="fmt/555" Version="2.x">
+            <InternalSignatureID>877</InternalSignatureID>
+            <Extension>xlm</Extension>
+        </FileFormat>
+          <FileFormat ID="1341" MIMEType="application/vnd.ms-excel"
+            Name="Microsoft Excel Chart" PUID="fmt/553" Version="2.x">
+            <InternalSignatureID>874</InternalSignatureID>
+            <Extension>xlc</Extension>
+        </FileFormat>
+  
+</FileFormatCollection></FFSignatureFile>
