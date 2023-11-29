@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FFSignatureFile xmlns="http://www.nationalarchives.gov.uk/pronom/SignatureFile" Version="555559" DateCreated="2023-11-27T05:36:37+00:00">
+  <InternalSignatureCollection>
+  
+  <InternalSignature ID="1" Specificity="Specific">
+  <ByteSequence Reference="BOFoffset">
+    <SubSequence MinFragLength="2" Position="1" SubSeqMaxOffset="0" SubSeqMinOffset="0">
+      <Sequence>C800</Sequence>
+      <DefaultShift>3</DefaultShift>
+      <Shift Byte="C8">2</Shift>
+      <Shift Byte="00">1</Shift>
+      <LeftFragment MaxOffset="0" MinOffset="0" Position="1">AF</LeftFragment>
+      <LeftFragment MaxOffset="0" MinOffset="0" Position="1">FF</LeftFragment>
+      <LeftFragment MaxOffset="0" MinOffset="0" Position="1">FC</LeftFragment>
+      <LeftFragment MaxOffset="0" MinOffset="0" Position="2">5B</LeftFragment>
+      <LeftFragment MaxOffset="0" MinOffset="0" Position="2">5D</LeftFragment>
+    </SubSequence>
+  </ByteSequence>
+</InternalSignature>
+
+  <InternalSignature ID="2" Specificity="Specific">
+  <ByteSequence Reference="BOFoffset">
+    <SubSequence MinFragLength="2" Position="1" SubSeqMaxOffset="0" SubSeqMinOffset="0">
+      <Sequence>9001</Sequence>
+      <DefaultShift>3</DefaultShift>
+      <Shift Byte="90">2</Shift>
+      <Shift Byte="01">1</Shift>
+      <LeftFragment MaxOffset="0" MinOffset="0" Position="1">AF</LeftFragment>
+      <LeftFragment MaxOffset="0" MinOffset="0" Position="1">FF</LeftFragment>
+      <LeftFragment MaxOffset="0" MinOffset="0" Position="1">FC</LeftFragment>
+      <LeftFragment MaxOffset="0" MinOffset="0" Position="2">5B</LeftFragment>
+      <LeftFragment MaxOffset="0" MinOffset="0" Position="2">5D</LeftFragment>
+    </SubSequence>
+  </ByteSequence>
+</InternalSignature>
+
+  <InternalSignature ID="3" Specificity="Specific">
+  <ByteSequence Reference="BOFoffset">
+    <SubSequence MinFragLength="0" Position="1" SubSeqMaxOffset="0" SubSeqMinOffset="0">
+      <Sequence>2576736D250000</Sequence>
+      <DefaultShift>8</DefaultShift>
+      <Shift Byte="25">3</Shift>
+      <Shift Byte="76">6</Shift>
+      <Shift Byte="73">5</Shift>
+      <Shift Byte="6D">4</Shift>
+      <Shift Byte="00">1</Shift>
+    </SubSequence>
+  </ByteSequence>
+</InternalSignature>
+
+  <InternalSignature ID="4" Specificity="Specific">
+  <ByteSequence Reference="BOFoffset">
+    <SubSequence MinFragLength="0" Position="1" SubSeqMaxOffset="0" SubSeqMinOffset="0">
+      <Sequence>25567034250100</Sequence>
+      <DefaultShift>8</DefaultShift>
+      <Shift Byte="25">3</Shift>
+      <Shift Byte="56">6</Shift>
+      <Shift Byte="70">5</Shift>
+      <Shift Byte="34">4</Shift>
+      <Shift Byte="01">2</Shift>
+      <Shift Byte="00">1</Shift>
+    </SubSequence>
+  </ByteSequence>
+</InternalSignature>
+
+  <InternalSignature ID="5" Specificity="Specific">
+  <ByteSequence Reference="BOFoffset">
+    <SubSequence MinFragLength="0" Position="1" SubSeqMaxOffset="0" SubSeqMinOffset="0">
+      <Sequence>456D62726F6964657279206469736B2063726561746564207573696E6720736F667477617265206C6963656E7365642066726F6D2056696B696E6720536577696E67204D616368696E65732041422C2053776564656E</Sequence>
+      <DefaultShift>87</DefaultShift>
+      <Shift Byte="45">86</Shift>
+      <Shift Byte="6D">35</Shift>
+      <Shift Byte="62">84</Shift>
+      <Shift Byte="72">37</Shift>
+      <Shift Byte="6F">36</Shift>
+      <Shift Byte="69">15</Shift>
+      <Shift Byte="64">3</Shift>
+      <Shift Byte="65">2</Shift>
+      <Shift Byte="79">77</Shift>
+      <Shift Byte="20">7</Shift>
+      <Shift Byte="73">12</Shift>
+      <Shift Byte="6B">31</Shift>
+      <Shift Byte="63">17</Shift>
+      <Shift Byte="61">18</Shift>
+      <Shift Byte="74">53</Shift>
+      <Shift Byte="75">62</Shift>
+      <Shift Byte="6E">1</Shift>
+      <Shift Byte="67">21</Shift>
+      <Shift Byte="66">38</Shift>
+      <Shift Byte="77">5</Shift>
+      <Shift Byte="6C">47</Shift>
+      <Shift Byte="56">33</Shift>
+      <Shift Byte="53">6</Shift>
+      <Shift Byte="4D">19</Shift>
+      <Shift Byte="68">16</Shift>
+      <Shift Byte="41">10</Shift>
+      <Shift Byte="42">9</Shift>
+      <Shift Byte="2C">8</Shift>
+    </SubSequence>
+  </ByteSequence>
+</InternalSignature>
+
+</InternalSignatureCollection>
+<FileFormatCollection>
+
+  <FileFormat ID="1" Name="Husqvarna Embroidery Stitch File" PUID="BYUdev/1">
+    <InternalSignatureID>1</InternalSignatureID>
+    <Extension>hus</Extension>
+  </FileFormat>
+  
+    <FileFormat ID="2" Name="Husqvarna / Pfaff Embroidery Stitch File" PUID="BYUdev/2">
+    <InternalSignatureID>2</InternalSignatureID>
+    <Extension>vip</Extension>
+  </FileFormat>
+  
+    <FileFormat ID="3" Name="Husqvarna / TruE Embroidery Stitch File" PUID="BYUdev/3">
+    <InternalSignatureID>3</InternalSignatureID>
+    <Extension>vp3</Extension>
+  </FileFormat>
+  
+    <FileFormat ID="4" Name="Husqvarna / Premier+ Embroidery Stitch File" PUID="BYUdev/4">
+    <InternalSignatureID>4</InternalSignatureID>
+    <Extension>vp4</Extension>
+  </FileFormat>
+  
+    <FileFormat ID="5" Name="Husqvarna-Viking Designer 1 Stitch File" PUID="BYUdev/5">
+    <InternalSignatureID>5</InternalSignatureID>
+    <Extension>shv</Extension>
+  </FileFormat>
+  
+</FileFormatCollection></FFSignatureFile>
