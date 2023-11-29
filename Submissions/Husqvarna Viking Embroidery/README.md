@@ -1,6 +1,7 @@
 # Husqvarna Viking Embroidery Formats
 - http://fileformats.archiveteam.org/wiki/HUS
 - http://fileformats.archiveteam.org/wiki/SHV
+- http://fileformats.archiveteam.org/wiki/VIP
 
 ## *New Signatures*
 
