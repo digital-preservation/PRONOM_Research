@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FFSignatureFile xmlns="http://www.nationalarchives.gov.uk/pronom/SignatureFile" Version="767676" DateCreated="2023-12-08T06:23:26+00:00">
+  <InternalSignatureCollection>
+  <InternalSignature ID="1" Specificity="Specific">
+  <ByteSequence Reference="BOFoffset">
+    <SubSequence MinFragLength="0" Position="1" SubSeqMaxOffset="7" SubSeqMinOffset="7">
+      <Sequence>434F4D2D45534551</Sequence>
+      <DefaultShift>9</DefaultShift>
+      <Shift Byte="43">8</Shift>
+      <Shift Byte="4F">7</Shift>
+      <Shift Byte="4D">6</Shift>
+      <Shift Byte="2D">5</Shift>
+      <Shift Byte="45">2</Shift>
+      <Shift Byte="53">3</Shift>
+      <Shift Byte="51">1</Shift>
+    </SubSequence>
+  </ByteSequence>
+</InternalSignature>
+</InternalSignatureCollection>
+<FileFormatCollection>
+  <FileFormat ID="1" Name="Disklavier E-SEQ music file" PUID="CHLdev/1">
+    <InternalSignatureID>1</InternalSignatureID>
+    <Extension>fil</Extension>
+  </FileFormat>
+</FileFormatCollection></FFSignatureFile>
