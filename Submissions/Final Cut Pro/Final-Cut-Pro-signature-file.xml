@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FFSignatureFile xmlns="http://www.nationalarchives.gov.uk/pronom/SignatureFile" Version="1234567" DateCreated="2023-12-14T05:45:55+00:00">
+  <InternalSignatureCollection>
+  
+  <InternalSignature ID="1" Specificity="Specific">
+  <ByteSequence Reference="BOFoffset">
+    <SubSequence MinFragLength="0" Position="1" SubSeqMaxOffset="0" SubSeqMinOffset="0">
+      <Sequence>A24B657947</Sequence>
+      <DefaultShift>6</DefaultShift>
+      <Shift Byte="A2">5</Shift>
+      <Shift Byte="4B">4</Shift>
+      <Shift Byte="65">3</Shift>
+      <Shift Byte="79">2</Shift>
+      <Shift Byte="47">1</Shift>
+    </SubSequence>
+  </ByteSequence>
+</InternalSignature>
+
+  <InternalSignature ID="2" Specificity="Specific">
+  <ByteSequence Reference="BOFoffset">
+    <SubSequence MinFragLength="0" Position="1" SubSeqMaxOffset="0" SubSeqMinOffset="0">
+      <Sequence>3C3F786D6C2076657273696F6E3D</Sequence>
+      <DefaultShift>15</DefaultShift>
+      <Shift Byte="3C">14</Shift>
+      <Shift Byte="3F">13</Shift>
+      <Shift Byte="78">12</Shift>
+      <Shift Byte="6D">11</Shift>
+      <Shift Byte="6C">10</Shift>
+      <Shift Byte="20">9</Shift>
+      <Shift Byte="76">8</Shift>
+      <Shift Byte="65">7</Shift>
+      <Shift Byte="72">6</Shift>
+      <Shift Byte="73">5</Shift>
+      <Shift Byte="69">4</Shift>
+      <Shift Byte="6F">3</Shift>
+      <Shift Byte="6E">2</Shift>
+      <Shift Byte="3D">1</Shift>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="1">22</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="1">27</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="2">312E30</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="3">22</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="3">27</RightFragment>
+      <RightFragment MaxOffset="128" MinOffset="0" Position="4">786D656D6C</RightFragment>
+    </SubSequence>
+  </ByteSequence>
+</InternalSignature>
+
+  <InternalSignature ID="3" Specificity="Specific">
+  <ByteSequence Reference="BOFoffset">
+    <SubSequence MinFragLength="0" Position="1" SubSeqMaxOffset="0" SubSeqMinOffset="0">
+      <Sequence>3C3F786D6C2076657273696F6E3D</Sequence>
+      <DefaultShift>15</DefaultShift>
+      <Shift Byte="3C">14</Shift>
+      <Shift Byte="3F">13</Shift>
+      <Shift Byte="78">12</Shift>
+      <Shift Byte="6D">11</Shift>
+      <Shift Byte="6C">10</Shift>
+      <Shift Byte="20">9</Shift>
+      <Shift Byte="76">8</Shift>
+      <Shift Byte="65">7</Shift>
+      <Shift Byte="72">6</Shift>
+      <Shift Byte="73">5</Shift>
+      <Shift Byte="69">4</Shift>
+      <Shift Byte="6F">3</Shift>
+      <Shift Byte="6E">2</Shift>
+      <Shift Byte="3D">1</Shift>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="1">22</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="1">27</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="2">312E30</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="3">22</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="3">27</RightFragment>
+      <RightFragment MaxOffset="128" MinOffset="0" Position="4">666370786D6C</RightFragment>
+    </SubSequence>
+  </ByteSequence>
+</InternalSignature>
+
+</InternalSignatureCollection>
+<FileFormatCollection>
+
+  <FileFormat ID="1" Name="Final Cut Pro Project" PUID="CHLdev/1">
+    <InternalSignatureID>1</InternalSignatureID>
+    <Extension>fcp</Extension>
+  </FileFormat>
+  
+    <FileFormat ID="2" Name="Final Cut Pro XML Interchange Format" PUID="CHLdev/2">
+    <InternalSignatureID>2</InternalSignatureID>
+    <Extension>xml</Extension>
+  </FileFormat>
+  
+    <FileFormat ID="3" Name="FCPXML Interchange Format" PUID="CHLdev/3">
+    <InternalSignatureID>3</InternalSignatureID>
+    <Extension>fcpxml</Extension>
+  </FileFormat>
+  
+</FileFormatCollection></FFSignatureFile>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE fcpxml>
+
+<fcpxml version="1.8">
+    <resources>
+        <format id="r1" name="FFVideoFormatDV720x480i5994" frameDuration="2002/60000s" fieldOrder="lower first" width="720" height="480" paspH="10" paspV="11" colorSpace="6-1-6 (Rec. 601 (NTSC))"/>
+    </resources>
+    <library location="file:///Users/tyler/Movies/Untitled.fcpbundle/">
+        <event name="2-2-21" uid="D73B826B-758C-41EF-AA87-A28678ADDB06">
+            <project name="FinalCutProX10.4" uid="27C23240-333D-42CB-8C5B-681A08F97C7D" modDate="2021-02-06 19:33:04 -0700">
+                <sequence duration="0s" format="r1" tcStart="0s" tcFormat="DF" audioLayout="stereo" audioRate="48k">
+                    <spine/>
+                </sequence>
+            </project>
+        </event>
+        <smart-collection name="Projects" match="all">
+            <match-clip rule="is" type="project"/>
+        </smart-collection>
+        <smart-collection name="All Video" match="any">
+            <match-media rule="is" type="videoOnly"/>
+            <match-media rule="is" type="videoWithAudio"/>
+        </smart-collection>
+        <smart-collection name="Audio Only" match="all">
+            <match-media rule="is" type="audioOnly"/>
+        </smart-collection>
+        <smart-collection name="Stills" match="all">
+            <match-media rule="is" type="stills"/>
+        </smart-collection>
+        <smart-collection name="Favorites" match="all">
+            <match-ratings value="favorites"/>
+        </smart-collection>
+    </library>
+</fcpxml>
