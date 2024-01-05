@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FFSignatureFile xmlns="http://www.nationalarchives.gov.uk/pronom/SignatureFile" Version="162512" DateCreated="2023-11-22T07:05:12+00:00">
+  <InternalSignatureCollection>
+  <InternalSignature ID="1" Specificity="Specific">
+  <ByteSequence Reference="BOFoffset">
+    <SubSequence MinFragLength="0" Position="1" SubSeqMaxOffset="6" SubSeqMinOffset="6">
+      <Sequence>5F564F435F46696C65</Sequence>
+      <DefaultShift>10</DefaultShift>
+      <Shift Byte="5F">5</Shift>
+      <Shift Byte="56">8</Shift>
+      <Shift Byte="4F">7</Shift>
+      <Shift Byte="43">6</Shift>
+      <Shift Byte="46">4</Shift>
+      <Shift Byte="69">3</Shift>
+      <Shift Byte="6C">2</Shift>
+      <Shift Byte="65">1</Shift>
+    </SubSequence>
+  </ByteSequence>
+</InternalSignature>
+</InternalSignatureCollection>
+<FileFormatCollection>
+  <FileFormat ID="1" Name="RCA VOC" PUID="BYUdev/1">
+    <InternalSignatureID>1</InternalSignatureID>
+    <Extension>voc</Extension>
+  </FileFormat>
+</FileFormatCollection></FFSignatureFile>

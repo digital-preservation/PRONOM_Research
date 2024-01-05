@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xmeml>
+<xmeml version="5">
+<clip id="Screen Recording">
+	<uuid>25FAB7E0-4D7D-44F8-BCF3-E29C6C17EAFE</uuid>
+	<updatebehavior>add</updatebehavior>
+	<name>Screen Recording</name>
+	<duration>379</duration>
+	<rate>
+		<ntsc>FALSE</ntsc>
+		<timebase>60</timebase>
+	</rate>
+	<in>-1</in>
+	<out>-1</out>
+	<masterclipid>Screen Recording</masterclipid>
+	<ismasterclip>TRUE</ismasterclip>
+	<logginginfo>
+		<scene/>
+		<shottake/>
+		<lognote/>
+		<good>FALSE</good>
+	</logginginfo>
+	<labels>
+		<label>Best Take</label>
+		<label2/>
+	</labels>
+	<comments>
+		<mastercomment1/>
+		<mastercomment2/>
+		<mastercomment3/>
+		<mastercomment4/>
+	</comments>
+	<media>
+		<video>
+			<track>
+				<clipitem id="Screen Recording1">
+					<name>Screen Recording</name>
+					<duration>379</duration>
+					<rate>
+						<ntsc>FALSE</ntsc>
+						<timebase>60</timebase>
+					</rate>
+					<in>0</in>
+					<out>379</out>
+					<start>0</start>
+					<end>379</end>
+					<pixelaspectratio>Square</pixelaspectratio>
+					<anamorphic>FALSE</anamorphic>
+					<alphatype>none</alphatype>
+					<masterclipid>Screen Recording</masterclipid>
+					<logginginfo>
+						<scene/>
+						<shottake/>
+						<lognote/>
+						<good>FALSE</good>
+					</logginginfo>
+					<labels>
+						<label>Best Take</label>
+						<label2/>
+					</labels>
+					<comments>
+						<mastercomment1/>
+						<mastercomment2/>
+						<mastercomment3/>
+						<mastercomment4/>
+					</comments>
+					<file id="Screen Recording2">
+						<name>Screen Recording.mov</name>
+						<pathurl>file://localhost/Users/tyler/Movies/Screen%20Recording.mov</pathurl>
+						<rate>
+							<timebase>60</timebase>
+						</rate>
+						<duration>379</duration>
+						<metadata>
+							<storage>QuickTime</storage>
+							<key>com.apple.quicktime.model</key>
+							<size>13</size>
+							<type>UTF8</type>
+							<value>MacBookPro9,1</value>
+						</metadata>
+						<metadata>
+							<storage>QuickTime</storage>
+							<key>com.apple.quicktime.software</key>
+							<size>23</size>
+							<type>UTF8</type>
+							<value>Mac OS X 10.7.5 (11G63)</value>
+						</metadata>
+						<metadata>
+							<storage>QuickTime</storage>
+							<key>com.apple.quicktime.make</key>
+							<size>5</size>
+							<type>UTF8</type>
+							<value>Apple</value>
+						</metadata>
+						<metadata>
+							<storage>QuickTime</storage>
+							<key>com.apple.quicktime.creationdate</key>
+							<size>24</size>
+							<type>UTF8</type>
+							<value>2023-12-13T19:54:44-0700</value>
+						</metadata>
+						<media>
+							<video>
+								<duration>379</duration>
+								<samplecharacteristics>
+									<width>1440</width>
+									<height>900</height>
+								</samplecharacteristics>
+							</video>
+						</media>
+					</file>
+					<sourcetrack>
+						<mediatype>video</mediatype>
+					</sourcetrack>
+					<fielddominance>none</fielddominance>
+					<itemhistory>
+						<uuid>FF906A63-40D6-4FE3-A82C-09C5E36BF925</uuid>
+					</itemhistory>
+				</clipitem>
+				<enabled>TRUE</enabled>
+				<locked>FALSE</locked>
+			</track>
+		</video>
+	</media>
+</clip>
+</xmeml>
+
+

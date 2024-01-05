@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<ContainerSignatureMapping schemaVersion="1.0" signatureVersion="421425"> 
+    <ContainerSignatures>
+    
+        <ContainerSignature Id="17010" ContainerType="OLE2">
+      <Description>Microsoft PhotoDraw</Description>
+      <Files>
+        <File>
+          <Path>CompObj</Path>
+          <BinarySignatures>
+            <InternalSignatureCollection>
+              <InternalSignature ID="17010">
+                <ByteSequence Reference="BOFoffset">
+                  <SubSequence Position="1" SubSeqMinOffset="32"
+                               SubSeqMaxOffset="32">
+                    <Sequence>'Microsoft PhotoDraw version 1 Picture'</Sequence>
+                  </SubSequence>
+                </ByteSequence>
+              </InternalSignature>
+            </InternalSignatureCollection>
+          </BinarySignatures>
+        </File>
+      </Files>
+    </ContainerSignature>
+    
+        <ContainerSignature Id="17011" ContainerType="OLE2">
+      <Description>Microsoft PhotoDraw</Description>
+      <Files>
+        <File>
+          <Path>CompObj</Path>
+          <BinarySignatures>
+            <InternalSignatureCollection>
+              <InternalSignature ID="17010">
+                <ByteSequence Reference="BOFoffset">
+                  <SubSequence Position="1" SubSeqMinOffset="32"
+                               SubSeqMaxOffset="32">
+                    <Sequence>'Microsoft PhotoDraw version 2 Picture'</Sequence>
+                  </SubSequence>
+                </ByteSequence>
+              </InternalSignature>
+            </InternalSignatureCollection>
+          </BinarySignatures>
+        </File>
+      </Files>
+    </ContainerSignature>
+    
+        <ContainerSignature Id="17000" ContainerType="OLE2">
+      <Description>Kodak FlashPix Image</Description>
+      <Files>
+        <File>
+          <Path>CompObj</Path>
+          <BinarySignatures>
+            <InternalSignatureCollection>
+              <InternalSignature ID="17000">
+                <ByteSequence Reference="BOFoffset">
+                  <SubSequence Position="1" SubSeqMinOffset="12"
+                               SubSeqMaxOffset="64">
+                    <Sequence>'FlashPix Object'</Sequence>
+                  </SubSequence>
+                </ByteSequence>
+              </InternalSignature>
+            </InternalSignatureCollection>
+          </BinarySignatures>
+        </File>
+      </Files>
+    </ContainerSignature>
+
+    <ContainerSignature Id="17005" ContainerType="OLE2">
+      <Description>Kodak FlashPix Image</Description>
+      <Files>
+        <File>
+          <Path>CompObj</Path>
+          <BinarySignatures>
+            <InternalSignatureCollection>
+              <InternalSignature ID="17005">
+                <ByteSequence Reference="BOFoffset">
+                  <SubSequence Position="1" SubSeqMinOffset="12"
+                               SubSeqMaxOffset="64">
+                    <Sequence>'56616700-C154-11CE-8553-00AA00A1F95B'</Sequence>
+                  </SubSequence>
+                </ByteSequence>
+              </InternalSignature>
+            </InternalSignatureCollection>
+          </BinarySignatures>
+        </File>
+      </Files>
+    </ContainerSignature>
+
+    <ContainerSignature Id="17015" ContainerType="OLE2">
+      <Description>Microsoft Picture It! Image File</Description>
+      <Files>
+        <File>
+          <Path>CompObj</Path>
+          <BinarySignatures>
+            <InternalSignatureCollection>
+              <InternalSignature ID="17015">
+                <ByteSequence Reference="BOFoffset">
+                  <SubSequence Position="1" SubSeqMinOffset="32"
+                               SubSeqMaxOffset="32">
+                    <Sequence>'Microsoft Picture It! version 1 Picture'</Sequence>
+                  </SubSequence>
+                </ByteSequence>
+              </InternalSignature>
+            </InternalSignatureCollection>
+          </BinarySignatures>
+        </File>
+      </Files>
+    </ContainerSignature>
+    
+        <ContainerSignature Id="17016" ContainerType="OLE2">
+      <Description>Microsoft Picture It! Image File</Description>
+      <Files>
+        <File>
+          <Path>CompObj</Path>
+          <BinarySignatures>
+            <InternalSignatureCollection>
+              <InternalSignature ID="17015">
+                <ByteSequence Reference="BOFoffset">
+                  <SubSequence Position="1" SubSeqMinOffset="32"
+                               SubSeqMaxOffset="48">
+                    <Sequence>'Picture It!'</Sequence>
+                  </SubSequence>
+                </ByteSequence>
+              </InternalSignature>
+            </InternalSignatureCollection>
+          </BinarySignatures>
+        </File>
+      </Files>
+    </ContainerSignature>
+    
+        <ContainerSignature Id="17017" ContainerType="OLE2">
+      <Description>Microsoft Picture It! Image File</Description>
+      <Files>
+        <File>
+          <Path>CompObj</Path>
+          <BinarySignatures>
+            <InternalSignatureCollection>
+              <InternalSignature ID="17015">
+                <ByteSequence Reference="BOFoffset">
+                  <SubSequence Position="1" SubSeqMinOffset="32"
+                               SubSeqMaxOffset="32">
+                    <Sequence>'Microsoft Picture It! version 2 Picture'</Sequence>
+                  </SubSequence>
+                </ByteSequence>
+              </InternalSignature>
+            </InternalSignatureCollection>
+          </BinarySignatures>
+        </File>
+      </Files>
+    </ContainerSignature>
+    
+            <ContainerSignature Id="17018" ContainerType="OLE2">
+      <Description>Microsoft Picture It! Image File</Description>
+      <Files>
+        <File>
+          <Path>CompObj</Path>
+          <BinarySignatures>
+            <InternalSignatureCollection>
+              <InternalSignature ID="17015">
+                <ByteSequence Reference="BOFoffset">
+                  <SubSequence Position="1" SubSeqMinOffset="32"
+                               SubSeqMaxOffset="32">
+                    <Sequence>'Microsoft Picture It! version 3 Picture'</Sequence>
+                  </SubSequence>
+                </ByteSequence>
+              </InternalSignature>
+            </InternalSignatureCollection>
+          </BinarySignatures>
+        </File>
+      </Files>
+    </ContainerSignature>
+    
+        <ContainerSignature Id="17019" ContainerType="OLE2">
+      <Description>Microsoft Picture It! Image File</Description>
+      <Files>
+        <File>
+          <Path>CompObj</Path>
+          <BinarySignatures>
+            <InternalSignatureCollection>
+              <InternalSignature ID="17015">
+                <ByteSequence Reference="BOFoffset">
+                  <SubSequence Position="1" SubSeqMinOffset="32"
+                               SubSeqMaxOffset="32">
+                    <Sequence>'Microsoft Picture It! version 4 Picture'</Sequence>
+                  </SubSequence>
+                </ByteSequence>
+              </InternalSignature>
+            </InternalSignatureCollection>
+          </BinarySignatures>
+        </File>
+      </Files>
+    </ContainerSignature>
+
+
+    </ContainerSignatures>
+  
+    <FileFormatMappings>
+    
+    	<!--  Sample OPF Container File (ZIP)-->
+      <FileFormatMapping signatureId="1000" Puid="dev/1"/>
+      
+          <!-- Microsoft PhotoDraw (OLE2)-->
+    <FileFormatMapping signatureId="17010" Puid="fmt/594"/>
+    <!-- Microsoft Picture It! Image File (OLE2)-->
+    <FileFormatMapping signatureId="17015" Puid="fmt/936"/>
+    <FileFormatMapping signatureId="17016" Puid="fmt/936"/>
+    
+        <!-- Kodak FlashPix Image (OLE2)-->
+    <FileFormatMapping signatureId="17000" Puid="x-fmt/56"/>
+    <!-- Kodak FlashPix Image (OLE2)-->
+    <FileFormatMapping signatureId="17005" Puid="x-fmt/56"/>
+    
+    <FileFormatMapping signatureId="17017" Puid="BYUdev/1"/>
+    <FileFormatMapping signatureId="17018" Puid="BYUdev/2"/>
+    <FileFormatMapping signatureId="17019" Puid="BYUdev/3"/>
+    <FileFormatMapping signatureId="17011" Puid="BYUdev/4"/>
+
+    </FileFormatMappings>
+  
+    <TriggerPuids>
+        <TriggerPuid ContainerType="OLE2" Puid="fmt/111"/> 
+        <TriggerPuid ContainerType="ZIP" Puid="fmt/189"/> 
+        <TriggerPuid ContainerType="ZIP" Puid="x-fmt/263"/> 
+    </TriggerPuids>
+
+</ContainerSignatureMapping>
