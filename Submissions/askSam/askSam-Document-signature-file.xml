@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FFSignatureFile xmlns="http://www.nationalarchives.gov.uk/pronom/SignatureFile" Version="858588" DateCreated="2024-01-22T19:01:47+00:00">
+  <InternalSignatureCollection>
+  
+  <InternalSignature ID="1" Specificity="Specific">
+  <ByteSequence Reference="BOFoffset">
+    <SubSequence MinFragLength="0" Position="1" SubSeqMaxOffset="0" SubSeqMinOffset="0">
+      <Sequence>61736B53616D0000</Sequence>
+      <DefaultShift>9</DefaultShift>
+      <Shift Byte="61">4</Shift>
+      <Shift Byte="73">7</Shift>
+      <Shift Byte="6B">6</Shift>
+      <Shift Byte="53">5</Shift>
+      <Shift Byte="6D">3</Shift>
+      <Shift Byte="00">1</Shift>
+    </SubSequence>
+  </ByteSequence>
+</InternalSignature>
+
+  <InternalSignature ID="2" Specificity="Specific">
+  <ByteSequence Reference="BOFoffset">
+    <SubSequence MinFragLength="0" Position="1" SubSeqMaxOffset="0" SubSeqMinOffset="0">
+      <Sequence>61736B77696E0000</Sequence>
+      <DefaultShift>9</DefaultShift>
+      <Shift Byte="61">8</Shift>
+      <Shift Byte="73">7</Shift>
+      <Shift Byte="6B">6</Shift>
+      <Shift Byte="77">5</Shift>
+      <Shift Byte="69">4</Shift>
+      <Shift Byte="6E">3</Shift>
+      <Shift Byte="00">1</Shift>
+    </SubSequence>
+  </ByteSequence>
+</InternalSignature>
+
+  <InternalSignature ID="3" Specificity="Specific">
+  <ByteSequence Reference="BOFoffset">
+    <SubSequence MinFragLength="0" Position="1" SubSeqMaxOffset="0" SubSeqMinOffset="0">
+      <Sequence>61736B5769530000</Sequence>
+      <DefaultShift>9</DefaultShift>
+      <Shift Byte="61">8</Shift>
+      <Shift Byte="73">7</Shift>
+      <Shift Byte="6B">6</Shift>
+      <Shift Byte="57">5</Shift>
+      <Shift Byte="69">4</Shift>
+      <Shift Byte="53">3</Shift>
+      <Shift Byte="00">1</Shift>
+    </SubSequence>
+  </ByteSequence>
+</InternalSignature>
+
+  <InternalSignature ID="4" Specificity="Specific">
+  <ByteSequence Reference="BOFoffset">
+    <SubSequence MinFragLength="0" Position="1" SubSeqMaxOffset="0" SubSeqMinOffset="0">
+      <Sequence>61736B7734300000</Sequence>
+      <DefaultShift>9</DefaultShift>
+      <Shift Byte="61">8</Shift>
+      <Shift Byte="73">7</Shift>
+      <Shift Byte="6B">6</Shift>
+      <Shift Byte="77">5</Shift>
+      <Shift Byte="34">4</Shift>
+      <Shift Byte="30">3</Shift>
+      <Shift Byte="00">1</Shift>
+    </SubSequence>
+  </ByteSequence>
+</InternalSignature>
+
+
+</InternalSignatureCollection>
+<FileFormatCollection>
+
+  <FileFormat ID="1" Name="askSam Document for DOS" PUID="BYUdev/1">
+    <InternalSignatureID>1</InternalSignatureID>
+    <Extension>ask</Extension>
+  </FileFormat>
+  
+    <FileFormat ID="2" Name="askSam Document for Windows" PUID="BYUdev/2">
+    <InternalSignatureID>2</InternalSignatureID>
+    <Extension>ask</Extension>
+  </FileFormat>  
+  
+      <FileFormat ID="3" Name="askSam Document for Windows" PUID="BYUdev/3" Version="2-3">
+    <InternalSignatureID>3</InternalSignatureID>
+    <Extension>ask</Extension>
+  </FileFormat>  
+  
+    <FileFormat ID="4" Name="askSam Document for Windows" PUID="BYUdev/4" Version="4+">
+    <InternalSignatureID>4</InternalSignatureID>
+    <Extension>ask</Extension>
+  </FileFormat>
+  
+  
+</FileFormatCollection></FFSignatureFile>
