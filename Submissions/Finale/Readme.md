@@ -1,0 +1,30 @@
+# Finale Notation File Formats
+http://fileformats.archiveteam.org/wiki/Finale
+
+## Updated Signatures
+
+fmt/397 - ENIGMA BINARY FILE
+BOF  ```454E49474D412042494E4152592046494C45```
+
+fmt/398 - ENIGMA TRANSPORTABLE FILE
+BOF  ```454E49474D41205452414E53504F525441424C452046494C45```
+
+fmt/398 - ENIGMA transportable file
+BOF  ```454E49474D41207472616E73706F727461626C652066696C65```
+
+## New Signatures
+
+BYUdev/2 - FINALE PERFORMANCE ASSESSMENT (FPA)
+BOF  ```46494E414C4520504552464F524D414E4345204153534553534D454E54```
+
+BYUdev/3 - Enigma Binary File (Finale) - Version 1
+BOF  ```46696E616C65AA2031```
+BOF  ```46696E616C6528544D292031```
+
+BYUdev/4 - Enigma Binary File (Finale) - Version 2
+BOF  ```46696E616C6528544D292032```
+
+## Container Signatures
+
+* BYUdev/1 - Finale Notation file (MUSX)
+* fmt/897 - Compressed MusicXML

@@ -1,0 +1,349 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FFSignatureFile xmlns="http://www.nationalarchives.gov.uk/pronom/SignatureFile" Version="1233740" DateCreated="2015-01-06T07:33:54+01:00">
+  <InternalSignatureCollection>
+  
+          <InternalSignature ID="170" Specificity="Specific">
+            <ByteSequence Reference="BOFoffset">
+                <SubSequence MinFragLength="0" Position="1"
+                    SubSeqMaxOffset="0" SubSeqMinOffset="0">
+                    <Sequence>D0CF11E0A1B11AE1</Sequence>
+                    <DefaultShift>9</DefaultShift>
+                    <Shift Byte="11">6</Shift>
+                    <Shift Byte="1A">2</Shift>
+                    <Shift Byte="A1">4</Shift>
+                    <Shift Byte="B1">3</Shift>
+                    <Shift Byte="CF">7</Shift>
+                    <Shift Byte="D0">8</Shift>
+                    <Shift Byte="E0">5</Shift>
+                    <Shift Byte="E1">1</Shift>
+                    <RightFragment MaxOffset="20" MinOffset="20" Position="1">FEFF</RightFragment>
+                </SubSequence>
+            </ByteSequence>
+        </InternalSignature>
+  
+        <InternalSignature ID="200" Specificity="Specific">
+            <ByteSequence Reference="BOFoffset">
+                <SubSequence MinFragLength="0" Position="1"
+                    SubSeqMaxOffset="4" SubSeqMinOffset="0">
+                    <Sequence>504B0304</Sequence>
+                    <DefaultShift>5</DefaultShift>
+                    <Shift Byte="03">2</Shift>
+                    <Shift Byte="04">1</Shift>
+                    <Shift Byte="4B">3</Shift>
+                    <Shift Byte="50">4</Shift>
+                </SubSequence>
+            </ByteSequence>
+            <ByteSequence Endianness="Little-endian" Reference="EOFoffset">
+                <SubSequence MinFragLength="0" Position="1"
+                    SubSeqMaxOffset="65531" SubSeqMinOffset="18">
+                    <Sequence>504B0506</Sequence>
+                    <DefaultShift>-5</DefaultShift>
+                    <Shift Byte="05">-3</Shift>
+                    <Shift Byte="06">-4</Shift>
+                    <Shift Byte="4B">-2</Shift>
+                    <Shift Byte="50">-1</Shift>
+                    <LeftFragment MaxOffset="65531" MinOffset="43" Position="1">504B01</LeftFragment>
+                </SubSequence>
+            </ByteSequence>
+        </InternalSignature>
+
+        <InternalSignature ID="258" Specificity="Specific">
+            <ByteSequence Endianness="Little-endian" Reference="BOFoffset">
+                <SubSequence MinFragLength="30" Position="1"
+                    SubSeqMaxOffset="0" SubSeqMinOffset="0">
+                    <Sequence>5B436F6E74656E745F54797065735D2E786D6C20A2</Sequence>
+                    <DefaultShift>22</DefaultShift>
+                    <Shift Byte="20">2</Shift>
+                    <Shift Byte="2E">6</Shift>
+                    <Shift Byte="43">20</Shift>
+                    <Shift Byte="54">12</Shift>
+                    <Shift Byte="5B">21</Shift>
+                    <Shift Byte="5D">7</Shift>
+                    <Shift Byte="5F">13</Shift>
+                    <Shift Byte="65">9</Shift>
+                    <Shift Byte="6C">3</Shift>
+                    <Shift Byte="6D">4</Shift>
+                    <Shift Byte="6E">15</Shift>
+                    <Shift Byte="6F">19</Shift>
+                    <Shift Byte="70">10</Shift>
+                    <Shift Byte="73">8</Shift>
+                    <Shift Byte="74">14</Shift>
+                    <Shift Byte="78">5</Shift>
+                    <Shift Byte="79">11</Shift>
+                    <Shift Byte="A2">1</Shift>
+                    <LeftFragment MaxOffset="26" MinOffset="26" Position="1">504B0304</LeftFragment>
+                </SubSequence>
+                <SubSequence MinFragLength="0" Position="2" SubSeqMinOffset="0">
+                    <Sequence>504B0102</Sequence>
+                    <DefaultShift>5</DefaultShift>
+                    <Shift Byte="01">2</Shift>
+                    <Shift Byte="02">1</Shift>
+                    <Shift Byte="4B">3</Shift>
+                    <Shift Byte="50">4</Shift>
+                </SubSequence>
+                <SubSequence MinFragLength="0" Position="3" SubSeqMinOffset="0">
+                    <Sequence>504B0506</Sequence>
+                    <DefaultShift>5</DefaultShift>
+                    <Shift Byte="05">2</Shift>
+                    <Shift Byte="06">1</Shift>
+                    <Shift Byte="4B">3</Shift>
+                    <Shift Byte="50">4</Shift>
+                </SubSequence>
+            </ByteSequence>
+        </InternalSignature>
+        
+                <InternalSignature ID="1243" Specificity="Specific">
+            <ByteSequence Reference="BOFoffset">
+                <SubSequence MinFragLength="27" Position="1"
+                    SubSeqMaxOffset="0" SubSeqMinOffset="0">
+                    <Sequence>687474703A2F2F7777772E6D75736963786D6C2E6F72672F647464732F</Sequence>
+                    <DefaultShift>30</DefaultShift>
+                    <Shift Byte="2E">10</Shift>
+                    <Shift Byte="2F">1</Shift>
+                    <Shift Byte="3A">25</Shift>
+                    <Shift Byte="63">14</Shift>
+                    <Shift Byte="64">3</Shift>
+                    <Shift Byte="67">7</Shift>
+                    <Shift Byte="68">29</Shift>
+                    <Shift Byte="69">15</Shift>
+                    <Shift Byte="6C">11</Shift>
+                    <Shift Byte="6D">12</Shift>
+                    <Shift Byte="6F">9</Shift>
+                    <Shift Byte="70">26</Shift>
+                    <Shift Byte="72">8</Shift>
+                    <Shift Byte="73">2</Shift>
+                    <Shift Byte="74">4</Shift>
+                    <Shift Byte="75">17</Shift>
+                    <Shift Byte="77">20</Shift>
+                    <Shift Byte="78">13</Shift>
+                    <LeftFragment MaxOffset="256" MinOffset="8" Position="1">22</LeftFragment>
+                    <LeftFragment MaxOffset="256" MinOffset="8" Position="1">27</LeftFragment>
+                    <LeftFragment MaxOffset="0" MinOffset="0" Position="2">312E30</LeftFragment>
+                    <LeftFragment MaxOffset="0" MinOffset="0" Position="3">22</LeftFragment>
+                    <LeftFragment MaxOffset="0" MinOffset="0" Position="3">27</LeftFragment>
+                    <LeftFragment MaxOffset="0" MinOffset="0" Position="4">3C3F786D6C2076657273696F6E3D</LeftFragment>
+                </SubSequence>
+            </ByteSequence>
+        </InternalSignature>
+        
+                <InternalSignature ID="631" Specificity="Specific">
+  <ByteSequence Reference="BOFoffset">
+    <SubSequence MinFragLength="0" Position="1" SubSeqMaxOffset="0" SubSeqMinOffset="0">
+      <Sequence>454E49474D412042494E4152592046494C45</Sequence>
+      <DefaultShift>19</DefaultShift>
+      <Shift Byte="45">1</Shift>
+      <Shift Byte="4E">9</Shift>
+      <Shift Byte="49">3</Shift>
+      <Shift Byte="47">15</Shift>
+      <Shift Byte="4D">14</Shift>
+      <Shift Byte="41">8</Shift>
+      <Shift Byte="20">5</Shift>
+      <Shift Byte="42">11</Shift>
+      <Shift Byte="52">7</Shift>
+      <Shift Byte="59">6</Shift>
+      <Shift Byte="46">4</Shift>
+      <Shift Byte="4C">2</Shift>
+    </SubSequence>
+  </ByteSequence>
+        </InternalSignature>
+        
+                <InternalSignature ID="630" Specificity="Specific">
+  <ByteSequence Reference="BOFoffset">
+    <SubSequence MinFragLength="0" Position="1" SubSeqMaxOffset="0" SubSeqMinOffset="0">
+      <Sequence>454E49474D41205452414E53504F525441424C452046494C45</Sequence>
+      <DefaultShift>26</DefaultShift>
+      <Shift Byte="45">1</Shift>
+      <Shift Byte="4E">15</Shift>
+      <Shift Byte="49">3</Shift>
+      <Shift Byte="47">22</Shift>
+      <Shift Byte="4D">21</Shift>
+      <Shift Byte="41">9</Shift>
+      <Shift Byte="20">5</Shift>
+      <Shift Byte="54">10</Shift>
+      <Shift Byte="52">11</Shift>
+      <Shift Byte="53">14</Shift>
+      <Shift Byte="50">13</Shift>
+      <Shift Byte="4F">12</Shift>
+      <Shift Byte="42">8</Shift>
+      <Shift Byte="4C">2</Shift>
+      <Shift Byte="46">4</Shift>
+    </SubSequence>
+  </ByteSequence>
+        </InternalSignature>
+        
+          <InternalSignature ID="1" Specificity="Specific">
+  <ByteSequence Reference="BOFoffset">
+    <SubSequence MinFragLength="0" Position="1" SubSeqMaxOffset="0" SubSeqMinOffset="0">
+      <Sequence>454E49474D41207472616E73706F727461626C652066696C65</Sequence>
+      <DefaultShift>26</DefaultShift>
+      <Shift Byte="45">25</Shift>
+      <Shift Byte="4E">24</Shift>
+      <Shift Byte="49">23</Shift>
+      <Shift Byte="47">22</Shift>
+      <Shift Byte="4D">21</Shift>
+      <Shift Byte="41">20</Shift>
+      <Shift Byte="20">5</Shift>
+      <Shift Byte="74">10</Shift>
+      <Shift Byte="72">11</Shift>
+      <Shift Byte="61">9</Shift>
+      <Shift Byte="6E">15</Shift>
+      <Shift Byte="73">14</Shift>
+      <Shift Byte="70">13</Shift>
+      <Shift Byte="6F">12</Shift>
+      <Shift Byte="62">8</Shift>
+      <Shift Byte="6C">2</Shift>
+      <Shift Byte="65">1</Shift>
+      <Shift Byte="66">4</Shift>
+      <Shift Byte="69">3</Shift>
+    </SubSequence>
+  </ByteSequence>
+</InternalSignature>
+
+  <InternalSignature ID="2" Specificity="Specific">
+  <ByteSequence Reference="BOFoffset">
+    <SubSequence MinFragLength="0" Position="1" SubSeqMaxOffset="0" SubSeqMinOffset="0">
+      <Sequence>46494E414C4520504552464F524D414E4345204153534553534D454E54</Sequence>
+      <DefaultShift>30</DefaultShift>
+      <Shift Byte="46">19</Shift>
+      <Shift Byte="49">28</Shift>
+      <Shift Byte="4E">2</Shift>
+      <Shift Byte="41">10</Shift>
+      <Shift Byte="4C">25</Shift>
+      <Shift Byte="45">3</Shift>
+      <Shift Byte="20">11</Shift>
+      <Shift Byte="50">22</Shift>
+      <Shift Byte="52">17</Shift>
+      <Shift Byte="4F">18</Shift>
+      <Shift Byte="4D">4</Shift>
+      <Shift Byte="43">13</Shift>
+      <Shift Byte="53">5</Shift>
+      <Shift Byte="54">1</Shift>
+    </SubSequence>
+  </ByteSequence>
+</InternalSignature>
+
+  <InternalSignature ID="3" Specificity="Specific">
+  <ByteSequence Reference="BOFoffset">
+    <SubSequence MinFragLength="0" Position="1" SubSeqMaxOffset="0" SubSeqMinOffset="0">
+      <Sequence>46696E616C65AA2031</Sequence>
+      <DefaultShift>10</DefaultShift>
+      <Shift Byte="46">9</Shift>
+      <Shift Byte="69">8</Shift>
+      <Shift Byte="6E">7</Shift>
+      <Shift Byte="61">6</Shift>
+      <Shift Byte="6C">5</Shift>
+      <Shift Byte="65">4</Shift>
+      <Shift Byte="AA">3</Shift>
+      <Shift Byte="20">2</Shift>
+      <Shift Byte="31">1</Shift>
+    </SubSequence>
+  </ByteSequence>
+</InternalSignature>
+
+  <InternalSignature ID="4" Specificity="Specific">
+  <ByteSequence Reference="BOFoffset">
+    <SubSequence MinFragLength="0" Position="1" SubSeqMaxOffset="0" SubSeqMinOffset="0">
+      <Sequence>46696E616C6528544D292031</Sequence>
+      <DefaultShift>13</DefaultShift>
+      <Shift Byte="46">12</Shift>
+      <Shift Byte="69">11</Shift>
+      <Shift Byte="6E">10</Shift>
+      <Shift Byte="61">9</Shift>
+      <Shift Byte="6C">8</Shift>
+      <Shift Byte="65">7</Shift>
+      <Shift Byte="28">6</Shift>
+      <Shift Byte="54">5</Shift>
+      <Shift Byte="4D">4</Shift>
+      <Shift Byte="29">3</Shift>
+      <Shift Byte="20">2</Shift>
+      <Shift Byte="31">1</Shift>
+    </SubSequence>
+  </ByteSequence>
+</InternalSignature>
+
+  <InternalSignature ID="5" Specificity="Specific">
+  <ByteSequence Reference="BOFoffset">
+    <SubSequence MinFragLength="0" Position="1" SubSeqMaxOffset="0" SubSeqMinOffset="0">
+      <Sequence>46696E616C6528544D292032</Sequence>
+      <DefaultShift>13</DefaultShift>
+      <Shift Byte="46">12</Shift>
+      <Shift Byte="69">11</Shift>
+      <Shift Byte="6E">10</Shift>
+      <Shift Byte="61">9</Shift>
+      <Shift Byte="6C">8</Shift>
+      <Shift Byte="65">7</Shift>
+      <Shift Byte="28">6</Shift>
+      <Shift Byte="54">5</Shift>
+      <Shift Byte="4D">4</Shift>
+      <Shift Byte="29">3</Shift>
+      <Shift Byte="20">2</Shift>
+      <Shift Byte="32">1</Shift>
+    </SubSequence>
+  </ByteSequence>
+</InternalSignature>
+
+</InternalSignatureCollection>
+
+<FileFormatCollection>
+
+  <FileFormat ID="1" Name="Finale Notation file" PUID="BYUdev/1" Version="2014+" MIMEType="application/vnd.makemusic.notation">
+    <Extension>musx</Extension>
+  </FileFormat>
+  
+            <FileFormat ID="2" Name="Finale Performance Assessment" PUID="BYUdev/2">
+            <InternalSignatureID>2</InternalSignatureID>
+            <Extension>fpa</Extension>
+        </FileFormat>
+        
+          <FileFormat ID="3" Name="Enigma Binary File (Finale)" PUID="BYUdev/3" Version="1">
+    <InternalSignatureID>3</InternalSignatureID>
+    <InternalSignatureID>4</InternalSignatureID>
+    <Extension>mus</Extension>
+  </FileFormat>
+  
+    <FileFormat ID="5" Name="Enigma Binary File (Finale)" PUID="BYUdev/4" Version="2">
+    <InternalSignatureID>5</InternalSignatureID>
+    <Extension>mus</Extension>
+  </FileFormat>
+  
+          <FileFormat ID="1145" Name="Enigma Binary File (Finale)" PUID="fmt/397">
+            <InternalSignatureID>631</InternalSignatureID>
+            <Extension>mus</Extension>
+        </FileFormat>
+        
+                <FileFormat ID="1146" Name="Enigma Transportable File (Finale)" PUID="fmt/398">
+            <InternalSignatureID>630</InternalSignatureID>
+            <InternalSignatureID>1</InternalSignatureID>
+            <Extension>etf</Extension>
+        </FileFormat>
+        
+                <FileFormat ID="1700"
+            MIMEType="application/vnd.recordare.musicxml+xml"
+            Name="MusicXML" PUID="fmt/896">
+            <InternalSignatureID>1243</InternalSignatureID>
+            <Extension>musicxml</Extension>
+            <Extension>xml</Extension>
+            <HasPriorityOverFileFormatID>638</HasPriorityOverFileFormatID>
+        </FileFormat>
+        
+                <FileFormat ID="1701"
+            MIMEType="application/vnd.recordare.musicxml"
+            Name="Compressed MusicXML" PUID="fmt/897">
+            <Extension>mxl</Extension>
+        </FileFormat>
+
+   <FileFormat ID="767" Name="OLE2 Compound Document Format" PUID="fmt/111">
+      <InternalSignatureID>170</InternalSignatureID>
+   </FileFormat>
+
+   <FileFormat ID="382" MIMEType="application/zip" Name="ZIP Format" PUID="x-fmt/263">
+      <InternalSignatureID>200</InternalSignatureID>
+      <Extension>zip</Extension>
+   </FileFormat>
+
+   <FileFormat ID="910" Name="Microsoft Office Open XML" PUID="fmt/189" Version="2007 onwards">
+      <InternalSignatureID>258</InternalSignatureID>
+      <HasPriorityOverFileFormatID>382</HasPriorityOverFileFormatID>
+   </FileFormat>
+
+</FileFormatCollection></FFSignatureFile>
