@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<ContainerSignatureMapping schemaVersion="1.0" signatureVersion="20240225"> 
+    <ContainerSignatures>
+
+        <ContainerSignature Id="1000" ContainerType="ZIP">
+            <Description>Power BI Desktop Report</Description>
+            <Files>
+                <File>
+                    <Path>[Content_Types].xml</Path>
+                </File>
+					 <File>
+                    <Path>DataModel</Path>
+                    <BinarySignatures>
+                        <InternalSignatureCollection>                    
+	                        <InternalSignature ID="300">
+	                            <ByteSequence Reference="BOFoffset">
+	                                <SubSequence Position="1" SubSeqMinOffset="0" SubSeqMaxOffset="0">
+	                                    <Sequence>FF FE 53 00 54 00 52 00 45 00 41 00 4D 00 5F 00 53 00 54 00 4F 00 52 00 41 00 47 00 45 00 5F 00 53 00 49 00 47 00 4E 00 41 00 54 00 55 00 52 00 45 00 5F 00</Sequence>
+	                                </SubSequence>
+	                            </ByteSequence>
+	                        </InternalSignature>
+	                    </InternalSignatureCollection>
+                    </BinarySignatures>
+                </File>             
+            </Files>
+        </ContainerSignature>
+        
+                <ContainerSignature Id="1010" ContainerType="ZIP">
+            <Description>Power BI Desktop Report</Description>
+            <Files>
+                <File>
+                    <Path>[Content_Types].xml</Path>
+                </File>
+					 <File>
+                    <Path>DataModel</Path>
+                    <BinarySignatures>
+                        <InternalSignatureCollection>                    
+	                        <InternalSignature ID="300">
+	                            <ByteSequence Reference="BOFoffset">
+	                                <SubSequence Position="1" SubSeqMinOffset="0" SubSeqMaxOffset="0">
+	                                    <Sequence>54 00 68 00 69 00 73 00 20 00 62 00 61 00 63 00 6B 00 75 00 70 00 20 00 77 00 61 00 73 00 20 00 63 00 72 00 65 00 61 00 74 00 65 00 64 00 20 00 75 00 73 00 69 00 6E 00 67 00 20 00 58 00 50 00 72 00 65 00 73 00 73 00 39 00 20 00 63 00 6F 00 6D 00 70 00 72 00 65 00 73 00 73 00 69 00 6F 00 6E 00 2E 00</Sequence>
+	                                </SubSequence>
+	                            </ByteSequence>
+	                        </InternalSignature>
+	                    </InternalSignatureCollection>
+                    </BinarySignatures>
+                </File>             
+            </Files>
+        </ContainerSignature>
+        
+                        <ContainerSignature Id="1020" ContainerType="ZIP">
+            <Description>Power BI Desktop Report Template</Description>
+            <Files>
+                <File>
+                    <Path>[Content_Types].xml</Path>
+                </File>
+					 <File>
+                    <Path>DataModelSchema</Path>
+                    <BinarySignatures>
+                        <InternalSignatureCollection>                    
+	                        <InternalSignature ID="300">
+	                            <ByteSequence Reference="BOFoffset">
+	                                <SubSequence Position="1" SubSeqMinOffset="0" SubSeqMaxOffset="1024">
+	                                    <Sequence>22 00 64 00 65 00 66 00 61 00 75 00 6C 00 74 00 50 00 6F 00 77 00 65 00 72 00 42 00 49 00 44 00 61 00 74 00 61 00 53 00 6F 00 75 00 72 00 63 00 65 00 56 00 65 00 72 00 73 00 69 00 6F 00 6E 00 22 00</Sequence>
+	                                </SubSequence>
+	                            </ByteSequence>
+	                        </InternalSignature>
+	                    </InternalSignatureCollection>
+                    </BinarySignatures>
+                </File>             
+            </Files>
+        </ContainerSignature>
+        
+            <ContainerSignature Id="2030" ContainerType="ZIP">
+      <Description>Microsoft Excel OOXML</Description>
+      <Files>
+        <File>
+          <Path>[Content_Types].xml</Path>
+          <BinarySignatures>
+            <InternalSignatureCollection>
+              <InternalSignature ID="317">
+                <ByteSequence Reference="BOFoffset">
+                  <SubSequence Position="1" SubSeqMinOffset="0"
+                               SubSeqMaxOffset="40000">
+                    <Sequence>'ContentType="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet.main+xml"'</Sequence>
+                  </SubSequence>
+                </ByteSequence>
+              </InternalSignature>
+            </InternalSignatureCollection>
+          </BinarySignatures>
+        </File>
+      </Files>
+    </ContainerSignature>
+
+    <ContainerSignature Id="2040" ContainerType="ZIP">
+      <Description>Microsoft Excel OOXML (little endian)</Description>
+      <Files>
+        <File>
+          <Path>[Content_Types].xml</Path>
+          <BinarySignatures>
+            <InternalSignatureCollection>
+              <InternalSignature ID="317">
+                <ByteSequence Reference="BOFoffset">
+                  <SubSequence Position="1" SubSeqMinOffset="0"
+                               SubSeqMaxOffset="32768">
+                    <Sequence>'C'00 'o'00 'n'00 't'00 'e'00 'n'00 't'00 'T'00
+                      'y'00 'p'00 'e'00 '='00 '"'00 'a'00 'p'00 'p'00 'l'00
+                      'i'00 'c'00 'a'00 't'00 'i'00 'o'00 'n'00 '/'00 'v'00
+                      'n'00 'd'00 '.'00 'o'00 'p'00 'e'00 'n'00 'x'00 'm'00
+                      'l'00 'f'00 'o'00 'r'00 'm'00 'a'00 't'00 's'00 '-'00
+                      'o'00 'f'00 'f'00 'i'00 'c'00 'e'00 'd'00 'o'00 'c'00
+                      'u'00 'm'00 'e'00 'n'00 't'00 '.'00 's'00 'p'00 'r'00
+                      'e'00 'a'00 'd'00 's'00 'h'00 'e'00 'e'00 't'00 'm'00
+                      'l'00 '.'00 's'00 'h'00 'e'00 'e'00 't'00 '.'00 'm'00
+                      'a'00 'i'00 'n'00 '+'00 'x'00 'm'00 'l'00
+                      '"'00                    </Sequence>
+                  </SubSequence>
+                </ByteSequence>
+              </InternalSignature>
+            </InternalSignatureCollection>
+          </BinarySignatures>
+        </File>
+      </Files>
+    </ContainerSignature>
+
+    <ContainerSignature Id="2050" ContainerType="ZIP">
+      <Description>Microsoft Excel OOXML (big endian)</Description>
+      <Files>
+        <File>
+          <Path>[Content_Types].xml</Path>
+          <BinarySignatures>
+            <InternalSignatureCollection>
+              <InternalSignature ID="317">
+                <ByteSequence Reference="BOFoffset">
+                  <SubSequence Position="1" SubSeqMinOffset="0"
+                               SubSeqMaxOffset="32768">
+                    <Sequence>00'C' 00'o' 00'n' 00't' 00'e' 00'n' 00't' 00'T'
+                      00'y' 00'p' 00'e' 00'=' 00'"' 00'a' 00'p' 00'p' 00'l'
+                      00'i' 00'c' 00'a' 00't' 00'i' 00'o' 00'n' 00'/' 00'v'
+                      00'n' 00'd' 00'.' 00'o' 00'p' 00'e' 00'n' 00'x' 00'm'
+                      00'l' 00'f' 00'o' 00'r' 00'm' 00'a' 00't' 00's' 00'-'
+                      00'o' 00'f' 00'f' 00'i' 00'c' 00'e' 00'd' 00'o' 00'c'
+                      00'u' 00'm' 00'e' 00'n' 00't' 00'.' 00's' 00'p' 00'r'
+                      00'e' 00'a' 00'd' 00's' 00'h' 00'e' 00'e' 00't' 00'm'
+                      00'l' 00'.' 00's' 00'h' 00'e' 00'e' 00't' 00'.' 00'm'
+                      00'a' 00'i' 00'n' 00'+' 00'x' 00'm' 00'l'
+                      00'"'                    </Sequence>
+                  </SubSequence>
+                </ByteSequence>
+              </InternalSignature>
+            </InternalSignatureCollection>
+          </BinarySignatures>
+        </File>
+      </Files>
+    </ContainerSignature>
+
+
+    </ContainerSignatures>
+  
+    <FileFormatMappings>
+    
+    	<!--  Power BI Desktop Report File (ZIP)-->
+      <FileFormatMapping signatureId="1000" Puid="BYUdev/1"/>
+      <FileFormatMapping signatureId="1010" Puid="BYUdev/1"/>
+      
+          	<!--  Power BI Desktop Report Template File (ZIP)-->
+      <FileFormatMapping signatureId="1020" Puid="BYUdev/2"/>
+      
+          <!-- Microsoft Excel OOXML (ZIP)-->
+    <FileFormatMapping signatureId="2030" Puid="fmt/214"/>
+    <!-- Microsoft Excel OOXML little endian (ZIP)-->
+    <FileFormatMapping signatureId="2040" Puid="fmt/214"/>
+    <!-- Microsoft Excel OOXML big endian (ZIP)-->
+    <FileFormatMapping signatureId="2050" Puid="fmt/214"/>
+
+    </FileFormatMappings>
+  
+    <TriggerPuids>
+        <TriggerPuid ContainerType="OLE2" Puid="fmt/111"/> 
+        <TriggerPuid ContainerType="ZIP" Puid="fmt/189"/> 
+        <TriggerPuid ContainerType="ZIP" Puid="x-fmt/263"/> 
+    </TriggerPuids>
+
+</ContainerSignatureMapping>
