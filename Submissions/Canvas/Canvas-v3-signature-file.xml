@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FFSignatureFile xmlns="http://www.nationalarchives.gov.uk/pronom/SignatureFile" Version="8999003" DateCreated="2019-04-16T15:50:37-06:00">
+  <InternalSignatureCollection>
+  
+  <InternalSignature ID="1" Specificity="Specific">
+  <ByteSequence Reference="BOFoffset">
+    <SubSequence MinFragLength="0" Position="1" SubSeqMaxOffset="88" SubSeqMinOffset="88">
+      <Sequence>002000400060008000C00140018001C002400280</Sequence>
+      <DefaultShift>21</DefaultShift>
+      <Shift Byte="00">12</Shift>
+      <Shift Byte="20">19</Shift>
+      <Shift Byte="40">3</Shift>
+      <Shift Byte="60">15</Shift>
+      <Shift Byte="80">1</Shift>
+      <Shift Byte="C0">5</Shift>
+      <Shift Byte="01">6</Shift>
+      <Shift Byte="02">2</Shift>
+    </SubSequence>
+  </ByteSequence>
+</InternalSignature>
+
+  <InternalSignature ID="2" Specificity="Specific">
+  <ByteSequence Reference="BOFoffset">
+    <SubSequence MinFragLength="0" Position="1" SubSeqMaxOffset="12" SubSeqMinOffset="12">
+      <Sequence>0A00000026000000260000002600000026000000960000002A0000002E00000032000000</Sequence>
+      <DefaultShift>37</DefaultShift>
+      <Shift Byte="0A">36</Shift>
+      <Shift Byte="00">1</Shift>
+      <Shift Byte="26">20</Shift>
+      <Shift Byte="96">16</Shift>
+      <Shift Byte="2A">12</Shift>
+      <Shift Byte="2E">8</Shift>
+      <Shift Byte="32">4</Shift>
+    </SubSequence>
+  </ByteSequence>
+</InternalSignature>
+
+  <InternalSignature ID="3" Specificity="Specific">
+  <ByteSequence Reference="BOFoffset">
+    <SubSequence MinFragLength="0" Position="1" SubSeqMaxOffset="0" SubSeqMinOffset="0">
+      <Sequence>02000080</Sequence>
+      <DefaultShift>5</DefaultShift>
+      <Shift Byte="02">4</Shift>
+      <Shift Byte="00">2</Shift>
+      <Shift Byte="80">1</Shift>
+    </SubSequence>
+  </ByteSequence>
+  <ByteSequence Reference="EOFoffset">
+    <SubSequence MinFragLength="0" Position="1" SubSeqMaxOffset="0" SubSeqMinOffset="0">
+      <Sequence>434E5635</Sequence>
+      <DefaultShift>-5</DefaultShift>
+      <Shift Byte="43">-1</Shift>
+      <Shift Byte="4E">-2</Shift>
+      <Shift Byte="56">-3</Shift>
+      <Shift Byte="35">-4</Shift>
+    </SubSequence>
+  </ByteSequence>
+</InternalSignature>
+
+  <InternalSignature ID="4" Specificity="Specific">
+  <ByteSequence Reference="BOFoffset">
+    <SubSequence MinFragLength="0" Position="1" SubSeqMaxOffset="32" SubSeqMinOffset="0">
+      <Sequence>43414E56415335</Sequence>
+      <DefaultShift>8</DefaultShift>
+      <Shift Byte="43">7</Shift>
+      <Shift Byte="41">3</Shift>
+      <Shift Byte="4E">5</Shift>
+      <Shift Byte="56">4</Shift>
+      <Shift Byte="53">2</Shift>
+      <Shift Byte="35">1</Shift>
+    </SubSequence>
+  </ByteSequence>
+</InternalSignature>
+
+  <InternalSignature ID="5" Specificity="Specific">
+  <ByteSequence Reference="BOFoffset">
+    <SubSequence MinFragLength="0" Position="1" SubSeqMaxOffset="25" SubSeqMinOffset="25">
+      <Sequence>43414E56415336</Sequence>
+      <DefaultShift>8</DefaultShift>
+      <Shift Byte="43">7</Shift>
+      <Shift Byte="41">3</Shift>
+      <Shift Byte="4E">5</Shift>
+      <Shift Byte="56">4</Shift>
+      <Shift Byte="53">2</Shift>
+      <Shift Byte="36">1</Shift>
+    </SubSequence>
+  </ByteSequence>
+</InternalSignature>
+
+  <InternalSignature ID="6" Specificity="Specific">
+  <ByteSequence Reference="BOFoffset">
+    <SubSequence MinFragLength="1" Position="1" SubSeqMaxOffset="0" SubSeqMinOffset="0">
+      <Sequence>00</Sequence>
+      <DefaultShift>2</DefaultShift>
+      <Shift Byte="00">1</Shift>
+      <LeftFragment MaxOffset="0" MinOffset="0" Position="1">01</LeftFragment>
+      <LeftFragment MaxOffset="0" MinOffset="0" Position="1">02</LeftFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="1">8000</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="1">0080</RightFragment>
+    </SubSequence>
+  </ByteSequence>
+  <ByteSequence Reference="EOFoffset">
+    <SubSequence MinFragLength="0" Position="1" SubSeqMaxOffset="1024" SubSeqMinOffset="0">
+      <Sequence>2553492D30323030</Sequence>
+      <DefaultShift>-9</DefaultShift>
+      <Shift Byte="25">-1</Shift>
+      <Shift Byte="53">-2</Shift>
+      <Shift Byte="49">-3</Shift>
+      <Shift Byte="2D">-4</Shift>
+      <Shift Byte="30">-5</Shift>
+      <Shift Byte="32">-6</Shift>
+    </SubSequence>
+  </ByteSequence>
+</InternalSignature>
+
+  <InternalSignature ID="7" Specificity="Specific">
+  <ByteSequence Reference="BOFoffset">
+    <SubSequence MinFragLength="0" Position="1" SubSeqMaxOffset="35" SubSeqMinOffset="35">
+      <Sequence>43414E56415336</Sequence>
+      <DefaultShift>8</DefaultShift>
+      <Shift Byte="43">7</Shift>
+      <Shift Byte="41">3</Shift>
+      <Shift Byte="4E">5</Shift>
+      <Shift Byte="56">4</Shift>
+      <Shift Byte="53">2</Shift>
+      <Shift Byte="36">1</Shift>
+    </SubSequence>
+  </ByteSequence>
+</InternalSignature>
+
+  <InternalSignature ID="8" Specificity="Specific">
+  <ByteSequence Reference="BOFoffset">
+    <SubSequence MinFragLength="1" Position="1" SubSeqMaxOffset="10" SubSeqMinOffset="10">
+      <Sequence>00</Sequence>
+      <DefaultShift>2</DefaultShift>
+      <Shift Byte="00">1</Shift>
+      <LeftFragment MaxOffset="0" MinOffset="0" Position="1">01</LeftFragment>
+      <LeftFragment MaxOffset="0" MinOffset="0" Position="1">02</LeftFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="1">8000</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="1">0080</RightFragment>
+    </SubSequence>
+  </ByteSequence>
+  <ByteSequence Reference="EOFoffset">
+    <SubSequence MinFragLength="0" Position="1" SubSeqMaxOffset="1024" SubSeqMinOffset="0">
+      <Sequence>2553492D30323030</Sequence>
+      <DefaultShift>-9</DefaultShift>
+      <Shift Byte="25">-1</Shift>
+      <Shift Byte="53">-2</Shift>
+      <Shift Byte="49">-3</Shift>
+      <Shift Byte="2D">-4</Shift>
+      <Shift Byte="30">-5</Shift>
+      <Shift Byte="32">-6</Shift>
+    </SubSequence>
+  </ByteSequence>
+</InternalSignature>
+
+  <InternalSignature ID="9" Specificity="Specific">
+  <ByteSequence Reference="BOFoffset">
+    <SubSequence MinFragLength="0" Position="1" SubSeqMaxOffset="0" SubSeqMinOffset="0">
+      <Sequence>2543616E766173435644</Sequence>
+      <DefaultShift>11</DefaultShift>
+      <Shift Byte="25">10</Shift>
+      <Shift Byte="43">3</Shift>
+      <Shift Byte="61">5</Shift>
+      <Shift Byte="6E">7</Shift>
+      <Shift Byte="76">6</Shift>
+      <Shift Byte="73">4</Shift>
+      <Shift Byte="56">2</Shift>
+      <Shift Byte="44">1</Shift>
+    </SubSequence>
+  </ByteSequence>
+</InternalSignature>
+
+  <InternalSignature ID="10" Specificity="Specific">
+  <ByteSequence Reference="BOFoffset">
+    <SubSequence MinFragLength="0" Position="1" SubSeqMaxOffset="4" SubSeqMinOffset="4">
+      <Sequence>4441443550524F58</Sequence>
+      <DefaultShift>9</DefaultShift>
+      <Shift Byte="44">6</Shift>
+      <Shift Byte="41">7</Shift>
+      <Shift Byte="35">5</Shift>
+      <Shift Byte="50">4</Shift>
+      <Shift Byte="52">3</Shift>
+      <Shift Byte="4F">2</Shift>
+      <Shift Byte="58">1</Shift>
+    </SubSequence>
+  </ByteSequence>
+</InternalSignature>
+
+</InternalSignatureCollection>
+<FileFormatCollection>
+
+  <FileFormat ID="1" Name="Canvas CVS" PUID="BYUdev/1" Version="1-3">
+    <InternalSignatureID>1</InternalSignatureID>
+    <InternalSignatureID>2</InternalSignatureID>
+    <Extension>cvs</Extension>
+  </FileFormat>
+  
+    <FileFormat ID="2" Name="Canvas Document" PUID="BYUdev/2" Version="5">
+    <InternalSignatureID>3</InternalSignatureID>
+    <InternalSignatureID>4</InternalSignatureID>
+    <Extension>cv5</Extension>
+  </FileFormat>
+  
+      <FileFormat ID="3" Name="Canvas Document" PUID="BYUdev/3" Version="6-8">
+    <InternalSignatureID>5</InternalSignatureID>
+    <InternalSignatureID>6</InternalSignatureID>
+    <Extension>cnv</Extension>
+    <Extension>tpl</Extension>
+    <HasPriorityOverFileFormatID>2</HasPriorityOverFileFormatID>
+  </FileFormat>
+  
+        <FileFormat ID="4" Name="Canvas Document" PUID="BYUdev/4" Version="9-X">
+    <InternalSignatureID>7</InternalSignatureID>
+    <InternalSignatureID>8</InternalSignatureID>
+    <Extension>cvx</Extension>
+    <Extension>tpl</Extension>
+    <HasPriorityOverFileFormatID>2</HasPriorityOverFileFormatID>
+  </FileFormat>
+  
+          <FileFormat ID="5" Name="Canvas Draw Document" PUID="BYUdev/5">
+    <InternalSignatureID>9</InternalSignatureID>
+    <Extension>cvd</Extension>
+    <Extension>cvdtpl</Extension>
+  </FileFormat>
+  
+            <FileFormat ID="6" Name="Canvas Image" PUID="BYUdev/6">
+    <InternalSignatureID>10</InternalSignatureID>
+    <Extension>cvi</Extension>
+  </FileFormat>
+  
+</FileFormatCollection></FFSignatureFile>
