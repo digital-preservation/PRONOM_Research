@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FFSignatureFile xmlns="http://www.nationalarchives.gov.uk/pronom/SignatureFile" Version="19931993" DateCreated="2024-04-05T02:52:14+00:00">
+  <InternalSignatureCollection>
+  
+  <InternalSignature ID="1" Specificity="Specific">
+  <ByteSequence Reference="BOFoffset">
+    <SubSequence MinFragLength="0" Position="1" SubSeqMaxOffset="0" SubSeqMinOffset="0">
+      <Sequence>616A6B67</Sequence>
+      <DefaultShift>5</DefaultShift>
+      <Shift Byte="61">4</Shift>
+      <Shift Byte="6A">3</Shift>
+      <Shift Byte="6B">2</Shift>
+      <Shift Byte="67">1</Shift>
+    </SubSequence>
+  </ByteSequence>
+</InternalSignature>
+
+</InternalSignatureCollection>
+<FileFormatCollection>
+
+  <FileFormat ID="1" Name="Shorten Audio File" PUID="BYUdev/1" MIMEType="application/x-shorten">
+    <InternalSignatureID>1</InternalSignatureID>
+    <Extension>shn</Extension>
+  </FileFormat>
+  
+</FileFormatCollection></FFSignatureFile>
