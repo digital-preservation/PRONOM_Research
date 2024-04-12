@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FFSignatureFile xmlns="http://www.nationalarchives.gov.uk/pronom/SignatureFile" Version="20152019" DateCreated="2024-01-29T06:15:10+00:00">
+  <InternalSignatureCollection>
+  
+            <InternalSignature ID="170" Specificity="Specific">
+            <ByteSequence Reference="BOFoffset">
+                <SubSequence MinFragLength="0" Position="1"
+                    SubSeqMaxOffset="0" SubSeqMinOffset="0">
+                    <Sequence>D0CF11E0A1B11AE1</Sequence>
+                    <DefaultShift>9</DefaultShift>
+                    <Shift Byte="11">6</Shift>
+                    <Shift Byte="1A">2</Shift>
+                    <Shift Byte="A1">4</Shift>
+                    <Shift Byte="B1">3</Shift>
+                    <Shift Byte="CF">7</Shift>
+                    <Shift Byte="D0">8</Shift>
+                    <Shift Byte="E0">5</Shift>
+                    <Shift Byte="E1">1</Shift>
+                    <RightFragment MaxOffset="20" MinOffset="20" Position="1">FEFF</RightFragment>
+                </SubSequence>
+            </ByteSequence>
+        </InternalSignature>
+  
+  <InternalSignature ID="4" Specificity="Specific">
+  <ByteSequence Reference="BOFoffset">
+    <SubSequence MinFragLength="0" Position="1" SubSeqMaxOffset="4" SubSeqMinOffset="4">
+      <Sequence>00000004</Sequence>
+      <DefaultShift>5</DefaultShift>
+      <Shift Byte="00">2</Shift>
+      <Shift Byte="04">1</Shift>
+    </SubSequence>
+  </ByteSequence>
+  <ByteSequence Reference="BOFoffset">
+    <SubSequence MinFragLength="0" Position="1" SubSeqMaxOffset="2048" SubSeqMinOffset="0">
+      <Sequence>34F6E64756E64737F2</Sequence>
+      <DefaultShift>10</DefaultShift>
+      <Shift Byte="34">9</Shift>
+      <Shift Byte="F6">8</Shift>
+      <Shift Byte="E6">4</Shift>
+      <Shift Byte="47">3</Shift>
+      <Shift Byte="56">5</Shift>
+      <Shift Byte="37">2</Shift>
+      <Shift Byte="F2">1</Shift>
+    </SubSequence>
+  </ByteSequence>
+</InternalSignature>
+
+</InternalSignatureCollection>
+<FileFormatCollection>
+
+  <FileFormat ID="1" Name="SolidWorks Part File" PUID="fmt/1955" Version="95-2014">
+    <Extension>sldprt</Extension>
+  </FileFormat>
+  
+    <FileFormat ID="2" Name="SolidWorks Assembly File" PUID="fmt/1956" Version="95-2014">
+    <Extension>sldasm</Extension>
+    <HasPriorityOverFileFormatID>1</HasPriorityOverFileFormatID>
+  </FileFormat>
+  
+    <FileFormat ID="3" Name="SolidWorks Draw File" PUID="fmt/1957" Version="95-2014">
+    <Extension>slddrw</Extension>
+    <HasPriorityOverFileFormatID>1</HasPriorityOverFileFormatID>
+  </FileFormat>
+
+  <FileFormat ID="4" Name="SolidWorks File" PUID="BYUdev/4" Version="2015+">
+    <InternalSignatureID>4</InternalSignatureID>
+    <Extension>sldprt</Extension>
+    <Extension>sldasm</Extension>
+    <Extension>slddrw</Extension>
+  </FileFormat>
+  
+     <FileFormat ID="767" Name="OLE2 Compound Document Format" PUID="fmt/111">
+      <InternalSignatureID>170</InternalSignatureID>
+   </FileFormat>
+
+  
+</FileFormatCollection></FFSignatureFile>

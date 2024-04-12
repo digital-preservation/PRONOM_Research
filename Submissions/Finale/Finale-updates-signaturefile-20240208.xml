@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<ContainerSignatureMapping schemaVersion="1.0" signatureVersion="3737126"> 
+    <ContainerSignatures>
+
+        <ContainerSignature Id="1000" ContainerType="ZIP">
+            <Description>Finale Notation file</Description>
+            <Files>
+                <File>
+                    <Path>NotationMetadata.xml</Path>
+                </File>
+					 <File>
+                    <Path>mimetype</Path>
+                    <BinarySignatures>
+                        <InternalSignatureCollection>                    
+	                        <InternalSignature ID="300">
+	                            <ByteSequence Reference="BOFoffset">
+	                                <SubSequence Position="1" SubSeqMinOffset="0" SubSeqMaxOffset="0">
+	                                    <Sequence>'application/vnd.makemusic.notation'</Sequence>
+	                                </SubSequence>
+	                            </ByteSequence>
+	                        </InternalSignature>
+	                    </InternalSignatureCollection>
+                    </BinarySignatures>
+                </File>             
+            </Files>
+        </ContainerSignature>
+        
+                <ContainerSignature Id="2000" ContainerType="ZIP">
+            <Description>Compressed MusicXML file</Description>
+            <Files>
+					 <File>
+                    <Path>mimetype</Path>
+                    <BinarySignatures>
+                        <InternalSignatureCollection>                    
+	                        <InternalSignature ID="300">
+	                            <ByteSequence Reference="BOFoffset">
+	                                <SubSequence Position="1" SubSeqMinOffset="0" SubSeqMaxOffset="0">
+	                                    <Sequence>'application/vnd.recordare.musicxml'</Sequence>
+	                                </SubSequence>
+	                            </ByteSequence>
+	                        </InternalSignature>
+	                    </InternalSignatureCollection>
+                    </BinarySignatures>
+                </File>             
+            </Files>
+        </ContainerSignature>
+
+    </ContainerSignatures>
+  
+    <FileFormatMappings>
+    
+    	<!--  Finale Notation Container File (ZIP)-->
+      <FileFormatMapping signatureId="1000" Puid="BYUdev/1"/>
+      
+          	<!--  Compressed MusicXML Container File (ZIP)-->
+      <FileFormatMapping signatureId="2000" Puid="fmt/897"/>
+
+    </FileFormatMappings>
+  
+    <TriggerPuids>
+        <TriggerPuid ContainerType="OLE2" Puid="fmt/111"/> 
+        <TriggerPuid ContainerType="ZIP" Puid="fmt/189"/> 
+        <TriggerPuid ContainerType="ZIP" Puid="x-fmt/263"/> 
+    </TriggerPuids>
+
+</ContainerSignatureMapping>

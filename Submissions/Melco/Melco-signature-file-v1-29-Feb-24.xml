@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FFSignatureFile xmlns="http://www.nationalarchives.gov.uk/pronom/SignatureFile" Version="20240229" DateCreated="2015-01-06T07:33:54+01:00">
+  <InternalSignatureCollection>
+  
+          <InternalSignature ID="170" Specificity="Specific">
+            <ByteSequence Reference="BOFoffset">
+                <SubSequence MinFragLength="0" Position="1"
+                    SubSeqMaxOffset="0" SubSeqMinOffset="0">
+                    <Sequence>D0CF11E0A1B11AE1</Sequence>
+                    <DefaultShift>9</DefaultShift>
+                    <Shift Byte="11">6</Shift>
+                    <Shift Byte="1A">2</Shift>
+                    <Shift Byte="A1">4</Shift>
+                    <Shift Byte="B1">3</Shift>
+                    <Shift Byte="CF">7</Shift>
+                    <Shift Byte="D0">8</Shift>
+                    <Shift Byte="E0">5</Shift>
+                    <Shift Byte="E1">1</Shift>
+                    <RightFragment MaxOffset="20" MinOffset="20" Position="1">FEFF</RightFragment>
+                </SubSequence>
+            </ByteSequence>
+        </InternalSignature>
+  
+        <InternalSignature ID="200" Specificity="Specific">
+            <ByteSequence Reference="BOFoffset">
+                <SubSequence MinFragLength="0" Position="1"
+                    SubSeqMaxOffset="4" SubSeqMinOffset="0">
+                    <Sequence>504B0304</Sequence>
+                    <DefaultShift>5</DefaultShift>
+                    <Shift Byte="03">2</Shift>
+                    <Shift Byte="04">1</Shift>
+                    <Shift Byte="4B">3</Shift>
+                    <Shift Byte="50">4</Shift>
+                </SubSequence>
+            </ByteSequence>
+            <ByteSequence Endianness="Little-endian" Reference="EOFoffset">
+                <SubSequence MinFragLength="0" Position="1"
+                    SubSeqMaxOffset="65531" SubSeqMinOffset="18">
+                    <Sequence>504B0506</Sequence>
+                    <DefaultShift>-5</DefaultShift>
+                    <Shift Byte="05">-3</Shift>
+                    <Shift Byte="06">-4</Shift>
+                    <Shift Byte="4B">-2</Shift>
+                    <Shift Byte="50">-1</Shift>
+                    <LeftFragment MaxOffset="65531" MinOffset="43" Position="1">504B01</LeftFragment>
+                </SubSequence>
+            </ByteSequence>
+        </InternalSignature>
+
+        <InternalSignature ID="258" Specificity="Specific">
+            <ByteSequence Endianness="Little-endian" Reference="BOFoffset">
+                <SubSequence MinFragLength="30" Position="1"
+                    SubSeqMaxOffset="0" SubSeqMinOffset="0">
+                    <Sequence>5B436F6E74656E745F54797065735D2E786D6C20A2</Sequence>
+                    <DefaultShift>22</DefaultShift>
+                    <Shift Byte="20">2</Shift>
+                    <Shift Byte="2E">6</Shift>
+                    <Shift Byte="43">20</Shift>
+                    <Shift Byte="54">12</Shift>
+                    <Shift Byte="5B">21</Shift>
+                    <Shift Byte="5D">7</Shift>
+                    <Shift Byte="5F">13</Shift>
+                    <Shift Byte="65">9</Shift>
+                    <Shift Byte="6C">3</Shift>
+                    <Shift Byte="6D">4</Shift>
+                    <Shift Byte="6E">15</Shift>
+                    <Shift Byte="6F">19</Shift>
+                    <Shift Byte="70">10</Shift>
+                    <Shift Byte="73">8</Shift>
+                    <Shift Byte="74">14</Shift>
+                    <Shift Byte="78">5</Shift>
+                    <Shift Byte="79">11</Shift>
+                    <Shift Byte="A2">1</Shift>
+                    <LeftFragment MaxOffset="26" MinOffset="26" Position="1">504B0304</LeftFragment>
+                </SubSequence>
+                <SubSequence MinFragLength="0" Position="2" SubSeqMinOffset="0">
+                    <Sequence>504B0102</Sequence>
+                    <DefaultShift>5</DefaultShift>
+                    <Shift Byte="01">2</Shift>
+                    <Shift Byte="02">1</Shift>
+                    <Shift Byte="4B">3</Shift>
+                    <Shift Byte="50">4</Shift>
+                </SubSequence>
+                <SubSequence MinFragLength="0" Position="3" SubSeqMinOffset="0">
+                    <Sequence>504B0506</Sequence>
+                    <DefaultShift>5</DefaultShift>
+                    <Shift Byte="05">2</Shift>
+                    <Shift Byte="06">1</Shift>
+                    <Shift Byte="4B">3</Shift>
+                    <Shift Byte="50">4</Shift>
+                </SubSequence>
+            </ByteSequence>
+        </InternalSignature>
+        
+          <InternalSignature ID="2" Specificity="Specific">
+  <ByteSequence Reference="BOFoffset">
+    <SubSequence MinFragLength="0" Position="1" SubSeqMaxOffset="0" SubSeqMinOffset="0">
+      <Sequence>52494646</Sequence>
+      <DefaultShift>5</DefaultShift>
+      <Shift Byte="52">4</Shift>
+      <Shift Byte="49">3</Shift>
+      <Shift Byte="46">1</Shift>
+      <RightFragment MaxOffset="4" MinOffset="4" Position="1">4F464D38</RightFragment>
+    </SubSequence>
+  </ByteSequence>
+</InternalSignature>
+
+</InternalSignatureCollection>
+
+<FileFormatCollection>
+
+  <FileFormat ID="1" Name="Melco Project File" PUID="BYUdev/1">
+    <Extension>ofm</Extension>
+  </FileFormat>
+  
+    <FileFormat ID="2" Name="Melco Project File" PUID="BYUdev/2" Version="11">
+    <InternalSignatureID>2</InternalSignatureID>
+    <Extension>ofm</Extension>
+  </FileFormat>
+
+   <FileFormat ID="767" Name="OLE2 Compound Document Format" PUID="fmt/111">
+      <InternalSignatureID>170</InternalSignatureID>
+   </FileFormat>
+
+   <FileFormat ID="382" MIMEType="application/zip" Name="ZIP Format" PUID="x-fmt/263">
+      <InternalSignatureID>200</InternalSignatureID>
+      <Extension>zip</Extension>
+   </FileFormat>
+
+   <FileFormat ID="910" Name="Microsoft Office Open XML" PUID="fmt/189" Version="2007 onwards">
+      <InternalSignatureID>258</InternalSignatureID>
+      <HasPriorityOverFileFormatID>382</HasPriorityOverFileFormatID>
+   </FileFormat>
+
+</FileFormatCollection></FFSignatureFile>

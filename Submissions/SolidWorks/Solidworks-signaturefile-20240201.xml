@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<ContainerSignatureMapping schemaVersion="1.0" signatureVersion="595961"> 
+    <ContainerSignatures>
+
+        <ContainerSignature Id="1000" ContainerType="OLE2">
+            <Description>SolidWorks Part File</Description>
+            <Files>
+					 <File>
+                    <Path>ISolidWorksInformation</Path>
+                    <BinarySignatures>
+                        <InternalSignatureCollection>                    
+	                        <InternalSignature ID="300">
+	                            <ByteSequence Reference="BOFoffset">
+	                                <SubSequence Position="1" SubSeqMinOffset="0" SubSeqMaxOffset="1024">
+	                                    <Sequence>53 57 2D 46 69 6C 65</Sequence>
+	                                </SubSequence>
+	                            </ByteSequence>
+	                        </InternalSignature>
+	                    </InternalSignatureCollection>
+                    </BinarySignatures>
+                </File>    
+            </Files>
+        </ContainerSignature>
+        
+                <ContainerSignature Id="2000" ContainerType="OLE2">
+            <Description>SolidWorks Assembly File</Description>
+            <Files>
+					 <File>
+                    <Path>ISolidWorksInformation</Path>
+                    <BinarySignatures>
+                        <InternalSignatureCollection>                    
+	                        <InternalSignature ID="300">
+	                            <ByteSequence Reference="BOFoffset">
+	                                <SubSequence Position="1" SubSeqMinOffset="0" SubSeqMaxOffset="1024">
+	                                    <Sequence>41 73 73 65 6D 62 6C 79 20 74 79 70 65</Sequence>
+	                                </SubSequence>
+	                            </ByteSequence>
+	                        </InternalSignature>
+	                    </InternalSignatureCollection>
+                    </BinarySignatures>
+                </File>    
+            </Files>
+        </ContainerSignature>
+        
+        <ContainerSignature Id="3000" ContainerType="OLE2">
+            <Description>SolidWorks Drawing File</Description>
+            <Files>
+					 <File>
+                    <Path>ISolidWorksInformation</Path>
+                    <BinarySignatures>
+                        <InternalSignatureCollection>                    
+	                        <InternalSignature ID="300">
+	                            <ByteSequence Reference="BOFoffset">
+	                                <SubSequence Position="1" SubSeqMinOffset="0" SubSeqMaxOffset="1024">
+	                                    <Sequence>53 57 2D 53 68 65 65 74 20 46 6F 72 6D 61 74</Sequence>
+	                                </SubSequence>
+	                            </ByteSequence>
+	                        </InternalSignature>
+	                    </InternalSignatureCollection>
+                    </BinarySignatures>
+                </File>    
+            </Files>
+        </ContainerSignature>
+
+    </ContainerSignatures>
+  
+    <FileFormatMappings>
+    
+    	<!--  SolidWorks Container File (OLE)-->
+      <FileFormatMapping signatureId="1000" Puid="fmt/1955"/>
+      
+          	<!--  SolidWorks Container File (OLE)-->
+      <FileFormatMapping signatureId="2000" Puid="fmt/1956"/>
+      
+          	<!--  SolidWorks Container File (OLE)-->
+      <FileFormatMapping signatureId="3000" Puid="fmt/1957"/>
+
+    </FileFormatMappings>
+  
+    <TriggerPuids>
+        <TriggerPuid ContainerType="OLE2" Puid="fmt/111"/> 
+        <TriggerPuid ContainerType="ZIP" Puid="fmt/189"/> 
+        <TriggerPuid ContainerType="ZIP" Puid="x-fmt/263"/> 
+    </TriggerPuids>
+
+</ContainerSignatureMapping>

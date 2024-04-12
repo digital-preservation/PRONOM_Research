@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FFSignatureFile xmlns="http://www.nationalarchives.gov.uk/pronom/SignatureFile" Version="1115108" DateCreated="2024-03-22T03:37:21+00:00">
+  <InternalSignatureCollection>
+  
+  <InternalSignature ID="1" Specificity="Specific">
+  <ByteSequence Reference="BOFoffset">
+    <SubSequence MinFragLength="0" Position="1" SubSeqMaxOffset="0" SubSeqMinOffset="0">
+      <Sequence>52494646</Sequence>
+      <DefaultShift>5</DefaultShift>
+      <Shift Byte="52">4</Shift>
+      <Shift Byte="49">3</Shift>
+      <Shift Byte="46">1</Shift>
+      <RightFragment MaxOffset="4" MinOffset="4" Position="1">53454B44</RightFragment>
+    </SubSequence>
+  </ByteSequence>
+</InternalSignature>
+
+  <InternalSignature ID="2" Specificity="Specific">
+  <ByteSequence Reference="BOFoffset">
+    <SubSequence MinFragLength="8" Position="1" SubSeqMaxOffset="0" SubSeqMinOffset="0">
+      <Sequence>53454B4453564950</Sequence>
+      <DefaultShift>9</DefaultShift>
+      <Shift Byte="53">4</Shift>
+      <Shift Byte="45">7</Shift>
+      <Shift Byte="4B">6</Shift>
+      <Shift Byte="44">5</Shift>
+      <Shift Byte="56">3</Shift>
+      <Shift Byte="49">2</Shift>
+      <Shift Byte="50">1</Shift>
+      <LeftFragment MaxOffset="4" MinOffset="4" Position="1">52494646</LeftFragment>
+    </SubSequence>
+  </ByteSequence>
+</InternalSignature>
+
+  <InternalSignature ID="3" Specificity="Specific">
+  <ByteSequence Reference="BOFoffset">
+    <SubSequence MinFragLength="8" Position="1" SubSeqMaxOffset="0" SubSeqMinOffset="0">
+      <Sequence>53454B444D565048</Sequence>
+      <DefaultShift>9</DefaultShift>
+      <Shift Byte="53">8</Shift>
+      <Shift Byte="45">7</Shift>
+      <Shift Byte="4B">6</Shift>
+      <Shift Byte="44">5</Shift>
+      <Shift Byte="4D">4</Shift>
+      <Shift Byte="56">3</Shift>
+      <Shift Byte="50">2</Shift>
+      <Shift Byte="48">1</Shift>
+      <LeftFragment MaxOffset="4" MinOffset="4" Position="1">52494646</LeftFragment>
+    </SubSequence>
+  </ByteSequence>
+</InternalSignature>
+
+  <InternalSignature ID="4" Specificity="Specific">
+  <ByteSequence Reference="BOFoffset">
+    <SubSequence MinFragLength="0" Position="1" SubSeqMaxOffset="0" SubSeqMinOffset="0">
+      <Sequence>4D58524946463634</Sequence>
+      <DefaultShift>9</DefaultShift>
+      <Shift Byte="4D">8</Shift>
+      <Shift Byte="58">7</Shift>
+      <Shift Byte="52">6</Shift>
+      <Shift Byte="49">5</Shift>
+      <Shift Byte="46">3</Shift>
+      <Shift Byte="36">2</Shift>
+      <Shift Byte="34">1</Shift>
+    </SubSequence>
+  </ByteSequence>
+</InternalSignature>
+
+</InternalSignatureCollection>
+<FileFormatCollection>
+
+  <FileFormat ID="1" Name="MAGIX File" PUID="BYUdev/1">
+    <InternalSignatureID>1</InternalSignatureID>
+  </FileFormat>
+  
+   <FileFormat ID="2" Name="MAGIX Project" PUID="BYUdev/2">
+    <InternalSignatureID>2</InternalSignatureID>
+    <Extension>mvd</Extension>
+    <HasPriorityOverFileFormatID>1</HasPriorityOverFileFormatID>
+  </FileFormat>
+  
+   <FileFormat ID="3" Name="MAGIX Project" PUID="BYUdev/3">
+    <InternalSignatureID>3</InternalSignatureID>
+    <Extension>mvp</Extension>
+    <HasPriorityOverFileFormatID>1</HasPriorityOverFileFormatID>
+  </FileFormat>
+  
+    <FileFormat ID="4" Name="MAGIX Video" PUID="BYUdev/4">
+    <InternalSignatureID>4</InternalSignatureID>
+    <Extension>mxv</Extension>
+  </FileFormat>
+  
+</FileFormatCollection></FFSignatureFile>
