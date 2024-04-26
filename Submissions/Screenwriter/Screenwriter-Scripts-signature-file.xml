@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FFSignatureFile xmlns="http://www.nationalarchives.gov.uk/pronom/SignatureFile" Version="19831986" DateCreated="2024-04-26T03:47:35+00:00">
+  <InternalSignatureCollection>
+  
+  <InternalSignature ID="1" Specificity="Specific">
+  <ByteSequence Reference="BOFoffset">
+    <SubSequence MinFragLength="0" Position="1" SubSeqMaxOffset="0" SubSeqMinOffset="0">
+      <Sequence>53637265656E777269746572</Sequence>
+      <DefaultShift>13</DefaultShift>
+      <Shift Byte="53">12</Shift>
+      <Shift Byte="63">11</Shift>
+      <Shift Byte="72">1</Shift>
+      <Shift Byte="65">2</Shift>
+      <Shift Byte="6E">7</Shift>
+      <Shift Byte="77">6</Shift>
+      <Shift Byte="69">4</Shift>
+      <Shift Byte="74">3</Shift>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="1">57</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="1">77</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="2">696E</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="3">56</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="3">76</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="4">6572</RightFragment>
+    </SubSequence>
+  </ByteSequence>
+</InternalSignature>
+
+  <InternalSignature ID="2" Specificity="Specific">
+  <ByteSequence Reference="BOFoffset">
+    <SubSequence MinFragLength="0" Position="1" SubSeqMaxOffset="0" SubSeqMinOffset="0">
+      <Sequence>5363726970745468696E6720566572</Sequence>
+      <DefaultShift>16</DefaultShift>
+      <Shift Byte="53">15</Shift>
+      <Shift Byte="63">14</Shift>
+      <Shift Byte="72">1</Shift>
+      <Shift Byte="69">7</Shift>
+      <Shift Byte="70">11</Shift>
+      <Shift Byte="74">10</Shift>
+      <Shift Byte="54">9</Shift>
+      <Shift Byte="68">8</Shift>
+      <Shift Byte="6E">6</Shift>
+      <Shift Byte="67">5</Shift>
+      <Shift Byte="20">4</Shift>
+      <Shift Byte="56">3</Shift>
+      <Shift Byte="65">2</Shift>
+    </SubSequence>
+  </ByteSequence>
+</InternalSignature>
+
+  <InternalSignature ID="4" Specificity="Specific">
+  <ByteSequence Reference="BOFoffset">
+    <SubSequence MinFragLength="0" Position="1" SubSeqMaxOffset="0" SubSeqMinOffset="0">
+      <Sequence>5363726970745468696E672057696E566572</Sequence>
+      <DefaultShift>19</DefaultShift>
+      <Shift Byte="53">18</Shift>
+      <Shift Byte="63">17</Shift>
+      <Shift Byte="72">1</Shift>
+      <Shift Byte="69">5</Shift>
+      <Shift Byte="70">14</Shift>
+      <Shift Byte="74">13</Shift>
+      <Shift Byte="54">12</Shift>
+      <Shift Byte="68">11</Shift>
+      <Shift Byte="6E">4</Shift>
+      <Shift Byte="67">8</Shift>
+      <Shift Byte="20">7</Shift>
+      <Shift Byte="57">6</Shift>
+      <Shift Byte="56">3</Shift>
+      <Shift Byte="65">2</Shift>
+    </SubSequence>
+  </ByteSequence>
+</InternalSignature>
+
+  <InternalSignature ID="3" Specificity="Specific">
+  <ByteSequence Reference="BOFoffset">
+    <SubSequence MinFragLength="0" Position="1" SubSeqMaxOffset="0" SubSeqMinOffset="0">
+      <Sequence>5353492A00230000</Sequence>
+      <DefaultShift>9</DefaultShift>
+      <Shift Byte="53">7</Shift>
+      <Shift Byte="49">6</Shift>
+      <Shift Byte="2A">5</Shift>
+      <Shift Byte="00">1</Shift>
+      <Shift Byte="23">3</Shift>
+    </SubSequence>
+  </ByteSequence>
+</InternalSignature>
+
+</InternalSignatureCollection>
+<FileFormatCollection>
+
+  <FileFormat ID="1" Name="Screenwriter Script" PUID="BYUdev/1">
+    <InternalSignatureID>1</InternalSignatureID>
+    <Extension>scw</Extension>
+    <Extension>mmsw</Extension>
+    <Extension>def</Extension>
+  </FileFormat>
+  
+    <FileFormat ID="2" Name="ScriptThing Script" PUID="BYUdev/2">
+    <InternalSignatureID>2</InternalSignatureID>
+    <InternalSignatureID>4</InternalSignatureID>
+    <Extension>scr</Extension>
+    <Extension>scw</Extension>
+  </FileFormat>
+  
+    <FileFormat ID="3" Name="Scheduling Export" PUID="BYUdev/3">
+    <InternalSignatureID>3</InternalSignatureID>
+    <Extension>sex</Extension>
+    <Extension>rpt</Extension>
+  </FileFormat>
+  
+</FileFormatCollection></FFSignatureFile>
