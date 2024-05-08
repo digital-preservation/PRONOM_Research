@@ -28,7 +28,7 @@
 </tr>
 <tr class="even">
 <td colspan="7"><blockquote>
-<p>PRONOM Starter Pack</p>
+<h1>PRONOM Starter Pack</h1>
 </blockquote></td>
 </tr>
 <tr class="odd">
