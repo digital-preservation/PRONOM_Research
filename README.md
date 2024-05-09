@@ -4,17 +4,6 @@ PRONOM_Research has been created so that there is a permanent GitHub repository 
 
 We want those who use and submit to PRONOM to have a better understanding of the work we do on a daily basis. Therefore we have [created an area](https://github.com/digital-preservation/PRONOM_Research/tree/main/Test%20Releases) to which we shall upload the test signatures we are working on, on a weekly basis and a [spreadsheet](https://docs.google.com/spreadsheets/d/1P1GGevHysUQnivsmf6EFo8ZyfKRPwUJa5eoJ3JODRq0/edit?usp=sharing) where you can view the progress of the next release.
 
-# Resources
-
-* The main PRONOM website can be found here: www.nationalarchives.gov.uk/PRONOM.
-* Ross Spencer's signature development utility for both binary and container signatures can be found [here](https://openpreservation.org/blogs/pronom-research-week-signature-development-utility-2-0-ffdev-info/).
-* A list of blogs, presentations, and other resources to assist with PRONOM research and file format signature development [can be found here](https://docs.google.com/spreadsheets/d/12YnUPnHaoYzDrf2SgxGDxi5e6r3WOpEfk23ibt3qVyg/edit#gid=0).
-* If you would like help or advice on conducting your research, crafting your submission, creating a signature, or if you're having difficulty finding samples, please create a conversation thread on our [Google Group](https://groups.google.com/g/pronom).
-* [Here](Resources/All_formats_lists/pronom_formats_v108.csv) is the full list of everything in PRONOM as of the v108 release on 5 September 2022. From here you can see which formats don't currently have MIME/Media types, lists of associated extensions, deprecated formats and formats that have signatures (including container signatures).
-* [Here](Resources/formats_without_signatures/formats_without_signatures_october_2022.csv) is a list of PUIDs that currently lack signatures. Can you help sourcing example files and suggesting potential identification signatures?
-* [Here](https://github.com/digital-preservation/pronom-research-week/blob/master/formats_with_outline_descriptions_only.csv) is a list of PUIDs that currently only have an 'outline' description. Can you help us with some suggestions for PRONOM descriptive text entry? Descriptions should be objective descriptions of what the format does and can include information about its originating software and so should not contain qualitative information, such as '...is the best format for...'.
-* [Here](https://docs.google.com/spreadsheets/d/1P1GGevHysUQnivsmf6EFo8ZyfKRPwUJa5eoJ3JODRq0/edit#gid=1343176804) is a list of files which we are looking for samples of, or information about. Can you help by providing some, or point us in the direction of where we can find them?
-
 # Contributions and Getting in Touch
 
 ## GitHub
@@ -92,6 +81,17 @@ The current list of format classifications within PRONOM are:
 * Font
 
 Your format may not easily fit into any of the above categories, so feel free to reach out for advice!
+
+# Resources
+
+* The main PRONOM website can be found here: www.nationalarchives.gov.uk/PRONOM.
+* Ross Spencer's signature development utility for both binary and container signatures can be found [here](https://openpreservation.org/blogs/pronom-research-week-signature-development-utility-2-0-ffdev-info/).
+* A list of blogs, presentations, and other resources to assist with PRONOM research and file format signature development [can be found here](https://docs.google.com/spreadsheets/d/12YnUPnHaoYzDrf2SgxGDxi5e6r3WOpEfk23ibt3qVyg/edit#gid=0).
+* If you would like help or advice on conducting your research, crafting your submission, creating a signature, or if you're having difficulty finding samples, please create a conversation thread on our [Google Group](https://groups.google.com/g/pronom).
+* [Here](Resources/All_formats_lists/pronom_formats_v108.csv) is the full list of everything in PRONOM as of the v108 release on 5 September 2022. From here you can see which formats don't currently have MIME/Media types, lists of associated extensions, deprecated formats and formats that have signatures (including container signatures).
+* [Here](Resources/formats_without_signatures/formats_without_signatures_october_2022.csv) is a list of PUIDs that currently lack signatures. Can you help sourcing example files and suggesting potential identification signatures?
+* [Here](https://github.com/digital-preservation/pronom-research-week/blob/master/formats_with_outline_descriptions_only.csv) is a list of PUIDs that currently only have an 'outline' description. Can you help us with some suggestions for PRONOM descriptive text entry? Descriptions should be objective descriptions of what the format does and can include information about its originating software and so should not contain qualitative information, such as '...is the best format for...'.
+* [Here](https://docs.google.com/spreadsheets/d/1P1GGevHysUQnivsmf6EFo8ZyfKRPwUJa5eoJ3JODRq0/edit#gid=1343176804) is a list of files which we are looking for samples of, or information about. Can you help by providing some, or point us in the direction of where we can find them?
 
 # Licensing
 
