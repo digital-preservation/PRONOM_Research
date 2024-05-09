@@ -19,24 +19,23 @@ We want those who use and submit to PRONOM to have a better understanding of the
 
 ## GitHub
 
-A GitHub account is required for the following
+If there is an issue, or you have some research to submit then this GitHub area is a good place to start. There are two options available to you, the first is to raise an issue (perfect for suggestions and improvements) or to create a pull request (perfect for file changes, uploading research and improvements to this repository). For both of these actions you will need to be registered for a GitHub account.
 
 ### Raising Issues
 
-If you are new to GitHub or not raised an issue before, then guidance can be found [here](https://docs.github.com/en/issues/tracking-your-work-with-issues/about-issues).
+We have an issue area with templates for different types of issue you may wish to raise. If you are new to GitHub or not raised an issue before, then guidance can be found [here](https://docs.github.com/en/issues/tracking-your-work-with-issues/about-issues).
 
 ### Creating Pull Requests
 
-If you are new to GitHub or not created a pull request before, then guidance can be found [here]().
-
-
-## Google Sheets
-
-If you are not sure where to start with file format research, then this could be the perfect place to start. If you have cataloguing and research skills, then working on descriptions in the PRONOM database could be for you, no technical expertise is required. Many of the file formats in PRONOM do not have a proper description, they only have what we call 'Outline Descriptions', therefore the team have set up an [online spreadsheet](https://docs.google.com/spreadsheets/d/1-iaHhNDP2yvWZxm8R-4UDrsdBzn8EfFCjw9sdJ1AnJM/edit?usp=sharing) to help tackle this issue.
+If you wish to upload research into our submissions area, or wish to make improvements to the repository then submitting a pull request would be the better option. If you are new to GitHub or not created a pull request before, then guidance can be found [here](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests).
 
 ## GoogleGroups
 
 PRONOM has a [Google Group](https://groups.google.com/g/pronom)  where you can join discussions, post queries and receive updates on our work. It is also useful if you would like help or advice on conducting your research, crafting your submission, creating a signature, or if you're having difficulty finding samples. 
+
+## Google Sheets
+
+If you are not sure where to start with file format research, then this could be the perfect place to start. If you have cataloguing and research skills, then working on descriptions in the PRONOM database could be for you, no technical expertise is required. Many of the file formats in PRONOM do not have a proper description, they only have what we call 'Outline Descriptions', therefore the team have set up an [online spreadsheet](https://docs.google.com/spreadsheets/d/1-iaHhNDP2yvWZxm8R-4UDrsdBzn8EfFCjw9sdJ1AnJM/edit?usp=sharing) to help tackle this issue.
 
 ## Email
 
