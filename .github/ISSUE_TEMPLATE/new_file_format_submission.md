@@ -39,3 +39,11 @@ Which vendor created the format? Which vendor currently supports it?
 **File format identification signatures**
 
 Useful information is a description of the byte sequence (or sequences) that identifies this format, how far from the beginning or end of file (BOF/EOF) the sequence is found and any other information that helps with unambiguous identification of this file format.
+
+**Relevant links, documentation, extra information**
+
+Any links to where you found your information, or anything else you think is important not yet covered.
+
+**Credit**
+
+We like to credit everyone who submits to PRONOM. The name by which you wish to be credited will appear in the release notes and possibly in the database too. Contributors are usually credited by organisation but you can use your name also. Of course you can choose to remain anonymous.
