@@ -2,7 +2,7 @@
 name: Update File Format Submission
 description: This template is designed for anyone who would like to suggest improvements or changes to the current database
 title: ''
-labels: ''
+labels: 'update-format'
 assignees: ''
 ---
 
