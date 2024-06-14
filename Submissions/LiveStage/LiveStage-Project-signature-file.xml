@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FFSignatureFile xmlns="http://www.nationalarchives.gov.uk/pronom/SignatureFile" Version="19992005" DateCreated="2024-06-14T04:57:30+00:00">
+  <InternalSignatureCollection>
+  
+  <InternalSignature ID="1" Specificity="Specific">
+  <ByteSequence Reference="BOFoffset">
+    <SubSequence MinFragLength="0" Position="1" SubSeqMaxOffset="0" SubSeqMinOffset="0">
+      <Sequence>4C53507200000008</Sequence>
+      <DefaultShift>9</DefaultShift>
+      <Shift Byte="4C">8</Shift>
+      <Shift Byte="53">7</Shift>
+      <Shift Byte="50">6</Shift>
+      <Shift Byte="72">5</Shift>
+      <Shift Byte="00">2</Shift>
+      <Shift Byte="08">1</Shift>
+    </SubSequence>
+  </ByteSequence>
+</InternalSignature>
+
+  <InternalSignature ID="2" Specificity="Specific">
+  <ByteSequence Reference="BOFoffset">
+    <SubSequence MinFragLength="0" Position="1" SubSeqMaxOffset="0" SubSeqMinOffset="0">
+      <Sequence>4C534146000000</Sequence>
+      <DefaultShift>8</DefaultShift>
+      <Shift Byte="4C">7</Shift>
+      <Shift Byte="53">6</Shift>
+      <Shift Byte="41">5</Shift>
+      <Shift Byte="46">4</Shift>
+      <Shift Byte="00">1</Shift>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="1">02</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="1">04</RightFragment>
+    </SubSequence>
+  </ByteSequence>
+</InternalSignature>
+
+</InternalSignatureCollection>
+<FileFormatCollection>
+
+  <FileFormat ID="1" Name="LiveStage Project" PUID="BYUdev/1" Version="1">
+    <InternalSignatureID>1</InternalSignatureID>
+    <Extension>lsd</Extension>
+  </FileFormat>
+  
+    <FileFormat ID="2" Name="LiveStage Project" PUID="BYUdev/2" Version="2-4">
+    <InternalSignatureID>2</InternalSignatureID>
+    <Extension>lsd</Extension>
+  </FileFormat>
+  
+</FileFormatCollection></FFSignatureFile>
