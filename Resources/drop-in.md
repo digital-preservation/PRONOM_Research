@@ -4,17 +4,17 @@ The PRONOM team would also like to share details of their PRONOM drop-in session
 
 Every 2 weeks at Thursday 4pm UK time or 11am (ET). The meeting link to join for these sessions can be found [here](https://teams.microsoft.com/l/meetup-join/19%3ameeting_OThkMzIwMWItYTUzYS00NDIxLTgzNTEtMzAwMGQzYWZhNmJi%40thread.v2/0?context=%7b%22Tid%22%3a%22f99512c1-fd9f-4475-9896-9a0b3cdc50ec%22%2c%22Oid%22%3a%22e02319b9-2b3a-4408-86ee-7cd0ba62ed9f%22%7d). The next few dates can be found below:
 
-* 26/10/2023
+* 09/05/2024
 
-* 09/11/2023
+* 23/05/2024
 
-* 23/11/2023
+* 06/06/2024
 
-* 07/12/2023
+* 20/06/2024
 
-* 21/12/2023
+* 04/07/2024
 
-* 04/01/2024
+* 18/07/2024
 
 An [iCalendar](https://en.wikipedia.org/wiki/ICalendar) for the meetings at the UK times can be found in the calendar folder, and is linked to [here](calendar/pronom-drop-in-gmt.ics).
 
