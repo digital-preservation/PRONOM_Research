@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FFSignatureFile xmlns="http://www.nationalarchives.gov.uk/pronom/SignatureFile" Version="20242025" DateCreated="2024-04-12T01:59:55+00:00">
+  <InternalSignatureCollection>
+  
+          <InternalSignature ID="1025" Specificity="Specific">
+            <ByteSequence Reference="BOFoffset">
+                <SubSequence MinFragLength="0" Position="1"
+                    SubSeqMaxOffset="0" SubSeqMinOffset="0">
+                    <Sequence>0F534942454C495553</Sequence>
+                    <DefaultShift>10</DefaultShift>
+                    <Shift Byte="0F">9</Shift>
+                    <Shift Byte="42">6</Shift>
+                    <Shift Byte="45">5</Shift>
+                    <Shift Byte="49">3</Shift>
+                    <Shift Byte="4C">4</Shift>
+                    <Shift Byte="53">1</Shift>
+                    <Shift Byte="55">2</Shift>
+                </SubSequence>
+            </ByteSequence>
+        </InternalSignature>
+  
+  <InternalSignature ID="1" Specificity="Specific">
+  <ByteSequence Reference="BOFoffset">
+    <SubSequence MinFragLength="0" Position="1" SubSeqMaxOffset="0" SubSeqMinOffset="0">
+      <Sequence>0F534942454C495553</Sequence>
+      <DefaultShift>10</DefaultShift>
+      <Shift Byte="0F">9</Shift>
+      <Shift Byte="53">1</Shift>
+      <Shift Byte="49">3</Shift>
+      <Shift Byte="42">6</Shift>
+      <Shift Byte="45">5</Shift>
+      <Shift Byte="4C">4</Shift>
+      <Shift Byte="55">2</Shift>
+      <RightFragment MaxOffset="1" MinOffset="1" Position="1">0000000E</RightFragment>
+    </SubSequence>
+  </ByteSequence>
+</InternalSignature>
+
+  <InternalSignature ID="2" Specificity="Specific">
+  <ByteSequence Reference="BOFoffset">
+    <SubSequence MinFragLength="0" Position="1" SubSeqMaxOffset="0" SubSeqMinOffset="0">
+      <Sequence>0F534942454C495553</Sequence>
+      <DefaultShift>10</DefaultShift>
+      <Shift Byte="0F">9</Shift>
+      <Shift Byte="53">1</Shift>
+      <Shift Byte="49">3</Shift>
+      <Shift Byte="42">6</Shift>
+      <Shift Byte="45">5</Shift>
+      <Shift Byte="4C">4</Shift>
+      <Shift Byte="55">2</Shift>
+      <RightFragment MaxOffset="1" MinOffset="1" Position="1">0008</RightFragment>
+    </SubSequence>
+  </ByteSequence>
+</InternalSignature>
+
+  <InternalSignature ID="3" Specificity="Specific">
+  <ByteSequence Reference="BOFoffset">
+    <SubSequence MinFragLength="0" Position="1" SubSeqMaxOffset="0" SubSeqMinOffset="0">
+      <Sequence>0F534942454C495553</Sequence>
+      <DefaultShift>10</DefaultShift>
+      <Shift Byte="0F">9</Shift>
+      <Shift Byte="53">1</Shift>
+      <Shift Byte="49">3</Shift>
+      <Shift Byte="42">6</Shift>
+      <Shift Byte="45">5</Shift>
+      <Shift Byte="4C">4</Shift>
+      <Shift Byte="55">2</Shift>
+      <RightFragment MaxOffset="1" MinOffset="1" Position="1">000A</RightFragment>
+    </SubSequence>
+  </ByteSequence>
+</InternalSignature>
+
+  <InternalSignature ID="4" Specificity="Specific">
+  <ByteSequence Reference="BOFoffset">
+    <SubSequence MinFragLength="0" Position="1" SubSeqMaxOffset="0" SubSeqMinOffset="0">
+      <Sequence>0F534942454C495553</Sequence>
+      <DefaultShift>10</DefaultShift>
+      <Shift Byte="0F">9</Shift>
+      <Shift Byte="53">1</Shift>
+      <Shift Byte="49">3</Shift>
+      <Shift Byte="42">6</Shift>
+      <Shift Byte="45">5</Shift>
+      <Shift Byte="4C">4</Shift>
+      <Shift Byte="55">2</Shift>
+      <RightFragment MaxOffset="1" MinOffset="1" Position="1">001B</RightFragment>
+    </SubSequence>
+  </ByteSequence>
+</InternalSignature>
+
+  <InternalSignature ID="5" Specificity="Specific">
+  <ByteSequence Reference="BOFoffset">
+    <SubSequence MinFragLength="0" Position="1" SubSeqMaxOffset="0" SubSeqMinOffset="0">
+      <Sequence>0F534942454C495553</Sequence>
+      <DefaultShift>10</DefaultShift>
+      <Shift Byte="0F">9</Shift>
+      <Shift Byte="53">1</Shift>
+      <Shift Byte="49">3</Shift>
+      <Shift Byte="42">6</Shift>
+      <Shift Byte="45">5</Shift>
+      <Shift Byte="4C">4</Shift>
+      <Shift Byte="55">2</Shift>
+      <RightFragment MaxOffset="1" MinOffset="1" Position="1">002D</RightFragment>
+    </SubSequence>
+  </ByteSequence>
+</InternalSignature>
+
+  <InternalSignature ID="6" Specificity="Specific">
+  <ByteSequence Reference="BOFoffset">
+    <SubSequence MinFragLength="0" Position="1" SubSeqMaxOffset="0" SubSeqMinOffset="0">
+      <Sequence>0F534942454C495553</Sequence>
+      <DefaultShift>10</DefaultShift>
+      <Shift Byte="0F">9</Shift>
+      <Shift Byte="53">1</Shift>
+      <Shift Byte="49">3</Shift>
+      <Shift Byte="42">6</Shift>
+      <Shift Byte="45">5</Shift>
+      <Shift Byte="4C">4</Shift>
+      <Shift Byte="55">2</Shift>
+      <RightFragment MaxOffset="1" MinOffset="1" Position="1">0036</RightFragment>
+    </SubSequence>
+  </ByteSequence>
+</InternalSignature>
+
+  <InternalSignature ID="7" Specificity="Specific">
+  <ByteSequence Reference="BOFoffset">
+    <SubSequence MinFragLength="0" Position="1" SubSeqMaxOffset="0" SubSeqMinOffset="0">
+      <Sequence>0F534942454C495553</Sequence>
+      <DefaultShift>10</DefaultShift>
+      <Shift Byte="0F">9</Shift>
+      <Shift Byte="53">1</Shift>
+      <Shift Byte="49">3</Shift>
+      <Shift Byte="42">6</Shift>
+      <Shift Byte="45">5</Shift>
+      <Shift Byte="4C">4</Shift>
+      <Shift Byte="55">2</Shift>
+      <RightFragment MaxOffset="1" MinOffset="1" Position="1">0039</RightFragment>
+    </SubSequence>
+  </ByteSequence>
+</InternalSignature>
+
+  <InternalSignature ID="75" Specificity="Specific">
+  <ByteSequence Reference="BOFoffset">
+    <SubSequence MinFragLength="0" Position="1" SubSeqMaxOffset="0" SubSeqMinOffset="0">
+      <Sequence>0F534942454C495553</Sequence>
+      <DefaultShift>10</DefaultShift>
+      <Shift Byte="0F">9</Shift>
+      <Shift Byte="53">1</Shift>
+      <Shift Byte="49">3</Shift>
+      <Shift Byte="42">6</Shift>
+      <Shift Byte="45">5</Shift>
+      <Shift Byte="4C">4</Shift>
+      <Shift Byte="55">2</Shift>
+      <RightFragment MaxOffset="1" MinOffset="1" Position="1">003D</RightFragment>
+    </SubSequence>
+  </ByteSequence>
+</InternalSignature>
+
+  <InternalSignature ID="8" Specificity="Specific">
+  <ByteSequence Reference="BOFoffset">
+    <SubSequence MinFragLength="0" Position="1" SubSeqMaxOffset="0" SubSeqMinOffset="0">
+      <Sequence>0F534942454C495553</Sequence>
+      <DefaultShift>10</DefaultShift>
+      <Shift Byte="0F">9</Shift>
+      <Shift Byte="53">1</Shift>
+      <Shift Byte="49">3</Shift>
+      <Shift Byte="42">6</Shift>
+      <Shift Byte="45">5</Shift>
+      <Shift Byte="4C">4</Shift>
+      <Shift Byte="55">2</Shift>
+      <RightFragment MaxOffset="1" MinOffset="1" Position="1">003E</RightFragment>
+    </SubSequence>
+  </ByteSequence>
+</InternalSignature>
+
+  <InternalSignature ID="86" Specificity="Specific">
+  <ByteSequence Reference="BOFoffset">
+    <SubSequence MinFragLength="0" Position="1" SubSeqMaxOffset="0" SubSeqMinOffset="0">
+      <Sequence>0F534942454C495553</Sequence>
+      <DefaultShift>10</DefaultShift>
+      <Shift Byte="0F">9</Shift>
+      <Shift Byte="53">1</Shift>
+      <Shift Byte="49">3</Shift>
+      <Shift Byte="42">6</Shift>
+      <Shift Byte="45">5</Shift>
+      <Shift Byte="4C">4</Shift>
+      <Shift Byte="55">2</Shift>
+      <RightFragment MaxOffset="1" MinOffset="1" Position="1">003F00[00:0A]</RightFragment>
+    </SubSequence>
+  </ByteSequence>
+</InternalSignature>
+
+  <InternalSignature ID="9" Specificity="Specific">
+  <ByteSequence Reference="BOFoffset">
+    <SubSequence MinFragLength="0" Position="1" SubSeqMaxOffset="0" SubSeqMinOffset="0">
+      <Sequence>0F534942454C495553</Sequence>
+      <DefaultShift>10</DefaultShift>
+      <Shift Byte="0F">9</Shift>
+      <Shift Byte="53">1</Shift>
+      <Shift Byte="49">3</Shift>
+      <Shift Byte="42">6</Shift>
+      <Shift Byte="45">5</Shift>
+      <Shift Byte="4C">4</Shift>
+      <Shift Byte="55">2</Shift>
+      <RightFragment MaxOffset="1" MinOffset="1" Position="1">003F000B</RightFragment>
+    </SubSequence>
+  </ByteSequence>
+</InternalSignature>
+
+  <InternalSignature ID="10" Specificity="Specific">
+  <ByteSequence Reference="BOFoffset">
+    <SubSequence MinFragLength="0" Position="1" SubSeqMaxOffset="0" SubSeqMinOffset="0">
+      <Sequence>0F534942454C495553</Sequence>
+      <DefaultShift>10</DefaultShift>
+      <Shift Byte="0F">9</Shift>
+      <Shift Byte="53">1</Shift>
+      <Shift Byte="49">3</Shift>
+      <Shift Byte="42">6</Shift>
+      <Shift Byte="45">5</Shift>
+      <Shift Byte="4C">4</Shift>
+      <Shift Byte="55">2</Shift>
+      <RightFragment MaxOffset="1" MinOffset="1" Position="1">0040</RightFragment>
+    </SubSequence>
+  </ByteSequence>
+</InternalSignature>
+
+  <InternalSignature ID="11" Specificity="Specific">
+  <ByteSequence Reference="BOFoffset">
+    <SubSequence MinFragLength="0" Position="1" SubSeqMaxOffset="0" SubSeqMinOffset="0">
+      <Sequence>0F534942454C495553</Sequence>
+      <DefaultShift>10</DefaultShift>
+      <Shift Byte="0F">9</Shift>
+      <Shift Byte="53">1</Shift>
+      <Shift Byte="49">3</Shift>
+      <Shift Byte="42">6</Shift>
+      <Shift Byte="45">5</Shift>
+      <Shift Byte="4C">4</Shift>
+      <Shift Byte="55">2</Shift>
+      <RightFragment MaxOffset="1" MinOffset="1" Position="1">0041</RightFragment>
+    </SubSequence>
+  </ByteSequence>
+</InternalSignature>
+
+  <InternalSignature ID="12" Specificity="Specific">
+  <ByteSequence Reference="BOFoffset">
+    <SubSequence MinFragLength="0" Position="1" SubSeqMaxOffset="0" SubSeqMinOffset="0">
+      <Sequence>0F534942454C495553</Sequence>
+      <DefaultShift>10</DefaultShift>
+      <Shift Byte="0F">9</Shift>
+      <Shift Byte="53">1</Shift>
+      <Shift Byte="49">3</Shift>
+      <Shift Byte="42">6</Shift>
+      <Shift Byte="45">5</Shift>
+      <Shift Byte="4C">4</Shift>
+      <Shift Byte="55">2</Shift>
+      <RightFragment MaxOffset="1" MinOffset="1" Position="1">0042</RightFragment>
+    </SubSequence>
+  </ByteSequence>
+</InternalSignature>
+
+  <InternalSignature ID="13" Specificity="Specific">
+  <ByteSequence Reference="BOFoffset">
+    <SubSequence MinFragLength="0" Position="1" SubSeqMaxOffset="0" SubSeqMinOffset="0">
+      <Sequence>0F534942454C495553</Sequence>
+      <DefaultShift>10</DefaultShift>
+      <Shift Byte="0F">9</Shift>
+      <Shift Byte="53">1</Shift>
+      <Shift Byte="49">3</Shift>
+      <Shift Byte="42">6</Shift>
+      <Shift Byte="45">5</Shift>
+      <Shift Byte="4C">4</Shift>
+      <Shift Byte="55">2</Shift>
+      <RightFragment MaxOffset="1" MinOffset="1" Position="1">0043</RightFragment>
+    </SubSequence>
+  </ByteSequence>
+</InternalSignature>
+
+  <InternalSignature ID="14" Specificity="Specific">
+  <ByteSequence Reference="BOFoffset">
+    <SubSequence MinFragLength="0" Position="1" SubSeqMaxOffset="0" SubSeqMinOffset="0">
+      <Sequence>0F534942454C495553</Sequence>
+      <DefaultShift>10</DefaultShift>
+      <Shift Byte="0F">9</Shift>
+      <Shift Byte="53">1</Shift>
+      <Shift Byte="49">3</Shift>
+      <Shift Byte="42">6</Shift>
+      <Shift Byte="45">5</Shift>
+      <Shift Byte="4C">4</Shift>
+      <Shift Byte="55">2</Shift>
+      <RightFragment MaxOffset="1" MinOffset="1" Position="1">0044</RightFragment>
+    </SubSequence>
+  </ByteSequence>
+</InternalSignature>
+
+  <InternalSignature ID="15" Specificity="Specific">
+  <ByteSequence Reference="BOFoffset">
+    <SubSequence MinFragLength="0" Position="1" SubSeqMaxOffset="0" SubSeqMinOffset="0">
+      <Sequence>0F434353434F524348</Sequence>
+      <DefaultShift>10</DefaultShift>
+      <Shift Byte="0F">9</Shift>
+      <Shift Byte="43">2</Shift>
+      <Shift Byte="53">6</Shift>
+      <Shift Byte="4F">4</Shift>
+      <Shift Byte="52">3</Shift>
+      <Shift Byte="48">1</Shift>
+    </SubSequence>
+  </ByteSequence>
+</InternalSignature>
+
+</InternalSignatureCollection>
+<FileFormatCollection>
+
+  <FileFormat ID="1" Name="Sibelius Score" PUID="BYUdev/1" Version="1.2" MIMEType="application/x-sibelius-score">
+    <InternalSignatureID>1</InternalSignatureID>
+    <Extension>sib</Extension>
+    <HasPriorityOverFileFormatID>1495</HasPriorityOverFileFormatID>
+  </FileFormat>
+  
+    <FileFormat ID="2" Name="Sibelius Score" PUID="BYUdev/2" Version="2" MIMEType="application/x-sibelius-score">
+    <InternalSignatureID>2</InternalSignatureID>
+    <Extension>sib</Extension>
+    <HasPriorityOverFileFormatID>1495</HasPriorityOverFileFormatID>
+  </FileFormat>
+  
+    <FileFormat ID="3" Name="Sibelius Score" PUID="BYUdev/3" Version="3" MIMEType="application/x-sibelius-score">
+    <InternalSignatureID>3</InternalSignatureID>
+    <Extension>sib</Extension>
+    <HasPriorityOverFileFormatID>1495</HasPriorityOverFileFormatID>
+  </FileFormat>
+
+  <FileFormat ID="4" Name="Sibelius Score" PUID="BYUdev/4" Version="4" MIMEType="application/x-sibelius-score">
+    <InternalSignatureID>4</InternalSignatureID>
+    <Extension>sib</Extension>
+    <HasPriorityOverFileFormatID>1495</HasPriorityOverFileFormatID>
+  </FileFormat>
+  
+    <FileFormat ID="5" Name="Sibelius Score" PUID="BYUdev/5" Version="5" MIMEType="application/x-sibelius-score">
+    <InternalSignatureID>5</InternalSignatureID>
+    <Extension>sib</Extension>
+    <HasPriorityOverFileFormatID>1495</HasPriorityOverFileFormatID>
+  </FileFormat>
+  
+    <FileFormat ID="6" Name="Sibelius Score" PUID="BYUdev/6" Version="6" MIMEType="application/x-sibelius-score">
+    <InternalSignatureID>6</InternalSignatureID>
+    <Extension>sib</Extension>
+    <HasPriorityOverFileFormatID>1495</HasPriorityOverFileFormatID>
+  </FileFormat>
+  
+    <FileFormat ID="7" Name="Sibelius Score" PUID="BYUdev/7" Version="7" MIMEType="application/x-sibelius-score">
+    <InternalSignatureID>7</InternalSignatureID>
+    <Extension>sib</Extension>
+    <HasPriorityOverFileFormatID>1495</HasPriorityOverFileFormatID>
+  </FileFormat>
+  
+    <FileFormat ID="75" Name="Sibelius Score" PUID="BYUdev/75" Version="7.5-8.0" MIMEType="application/x-sibelius-score">
+    <InternalSignatureID>75</InternalSignatureID>
+    <Extension>sib</Extension>
+    <HasPriorityOverFileFormatID>1495</HasPriorityOverFileFormatID>
+  </FileFormat>
+  
+    <FileFormat ID="8" Name="Sibelius Score" PUID="BYUdev/8" Version="8.1-8.5" MIMEType="application/x-sibelius-score">
+    <InternalSignatureID>8</InternalSignatureID>
+    <Extension>sib</Extension>
+    <HasPriorityOverFileFormatID>1495</HasPriorityOverFileFormatID>
+  </FileFormat>
+  
+    <FileFormat ID="86" Name="Sibelius Score" PUID="BYUdev/86" Version="8.6-2019.12" MIMEType="application/x-sibelius-score">
+    <InternalSignatureID>86</InternalSignatureID>
+    <Extension>sib</Extension>
+    <HasPriorityOverFileFormatID>1495</HasPriorityOverFileFormatID>
+  </FileFormat>
+  
+    <FileFormat ID="9" Name="Sibelius Score" PUID="BYUdev/9" Version="2020.1" MIMEType="application/x-sibelius-score">
+    <InternalSignatureID>9</InternalSignatureID>
+    <Extension>sib</Extension>
+    <HasPriorityOverFileFormatID>1495</HasPriorityOverFileFormatID>
+  </FileFormat>
+  
+    <FileFormat ID="10" Name="Sibelius Score" PUID="BYUdev/10" Version="2020.3-2022.5" MIMEType="application/x-sibelius-score">
+    <InternalSignatureID>10</InternalSignatureID>
+    <Extension>sib</Extension>
+    <HasPriorityOverFileFormatID>1495</HasPriorityOverFileFormatID>
+  </FileFormat>
+  
+    <FileFormat ID="11" Name="Sibelius Score" PUID="BYUdev/11" Version="2022.7-2022.11" MIMEType="application/x-sibelius-score">
+    <InternalSignatureID>11</InternalSignatureID>
+    <Extension>sib</Extension>
+    <HasPriorityOverFileFormatID>1495</HasPriorityOverFileFormatID>
+  </FileFormat>
+  
+    <FileFormat ID="12" Name="Sibelius Score" PUID="BYUdev/12" Version="2022.12-2023.3" MIMEType="application/x-sibelius-score">
+    <InternalSignatureID>12</InternalSignatureID>
+    <Extension>sib</Extension>
+    <HasPriorityOverFileFormatID>1495</HasPriorityOverFileFormatID>
+  </FileFormat>
+  
+    <FileFormat ID="13" Name="Sibelius Score" PUID="BYUdev/13" Version="2023.5-2023.8" MIMEType="application/x-sibelius-score">
+    <InternalSignatureID>13</InternalSignatureID>
+    <Extension>sib</Extension>
+    <HasPriorityOverFileFormatID>1495</HasPriorityOverFileFormatID>
+  </FileFormat>
+  
+    <FileFormat ID="14" Name="Sibelius Score" PUID="BYUdev/14" Version="2024" MIMEType="application/x-sibelius-score">
+    <InternalSignatureID>14</InternalSignatureID>
+    <Extension>sib</Extension>
+    <HasPriorityOverFileFormatID>1495</HasPriorityOverFileFormatID>
+  </FileFormat>
+  
+    <FileFormat ID="15" Name="Sibelius Scorch" PUID="BYUdev/15" MIMEType="application/x-sibileus-scorch">
+    <InternalSignatureID>15</InternalSignatureID>
+    <Extension>sco</Extension>
+  </FileFormat>
+  
+  
+          <FileFormat ID="1495" Name="Sibelius" PUID="fmt/696">
+            <InternalSignatureID>1025</InternalSignatureID>
+            <Extension>sib</Extension>
+        </FileFormat>
+  
+</FileFormatCollection></FFSignatureFile>
