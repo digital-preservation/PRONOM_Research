@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FFSignatureFile xmlns="http://www.nationalarchives.gov.uk/pronom/SignatureFile" Version="747477" DateCreated="2024-07-05T00:00:11+00:00">
+  <InternalSignatureCollection>
+  
+  <InternalSignature ID="1" Specificity="Specific">
+  <ByteSequence Reference="BOFoffset">
+    <SubSequence MinFragLength="6" Position="1" SubSeqMaxOffset="0" SubSeqMinOffset="0">
+      <Sequence>00000000</Sequence>
+      <DefaultShift>5</DefaultShift>
+      <Shift Byte="00">1</Shift>
+      <LeftFragment MaxOffset="4" MinOffset="4" Position="1">424D</LeftFragment>
+      <RightFragment MaxOffset="1536" MinOffset="0" Position="1">FFD8</RightFragment>
+      <RightFragment MaxOffset="64" MinOffset="0" Position="2">504943</RightFragment>
+    </SubSequence>
+  </ByteSequence>
+</InternalSignature>
+
+  <InternalSignature ID="2" Specificity="Specific">
+  <ByteSequence Reference="BOFoffset">
+    <SubSequence MinFragLength="0" Position="1" SubSeqMaxOffset="0" SubSeqMinOffset="0">
+      <Sequence>50494332</Sequence>
+      <DefaultShift>5</DefaultShift>
+      <Shift Byte="50">4</Shift>
+      <Shift Byte="49">3</Shift>
+      <Shift Byte="43">2</Shift>
+      <Shift Byte="32">1</Shift>
+      <RightFragment MaxOffset="128" MinOffset="0" Position="1">504943</RightFragment>
+    </SubSequence>
+  </ByteSequence>
+</InternalSignature>
+
+</InternalSignatureCollection>
+<FileFormatCollection>
+
+  <FileFormat ID="1" Name="ePic Image" PUID="BYUdev/1" Version="1">
+    <InternalSignatureID>1</InternalSignatureID>
+    <Extension>pic</Extension>
+    <Extension>kqp</Extension>
+  </FileFormat>
+  
+    <FileFormat ID="2" Name="ePic Image" PUID="BYUdev/2" Version="2" MIMEType="">
+    <InternalSignatureID>2</InternalSignatureID>
+    <Extension>pic</Extension>
+    <Extension>kqp</Extension>
+  </FileFormat>
+  
+</FileFormatCollection></FFSignatureFile>
