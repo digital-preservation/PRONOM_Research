@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+
+<ContainerSignatureMapping schemaVersion="1.0" signatureVersion="20240808"> 
+    <ContainerSignatures>
+    
+        <ContainerSignature Id="5500" ContainerType="OLE2">
+      <Description>Microsoft Office Binder File for Windows 97-2000</Description>
+      <Files>
+        <File>
+          <Path>Binder</Path>
+        </File>
+        <File>
+          <Path>HdrFtr</Path>
+        </File>
+      </Files>
+    </ContainerSignature>
+    
+            <ContainerSignature Id="1000" ContainerType="OLE2">
+      <Description>Microsoft Office Binder File for Windows 95</Description>
+      <Files>
+        <File>
+          <Path>Binder</Path>
+        </File>
+      </Files>
+    </ContainerSignature>
+
+        <ContainerSignature Id="1000" ContainerType="ZIP">
+            <Description>opf-sample-container-format</Description>
+            <Files>
+                <File>
+                    <Path>path-to-find-one/</Path>
+                </File>
+					 <File>
+                    <Path>path-to-find-two/file-to-read-two</Path>
+                    <BinarySignatures>
+                        <InternalSignatureCollection>                    
+	                        <InternalSignature ID="300">
+	                            <ByteSequence Reference="BOFoffset">
+	                                <SubSequence Position="1" SubSeqMinOffset="0" SubSeqMaxOffset="0">
+	                                    <Sequence>DE C0 DE F1 1E 20 20 20 20 20 20 20 20 20 DA 7A</Sequence>
+	                                </SubSequence>
+	                            </ByteSequence>
+	                        </InternalSignature>
+	                    </InternalSignatureCollection>
+                    </BinarySignatures>
+                </File>
+					 <File>
+                    <Path>file-to-read-one</Path>
+                    <BinarySignatures>
+                        <InternalSignatureCollection>                    
+	                        <InternalSignature ID="301">
+	                            <ByteSequence Reference="BOFoffset">
+	                                <SubSequence Position="1" SubSeqMinOffset="0" SubSeqMaxOffset="0">
+	                                    <Sequence>DE C0 DE F1 1E</Sequence>
+	                                </SubSequence>
+	                            </ByteSequence>
+	                        </InternalSignature>
+	                    </InternalSignatureCollection>
+                    </BinarySignatures>
+                </File>               
+            </Files>
+        </ContainerSignature>
+
+    </ContainerSignatures>
+  
+    <FileFormatMappings>
+    
+        <!-- Microsoft Office Binder File for Windows 97-2000 (OLE2)-->
+    <FileFormatMapping signatureId="5500" Puid="fmt/240"/>
+    
+    	<!-- Microsoft Office Binder File for Windows 95 (OLE2)-->
+      <FileFormatMapping signatureId="1000" Puid="fmt/237"/>
+
+    </FileFormatMappings>
+  
+    <TriggerPuids>
+        <TriggerPuid ContainerType="OLE2" Puid="fmt/111"/> 
+        <TriggerPuid ContainerType="ZIP" Puid="fmt/189"/> 
+        <TriggerPuid ContainerType="ZIP" Puid="x-fmt/263"/> 
+    </TriggerPuids>
+
+</ContainerSignatureMapping>
