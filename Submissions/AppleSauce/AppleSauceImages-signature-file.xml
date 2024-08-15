@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FFSignatureFile xmlns="http://www.nationalarchives.gov.uk/pronom/SignatureFile" Version="19761976" DateCreated="2024-08-15T05:32:07+00:00">
+  <InternalSignatureCollection>
+  
+  <InternalSignature ID="1" Specificity="Specific">
+  <ByteSequence Reference="BOFoffset">
+    <SubSequence MinFragLength="0" Position="1" SubSeqMaxOffset="0" SubSeqMinOffset="0">
+      <Sequence>41325232FF0A0D0A</Sequence>
+      <DefaultShift>9</DefaultShift>
+      <Shift Byte="41">8</Shift>
+      <Shift Byte="32">5</Shift>
+      <Shift Byte="52">6</Shift>
+      <Shift Byte="FF">4</Shift>
+      <Shift Byte="0A">1</Shift>
+      <Shift Byte="0D">2</Shift>
+    </SubSequence>
+  </ByteSequence>
+</InternalSignature>
+
+  <InternalSignature ID="2" Specificity="Specific">
+  <ByteSequence Reference="BOFoffset">
+    <SubSequence MinFragLength="0" Position="1" SubSeqMaxOffset="0" SubSeqMinOffset="0">
+      <Sequence>41325233FF0A0D0A</Sequence>
+      <DefaultShift>9</DefaultShift>
+      <Shift Byte="41">8</Shift>
+      <Shift Byte="32">7</Shift>
+      <Shift Byte="52">6</Shift>
+      <Shift Byte="33">5</Shift>
+      <Shift Byte="FF">4</Shift>
+      <Shift Byte="0A">1</Shift>
+      <Shift Byte="0D">2</Shift>
+    </SubSequence>
+  </ByteSequence>
+</InternalSignature>
+
+  <InternalSignature ID="3" Specificity="Specific">
+  <ByteSequence Reference="BOFoffset">
+    <SubSequence MinFragLength="0" Position="1" SubSeqMaxOffset="0" SubSeqMinOffset="0">
+      <Sequence>574F5A31FF0A0D0A</Sequence>
+      <DefaultShift>9</DefaultShift>
+      <Shift Byte="57">8</Shift>
+      <Shift Byte="4F">7</Shift>
+      <Shift Byte="5A">6</Shift>
+      <Shift Byte="31">5</Shift>
+      <Shift Byte="FF">4</Shift>
+      <Shift Byte="0A">1</Shift>
+      <Shift Byte="0D">2</Shift>
+    </SubSequence>
+  </ByteSequence>
+</InternalSignature>
+
+  <InternalSignature ID="4" Specificity="Specific">
+  <ByteSequence Reference="BOFoffset">
+    <SubSequence MinFragLength="0" Position="1" SubSeqMaxOffset="0" SubSeqMinOffset="0">
+      <Sequence>574F5A32FF0A0D0A</Sequence>
+      <DefaultShift>9</DefaultShift>
+      <Shift Byte="57">8</Shift>
+      <Shift Byte="4F">7</Shift>
+      <Shift Byte="5A">6</Shift>
+      <Shift Byte="32">5</Shift>
+      <Shift Byte="FF">4</Shift>
+      <Shift Byte="0A">1</Shift>
+      <Shift Byte="0D">2</Shift>
+    </SubSequence>
+  </ByteSequence>
+</InternalSignature>
+
+  <InternalSignature ID="5" Specificity="Specific">
+  <ByteSequence Reference="BOFoffset">
+    <SubSequence MinFragLength="0" Position="1" SubSeqMaxOffset="0" SubSeqMinOffset="0">
+      <Sequence>4D4F4F46FF0A0D0A</Sequence>
+      <DefaultShift>9</DefaultShift>
+      <Shift Byte="4D">8</Shift>
+      <Shift Byte="4F">6</Shift>
+      <Shift Byte="46">5</Shift>
+      <Shift Byte="FF">4</Shift>
+      <Shift Byte="0A">1</Shift>
+      <Shift Byte="0D">2</Shift>
+    </SubSequence>
+  </ByteSequence>
+</InternalSignature>
+
+</InternalSignatureCollection>
+<FileFormatCollection>
+
+  <FileFormat ID="1" Name="A2R Disk Image" PUID="BYUdev/1" Version="2">
+    <InternalSignatureID>1</InternalSignatureID>
+    <Extension>a2r</Extension>
+  </FileFormat>
+  
+    <FileFormat ID="2" Name="A2R Disk Image" PUID="BYUdev/2" Version="3">
+    <InternalSignatureID>2</InternalSignatureID>
+    <Extension>a2r</Extension>
+  </FileFormat>
+  
+    <FileFormat ID="3" Name="WOZ Disk Image" PUID="BYUdev/3" Version="1">
+    <InternalSignatureID>3</InternalSignatureID>
+    <Extension>woz</Extension>
+  </FileFormat>
+  
+    <FileFormat ID="4" Name="WOZ Disk Image" PUID="BYUdev/4" Version="2">
+    <InternalSignatureID>4</InternalSignatureID>
+    <Extension>woz</Extension>
+  </FileFormat>
+  
+    <FileFormat ID="5" Name="MOOF Disk Image" PUID="BYUdev/5" Version="1">
+    <InternalSignatureID>5</InternalSignatureID>
+    <Extension>moof</Extension>
+  </FileFormat>
+  
+</FileFormatCollection></FFSignatureFile>
