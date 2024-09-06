@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FFSignatureFile xmlns="http://www.nationalarchives.gov.uk/pronom/SignatureFile" Version="111358" DateCreated="2024-09-06T04:52:00+00:00">
+  <InternalSignatureCollection>
+  
+  <InternalSignature ID="1" Specificity="Specific">
+  <ByteSequence Reference="BOFoffset">
+    <SubSequence MinFragLength="0" Position="1" SubSeqMaxOffset="0" SubSeqMinOffset="0">
+      <Sequence>00080000</Sequence>
+      <DefaultShift>5</DefaultShift>
+      <Shift Byte="00">1</Shift>
+      <Shift Byte="08">3</Shift>
+      <RightFragment MaxOffset="260" MinOffset="260" Position="1">01</RightFragment>
+      <RightFragment MaxOffset="260" MinOffset="260" Position="1">02</RightFragment>
+    </SubSequence>
+  </ByteSequence>
+  <ByteSequence Reference="EOFoffset">
+    <SubSequence MinFragLength="0" Position="1" SubSeqMaxOffset="1024" SubSeqMinOffset="0">
+      <Sequence>AC</Sequence>
+      <DefaultShift>-2</DefaultShift>
+      <Shift Byte="AC">-1</Shift>
+    </SubSequence>
+  </ByteSequence>
+</InternalSignature>
+
+  <InternalSignature ID="2" Specificity="Specific">
+  <ByteSequence Reference="BOFoffset">
+    <SubSequence MinFragLength="0" Position="1" SubSeqMaxOffset="7" SubSeqMinOffset="7">
+      <Sequence>6F70656E4D47</Sequence>
+      <DefaultShift>7</DefaultShift>
+      <Shift Byte="6F">6</Shift>
+      <Shift Byte="70">5</Shift>
+      <Shift Byte="65">4</Shift>
+      <Shift Byte="6E">3</Shift>
+      <Shift Byte="4D">2</Shift>
+      <Shift Byte="47">1</Shift>
+    </SubSequence>
+  </ByteSequence>
+</InternalSignature>
+
+  <InternalSignature ID="3" Specificity="Specific">
+  <ByteSequence Reference="BOFoffset">
+    <SubSequence MinFragLength="0" Position="1" SubSeqMaxOffset="0" SubSeqMinOffset="0">
+      <Sequence>656133</Sequence>
+      <DefaultShift>4</DefaultShift>
+      <Shift Byte="65">3</Shift>
+      <Shift Byte="61">2</Shift>
+      <Shift Byte="33">1</Shift>
+      <RightFragment MaxOffset="3069" MinOffset="3069" Position="1">454133</RightFragment>
+    </SubSequence>
+  </ByteSequence>
+</InternalSignature>
+
+</InternalSignatureCollection>
+<FileFormatCollection>
+
+  <FileFormat ID="1" Name="ATRAC1" PUID="fmt/1968" Version="1">
+    <InternalSignatureID>1</InternalSignatureID>
+    <Extension>aea</Extension>
+  </FileFormat>
+  
+    <FileFormat ID="2" Name="OpenMG format" PUID="BYU/dev1">
+    <InternalSignatureID>2</InternalSignatureID>
+    <Extension>omg</Extension>
+  </FileFormat>
+  
+    <FileFormat ID="3" Name="OpenMG Audio" PUID="BYU/dev2">
+    <InternalSignatureID>3</InternalSignatureID>
+    <Extension>oma</Extension>
+    <Extension>aa3</Extension>
+  </FileFormat>
+  
+</FileFormatCollection></FFSignatureFile>
