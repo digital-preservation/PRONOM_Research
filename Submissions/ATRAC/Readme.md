@@ -2,8 +2,8 @@
 - https://en.wikipedia.org/wiki/ATRAC
 
 ## Updated Signatures
-fmt/1968 Atrac Codec File v.1
-BOF ```00080000{260}(01|02)```
+fmt/1968 Atrac Codec File v.1 \
+BOF ```00080000{260}(01|02)``` \
 EOF ```AC``` 1024 max offset
 
 ## New Signatures
