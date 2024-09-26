@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FFSignatureFile xmlns="http://www.nationalarchives.gov.uk/pronom/SignatureFile" Version="052532" DateCreated="2024-05-15T15:04:18+00:00">
+  <InternalSignatureCollection>
+  
+  <InternalSignature ID="1" Specificity="Specific">
+  <ByteSequence Reference="BOFoffset">
+    <SubSequence MinFragLength="0" Position="1" SubSeqMaxOffset="0" SubSeqMinOffset="0">
+      <Sequence/>
+      <DefaultShift>1</DefaultShift>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="1">3B</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="1">3E</RightFragment>
+      <RightFragment MaxOffset="65536" MinOffset="0" Position="2">0A</RightFragment>
+      <RightFragment MaxOffset="65536" MinOffset="0" Position="2">0D</RightFragment>
+      <RightFragment MaxOffset="65536" MinOffset="0" Position="2">0D0A</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="3">2A</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="3">2D</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="3">[41:5A]</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="3">[61:7A]</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="4">2A</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="4">2D</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="4">[41:5A]</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="4">[61:7A]</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="5">2A</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="5">2D</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="5">[41:5A]</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="5">[61:7A]</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="6">2A</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="6">2D</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="6">[41:5A]</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="6">[61:7A]</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="7">2A</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="7">2D</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="7">[41:5A]</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="7">[61:7A]</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="8">2A</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="8">2D</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="8">[41:5A]</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="8">[61:7A]</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="9">2A</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="9">2D</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="9">[41:5A]</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="9">[61:7A]</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="10">2A</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="10">2D</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="10">[41:5A]</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="10">[61:7A]</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="11">2A</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="11">2D</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="11">[41:5A]</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="11">[61:7A]</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="12">2A</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="12">2D</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="12">[41:5A]</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="12">[61:7A]</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="13">2A</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="13">2D</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="13">[41:5A]</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="13">[61:7A]</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="14">2A</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="14">2D</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="14">[41:5A]</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="14">[61:7A]</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="15">2A</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="15">2D</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="15">[41:5A]</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="15">[61:7A]</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="16">2A</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="16">2D</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="16">[41:5A]</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="16">[61:7A]</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="17">2A</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="17">2D</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="17">[41:5A]</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="17">[61:7A]</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="18">2A</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="18">2D</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="18">[41:5A]</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="18">[61:7A]</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="19">2A</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="19">2D</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="19">[41:5A]</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="19">[61:7A]</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="20">2A</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="20">2D</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="20">[41:5A]</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="20">[61:7A]</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="21">2A</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="21">2D</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="21">[41:5A]</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="21">[61:7A]</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="22">2A</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="22">2D</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="22">[41:5A]</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="22">[61:7A]</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="23">2A</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="23">2D</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="23">[41:5A]</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="23">[61:7A]</RightFragment>
+    </SubSequence>
+  </ByteSequence>
+</InternalSignature>
+
+<InternalSignature ID="2" Specificity="Specific">
+  <ByteSequence Reference="BOFoffset">
+    <SubSequence MinFragLength="0" Position="1" SubSeqMaxOffset="0" SubSeqMinOffset="0">
+      <Sequence>40</Sequence>
+      <DefaultShift>2</DefaultShift>
+      <Shift Byte="40">1</Shift>
+      <RightFragment MaxOffset="65536" MinOffset="0" Position="1">0A</RightFragment>
+      <RightFragment MaxOffset="65536" MinOffset="0" Position="1">0D</RightFragment>
+      <RightFragment MaxOffset="65536" MinOffset="0" Position="1">0D0A</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="2">41</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="2">43</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="2">47</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="2">4E</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="2">54</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="3">41</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="3">43</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="3">47</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="3">4E</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="3">54</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="4">41</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="4">43</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="4">47</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="4">4E</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="4">54</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="5">41</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="5">43</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="5">47</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="5">4E</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="5">54</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="6">41</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="6">43</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="6">47</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="6">4E</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="6">54</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="7">41</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="7">43</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="7">47</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="7">4E</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="7">54</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="8">41</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="8">43</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="8">47</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="8">4E</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="8">54</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="9">41</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="9">43</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="9">47</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="9">4E</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="9">54</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="10">41</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="10">43</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="10">47</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="10">4E</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="10">54</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="11">41</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="11">43</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="11">47</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="11">4E</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="11">54</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="12">41</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="12">43</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="12">47</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="12">4E</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="12">54</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="13">41</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="13">43</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="13">47</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="13">4E</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="13">54</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="14">41</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="14">43</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="14">47</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="14">4E</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="14">54</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="15">41</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="15">43</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="15">47</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="15">4E</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="15">54</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="16">41</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="16">43</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="16">47</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="16">4E</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="16">54</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="17">41</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="17">43</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="17">47</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="17">4E</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="17">54</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="18">41</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="18">43</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="18">47</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="18">4E</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="18">54</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="19">41</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="19">43</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="19">47</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="19">4E</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="19">54</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="20">41</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="20">43</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="20">47</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="20">4E</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="20">54</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="21">41</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="21">43</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="21">47</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="21">4E</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="21">54</RightFragment>
+      <RightFragment MaxOffset="2048" MinOffset="0" Position="22">0A</RightFragment>
+      <RightFragment MaxOffset="2048" MinOffset="0" Position="22">0D</RightFragment>
+      <RightFragment MaxOffset="2048" MinOffset="0" Position="22">0D0A</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="23">2B</RightFragment>
+    </SubSequence>
+  </ByteSequence>
+</InternalSignature>
+
+</InternalSignatureCollection>
+
+<FileFormatCollection>
+
+  <FileFormat ID="1" Name="FASTA Format" PUID="BYUdev/1">
+    <InternalSignatureID>1</InternalSignatureID>
+    <Extension>fasta</Extension>
+    <Extension>fas</Extension>
+    <Extension>fa</Extension>
+    <Extension>fna</Extension>
+    <Extension>faa</Extension>
+  </FileFormat>
+  
+    <FileFormat ID="2" Name="FASTQ Format" PUID="BYUdev/2">
+    <InternalSignatureID>2</InternalSignatureID>
+    <Extension>fastq</Extension>
+    <Extension>fq</Extension>
+  </FileFormat>
+
+</FileFormatCollection></FFSignatureFile>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FFSignatureFile xmlns="http://www.nationalarchives.gov.uk/pronom/SignatureFile" Version="19961997" DateCreated="2024-05-17T04:33:13+00:00">
+  <InternalSignatureCollection>
+  
+  <InternalSignature ID="1" Specificity="Specific">
+  <ByteSequence Reference="BOFoffset">
+    <SubSequence MinFragLength="0" Position="1" SubSeqMaxOffset="0" SubSeqMinOffset="0">
+      <Sequence>5344494600000008</Sequence>
+      <DefaultShift>9</DefaultShift>
+      <Shift Byte="53">8</Shift>
+      <Shift Byte="44">7</Shift>
+      <Shift Byte="49">6</Shift>
+      <Shift Byte="46">5</Shift>
+      <Shift Byte="00">2</Shift>
+      <Shift Byte="08">1</Shift>
+    </SubSequence>
+  </ByteSequence>
+</InternalSignature>
+
+  <InternalSignature ID="2" Specificity="Specific">
+  <ByteSequence Reference="BOFoffset">
+    <SubSequence MinFragLength="56" Position="1" SubSeqMaxOffset="0" SubSeqMinOffset="0">
+      <Sequence>4D7542752E436F6E7461696E6572</Sequence>
+      <DefaultShift>15</DefaultShift>
+      <Shift Byte="4D">14</Shift>
+      <Shift Byte="75">11</Shift>
+      <Shift Byte="42">12</Shift>
+      <Shift Byte="2E">10</Shift>
+      <Shift Byte="43">9</Shift>
+      <Shift Byte="6F">8</Shift>
+      <Shift Byte="6E">3</Shift>
+      <Shift Byte="74">6</Shift>
+      <Shift Byte="61">5</Shift>
+      <Shift Byte="69">4</Shift>
+      <Shift Byte="65">2</Shift>
+      <Shift Byte="72">1</Shift>
+      <LeftFragment MaxOffset="48" MinOffset="48" Position="1">5344494600000008</LeftFragment>
+    </SubSequence>
+  </ByteSequence>
+</InternalSignature>
+
+</InternalSignatureCollection>
+<FileFormatCollection>
+
+  <FileFormat ID="1" Name="Sound Description Interchange Format" PUID="BYUdev/1">
+    <InternalSignatureID>1</InternalSignatureID>
+    <Extension>sdif</Extension>
+  </FileFormat>
+  
+    <FileFormat ID="2" Name="MuBu (MUlti-BUffer) Object" PUID="BYUdev/2">
+    <InternalSignatureID>2</InternalSignatureID>
+    <Extension>mubu</Extension>
+    <HasPriorityOverFileFormatID>1</HasPriorityOverFileFormatID>
+  </FileFormat>
+  
+</FileFormatCollection></FFSignatureFile>
