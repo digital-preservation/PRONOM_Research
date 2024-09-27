@@ -269,7 +269,8 @@ You can use your search engine to look for samples. Depending on the search engi
 
 ### Just Solve the File Format Problem
 
-Another method to find sample files is using the [<u>Just Solve</u> <u>the File Format</u>] <u>Problem</u> wiki entry. Your format may have already been researched by someone else and more information about it can be found on this site. Depending on the format you are researching you can find webpages which might have sample files for your format, as shown below:<img src="https://github.com/digital-preservation/PRONOM_Research/tree/main/Resources/media/image2.png?raw=true" style="width:5.97639in;height:2.72917in" />
+Another method to find sample files is using the [<u>Just Solve</u> <u>the File Format</u>] <u>Problem</u> wiki entry. Your format may have already been researched by someone else and more information about it can be found on this site. Depending on the format you are researching you can find webpages which might have sample files for your format, as shown below:
+![]("https://github.com/digital-preservation/PRONOM_Research/tree/main/Resources/media/image2.png?raw=true" "A title")
 
 ### Be Aware
 
