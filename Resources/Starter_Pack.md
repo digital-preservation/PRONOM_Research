@@ -18,7 +18,7 @@
 <th colspan="2"></th>
 </tr>
 <tr class="header">
-<th colspan="2"><img src="https://github.com/digital-preservation/PRONOM_Research/tree/main/Resources/media/image1.png?raw=true?raw=true" style="width:1.71126in;height:1.73in" /></th>
+<th colspan="2"><img src="https://github.com/digital-preservation/PRONOM_Research/tree/main/Resources/media/image1.png?raw=true"></th>
 </tr>
 </thead>
 <tbody>
