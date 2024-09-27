@@ -325,7 +325,7 @@ These are file formats that are compressed or zipped. Though you won’t often s
 
 Think of container files as stacking boxes or a matryoshka doll.
 
-<img src="https://github.com/digital-preservation/PRONOM_Research/tree/main/Resources/media/image10.jpg" style="width:3.10139in;height:2.32639in" /><img src="https://github.com/digital-preservation/PRONOM_Research/tree/main/Resources/media/image11.jpeg" style="width:2.53472in;height:2.64583in" alt="Grimms Lollipop Small Stacking Boxes" />
+<img src="https://github.com/digital-preservation/PRONOM_Research/tree/main/Resources/media/image10.jpg?raw=true" style="width:3.10139in;height:2.32639in" /><img src="https://github.com/digital-preservation/PRONOM_Research/tree/main/Resources/media/image11.jpeg?raw=true" style="width:2.53472in;height:2.64583in" alt="Grimms Lollipop Small Stacking Boxes" />
 
 Each container file contains other file formats and possibly folders which we aim to extract and analyse. We use information such as the internal file paths within the file format and the binary signatures within individual files to create a signature. We look for file paths that multiple samples have in common as well as binary signatures within those files that multiple files have in common. Think of it like the binary signature identification but with the additional consideration of file structure. You can also read more information about container signatures in Ross Spencer’s [<u>blog</u>][2].
 
@@ -450,7 +450,7 @@ The current list of format classifications within PRONOM are:
 
 -   GIS - Geographic Information System (geospatial data formats)
 
--   Image (Raster) - images based on pixel grids, such as JPG, GIF, png?raw=true
+-   Image (Raster) - images based on pixel grids, such as JPG, GIF, png
 
 -   Image (Vector) - images based on mathematical primitives, such as SVG, Adobe Illustrator, CorelDraw, WMF
 
@@ -508,7 +508,7 @@ Could we have explained something better in this pack? Was there a part that was
 
 Congratulations on completing your file format research, we hope you enjoyed it as much as we do. Welcome to the PRONOM community! <img src="https://github.com/digital-preservation/PRONOM_Research/tree/main/Resources/media/image22.png?raw=true" style="width:0.21528in;height:0.21528in" />
 
-<img src="https://github.com/digital-preservation/PRONOM_Research/tree/main/Resources/media/image23.JPG" style="width:4.16963in;height:1.25694in" />
+<img src="https://github.com/digital-preservation/PRONOM_Research/tree/main/Resources/media/image23.JPG?raw=true" style="width:4.16963in;height:1.25694in" />
 
 **  
 **
