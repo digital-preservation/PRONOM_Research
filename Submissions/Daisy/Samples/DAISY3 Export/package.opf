@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE package PUBLIC "+//ISBN 0-9673008-1-9//DTD OEB 1.2 Package//EN" "http://openebook.org/dtds/oeb-1.2/oebpkg12.dtd">
+<package
+	unique-identifier="uid" xmlns="http://openebook.org/namespaces/oeb-package/1.0/">
+	<metadata>
+		<dc-metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:oebpackage="http://openebook.org/namespaces/oeb-package/1.0/">
+			<dc:Identifier
+				id="uid">589c550e-303b-4c0d-9921-ae76d782fd53</dc:Identifier>
+			<dc:Format>ANSI/NISO Z39.86-2005</dc:Format>
+			<dc:Title>Untitled Obi Project</dc:Title>
+			<dc:Publisher>N/A</dc:Publisher>
+			<dc:Language>en-US</dc:Language>
+			<dc:Creator>Creator name</dc:Creator>
+			<dc:Date>2024-09-25</dc:Date>
+		</dc-metadata>
+		<x-metadata>
+			<meta
+				name="dtb:totalTime"
+				content="00:00:28.4813152" />
+			<meta
+				name="dtb:multimediaType"
+				content="audioNCX" />
+			<meta
+				name="dtb:multimediaContent"
+				content="audio" />
+			<meta
+				name="dtb:narrator"
+				content="Tyler Thorsted" />
+			<meta
+				name="generator"
+				content="Obi v5.0.0.0 with toolkit: UrakawaSDK.core v2.0.0.0 (http://urakawa.sf.net/obi)" />
+			<meta
+				name="obi:xukversion"
+				content="xuk/obi;2.0" />
+			<meta
+				name="dtb:producedDate"
+				content="2024-09-25" />
+		</x-metadata>
+	</metadata>
+	<manifest>
+		<item
+			href="navigation.ncx"
+			id="ncx"
+			media-type="application/x-dtbncx+xml" />
+		<item
+			href="package.opf"
+			id="opf_1"
+			media-type="text/xml" />
+		<item
+			href="0001.smil"
+			id="opf_2"
+			media-type="application/smil" />
+		<item
+			href="aud0001.mp3"
+			id="opf_3"
+			media-type="audio/mpeg" />
+		<item
+			href="tpbnarrator.res"
+			id="resource"
+			media-type="application/x-dtbresource+xml" />
+		<item
+			href="tpbnarrator_res.mp3"
+			id="opf_4"
+			media-type="audio/mpeg" />
+	</manifest>
+	<spine>
+		<itemref
+			idref="opf_2" />
+	</spine>
+</package>

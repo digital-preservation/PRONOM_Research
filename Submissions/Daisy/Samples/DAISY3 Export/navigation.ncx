@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN" "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx
+	version="2005-1"
+	xml:lang="en-US" xmlns="http://www.daisy.org/z3986/2005/ncx/">
+	<head>
+		<meta
+			name="dtb:uid"
+			content="589c550e-303b-4c0d-9921-ae76d782fd53" />
+		<meta
+			name="dtb:generator"
+			content="Obi and the Urakawa SDK: the open-source DAISY multimedia authoring toolkit" />
+		<meta
+			name="dtb:depth"
+			content="1" />
+		<meta
+			name="dtb:totalPageCount"
+			content="0" />
+		<meta
+			name="dtb:maxPageNumber"
+			content="0" />
+	</head>
+	<docTitle>
+		<text>Testing</text>
+		<audio
+			clipBegin="00:00:00"
+			clipEnd="00:00:01.6235147"
+			src="aud0001.mp3" />
+	</docTitle>
+	<navMap>
+		<navPoint
+			id="ncx_1"
+			playOrder="1">
+			<navLabel>
+				<text>Testing</text>
+				<audio
+					clipBegin="00:00:00"
+					clipEnd="00:00:01.6235147"
+					src="aud0001.mp3" />
+			</navLabel>
+			<content
+				src="0001.smil#sm_2" />
+		</navPoint>
+	</navMap>
+</ncx>

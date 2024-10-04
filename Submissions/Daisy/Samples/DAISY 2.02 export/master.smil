@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd">
+<smil>
+  <head>
+    <meta name="dc:title" content="Untitled Obi Project" />
+    <meta name="dc:identifier" content="589c550e-303b-4c0d-9921-ae76d782fd53" />
+    <meta name="ncc:generator" content="Obi v5.0.0.0 with toolkit: UrakawaSDK.core v2.0.0.0 (http://urakawa.sf.net/obi)" />
+    <meta name="dc:format" content="Daisy 2.02" />
+    <meta name="ncc:timeInThisSmil" content="00:00:28" />
+    <layout>
+      <region id="textView" />
+    </layout>
+  </head>
+  <body>
+    <ref title="Testing" src="0002.smil" id="ms_0002" />
+  </body>
+</smil>

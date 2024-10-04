@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<!DOCTYPE smil PUBLIC "-//W3C//DTD SMIL 1.0//EN" "http://www.w3.org/TR/REC-smil/SMIL10.dtd">
+<smil>
+  <head>
+    <meta name="dc:identifier" content="589c550e-303b-4c0d-9921-ae76d782fd53" />
+    <meta name="ncc:generator" content="Obi v5.0.0.0 with toolkit: UrakawaSDK.core v2.0.0.0 (http://urakawa.sf.net/obi)" />
+    <meta name="dc:format" content="Daisy 2.02" />
+    <meta name="ncc:totalElapsedTime" content="00:00:00" />
+    <meta name="ncc:timeInThisSmil" content="00:00:28.4813152" />
+    <layout>
+      <region id="textView" />
+    </layout>
+  </head>
+  <body>
+    <seq id="sq4" dur="28.481s">
+      <par endsync="last" id="pr5">
+        <text id="txt6" src="ncc.html#h3" />
+        <seq id="sq7">
+          <audio src="aud0001.mp3" clip-begin="npt=0s" clip-end="npt=1.624s" id="aud8" />
+          <audio src="aud0001.mp3" clip-begin="npt=1.624s" clip-end="npt=26.858s" id="aud9" />
+          <audio src="aud0001.mp3" clip-begin="npt=26.858s" clip-end="npt=28.481s" id="aud10" />
+        </seq>
+      </par>
+    </seq>
+  </body>
+</smil>
