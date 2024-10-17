@@ -403,27 +403,29 @@ Do you know who supports it? Or who developed it originally?
 
 It is always good to know where you found all your information. If you want to add the links to your submission then we can reference them for future users.
 
-### Credits
+### Créditos
 
-We want to make sure that everyone (who would like to be) is credited for all the work they’ve put in to researching for us. Usually this is by organisation but if you prefer it can be by individual. We put this information in the source of a new PRONOM entry and in our release notes that can be found here.
+Queremos asegurarnos de que todos los que quieran serlo reciban crédito por todo el trabajo que han realizado para investigar para nosotros. Generalmente esto es por organización pero si lo prefieres puede ser por individuo. Nosotros coloque esta información en la fuente de una nueva entrada de PRONOM y en nuestras notas de la versión que se pueden encontrar aqu
 
 ## 
 
-# GO!
+# ¡IR!
 
-Once you have identified all the above information, you can use one of the templates attached with this welcome pack to input the information and share it with PRONOM team.
+Una vez que haya identificado toda la información anterior, puede utilizar una de las plantillas adjuntas con este paquete de bienvenida para ingresar la información y compartirla con el equipo de PRONOM. 
 
-Alternatively, you can use the [<u>Signature Development Utility Tool</u>] to create sequences and send it to PRONOM team. More information about this tool can be found [<u>here</u>][3].
+Alternativamente, puede utilizar la herramienta de utilidad de desarrollo de firmas para crear secuencias y enviarlas al equipo de PRONOM. Puede encontrar más información sobre esta herramienta aquí.¡No has completado tu investigación y es hora de compartirla con la comunidad! Puede publicar su investigación en nuestro buzón de correo o en nuestra página de GitHub. 
 
-You have not completed your research and it is time to share it with the community! You can post your research to our [mailbox] or in our [GitHub page].
+En caso de solucionar problemas o obtener más información, comuníquese con el equipo de PRONOM mediante el buzón de correo pronom@nationalarchives.gov.uk o con nuestros grupos dedicados de Google, PRONOM y DROID. 
 
-In case of any troubleshooting or more information, please contact the PRONOM team using mailbox <pronom@nationalarchives.gov.uk> or our dedicated Google groups, [<u>PRONOM</u>][4] and [<u>DROID</u>][5].
+Para registrarnos y ver cómo estamos progresando con nuestro trabajo, actualizamos una hoja de cálculo en línea con nuestro progreso hacia la próxima versión a medida que avanzamos. Esto le dará una vista previa de lo 
+que habrá en la próxima versión. Intentamos mantener cada versión entre 40 y 70 cambios. También cargamos aquí cualquier cambio que hayamos realizado en nuestro entorno de desarrollo en GitHub todos los viernes. Si no quieres esperar al lanzamiento oficial, puedes descargar las firmas y usarlas (sólo ten en cuenta que no habrán sido probadas oficialmente y pueden tener 
+errores). 
 
-To check in and see how we are progressing with our work we update an online spreadsheet with our progress towards the next release as we go. This will give you a preview of what will be in the next release. We try and keep each release to around 40-70 changes. We also upload any changes we have made in our development environment to GitHub every Friday here. If you don’t want to wait for the official release you can download the signatures and use them (just be warned that these will not have been officially tested and may have errors).
+¿Podríamos haber explicado algo mejor en este pack? ¿Hubo alguna parte que fue difícil de entender? ¿Tiene algunos consejos que le gustaría que hubiéramos agregado? ¡Háganos saber a través de nuestro buzón y lo mejoraremos!
 
-Could we have explained something better in this pack? Was there a part that was difficult to understand? Do you have some tips that you wish we’d added in? Let us know via our mailbox and we will improve it!
+Felicitaciones por completar su investigación sobre el formato de archivo. Esperamos que la haya disfrutado tanto como nosotros. ¡Bienvenido a la comunidad PRONOM!
 
-Congratulations on completing your file format research, we hope you enjoyed it as much as we do. Welcome to the PRONOM community! <img src="https://github.com/digital-preservation/PRONOM_Research/blob/main/Resources/media/image22.png?raw=true" style="width:0.21528in;height:0.21528in" />
+<img src="https://github.com/digital-preservation/PRONOM_Research/blob/main/Resources/media/image22.png?raw=true" style="width:0.21528in;height:0.21528in" />
 
 <img src="https://github.com/digital-preservation/PRONOM_Research/blob/main/Resources/media/image23.JPG?raw=true" style="width:4.16963in;height:1.25694in" />
 
