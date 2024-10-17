@@ -136,29 +136,29 @@ You will notice that there are a lot of links to additional resources in the doc
 
 * [No Signature? Extension-only Formats](#no-signature-extension-only-formats)
 
-* Checking It Works!
+* [Checking It Works!](checking-it-works)
 
-* Description, MIME Types and Other Useful Information 20
+* [Description, MIME Types and Other Useful Information](description-mime-types-and-other-useful-information)
 
-Format Name 20
+    * [Format Name](#format-name)
 
-Extensions 20
+    * [Extensions](#extensions)
 
-Description 20
+    * [Description](#description)
 
-MIME Types and Identifiers 20
+    * [MIME Types and Identifiers](#mime-types-and-identifiers)
 
-File Format Type 21
+    * [File Format Type](#file-format-type)
 
-Vendors 21
+    * [Vendors](#vendors)
 
-Links 21
+    * [Links](#links)
 
-Credits 21
+    * [Credits](#credits)
 
-GO! 23
+[GO!](#go)
 
-List of Resources and Tools 24
+[List of Resources and Tools](#list-of-resources-and-tools)
 
 # Ready…
 
@@ -169,8 +169,6 @@ You are probably here because you have some file formats in your collection that
 You will find a template for your file format research in this pack. The template is in Microsoft Excel and Word format, please choose whichever is easier for you. The template has a list of fields - this list is the information that we collect before the file format goes into PRONOM. If you cannot fill it all out that is not a problem at all but the more complete the template the quicker we can usually process the submission!
 
 ## Introductory Reading
-
-## 
 
 There are a number of useful blogs written about file format research. To start we recommend this [<u>blog</u>][1] written by Ross Spencer, this [<u>guidance</u>] written by Jenny Mitcham and the <u>[blog][<u>blog</u>]</u> written by PRONOM team mentioned earlier.
 
