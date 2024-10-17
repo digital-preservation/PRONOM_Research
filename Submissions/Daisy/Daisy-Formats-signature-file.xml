@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<FFSignatureFile xmlns="http://www.nationalarchives.gov.uk/pronom/SignatureFile" Version="222673" DateCreated="2024-10-03T04:58:01+00:00">
+<FFSignatureFile xmlns="http://www.nationalarchives.gov.uk/pronom/SignatureFile" Version="222683" DateCreated="2024-10-03T04:58:01+00:00">
   <InternalSignatureCollection>
   
           <InternalSignature ID="2051" Specificity="Specific">
@@ -200,13 +200,13 @@
 
   <InternalSignature ID="5" Specificity="Specific">
   <ByteSequence Reference="BOFoffset">
-    <SubSequence MinFragLength="25" Position="1" SubSeqMaxOffset="1" SubSeqMinOffset="1">
-      <Sequence>0003000000</Sequence>
+    <SubSequence MinFragLength="31" Position="1" SubSeqMaxOffset="1" SubSeqMinOffset="1">
+      <Sequence>000B000000</Sequence>
       <DefaultShift>6</DefaultShift>
       <Shift Byte="00">1</Shift>
-      <Shift Byte="03">4</Shift>
-      <LeftFragment MaxOffset="23" MinOffset="22" Position="1">000000</LeftFragment>
-      <RightFragment MaxOffset="2" MinOffset="2" Position="1">000B000000</RightFragment>
+      <Shift Byte="0B">4</Shift>
+      <LeftFragment MaxOffset="2" MinOffset="2" Position="1">03000000</LeftFragment>
+      <LeftFragment MaxOffset="24" MinOffset="22" Position="2">000000</LeftFragment>
     </SubSequence>
   </ByteSequence>
 </InternalSignature>
