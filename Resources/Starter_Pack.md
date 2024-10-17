@@ -96,11 +96,11 @@ You will notice that there are a lot of links to additional resources in the doc
 
 # Contents
 
-Introduction 2
+[Introduction](#introduction)
 
-Contents 3
+[Contents](#contents)
 
-Ready… 4
+[Ready…](#ready)
 
 Submission Template 4
 
