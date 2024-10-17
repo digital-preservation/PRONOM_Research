@@ -18,7 +18,7 @@
 <th colspan="2"></th>
 </tr>
 <tr class="header">
-<th colspan="2"><img src="https://github.com/digital-preservation/PRONOM_Research/tree/main/Resources/media/image1.png?raw=true"></th>
+<th colspan="2"><img src="https://github.com/digital-preservation/PRONOM_Research/blob/main/Resources/media/image1.png?raw=true"></th>
 </tr>
 </thead>
 <tbody>
@@ -270,7 +270,7 @@ You can use your search engine to look for samples. Depending on the search engi
 ### Just Solve the File Format Problem
 
 Another method to find sample files is using the [<u>Just Solve</u> <u>the File Format</u>] <u>Problem</u> wiki entry. Your format may have already been researched by someone else and more information about it can be found on this site. Depending on the format you are researching you can find webpages which might have sample files for your format, as shown below:
-![]("https://github.com/digital-preservation/PRONOM_Research/tree/main/Resources/media/image2.png?raw=true" "A title")
+![]("https://github.com/digital-preservation/PRONOM_Research/blob/main/Resources/media/image2.png?raw=true" "A title")
 
 ### Be Aware
 
@@ -286,7 +286,7 @@ With all these take a look at the file you have downloaded. If it has a similar 
 
 There are currently three types of file format identification. Extension-only, Binary Signature and Container Signature. The majority of file types are identified by binary signature or extension-only. It is comparatively rare to find a container signature.
 
-<img src="https://github.com/digital-preservation/PRONOM_Research/tree/main/Resources/media/image3.png?raw=true" style="width:7.64583in;height:1.20417in" />
+<img src="https://github.com/digital-preservation/PRONOM_Research/blob/main/Resources/media/image3.png?raw=true" style="width:7.64583in;height:1.20417in" />
 
 In DROID the method of identification appears under the Method column. Here the ‘Signature’ category applies to binary signatures.
 
@@ -294,7 +294,7 @@ Extension-only
 
 This type of identification is the least secure method of identifying a file format. If possible we try to apply a binary or container signature to the file format as file format extensions can be easily changed. It is by extension that your windows PC identifies file formats.
 
-<img src="https://github.com/digital-preservation/PRONOM_Research/tree/main/Resources/media/image4.png?raw=true" style="width:7.64583in;height:0.71806in" />
+<img src="https://github.com/digital-preservation/PRONOM_Research/blob/main/Resources/media/image4.png?raw=true" style="width:7.64583in;height:0.71806in" />
 
 For instance copying and pasting this Text Document and then changing the extension (which is done by renaming the file) results in windows identifying the Text Document as an ASDFGHJKL File.
 
@@ -302,9 +302,9 @@ Binary Signatures
 
 All files and systems on a computer are made up of binary (the 01100010 01101001 01101110 01100001 01110010 01111001 often seen in images associated with computers), which in turn can be translated into another ‘computer language’ called hex (or 68 65 78). To find a binary signature we use a hex editor to look for repeated patterns across files of the same file type. We then input these patterns into PRONOM. For example an internal signature on the website is displayed as below:
 
-<img src="https://github.com/digital-preservation/PRONOM_Research/tree/main/Resources/media/image5.png?raw=true" style="width:6.05556in;height:2.56742in" />PRONOM has its own syntax, similar to regex which it uses to describe the specific pattern (more on this later). Some of the patterns are purposefully left there by developers for identification purposes and are called Magic Bytes. Think of it as a trademark or a stamp that a developer left behind when creating a file format.
+<img src="https://github.com/digital-preservation/PRONOM_Research/blob/main/Resources/media/image5.png?raw=true" style="width:6.05556in;height:2.56742in" />PRONOM has its own syntax, similar to regex which it uses to describe the specific pattern (more on this later). Some of the patterns are purposefully left there by developers for identification purposes and are called Magic Bytes. Think of it as a trademark or a stamp that a developer left behind when creating a file format.
 
-<img src="https://github.com/digital-preservation/PRONOM_Research/tree/main/Resources/media/image6.png?raw=true" style="width:7.64583in;height:4.91042in" />
+<img src="https://github.com/digital-preservation/PRONOM_Research/blob/main/Resources/media/image6.png?raw=true" style="width:7.64583in;height:4.91042in" />
 
 *Trademarks and seals* *from The National Archives Collection, alongside the magic bytes of a zip file.*
 
@@ -314,19 +314,19 @@ Software is programmed to understand the structure of the file format and theref
 
 When your file format identification software recognises a file type it is because it has looked through the hex of your files to see if it matches any of the patterns we have in the PRONOM database.
 
-<img src="https://github.com/digital-preservation/PRONOM_Research/tree/main/Resources/media/image7.png?raw=true" style="width:7.65278in;height:5.0566in" alt="Image 2- How we read files" />
+<img src="https://github.com/digital-preservation/PRONOM_Research/blob/main/Resources/media/image7.png?raw=true" style="width:7.65278in;height:5.0566in" alt="Image 2- How we read files" />
 
 Container Signatures
 
 These are file formats that are compressed or zipped. Though you won’t often see this immediately just by looking at the file. For example, most Microsoft file formats are actually zipped folders. As the file is zipped it contains other files and possibly folders inside it. For instance a Microsoft Word file in windows normally looks like this:
 
-<img src="https://github.com/digital-preservation/PRONOM_Research/tree/main/Resources/media/image8.png?raw=true" style="width:7.64583in;height:0.32639in" />
+<img src="https://github.com/digital-preservation/PRONOM_Research/blob/main/Resources/media/image8.png?raw=true" style="width:7.64583in;height:0.32639in" />
 
-<img src="https://github.com/digital-preservation/PRONOM_Research/tree/main/Resources/media/image9.png?raw=true" style="width:4.70208in;height:1.22222in" />But when you unzip or extract the file it looks like this:
+<img src="https://github.com/digital-preservation/PRONOM_Research/blob/main/Resources/media/image9.png?raw=true" style="width:4.70208in;height:1.22222in" />But when you unzip or extract the file it looks like this:
 
 Think of container files as stacking boxes or a matryoshka doll.
 
-<img src="https://github.com/digital-preservation/PRONOM_Research/tree/main/Resources/media/image10.jpg?raw=true" style="width:3.10139in;height:2.32639in" /><img src="https://github.com/digital-preservation/PRONOM_Research/tree/main/Resources/media/image11.jpeg?raw=true" style="width:2.53472in;height:2.64583in" alt="Grimms Lollipop Small Stacking Boxes" />
+<img src="https://github.com/digital-preservation/PRONOM_Research/blob/main/Resources/media/image10.jpg?raw=true" style="width:3.10139in;height:2.32639in" /><img src="https://github.com/digital-preservation/PRONOM_Research/blob/main/Resources/media/image11.jpeg?raw=true" style="width:2.53472in;height:2.64583in" alt="Grimms Lollipop Small Stacking Boxes" />
 
 Each container file contains other file formats and possibly folders which we aim to extract and analyse. We use information such as the internal file paths within the file format and the binary signatures within individual files to create a signature. We look for file paths that multiple samples have in common as well as binary signatures within those files that multiple files have in common. Think of it like the binary signature identification but with the additional consideration of file structure. You can also read more information about container signatures in Ross Spencer’s [<u>blog</u>][2].
 
@@ -338,28 +338,28 @@ Binary signatures are often more common and easier to find than container signat
 
 With your sufficient sample files, you can run them through file format identification tool, and then input/drag and drop your files into a hex editor and start analysing the hex sequence. Usually, this sequence is either at the beginning of file format (BOF) or at the end of file format (EOF) but can sometimes be variable (anywhere within the file).
 
-<img src="https://github.com/digital-preservation/PRONOM_Research/tree/main/Resources/media/image15.png?raw=true" style="width:5.36806in;height:2.97981in" alt="C:\Users\ahricikova\AppData\Local\Microsoft\Windows\INetCache\Content.MSO\DAA4C783.tmp" />
+<img src="https://github.com/digital-preservation/PRONOM_Research/blob/main/Resources/media/image15.png?raw=true" style="width:5.36806in;height:2.97981in" alt="C:\Users\ahricikova\AppData\Local\Microsoft\Windows\INetCache\Content.MSO\DAA4C783.tmp" />
 
 You will need to scroll through the hex sequence to find the common pattern between your samples of the file format you are researching. Once you have found the pattern, you can record it and there you have it, you found your first file format signature! You will also need to record the relevant information about your sequence which is where within the file is placed, so the BOF; EOF; or Variable. Additionally, we also look for a number where the sequence starts, and we call this an **Offset** number. You can find this number by selecting your sequence and adjusting your hex editor to show offset base as a decimal number. Below you can see an example of a sequence and how we found its offset number.
 
-<img src="https://github.com/digital-preservation/PRONOM_Research/tree/main/Resources/media/image16.png?raw=true" style="width:5.96632in;height:3.35724in" />
+<img src="https://github.com/digital-preservation/PRONOM_Research/blob/main/Resources/media/image16.png?raw=true" style="width:5.96632in;height:3.35724in" />
 
 Below number tells us that the offset is 248, meaning that the sequence starts at 248th hex.
 
-<img src="https://github.com/digital-preservation/PRONOM_Research/tree/main/Resources/media/image16.png?raw=true" style="width:6.00325in;height:1.3203in" />
+<img src="https://github.com/digital-preservation/PRONOM_Research/blob/main/Resources/media/image16.png?raw=true" style="width:6.00325in;height:1.3203in" />
 
 For EOF sequences we calculate the offset number from the end of the file format and record that number.
 
-<img src="https://github.com/digital-preservation/PRONOM_Research/tree/main/Resources/media/image17.png?raw=true" style="width:3.93813in;height:1.29036in" />
+<img src="https://github.com/digital-preservation/PRONOM_Research/blob/main/Resources/media/image17.png?raw=true" style="width:3.93813in;height:1.29036in" />
 
 Often, the offset number can vary for which we record the minimum number (min offset) found in our sample of where the sequence can start from and a maximum number of where it can start from (max offset).
 
 Sometimes, the sequence can vary slightly between samples, and we can add flexibility to our sequence using the below table.
 
-<img src="https://github.com/digital-preservation/PRONOM_Research/tree/main/Resources/media/image18.png?raw=true" style="width:5.26389in;height:2.92361in" alt="C:\Users\ahricikova\AppData\Local\Microsoft\Windows\INetCache\Content.MSO\77DBCA9C.tmp" />**  
+<img src="https://github.com/digital-preservation/PRONOM_Research/blob/main/Resources/media/image18.png?raw=true" style="width:5.26389in;height:2.92361in" alt="C:\Users\ahricikova\AppData\Local\Microsoft\Windows\INetCache\Content.MSO\77DBCA9C.tmp" />**  
 **
 
-<img src="https://github.com/digital-preservation/PRONOM_Research/tree/main/Resources/media/image19.png?raw=true" style="width:5.89583in;height:2.45472in" />Bear in mind your file format could have two or three sequences. The one below looks for a sequence at the beginning of the file AND for another at the end of the file.
+<img src="https://github.com/digital-preservation/PRONOM_Research/blob/main/Resources/media/image19.png?raw=true" style="width:5.89583in;height:2.45472in" />Bear in mind your file format could have two or three sequences. The one below looks for a sequence at the beginning of the file AND for another at the end of the file.
 
 The more information you can provide the more unique the signature will be. This will prevent it from clashing with other existing file formats in the future. However it is a balance, the more specific your signature the less likely it can be that all files of that type are guaranteed to have those patterns.
 
@@ -373,15 +373,15 @@ Let us look at an example together:
 
 Microsoft Word is a ZIP file format with an extension .docx. If we create a copy of this file, change its extension to .zip, and extract the file format, we can see the content of this format.
 
-<img src="https://github.com/digital-preservation/PRONOM_Research/tree/main/Resources/media/image12.png?raw=true" style="width:6.26806in;height:1.06806in" />
+<img src="https://github.com/digital-preservation/PRONOM_Research/blob/main/Resources/media/image12.png?raw=true" style="width:6.26806in;height:1.06806in" />
 
-<img src="https://github.com/digital-preservation/PRONOM_Research/tree/main/Resources/media/image13.png?raw=true" style="width:6.26806in;height:1.35556in" />
+<img src="https://github.com/digital-preservation/PRONOM_Research/blob/main/Resources/media/image13.png?raw=true" style="width:6.26806in;height:1.35556in" />
 
 You can see from this example that a .docx file is not just a singular file format but rather exists as a set of multiple file formats, each of which we aim to record.
 
 For container signatures, you will need to unzip each of your sample to find out what are the repeated pathways (folder names) are included in this format and then record them. For the example above we would record that the type of format is a ZIP format (this can be identified using file format identification tool), then we would say that it contains folders of \_rels, docProps, word and an .xml file format, on which we would need to do a further research and find out its binary signature (more on this later). We would also open each of those formats and then record whether they contain other formats or folders, as shown below.
 
-<img src="https://github.com/digital-preservation/PRONOM_Research/tree/main/Resources/media/image14.png?raw=true" style="width:6.29715in;height:1.07351in" />
+<img src="https://github.com/digital-preservation/PRONOM_Research/blob/main/Resources/media/image14.png?raw=true" style="width:6.29715in;height:1.07351in" />
 
 Once you have collected information on the file pathways and binary signatures within them you have found your container signature.
 
@@ -389,7 +389,7 @@ To show you how these file paths and sequences are used here is an example of ho
 
 Below is the xml for the Microsoft Word example above:
 
-<img src="https://github.com/digital-preservation/PRONOM_Research/tree/main/Resources/media/image20.png?raw=true" style="width:7.64583in;height:2.22708in" />
+<img src="https://github.com/digital-preservation/PRONOM_Research/blob/main/Resources/media/image20.png?raw=true" style="width:7.64583in;height:2.22708in" />
 
 This particular file format is identified by opening the file ‘\[Content\_Types\].xml’. The sequence ‘ContentType="application/vnd.openxmlformats-officedocument.wordprocessingml.document.main+xml"’ can then be found between the absolute beginning of the file 0 to byte number 32768. This is shown in the values SubSeqMinOffset and SubSeqMaxOffset. Unlike binary signatures container sequences can be written in both ASCII and hex and we use both in the container signatures interchangeably dependending on what is more human readable.
 
@@ -411,7 +411,7 @@ The tool works by inputting your signature and research into the fields provided
 
 In the case of DROID it is a simple process to add a new signature or container signature to DROID. Simply add the files to the .droid6 folder found in C:/Users/\[username\]/.droid6 . Place the container signatures in the container\_sigs folder and the regular signatures generated in the signature\_files folder. Within DROID go to Tools/ Preferences and the binary signature file and/or container signature file you have generated should appear in the drop downs at the top. Select your signature and press OK.
 
-<img src="https://github.com/digital-preservation/PRONOM_Research/tree/main/Resources/media/image21.png?raw=true" style="width:5.05694in;height:4.55556in" />Now you can run DROID over your files and test that they are identifying, don’t forget to create a new profile or the changes you have made won’t take effect.
+<img src="https://github.com/digital-preservation/PRONOM_Research/blob/main/Resources/media/image21.png?raw=true" style="width:5.05694in;height:4.55556in" />Now you can run DROID over your files and test that they are identifying, don’t forget to create a new profile or the changes you have made won’t take effect.
 
 Further instruction on how to use DROID can be found here.
 
@@ -507,9 +507,9 @@ To check in and see how we are progressing with our work we update an online spr
 
 Could we have explained something better in this pack? Was there a part that was difficult to understand? Do you have some tips that you wish we’d added in? Let us know via our mailbox and we will improve it!
 
-Congratulations on completing your file format research, we hope you enjoyed it as much as we do. Welcome to the PRONOM community! <img src="https://github.com/digital-preservation/PRONOM_Research/tree/main/Resources/media/image22.png?raw=true" style="width:0.21528in;height:0.21528in" />
+Congratulations on completing your file format research, we hope you enjoyed it as much as we do. Welcome to the PRONOM community! <img src="https://github.com/digital-preservation/PRONOM_Research/blob/main/Resources/media/image22.png?raw=true" style="width:0.21528in;height:0.21528in" />
 
-<img src="https://github.com/digital-preservation/PRONOM_Research/tree/main/Resources/media/image23.JPG?raw=true" style="width:4.16963in;height:1.25694in" />
+<img src="https://github.com/digital-preservation/PRONOM_Research/blob/main/Resources/media/image23.JPG?raw=true" style="width:4.16963in;height:1.25694in" />
 
 **  
 **
