@@ -91,44 +91,37 @@ Notará que hay muchos enlaces a recursos adicionales en el documento y la lista
 # Listo…
 Probablemente esté aquí porque tiene algunos formatos de archivo en su colección que no se identifican o no se identifican como cree que deberían. Si este es el caso, ya tienes un problema que investigar. Sin embargo, si no lo hace y aún desea contribuir, encontrará una lista de formatos de archivos sin firmas aquí, una lista de formatos de archivos sin descripciones aquí o puede buscar en la base de datos de PRONOM para ver si sus formatos de archivos favoritos ya están allí.
 
-## Submission Template
+## Envío Plantilla
+En este paquete encontrará una plantilla para su investigación de formatos de archivos. La plantilla está en formato Microsoft Excel y Word, elija el que le resulte más fácil. La plantilla tiene una lista de campos.-esta lista es la información que recopilamos antes de que el formato de archivo entre en PRONOM. Si no puede completarlo todo, no hay ningún problema, pero cuanto más completa sea la plantilla, más rápido podremos procesar el envío.
 
-You will find a template for your file format research in this pack. The template is in Microsoft Excel and Word format, please choose whichever is easier for you. The template has a list of fields - this list is the information that we collect before the file format goes into PRONOM. If you cannot fill it all out that is not a problem at all but the more complete the template the quicker we can usually process the submission!
 
-## Introductory Reading
+## Lectura Introductoria
 
-There are a number of useful blogs written about file format research. To start we recommend this [<u>blog</u>][1] written by Ross Spencer, this [<u>guidance</u>] written by Jenny Mitcham and the <u>[blog][<u>blog</u>]</u> written by PRONOM team mentioned earlier.
+Hay varios blogs útiles escritos sobre la investigación de formatos de archivos. Para empezar, recomendamos este blog escrito por Ross Spencer, esta guía escrita por Jenny Mitcham y el blog escrito por el equipo de PRONOM mencionado anteriormente.
 
-## Useful Software
+## Software 
 
-You will need:
+Necesitará:
+- Editor hexadecimal
+- Herramienta de identificación de formato de archivo
+- 7ZIP (solo para ciertos tipos de formatos de archivo)
 
--   Hex editor
 
--   File format identification tool
+En la lectura introductoria descubrimos que la investigación de formatos de archivos implica analizar hexadecimal y buscar secuencias de bytes dentro del formato de archivo. Internamente utilizamos el editor hexadecimal HxD, que es un software gratuito y se puede descargar aquí. También hay otro software disponible.
 
--   7ZIP (for certain types of file formats only)
+También necesitará una **herramienta de identificación de formato de archivo**, en The National Archives utilizamos [<u>DROID</u>]  para analizar archivos. Descargue una herramienta de identificación de formato de archivo antes de comenzar su investigación; puede usar DROID u otras herramientas como Siegfried o FIDO. Para este ejercicio la herramienta deberá utilizar los datos de la base de datos del PRONOM.
 
-In the introductory reading we found that file format research involves analysing hex and looking for byte sequences within the file format. Internally we use HxD **hex editor**, which is a free software and can be downloaded [<u>here</u>]. Other software is available also.
+Es posible que también necesite la herramienta 7Zip para investigar firmas de contenedores y extraer información de ellas (más sobre esto más adelante).
 
-You will also need a **file format identification tool**, at The National Archives we use [<u>DROID</u>] to analyse files. Please download a file format identification tool prior to starting your research, you can use DROID or other tools such as [<u>Siegfried</u>] or [<u>FIDO</u>]. For this exercise the tool should use the data from the PRONOM database.
+# Configuración …
 
-You may also need [<u>7Zip tool</u>] for researching container signatures and extracting information from them (more on this later).
+En esta sección, le explicaremos los siguientes aspectos de la investigación de formatos 
+de archivos:
+* Encontrar información sobre el formato de su archivo.
+  *Cómo encontrar el mejor método de identificación para tu formato de archivo (hay tres 
+tipos). 
 
-**  
-**
-
-# Set…
-
-In this section we will talk you through the following aspects of file format research:
-
--   Finding information about your file format.
-
--   How to find the best identification method for your file format (there are three types).
-
--   
-
--   Creating the signature.
+## Creating the signature.
 
 To start analysing your file format there are few steps you should follow. These steps do not necessarily need to be completed in a set order and you can adjust how you conduct your research to make it most suitable to your individual working methods.
 
