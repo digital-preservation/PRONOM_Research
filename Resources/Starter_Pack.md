@@ -102,27 +102,27 @@ You will notice that there are a lot of links to additional resources in the doc
 
 [Ready…](#ready)
 
-[Submission Template](##submission-template)
+*[Submission Template](#submission-template)
 
-[Introductory Reading](#introductory-reading)
+*[Introductory Reading](#introductory-reading)
 
-[Useful Software](#useful-software)
+*[Useful Software](#useful-software)
 
 [Set…](#set)
 
-Check Before Starting 6
+*[Check Before Starting](#check-before-starting)
 
-Finding File Samples 7
+*[Finding File Samples](#finding-file-samples)
 
-GitHub 7
+&nspb *[GitHub](#github)
 
-Search Engines 7
+&nspb *[Search Engines](#search-engines)
 
-Just Solve the File Format Problem 7
+&nspb *[Just Solve the File Format Problem](#just-solve-the-file-format-problem)
 
-Be Aware 8
+&nspb *[Be Aware](#be-aware)
 
-Types of Identification in PRONOM 9
+*[Types of Identification in PRONOM](#types-of-identification-in-pronom)
 
 Extension-only 9
 
@@ -161,8 +161,6 @@ GO! 23
 List of Resources and Tools 24
 
 # Ready…
-
-# 
 
 You are probably here because you have some file formats in your collection that are not being identified or do not identify as you think they should. If this is the case, you already have an issue to research. However, if you do not and you still wish to contribute, you will find a list of file formats without signatures here, a list of file formats without descriptions here or you can search the PRONOM database to see if your favourite file formats are already there
 
