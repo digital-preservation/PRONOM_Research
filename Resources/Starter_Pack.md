@@ -102,13 +102,13 @@ You will notice that there are a lot of links to additional resources in the doc
 
 [Ready…](#ready)
 
-Submission Template 4
+[Submission Template](##submission-template)
 
-Introductory Reading 4
+[Introductory Reading](##introductory-reading)
 
-Useful Software 4
+[Useful Software](#useful-software)
 
-Set… 5
+[Set…](#set)
 
 Check Before Starting 6
 
