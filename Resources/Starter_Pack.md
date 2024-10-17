@@ -124,7 +124,7 @@ You will notice that there are a lot of links to additional resources in the doc
 
 * [Types of Identification in PRONOM](#types-of-identification-in-pronom)
 
-    * [Extension-only](#extension-only)
+    * [Extension-only](#extensiononly)
 
     * [Binary Signatures](#binary-signatures)
 
@@ -134,7 +134,7 @@ You will notice that there are a lot of links to additional resources in the doc
 
 * [Researching Container Signatures](#researching-container-signatures)
 
-* [No Signature? Extension-only Formats](#no-signature-extension-only-formats)
+* [No Signature? Extension-only Formats](#no-signature-extensiononly-formats)
 
 * [Checking It Works!](checking-it-works)
 
