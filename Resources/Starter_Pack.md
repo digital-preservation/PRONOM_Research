@@ -104,7 +104,7 @@ You will notice that there are a lot of links to additional resources in the doc
 
 [Submission Template](##submission-template)
 
-[Introductory Reading](##introductory-reading)
+[Introductory Reading](#introductory-reading)
 
 [Useful Software](#useful-software)
 
