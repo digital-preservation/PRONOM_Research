@@ -110,35 +110,35 @@ You will notice that there are a lot of links to additional resources in the doc
 
 [Set…](#set)
 
-*[Check Before Starting](#check-before-starting)
+* [Check Before Starting](#check-before-starting)
 
-*[Finding File Samples](#finding-file-samples)
+* [Finding File Samples](#finding-file-samples)
 
-&nspb *[GitHub](#github)
+    * [GitHub](#github)
 
-&nspb *[Search Engines](#search-engines)
+    * [Search Engines](#search-engines)
 
-&nspb *[Just Solve the File Format Problem](#just-solve-the-file-format-problem)
+    * [Just Solve the File Format Problem](#just-solve-the-file-format-problem)
 
-&nspb *[Be Aware](#be-aware)
+    * [Be Aware](#be-aware)
 
-*[Types of Identification in PRONOM](#types-of-identification-in-pronom)
+* [Types of Identification in PRONOM](#types-of-identification-in-pronom)
 
-Extension-only 9
+    * [Extension-only](#extension-only)
 
-Binary Signatures 9
+    * [Binary Signatures](#binary-signatures)
 
-Container Signatures 11
+    * [Container Signatures](#container-signatures)
 
-Researching Binary Signatures 13
+* [Researching Binary Signatures](#researching-binary-signatures)
 
-Researching Container Signatures 16
+* [Researching Container Signatures](#researching-container-signatures)
 
-No Signature? Extension-only Formats 18
+* [No Signature? Extension-only Formats](#no-signature-extension-only-formats)
 
-Checking It Works! 19
+* Checking It Works!
 
-Description, MIME Types and Other Useful Information 20
+* Description, MIME Types and Other Useful Information 20
 
 Format Name 20
 
