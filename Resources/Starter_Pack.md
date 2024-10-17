@@ -48,7 +48,7 @@ You will notice that there are a lot of links to additional resources in the doc
 
 * [Types of Identification in PRONOM](#types-of-identification-in-pronom)
 
-    * [Extension-only](#extensiononly)
+    * [Extension-only](#extension-only)
 
     * [Binary Signatures](#binary-signatures)
 
