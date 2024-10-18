@@ -1,4 +1,3 @@
-
 # PRONOM Paquete de inicio
 
 ## Su guía para comenzar con la investigación de formatos de archivos
@@ -121,59 +120,55 @@ de archivos:
   *Cómo encontrar el mejor método de identificación para tu formato de archivo (hay tres 
 tipos). 
 
-## Creating the signature.
+## Creación de la firma
 
-To start analysing your file format there are few steps you should follow. These steps do not necessarily need to be completed in a set order and you can adjust how you conduct your research to make it most suitable to your individual working methods.
+Para comenzar a analizar el formato de su archivo, debe seguir algunos pasos. No es necesario completar estos pasos en un orden establecido y usted puede ajustar la forma en que realiza su investigación para que sea más adecuada a sus métodos de trabajo individuales.
 
-Steps that we need to take:
+Pasos que debemos seguir:
 
--   Things to check before starting. Verifying the problem you need to solve and double checking your file formats are not already in the database.
+-   Cosas a comprobar antes de empezar. Verificar el problema que necesita resolver y verificar que los formatos de sus archivos no estén ya en la base de datos
 
--   
+-   Encontrar muestras de archivos (tal vez ya las tenga), ¡cuanto más, mejor en muchos lugares diferentes!
 
--   Finding file samples (maybe you have these already), the more the better from lots of different places!
+-   El tipo de identificación del formato de archivo en PRONOM.
 
--   The type of file format identification in PRONOM.
+-   Cómo encontrar una firma de formato de archivo y analizar su formato de archivo 
+usando hexadecimal y otras herramientas.
 
--   How to find a file format signature and analyse your file format using hex and other tools.
+-    ¡La verificación de su firma fue exitosa!
 
--   Checking your signature is successful!
+-   Encontrar información adicional sobre el formato del archivo.
 
--   Finding additional information about the file format.
+## Verifique antes de comenzar
 
-## Check Before Starting
+Recomendamos como primer paso ejecutar sus archivos a través de una herramienta de identificación de formato de archivo. Para hacer esto, debe tener una herramienta de identificación de formato de archivo que utilice los datos de la base de datos PRONOM, como DROID, Siegfried y FIDO. En segundo lugar, recomendamos buscar en la base de datos PRONOM su formato de archivo utilizando la búsqueda de solo extensión y la búsqueda de texto libre.
 
-We recommend as the first step running your files through a file format identification tool. To do this, you should have a file format identification tool that uses the data from the PRONOM database, such as DROID, Siegfried and FIDO . Secondly, we recommend searching the PRONOM database for your file format using the extension-only search and the free text search.
+Si su archivo no está en la base de datos de PRONOM ni se identifica como debería estar usando el software, entonces necesitará una nueva entrada.
 
-If your file is neither in the PRONOM database nor identifying as it should be using the software then it will need a new entry. Follow the steps ahead as proposed. There is an exception to this rule. If your file identifies unexpectedly as a ZIP or OLE2 file then there is a possibility it is a container file. See the next section **Types of Identification in PRONOM**.
+Siga los pasos a seguir según lo propuesto. Hay una excepción a esta regla. Si su archivo se identifica inesperadamente como un archivo ZIP u OLE2, existe la posibilidad de que sea un archivo contenedor. Ver la siguiente sección **Tipos de Identificación en PRONOM**.
 
-If your file can be found in the PRONOM database but is not identifying using the software then there is a good chance that the signature needs improving or there is a missing file extension. Follow the steps ahead and research your file format, however, try and work out what the differences are between what is in the PRONOM entry and in your files. See if you can investigate what has gone wrong. To help take a look at the method by which it is identifying (Signature, Container or Extension).
+Si su archivo se puede encontrar en la base de datos de PRONOM pero no se identifica con el software, es muy probable que sea necesario mejorar la firma o que falte una extensión de archivo. Siga los pasos a continuación e investigue el formato de su archivo; sin embargo, intente descubrir cuáles son las diferencias entre lo que está en la entrada PRONOM y sus archivos. Vea si puede investigar qué salió mal. Para ayudar, eche un vistazo al método por el cual se identifica (Firma, Contenedor o Extensión).
 
-If your file identifies correctly but also identifies as other file types then it has the characteristics of two or more signatures in the database. Take a look at how it is identifying. If it is by Extension then there is very little we can do (though do tell us about it and jump ahead to the **GO!** section if you think it is important). However if it is by Signature or Container see if you can investigate why your file may identify as both types by following the steps ahead. Is there a way that one signature can be improved so that this doesn’t happen? Should one signature be given a priority over the other (so that if it identifies as both only one appears)?
+Si su archivo se identifica correctamente pero también se identifica como otros tipos de archivos, entonces tiene las características de dos o más firmas en la base de datos. Fíjate cómo se va identificando. Si es por extensión, entonces hay muy poco que podamos hacer (aunque cuéntanoslo y salta a la sección **¡IR!** si crees que es importante). Sin embargo, si es por Firma o Contenedor, vea si puede investigar por qué su archivo puede identificarse como ambos tipos siguiendo los pasos a continuación. ¿Hay alguna manera de mejorar una firma para que esto no suceda? ¿Se debe dar prioridad a una firma sobre la otra (de modo que si se identifica como ambas solo aparezca una)?
 
-If your file identifies correctly in the identification software but has an extension mismatch error and is therefore hard to search in the database jump ahead to the **GO!** section. Tell us about the missing extension.
-
-## 
+Si su archivo se identifica correctamente en el software de identificación pero tiene un error de extensión que no coincide y, por lo tanto, es difícil buscarlo en la base de datos, vaya a **IR!** sección. Cuéntanos sobre la extensión que falta.
 
 ## Finding File Samples
 
-You should aim to have a substantial number of samples, the more the better (five to twenty examples is a good range)! The file samples should preferably be from more than one source. i.e. if all your file samples have come from the same computer then consistencies in the file format may be due to the computer you’re using and not the file format itself. A warning that downloading anything onto your machine comes with its own risks. Having cyber security protection installed and a good anti-virus software could mitigate any potential malware risks.
-
-To find file samples online you can search online using resources such as:
+Debe intentar tener una cantidad sustancial de muestras, cuantas más, mejor (¡cinco a veinte ejemplos es un buen rango)! Es preferible que los archivos de muestra provengan de más de una fuente. es decir, si todas sus muestras de archivos provienen de la misma computadora, entonces las consistencias en el formato del archivo pueden deberse a la computadora que está utilizando y no al formato del archivo en sí. Una advertencia de que descargar cualquier cosa en su máquina conlleva sus propios riesgos. Tener instalada una protección de seguridad cibernética y un buen software antivirus podría mitigar cualquier riesgo potencial de malware.Para encontrar ejemplos de archivos en línea, puede buscar en línea utilizando recursos como:
 
 ### GitHub
 
-You can search the GitHub repository for more samples, to do this you will require an account. The most effective search technique for GitHub is to search all repositories. If you are trying to find files with the extension .cbz you would search the following *Filename:cbz extension:cbz*. Use these steps to download the sample files:
+Puede buscar más ejemplos en el repositorio de GitHub; para ello necesitará una cuenta. La técnica de búsqueda más eficaz para GitHub es buscar en todos los repositorios. Si está intentando encontrar archivos con la extensión .cbz, buscará el siguiente nombre de archivo: cbz extensión: cbz. Utilice estos pasos para descargar los archivos de muestra:
 
-1.  Go to file that you want to download 
+1. Vaya al archivo que desea descargar.
+2. Haga clic en él para ver el contenido dentro de GitHub.
+3. En la parte superior derecha, haz clic derecho en el botón sin formato.
 
-2.  Click it to view the contents within GitHub 
+### Motores de búsqueda
 
-3.  In the top right, right click the raw button 
+Puede utilizar su motor de búsqueda para buscar muestras. Dependiendo del motor de búsqueda que utilice, las formas de encontrar muestras variarán. Puede intentarlo escribiendo el nombre del formato de archivo y su extensión y ejemplos al final. Una forma eficaz de buscar ejemplos con Google es escribiendo cualquiera de las siguientes sintaxis:
 
-### Search Engines
-
-You can use your search engine to look for samples. Depending on the search engine you use, the ways to find sample will vary. You can try by typing the name of file format name and its extension and samples at the end. An effective way to look for samples using Google is by typing any of the below syntax:
 
 -   “parent directory” .cbz = good google search 
 
@@ -181,227 +176,225 @@ You can use your search engine to look for samples. Depending on the search engi
 
 -   filetype:jpg ‘filetype:&lt;fileextension&gt;’ 
 
-### 
 
 ### Just Solve the File Format Problem
 
-Another method to find sample files is using the [<u>Just Solve</u> <u>the File Format</u>] <u>Problem</u> wiki entry. Your format may have already been researched by someone else and more information about it can be found on this site. Depending on the format you are researching you can find webpages which might have sample files for your format, as shown below:
+Otro método para encontrar archivos de muestra es utilizar la entrada wiki Just Solve the File Format Problem. Es posible que otra persona ya haya investigado su formato y puede encontrar más información al respecto en este sitio. Dependiendo del formato que estés investigando podrás encontrar páginas web que podría tener archivos de muestra para su formato, como se muestra a continuación:
+
 ![]("https://github.com/digital-preservation/PRONOM_Research/blob/main/Resources/media/image2.png?raw=true" "A title")
 
-### Be Aware
+### Tenga en cuenta
 
-The internet is the wild west of extensions and there are no rules. Something that can be seen often on GitHub but something to be aware of on other sites too. Developers can assign a random extension to their code that may be the same as the one you are looking for.
+Internet es el salvaje oeste de las extensiones y no existen reglas. Algo que se puede ver a menudo en GitHub pero que también hay que tener en cuenta en otros sitios. Los desarrolladores pueden asignar una extensión aleatoria a su código que puede ser igual a la que estás buscando.
 
-Unfortunately your file format may not be the only file format with this extension. You can also use the file-extension seeker or TrID database to check if there are any other formats associated with the same extension. This can help avoid samples of different files with same extension as you are looking for.
+Lamentablemente, es posible que su formato de archivo no sea el único formato de archivo con esta extensión. También puede utilizar el buscador de extensiones de archivos o la base de datos TrID para comprobar si hay otros formatos asociados con la misma extensión. Esto puede ayudar a evitar muestras de diferentes archivos con la misma extensión que está buscando.
 
-With all these take a look at the file you have downloaded. If it has a similar structure to other file samples you already have or matches elements of the specification then it is likely to be what you are looking for. If it is completely different it could be another file format entirely.
+Con todo esto echa un vistazo al archivo que has descargado. Si tiene una estructura similar a otros archivos de muestra que ya tiene o coincide con elementos de la especificación, entonces es probable que sea lo que está buscando. Si es completamente diferente, podría ser otro formato de archivo completamente diferente.
 
-## 
+## Tipos de Identificación en PRONOM
 
-## Types of Identification in PRONOM
-
-There are currently three types of file format identification. Extension-only, Binary Signature and Container Signature. The majority of file types are identified by binary signature or extension-only. It is comparatively rare to find a container signature.
+Actualmente existen tres tipos de identificación de formato de archivo. Sólo extensión, firma binaria y firma de contenedor. La mayoría de los tipos de archivos se identifican mediante firma binaria o solo por extensión. Es comparativamente raro encontrar una firma de contenedor.
 
 <img src="https://github.com/digital-preservation/PRONOM_Research/blob/main/Resources/media/image3.png?raw=true" style="width:7.64583in;height:1.20417in" />
 
-In DROID the method of identification appears under the Method column. Here the ‘Signature’ category applies to binary signatures.
+En DROID, el método de identificación aparece en la columna Método. Aquí la categoría 'Firma' se aplica a las firmas binarias. 
 
-###Extension-only
+### Extensión solamente
 
-This type of identification is the least secure method of identifying a file format. If possible we try to apply a binary or container signature to the file format as file format extensions can be easily changed. It is by extension that your windows PC identifies file formats.
+Este tipo de identificación es el método menos seguro para identificar un formato de archivo. Si es posible, intentamos aplicar una firma binaria o de contenedor al formato del archivo, ya que las extensiones del formato de archivo se pueden cambiar fácilmente. Es por extensión que su PC con Windows identifica los formatos de archivo.
 
 <img src="https://github.com/digital-preservation/PRONOM_Research/blob/main/Resources/media/image4.png?raw=true" style="width:7.64583in;height:0.71806in" />
 
-For instance copying and pasting this Text Document and then changing the extension (which is done by renaming the file) results in windows identifying the Text Document as an ASDFGHJKL File.
+Por ejemplo, copiar y pegar este documento de texto y luego cambiar la extensión (lo que se hace cambiando el nombre del archivo) da como resultado que Windows identifique el documento de texto como un archivo ASDFGHJKL.
 
-###Binary Signatures
+### Firmas binarias
 
-All files and systems on a computer are made up of binary (the 01100010 01101001 01101110 01100001 01110010 01111001 often seen in images associated with computers), which in turn can be translated into another ‘computer language’ called hex (or 68 65 78). To find a binary signature we use a hex editor to look for repeated patterns across files of the same file type. We then input these patterns into PRONOM. For example an internal signature on the website is displayed as below:
+Todos los archivos y sistemas de una computadora se componen de binarios (el 01100010 01101001 01101110 01100001 01110010 01111001 que se ve a menudo en imágenes asociadas con computadoras), que a su vez se puede traducir a otro "lenguaje informático" llamado hex (o 68 65 78). Para encontrar una firma binaria utilizamos un editor hexadecimal para buscar patrones repetidos en archivos del mismo tipo. Luego ingresamos estos patrones en PRONOM. Por ejemplo, una firma interna en el sitio web se muestra a continuación:
 
-<img src="https://github.com/digital-preservation/PRONOM_Research/blob/main/Resources/media/image5.png?raw=true" style="width:6.05556in;height:2.56742in" />PRONOM has its own syntax, similar to regex which it uses to describe the specific pattern (more on this later). Some of the patterns are purposefully left there by developers for identification purposes and are called Magic Bytes. Think of it as a trademark or a stamp that a developer left behind when creating a file format.
+<img src="https://github.com/digital-preservation/PRONOM_Research/blob/main/Resources/media/image5.png?raw=true" style="width:6.05556in;height:2.56742in" />
+
+PRONOM tiene su propia sintaxis, similar a la expresión regular que utiliza para describir el patrón específico (más sobre esto más adelante). Algunos de los patrones los dejan allí intencionalmente los desarrolladores con fines de identificación y se denominan Magic Bytes. Piense en ello como una marca registrada o un sello que un desarrollador dejó al crear un formato de archivo.
 
 <img src="https://github.com/digital-preservation/PRONOM_Research/blob/main/Resources/media/image6.png?raw=true" style="width:7.64583in;height:4.91042in" />
 
-*Trademarks and seals* *from The National Archives Collection, alongside the magic bytes of a zip file.*
+*Marcas comerciales y sellos de la Colección de Archivos Nacionales, junto con los bytes mágicos de un archivo zip.*
 
-Whilst other patterns can be requirements in the specification that certain information has to be stated in a certain place.
+Mientras que otros patrones pueden ser requisitos en la especificación de que cierta información debe indicarse en un lugar determinado.
 
-Software is programmed to understand the structure of the file format and therefore show a file as an image, and not a stream of binary. A direct comparison can be seen with the human brain reading a letter. We can disseminate what text relates to what information easily, with an understanding that the top right will contain the sender’s address and the end of the letter will be signed by the sender. So in the same way that software will render files, a human will read and understand a physical record.
+El software está programado para comprender la estructura del formato de archivo y, por lo tanto, mostrar un archivo como una imagen y no como una secuencia binaria. Se puede ver una comparación directa con el cerebro humano leyendo una carta. Podemos difundir fácilmente qué texto se relaciona con qué información, en el entendido de que la parte superior derecha contendrá la dirección del remitente y el final de la carta estará firmado por el remitente. Entonces, de la misma manera que el software representa archivos, un humano leerá y comprenderá un registro físico.
 
-When your file format identification software recognises a file type it is because it has looked through the hex of your files to see if it matches any of the patterns we have in the PRONOM database.
+Cuando su software de identificación de formato de archivo reconoce un tipo de archivo es porque ha revisado el hexadecimal de sus archivos para ver si coincide con alguno de los patrones que tenemos en la base de datos de PRONOM.
 
 <img src="https://github.com/digital-preservation/PRONOM_Research/blob/main/Resources/media/image7.png?raw=true" style="width:7.65278in;height:5.0566in" alt="Image 2- How we read files" />
 
-###Container Signatures
+### Firmas de contenedores
 
-These are file formats that are compressed or zipped. Though you won’t often see this immediately just by looking at the file. For example, most Microsoft file formats are actually zipped folders. As the file is zipped it contains other files and possibly folders inside it. For instance a Microsoft Word file in windows normally looks like this:
+Estos son formatos de archivos comprimidos o comprimidos. Aunque no sueles ver esto inmediatamente con solo mirar el archivo. Por ejemplo, la mayoría de los formatos de archivos de Microsoft están comprimidos.
+
+Carpetas. A medida que el archivo está comprimido, contiene otros archivos y posiblemente carpetas dentro de él. Por ejemplo, un archivo de Microsoft Word en Windows normalmente tiene este aspecto:
 
 <img src="https://github.com/digital-preservation/PRONOM_Research/blob/main/Resources/media/image8.png?raw=true" style="width:7.64583in;height:0.32639in" />
 
-<img src="https://github.com/digital-preservation/PRONOM_Research/blob/main/Resources/media/image9.png?raw=true" style="width:4.70208in;height:1.22222in" />But when you unzip or extract the file it looks like this:
+Pero cuando descomprimes o extraes el archivo, se ve así:
 
-Think of container files as stacking boxes or a matryoshka doll.
+<img src="https://github.com/digital-preservation/PRONOM_Research/blob/main/Resources/media/image9.png?raw=true" style="width:4.70208in;height:1.22222in" />
+
+Pensar de envase archivos como apilado cajas o a muñeca matrioska.
 
 <img src="https://github.com/digital-preservation/PRONOM_Research/blob/main/Resources/media/image10.jpg?raw=true" style="width:3.10139in;height:2.32639in" /><img src="https://github.com/digital-preservation/PRONOM_Research/blob/main/Resources/media/image11.jpeg?raw=true" style="width:2.53472in;height:2.64583in" alt="Grimms Lollipop Small Stacking Boxes" />
 
-Each container file contains other file formats and possibly folders which we aim to extract and analyse. We use information such as the internal file paths within the file format and the binary signatures within individual files to create a signature. We look for file paths that multiple samples have in common as well as binary signatures within those files that multiple files have in common. Think of it like the binary signature identification but with the additional consideration of file structure. You can also read more information about container signatures in Ross Spencer’s [<u>blog</u>][2].
+Cada archivo contenedor contiene otros formatos de archivo y posiblemente carpetas que pretendemos extraer y analizar. Usamos información como las rutas de archivos internas dentro del formato de archivo y las firmas binarias dentro de archivos individuales para crear una firma. Buscamos rutas de archivos que tengan en común varias muestras, así como firmas binarias dentro de aquellos archivos que tengan en común varios archivos. Piense en ello como la identificación de firma binaria pero con la consideración adicional de la estructura del archivo. También puede leer más información sobre las firmas de contenedores en el blog de Ross Spencer.
 
 ## 
 
-## Researching Binary Signatures
+## Investigación de firmas binarias
 
-Binary signatures are often more common and easier to find than container signatures. To find out their signatures we look for the repeated sequence within format’s hex. Hexadecimal (or hex) is a system that simplifies and translates how binary is represented within file format. We use the hex editor to tell us the repeated information that is within each file format, which we record as a file format signature.
+Las firmas binarias suelen ser más comunes y más fáciles de encontrar que las firmas de contenedores. Para conocer sus firmas buscamos la secuencia repetida dentro del formato hexadecimal. Hexadecimal (o hexadecimal) es un sistema que simplifica y traduce cómo se representa el binario dentro del formato de archivo. Usamos el editor hexadecimal para indicarnos la información repetida que hay dentro de cada formato de archivo, que registramos como una firma de formato de archivo.
 
-With your sufficient sample files, you can run them through file format identification tool, and then input/drag and drop your files into a hex editor and start analysing the hex sequence. Usually, this sequence is either at the beginning of file format (BOF) or at the end of file format (EOF) but can sometimes be variable (anywhere within the file).
+Con suficientes archivos de muestra, puede ejecutarlos a través de la herramienta de identificación de formato de archivo y luego ingresar/arrastrar y soltar sus archivos en un editor hexadecimal y comenzar a analizar la secuencia hexadecimal. Por lo general, esta secuencia se encuentra al principio del formato de archivo (BOF) o al final del formato de archivo (EOF), pero a veces puede ser variable (en cualquier lugar dentro del archivo).
 
-<img src="https://github.com/digital-preservation/PRONOM_Research/blob/main/Resources/media/image15.png?raw=true" style="width:5.36806in;height:2.97981in" alt="C:\Users\ahricikova\AppData\Local\Microsoft\Windows\INetCache\Content.MSO\DAA4C783.tmp" />
+<img src="https://github.com/digital-preservation/PRONOM_Research/blob/main/Resources/media/image15.png?raw=true" style="width:5.36806in;height:2.97981in"/>
 
-You will need to scroll through the hex sequence to find the common pattern between your samples of the file format you are researching. Once you have found the pattern, you can record it and there you have it, you found your first file format signature! You will also need to record the relevant information about your sequence which is where within the file is placed, so the BOF; EOF; or Variable. Additionally, we also look for a number where the sequence starts, and we call this an **Offset** number. You can find this number by selecting your sequence and adjusting your hex editor to show offset base as a decimal number. Below you can see an example of a sequence and how we found its offset number.
+Deberá desplazarse por la secuencia hexadecimal para encontrar el patrón común entre sus muestras del formato de archivo que está investigando. Una vez que haya encontrado el patrón, puede grabarlo y ahí lo tiene, ¡encontró su primera firma de formato de archivo! También deberá registrar la información relevante sobre su secuencia, que es donde se coloca el archivo, es decir, el BOF; EOF; o Variables. Además, también buscamos un número donde comienza la secuencia y lo llamamos número de compensación. Puede encontrar este número seleccionando su secuencia y ajustando su editor hexadecimal para mostrar la base de compensación como un número decimal. A continuación puede ver un ejemplo de una secuencia y cómo encontramos su número de desplazamiento.
 
 <img src="https://github.com/digital-preservation/PRONOM_Research/blob/main/Resources/media/image16.png?raw=true" style="width:5.96632in;height:3.35724in" />
 
-Below number tells us that the offset is 248, meaning that the sequence starts at 248th hex.
+El siguiente número nos dice que el desplazamiento es 248, lo que significa que la secuencia comienza en el hexadecimal 248.
 
 <img src="https://github.com/digital-preservation/PRONOM_Research/blob/main/Resources/media/image16.png?raw=true" style="width:6.00325in;height:1.3203in" />
 
-For EOF sequences we calculate the offset number from the end of the file format and record that number.
+Para secuencias EOF calculamos el número de desplazamiento desde el final del formato de archivo y registramos ese número.
 
 <img src="https://github.com/digital-preservation/PRONOM_Research/blob/main/Resources/media/image17.png?raw=true" style="width:3.93813in;height:1.29036in" />
 
-Often, the offset number can vary for which we record the minimum number (min offset) found in our sample of where the sequence can start from and a maximum number of where it can start from (max offset).
+A menudo, el número de compensación puede variar para lo cual registramos el número mínimo (compensación mínima) encontrado en nuestra muestra de dónde puede comenzar la secuencia y un número máximo de dónde puede comenzar (compensación máxima).
 
-Sometimes, the sequence can vary slightly between samples, and we can add flexibility to our sequence using the below table.
+A veces, la secuencia puede variar ligeramente entre muestras y podemos agregar flexibilidad a nuestra secuencia usando la siguiente tabla.
 
 <img src="https://github.com/digital-preservation/PRONOM_Research/blob/main/Resources/media/image18.png?raw=true" style="width:5.26389in;height:2.92361in" alt="C:\Users\ahricikova\AppData\Local\Microsoft\Windows\INetCache\Content.MSO\77DBCA9C.tmp" />**  
 **
 
-<img src="https://github.com/digital-preservation/PRONOM_Research/blob/main/Resources/media/image19.png?raw=true" style="width:5.89583in;height:2.45472in" />Bear in mind your file format could have two or three sequences. The one below looks for a sequence at the beginning of the file AND for another at the end of the file.
+<img src="https://github.com/digital-preservation/PRONOM_Research/blob/main/Resources/media/image19.png?raw=true" style="width:5.89583in;height:2.45472in" />
 
-The more information you can provide the more unique the signature will be. This will prevent it from clashing with other existing file formats in the future. However it is a balance, the more specific your signature the less likely it can be that all files of that type are guaranteed to have those patterns.
+Tenga en cuenta que el formato de su archivo podría tener dos o tres secuencias. El siguiente busca una secuencia al principio del archivo Y otra al final del archivo.
 
-Now you should be ready to record your signature with its relevant information in the template provided.
+Cuanta más información pueda proporcionar, más exclusiva será la firma. Esto evitará que entre en conflicto con otros formatos de archivo existentes en el futuro. Sin embargo, hay un equilibrio: cuanto más específica sea su firma, menos probable será que se garantice que todos los archivos de ese tipo tengan esos patrones.
 
-## Researching Container Signatures
+Ahora debería estar listo para registrar su firma con su información relevante en la plantilla proporcionada.
 
-As mentioned above container signatures contains two or more sequences and we aim to find all of them. Currently, PRONOM identifies two types of containers which are either ZIP or OLE2. You can find out which of these formats you are dealing with using the file identification tool. Once you found out that you have a container signature to research. You can make a copy of it on your machine, change the extension to .zip and unzip it using an in-built tool. Alternatively you can use the **7Zip tool** to extract the folder content.
+## Investigación de firmas de contenedores
 
-Let us look at an example together:
+Como se mencionó anteriormente, las firmas de contenedores contienen dos o más secuencias y nuestro objetivo es encontrarlas todas. Actualmente, PRONOM identifica dos tipos de contenedores que son ZIP u OLE2. Puede averiguar con cuál de estos formatos está tratando utilizando la herramienta de identificación de archivos. Una vez que descubrió que tiene una firma de contenedor para investigar. Puede hacer una copia en su máquina, cambiar la extensión a .zip y descomprimirlo usando una herramienta incorporada. Alternativamente, puede utilizar la herramienta 7Zip para extraer el contenido 
+de la carpeta.
 
-Microsoft Word is a ZIP file format with an extension .docx. If we create a copy of this file, change its extension to .zip, and extract the file format, we can see the content of this format.
+Veamos juntos un ejemplo:
+
+Microsoft Word es un formato de archivo ZIP con extensión .docx. Si creamos una copia de este archivo, cambiamos su extensión a .zip y extraemos el formato del archivo, podremos ver el contenido de este formato.
 
 <img src="https://github.com/digital-preservation/PRONOM_Research/blob/main/Resources/media/image12.png?raw=true" style="width:6.26806in;height:1.06806in" />
 
 <img src="https://github.com/digital-preservation/PRONOM_Research/blob/main/Resources/media/image13.png?raw=true" style="width:6.26806in;height:1.35556in" />
 
-You can see from this example that a .docx file is not just a singular file format but rather exists as a set of multiple file formats, each of which we aim to record.
+Puede ver en este ejemplo que un archivo .docx no es solo un formato de archivo singular, sino que existe como un conjunto de múltiples formatos de archivo, cada uno de los cuales pretendemos registrar. 
 
-For container signatures, you will need to unzip each of your sample to find out what are the repeated pathways (folder names) are included in this format and then record them. For the example above we would record that the type of format is a ZIP format (this can be identified using file format identification tool), then we would say that it contains folders of \_rels, docProps, word and an .xml file format, on which we would need to do a further research and find out its binary signature (more on this later). We would also open each of those formats and then record whether they contain other formats or folders, as shown below.
+Para las firmas de contenedores, deberá descomprimir cada una de sus muestras para descubrir cuáles son las rutas repetidas (nombres de carpetas) que se incluyen en este formato y luego registrarlas. Para el ejemplo anterior registraríamos que el tipo de formato es un formato ZIP (esto se puede identificar usando la herramienta de identificación de formato de archivo), luego diríamos que contiene carpetas de _rels, docProps, word y un formato de archivo .xml, en lo cual necesitaríamos hacer una investigación más profunda y descubrir su firma binaria (más sobre esto más adelante). También abriríamos cada uno de esos formatos y luego registraríamos si contienen otros formatos o carpetas, como se muestra a continuación.
 
 <img src="https://github.com/digital-preservation/PRONOM_Research/blob/main/Resources/media/image14.png?raw=true" style="width:6.29715in;height:1.07351in" />
 
-Once you have collected information on the file pathways and binary signatures within them you have found your container signature.
+Una vez que haya recopilado información sobre las rutas de los archivos y las firmas binarias dentro de ellas, habrá encontrado la firma de su contenedor.
 
-To show you how these file paths and sequences are used here is an example of how container signatures are written in xml. Container signatures are currently stored in a separate file and linked to the main database. To see this, if you are using DROID go to C:/Users/\[username\]/.droid6/containersigs/ and you will find the xml container signatures that DROID is using to identify your files.
+Para mostrarle cómo se utilizan estas secuencias y rutas de archivos, aquí hay 
+un ejemplo de cómo se escriben las firmas de contenedores en xml. Actualmente, las firmas de los contenedores se almacenan en un archivo separado y están vinculadas a la base de datos principal. Para ver esto, si está utilizando DROID, vaya a C:/Users/[nombre de usuario]/.droid6/containersigs/ y encontrará las firmas del contenedor xml que DROID utiliza para identificar sus archivos.
 
-Below is the xml for the Microsoft Word example above:
+A continuación se muestra el xml del ejemplo de Microsoft Word anterior:
 
 <img src="https://github.com/digital-preservation/PRONOM_Research/blob/main/Resources/media/image20.png?raw=true" style="width:7.64583in;height:2.22708in" />
 
-This particular file format is identified by opening the file ‘\[Content\_Types\].xml’. The sequence ‘ContentType="application/vnd.openxmlformats-officedocument.wordprocessingml.document.main+xml"’ can then be found between the absolute beginning of the file 0 to byte number 32768. This is shown in the values SubSeqMinOffset and SubSeqMaxOffset. Unlike binary signatures container sequences can be written in both ASCII and hex and we use both in the container signatures interchangeably dependending on what is more human readable.
+Este formato de archivo en particular se identifica abriendo el archivo ‘\[Content\_Types\].xml’. La secuencia ‘ContentType="application/vnd.openxmlformats-officedocument.wordprocessingml.document.main+xml"’ se puede encontrar entre comienzo absoluto del archivo 0 al byte número 32768. Esto se muestra en los valores SubSeqMinOffset y SubSeqMaxOffset. A diferencia de binario firmas envase secuencias poder ser escrito tanto en ASCII como en hexadecimal y usamos ambos en las firmas del contenedor indistintamente dependiente en qué es más humano legible.
 
-It is possible to have multiple file paths and multiple sequences in multiple files for a container signature.
+Es posible tener múltiples rutas de archivos y múltiples secuencias. en varios archivos para un contenedord e firma.
 
-## No Signature? Extension-only Formats
+## ¿Sin firma? Formatos solo de extensión
 
-## 
+ Y después de todo este trabajo, te das cuenta de que ninguno de los métodos anteriores funciona, no puedes descubrir ninguna firma. Qué hacer ahora…
 
-And after all this work, you realise that none of the above methods work, you cannot figure out any signatures. What to do now…
+Bueno, es posible que estés tratando con un formato que no tiene una firma específica; sí, lamentablemente existe. Estos formatos son más difíciles de identificar, pero aún podemos identificarlos por su extensión. Este método de identificación no es muy seguro y por eso intentamos evitarlo en la medida de lo posible. Esto se debe a que cualquiera puede modificar fácilmente la extensión del formato de archivo (como puede haberlo hecho al investigar la firma del contenedor), y también tenemos ejemplos de formatos de archivo que pueden tener más de cincuenta extensiones de formato de archivo diferentes. Sin embargo, si ha analizado sus archivos correctamente siguiendo los pasos anteriores y puede concluir que no hay una secuencia clara presente en el formato del archivo, puede enviar el formato del archivo al equipo de PRONOM como un formato de extensión únicamente.
 
-Well, you might be dealing with a format which does not have a specific signature – yes, those sadly do exist. These formats are trickier to be identified but we can still identify them by their extension. This method of identification is not very secure and so we try to avoid it as much as possible. This is because file format extension can be easily altered by anyone (as you may have done when researching container signature), and we also have examples of file formats which can have over fifty different file format extensions. However, if you have analysed your files correctly using the above steps and you can conclude that no clear sequence is present in the file format, you can submit the file format to PRONOM team as an extension only format.
+## Comprobando que funciona
 
-Checking It Works!
+La mejor manera de comprobar si su firma funciona es utilizar la herramienta Utilidad de desarrollo de firmas de Ross Spencer. Las instrucciones y un tutorial sobre cómo utilizarlo se pueden encontrar aquí, y la herramienta en sí se encuentra aquí.
 
-The best way to check if your signature works is to use Ross Spencer’s Signature Development Utility tool. Instructions and a walk through on how to use this can be found here, and the tool itself is found here.
+La herramienta funciona ingresando su firma e investigando los campos proporcionados y luego genera una firma que puede descargar y probar usando su herramienta de identificación de formato de archivo.
 
-The tool works by inputting your signature and research into the fields provided and then generates a signature that you can download and test using your file format identification tool.
+En el caso de DROID es un proceso sencillo agregar una nueva firma o firma de contenedor a DROID. Simplemente agregue los archivos a la carpeta .droid6 que se encuentra en C:/Users/[nombre de usuario]/.droid6. Coloque las firmas del contenedor en la carpeta Container_sigs y las firmas normales generadas en la carpeta Signature_files. Dentro de DROID, vaya a Herramientas/Preferencias y el archivo de firma binaria y/o el archivo de firma del contenedor que haya generado deberían aparecer en los menús desplegables en la parte superior. Seleccione su firma y presione OK.
 
-In the case of DROID it is a simple process to add a new signature or container signature to DROID. Simply add the files to the .droid6 folder found in C:/Users/\[username\]/.droid6 . Place the container signatures in the container\_sigs folder and the regular signatures generated in the signature\_files folder. Within DROID go to Tools/ Preferences and the binary signature file and/or container signature file you have generated should appear in the drop downs at the top. Select your signature and press OK.
+<img src="https://github.com/digital-preservation/PRONOM_Research/blob/main/Resources/media/image21.png?raw=true" style="width:5.05694in;height:4.55556in" />
 
-<img src="https://github.com/digital-preservation/PRONOM_Research/blob/main/Resources/media/image21.png?raw=true" style="width:5.05694in;height:4.55556in" />Now you can run DROID over your files and test that they are identifying, don’t forget to create a new profile or the changes you have made won’t take effect.
+Ahora puedes ejecutar DROID sobre tus archivos y probar que se estén identificando, no olvides crear un nuevo perfil o los cambios que hayas realizado no tendrán efecto.
 
-Further instruction on how to use DROID can be found here.
+Puede encontrar más instrucciones sobre cómo usar DROID aquí 
 
-## Description, MIME Types and Other Useful Information
+## Descripción, tipos MIME y otra información útil
 
-Do not forget you may also want to do some additional research to find out relevant information about your file format to create a description; find out if there are more versions of this file formats; additional possible extensions; and any other information included in the template provided.
+No olvide que es posible que también desee realizar una investigación adicional para encontrar información relevante sobre el formato de su archivo para crear una descripción; averigüe si existen más versiones de este formato de archivo; posibles extensiones adicionales; y cualquier otra información incluida en la plantilla proporcionada.
 
-### Format Name
+### Nombre del formato
 
-Use the official name where known. Please capitalise each word unless the format name is stylised in some alternative way, e.g. Apple iBook. Include the version numbers (where relevant). If the file format has other official or common names then that is useful to know too.
+Utilice el nombre oficial cuando lo conozca. Utilice mayúsculas en cada palabra a 
+menos que el nombre del formato tenga un estilo alternativo, p. iBook de Apple. 
+Incluya los números de versión (cuando corresponda). Si el formato de archivo 
+tiene otros nombres oficiales o comunes, también es útil saberlo.
 
-### Extensions
+### Extensiones
 
-Even if we aren’t identifying a file by extension-only we collect information about the file extension. This also prevents extension mismatches when identifying in DROID.
+Incluso si no identificamos un archivo por extensión, solo recopilamos información sobre la extensión del archivo. Esto también evita que las extensiones no coincidan al identificarse en DROID.
 
-### Description
+### Descripción
 
-For each file format we write a short description of the file format, usually around 2-4 sentences. We keep our descriptions objective, and avoid commercial statements e.g. 'this software is best for'. Online sources can be used, and we try to use multiple sources, rewritten into our own words. As a general rule if you are unsure about what you are writing, or it is too technical then keep it short and omit it. We believe that if anyone questioned our description we should be able to explain what we meant and the subject area.
+Para cada formato de archivo escribimos una breve descripción del formato de archivo, generalmente de 2 a 4 oraciones. Mantenemos nuestras descripciones objetivas y evitamos declaraciones comerciales, p. "Este software es mejor para". Se pueden utilizar fuentes en línea e intentamos utilizar múltiples fuentes, reescritas con nuestras propias palabras. Como regla general, si no está seguro de lo que está escribiendo o es demasiado técnico, sea breve y omítalo. Creemos que si alguien cuestiona nuestra descripción, deberíamos poder explicarle lo que queremos decir y el área temática.
 
-Areas that could be covered in the description include a timeline of development and support, the function of the file format and software and details of the format specification. The description should also include information relevant to its identification, preservation and the conditions you might encounter it.
+Las áreas que podrían cubrirse en la descripción incluyen un cronograma de desarrollo y soporte, la función del formato de archivo y el software y detalles de la especificación del formato. La descripción también debe incluir información relevante para su identificación, conservación y las condiciones en las que podría encontrarse.
 
-Questions you could ask for example are what different extensions may refer to? Microsoft Word for example has a .docx extension but also a dotx extension which signifies that it is a template file. Whether the size of the file has any relevance? Some file formats are a specific number of bytes and this could signify a property of the file. If other files are normally found in conjunction with this format? Some files are always found with another type of format as the data from one could input into the other.
+Las preguntas que podría hacer, por ejemplo, son ¿a qué se pueden referir las diferentes extensiones? Microsoft Word, por ejemplo, tiene una extensión .docx pero también una extensión dotx, lo que significa que es un archivo de plantilla. ¿Tiene alguna relevancia el tamaño del archivo? Algunos formatos de archivo tienen un número específico de bytes y esto podría significar una propiedad del archivo. ¿Si normalmente se encuentran otros archivos junto con este formato? Algunos archivos siempre se encuentran con otro tipo de formato ya que los datos de uno podrían ingresarse en el otro.
 
-### MIME Types and Identifiers
+### Tipos e identificadores MIME
 
-Another aspect of the research we do is finding out if there are any MIME types or other identifiers associated with the file format. A brief description of what a MIME type is can be found here. This should be an official Media Type. We only accept MIME types that are either registered and listed via the IANA (https://www.iana.org/assignments/media-types/media-types.xhtml) or listed in official format documentation produced by the vendor. The best way to search IANA is to find in page and search for key words of the format.
+Otro aspecto de la investigación que hacemos es descubrir si hay algún tipo MIME u otros identificadores asociados con el formato de archivo. Puede encontrar una breve descripción de qué es un tipo MIME aquí. Este debería ser un tipo de medio oficial. Solo aceptamos tipos MIME que estén registrados y enumerados a través de la IANA (https://www.iana.org/assignments/mediatypes/media-types.xhtml) o enumerados en la documentación de formato oficial producida por el proveedor. La mejor manera de buscar en la IANA es buscar en la página y buscar palabras clave del formato.
 
-We have other types of identifiers such as apple resource forks that are less common but if relevant useful to note down in research.
+Tenemos otros tipos de identificadores, como las bifurcaciones de recursos, que son menos comunes pero, si son relevantes, son útiles para anotar en la investigación.
 
-### File Format Type
+### Tipo de formato de archivo
 
-The current list of format classifications within PRONOM are:
+La lista actual de clasificaciones de formatos dentro de PRONOM es:
 
--   Audio Database - the formats of database software, such as MS Access, MySQL
+-    Base de datos de audio: los formatos del software de base de datos, como MS Access, MySQL
+-   Correo electrónico
+-  SIG - Sistema de Información Geográfica (formatos de datos geoespaciales)
+-  Imagen (ráster): imágenes basadas en cuadrículas de píxeles, como JPG, GIF, PNG.
+-  Imagen (Vector): imágenes basadas en primitivas matemáticas, como SVG, Adobe Illustrator, CorelDraw, WMF.
+-  Descripción de página: el lenguaje de las impresoras (https://en.wikipedia.org/wiki/Page_description_language). Los ejemplos incluyen HP-GL, PDF, PostScript
+- Presentación, como Powerpoint, Impress, hoja de cálculo de Apple Keynote
+- Texto (no estructurado): formatos de texto plano sin estructura formal
+- Texto (estructurado): formatos de texto sin formato con estructura regular definida
+- Texto (marcado), como XML, SGML, MD
+- Procesador de textos
+- Video
+- Agregado, como zip, WARC, 7z, rar, iso
+- Conjunto de datos: formas estructuradas de datos
+- Modelo: formatos 3D como CAD y modelos 3D.
+- Fuente
 
--   Email
+Es posible que su formato no encaje fácilmente en ninguna de las categorías 
+anteriores, así que no dude en solicitar asesoramiento.
 
--   GIS - Geographic Information System (geospatial data formats)
+### Vendedores
 
--   Image (Raster) - images based on pixel grids, such as JPG, GIF, png
+¿Sabes quién lo apoya? ¿O quién lo desarrolló originalmente?
 
--   Image (Vector) - images based on mathematical primitives, such as SVG, Adobe Illustrator, CorelDraw, WMF
+### Enlaces
 
--   Page Description - the language of printers (https://en.wikipedia.org/wiki/Page\_description\_language). Examples include HP-GL, PDF, PostScript
-
--   Presentation - such as Powerpoint, Impress, Apple Keynote Spreadsheet
-
--   Text (Unstructured) - plain text formats with no formal structure
-
--   Text (Structured) - plain text formats with defined, regular structure
-
--   Text (Mark-up) - such as XML, SGML, MD
-
--   Word Processor
-
--   Video
-
--   Aggregate - such as zip, WARC, 7z, rar, iso
-
--   Dataset - structured forms of data
-
--   Model - 3d formats such as CAD and 3d models
-
--   Font
-
-Your format may not easily fit into any of the above categories, so feel free to reach out for advice.
-
-### Vendors
-
-Do you know who supports it? Or who developed it originally?
-
-### Links
-
-It is always good to know where you found all your information. If you want to add the links to your submission then we can reference them for future users.
+Siempre es bueno saber dónde encontraste toda tu información. Si desea agregar 
+los enlaces a su envío, podemos consultarlos para futuros usuarios.
 
 ### Créditos
 
