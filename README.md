@@ -1,5 +1,11 @@
 # PRONOM_Research Overview
 
+## What is PRONOM?
+
+PRONOM is an on-line information system about file formats and how to identify them. Originally developed to support the accession and long-term preservation of electronic records held by the National Archives, PRONOM is a resource available for anyone requiring access to this type of information. A full description of the individual fields used by PRONOM is available in the system documentation.
+
+## What is the PRONOM_Research GitHub
+
 PRONOM_Research has been created so that there is a permanent GitHub repository for collaboration. This could include research submissions, issues, improvements, submitting samples or using/ collaborating on resources.
 
 We want those who use and submit to PRONOM to have a better understanding of the work we do on a daily basis. Therefore we have [created an area](https://github.com/digital-preservation/PRONOM_Research/tree/main/Test%20Releases) to which we shall upload the test signatures we are working on, on a weekly basis and a [spreadsheet](https://docs.google.com/spreadsheets/d/1P1GGevHysUQnivsmf6EFo8ZyfKRPwUJa5eoJ3JODRq0/edit?usp=sharing) where you can view the progress of the next release.
