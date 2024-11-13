@@ -85,6 +85,7 @@ Your format may not easily fit into any of the above categories, so feel free to
 # Resources
 
 * The main PRONOM website can be found here: www.nationalarchives.gov.uk/PRONOM.
+* To get started on doing PRONOM Research the best place is to take a look at the Starter Pack, available in both [English](https://github.com/digital-preservation/PRONOM_Research/blob/main/Resources/Starter_Pack.md) and [Spanish](https://github.com/digital-preservation/PRONOM_Research/blob/main/Resources/PRONOM%20Paquete%20de%20inicio.md)
 * Ross Spencer's signature development utility for both binary and container signatures can be found [here](https://openpreservation.org/blogs/pronom-research-week-signature-development-utility-2-0-ffdev-info/).
 * A list of blogs, presentations, and other resources to assist with PRONOM research and file format signature development [can be found here](https://docs.google.com/spreadsheets/d/12YnUPnHaoYzDrf2SgxGDxi5e6r3WOpEfk23ibt3qVyg/edit#gid=0).
 * If you would like help or advice on conducting your research, crafting your submission, creating a signature, or if you're having difficulty finding samples, please create a conversation thread on our [Google Group](https://groups.google.com/g/pronom).
