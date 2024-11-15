@@ -1,6 +1,6 @@
 ---
 name: New File Format Submission
-description: This template is designed for anyone who would like to suggest a new file format for PRONOM
+about: This template is designed for anyone who would like to suggest a new file format for PRONOM
 title: ''
 labels: 'new-format'
 assignees: ''
