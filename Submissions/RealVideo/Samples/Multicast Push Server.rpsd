@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<destination xsi:type="pushServer" xmlns="http://ns.real.com/tools/server.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:schemaLocation="http://ns.real.com/tools/server.2.0 http://ns.real.com/tools/server.2.0.xsd">
+  <pluginName type="string">rn-server-rbs</pluginName>
+  <authType type="string">single-password</authType>
+  <port type="uint">30001</port>
+  <endPort type="uint">30020</endPort>
+  <password type="string">letmein</password>
+  <transport type="string">udp/multicast</transport>
+  <multicastAddress type="string">225.229.1.1</multicastAddress>
+  <multicastTTL type="uint">16</multicastTTL>
+  <fecPercent type="uint">20</fecPercent>
+  <fecOffset type="uint">10</fecOffset>
+  <metadataResendInterval type="uint">30</metadataResendInterval>
+  <statisticsUpdateInterval type="uint">2</statisticsUpdateInterval>
+</destination>

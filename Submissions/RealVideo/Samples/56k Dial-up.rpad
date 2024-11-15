@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<audience xmlns="http://ns.real.com/tools/audience.2.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"  xsi:schemaLocation="http://ns.real.com/tools/audience.2.0 http://ns.real.com/tools/audience.2.0.xsd">
+  <avgBitrate type="uint">34000</avgBitrate>
+  <maxBitrate type="uint">68000</maxBitrate>
+  <streams>
+    <stream xsi:type="videoStream">
+      <pluginName type="string">rn-videocodec-realvideo</pluginName>
+      <codecName type="string">rv10</codecName>
+      <encodingType type="string">cbr</encodingType>
+      <encodingComplexity type="string">high</encodingComplexity>
+      <quality type="uint">30</quality>
+      <maxStartupLatency type="double">4</maxStartupLatency>
+      <maxFrameRate type="double">15</maxFrameRate>
+      <maxKeyFrameInterval type="double">10</maxKeyFrameInterval>
+      <enableLossProtection type="bool">false</enableLossProtection>
+    </stream>
+    <stream xsi:type="audioStream">
+      <pluginName type="string">rn-audiocodec-realaudio</pluginName>
+      <codecName type="string">sipr</codecName>
+      <codecFlavor type="uint">0</codecFlavor>
+      <encodingComplexity type="string">high</encodingComplexity>
+      <streamContext type="bag">
+        <presentationType type="string">audio-video</presentationType>
+        <audioMode type="string">voice</audioMode>
+      </streamContext>
+    </stream>
+    <stream xsi:type="audioStream">
+      <pluginName type="string">rn-audiocodec-realaudio</pluginName>
+      <codecName type="string">cook</codecName>
+      <codecFlavor type="uint">0</codecFlavor>
+      <encodingComplexity type="string">high</encodingComplexity>
+      <streamContext type="bag">
+        <presentationType type="string">audio-video</presentationType>
+        <audioMode type="string">music</audioMode>
+      </streamContext>
+    </stream>
+    <stream xsi:type="audioStream">
+      <pluginName type="string">rn-audiocodec-realaudio</pluginName>
+      <codecName type="string">cook</codecName>
+      <codecFlavor type="uint">7</codecFlavor>
+      <encodingComplexity type="string">high</encodingComplexity>
+      <streamContext type="bag">
+        <presentationType type="string">audio-only</presentationType>
+        <audioMode type="string">voice</audioMode>
+      </streamContext>
+    </stream>
+    <stream xsi:type="audioStream">
+      <pluginName type="string">rn-audiocodec-realaudio</pluginName>
+      <codecName type="string">cook</codecName>
+      <codecFlavor type="uint">21</codecFlavor>
+      <encodingComplexity type="string">high</encodingComplexity>
+      <streamContext type="bag">
+        <presentationType type="string">audio-only</presentationType>
+        <audioMode type="string">music</audioMode>
+      </streamContext>
+    </stream>
+  </streams>
+</audience>
