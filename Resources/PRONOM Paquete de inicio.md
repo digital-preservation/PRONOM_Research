@@ -29,15 +29,15 @@ Notará que hay muchos enlaces a recursos adicionales en el documento y la lista
 
 [Listo…](#Listo…)
 
-* [Submission Template](#submission-template)
+* [Envío Plantilla](#Envío-Plantilla)
 
-* [Introductory Reading](#introductory-reading)
+* [Lectura Introductoria](#Lectura-Introductoria)
 
-* [Useful Software](#useful-software)
+* [Software](#Software)
 
-[Set…](#set)
+[Configuración…](#Configuración…)
 
-* [Check Before Starting](#check-before-starting)
+* [Creación de la firma](#Creación-de-la-firma)
 
 * [Finding File Samples](#finding-file-samples)
 
