@@ -512,8 +512,8 @@ Congratulations on completing your file format research, we hope you enjoyed it 
 <td><a href="https://openpreservation.org/blogs/pronom-research-week-signature-development-utility-2-0-ffdev-info/">PRONOM Research Week: Signature Development Utility 2.0 – ffdev.info</a></td>
 </tr>
 <tr class="even">
-<td></td>
-<td><a href=""></a></td>
+<td>PRONOM Email</td>
+<td><a href="mailto:PRONOM@nationalarchives.gov.uk">PRONOM@nationalarchives.gov.uk</a></td>
 </tr>
 <tr class="odd">
 <td>PRONOM Research GitHub Home Page, here find our resources, information about latest releases, get involved in discussions and submit issues or suggestions for improvement</td>
@@ -542,10 +542,6 @@ https://docs.google.com/spreadsheets/d/1P1GGevHysUQnivsmf6EFo8ZyfKRPwUJa5eoJ3JOD
 <tr class="odd">
 <td>DROID Google Group, for community queries related to PRONOM</td>
 <td><a href="https://groups.google.com/g/droid-list">DROID Google Group</a></td>
-</tr>
-<tr class="even">
-<td>PRONOM Email</td>
-<td><a href="mailto:PRONOM@nationalarchives.gov.uk">PRONOM@nationalarchives.gov.uk</a></td>
 </tr>
 </tbody>
 </table>
