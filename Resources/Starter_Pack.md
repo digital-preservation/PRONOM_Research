@@ -424,9 +424,6 @@ Congratulations on completing your file format research, we hope you enjoyed it 
 
 <img src="https://github.com/digital-preservation/PRONOM_Research/blob/main/Resources/media/image23.JPG?raw=true" style="width:4.16963in;height:1.25694in" />
 
-**  
-**
-
 # List of Resources and Tools
 
 <table>
