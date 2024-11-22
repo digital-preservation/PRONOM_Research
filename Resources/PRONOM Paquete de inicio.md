@@ -33,59 +33,59 @@ Notará que hay muchos enlaces a recursos adicionales en el documento y la lista
 
 * [Lectura Introductoria](#Lectura-Introductoria)
 
-* [Software](#Software)
+* [Software  Útil](#Software-Útil)
 
 [Configuración…](#Configuración…)
 
-* [Creación de la firma](#Creación-de-la-firma)
+* [Verifique antes de comenzar](#Verifique-antes-de-comenzar)
 
-* [Finding File Samples](#finding-file-samples)
+* [Encontrar muestras de archivos](#Encontrar-muestras-de-archivos)
 
     * [GitHub](#github)
 
-    * [Search Engines](#search-engines)
+    * [Motores de búsqueda](#Motores-de-búsqueda)
 
-    * [Just Solve the File Format Problem](#just-solve-the-file-format-problem)
+    * [Simplemente resuelva el problema del formato de archivo](#Simplemente-resuelva-el-problema-del-formato-de-archivo)
 
-    * [Be Aware](#be-aware)
+    * [Tenga en cuenta](#Tenga-en-cuenta)
 
-* [Types of Identification in PRONOM](#types-of-identification-in-pronom)
+* [Tipos de Identificación en PRONOM](#Tipos-de-Identificación-en-PRONOM)
 
-    * [Extension-only](#extension-only)
+    * [Extensión solamente](#Extensión-solamente)
 
-    * [Binary Signatures](#binary-signatures)
+    * [Firmas binarias](#Firmas-binarias)
 
-    * [Container Signatures](#container-signatures)
+    * [Firmas de contenedores](#Firmas-de-contenedores)
 
-* [Researching Binary Signatures](#researching-binary-signatures)
+* [Investigación de firmas binarias](#Investigación-de-firmas-binarias)
 
-* [Researching Container Signatures](#researching-container-signatures)
+* [Investigación de firmas de contenedores](#Investigación-de-firmas-de-contenedores)
 
-* [No Signature? Extension-only Formats](#no-signature-extensiononly-formats)
+* [¿Sin firma? Formatos solo de extensión](#¿Sin-firma?-Formatos-solo-de-extensión)
 
-* [Checking It Works!](checking-it-works)
+* [Comprobando que funciona](Comprobando-que-funciona)
 
-* [Description, MIME Types and Other Useful Information](description-mime-types-and-other-useful-information)
+* [Descripción, tipos MIME y otra información útil](Descripción,-tipos-MIME-y-otra-información-útil)
 
-    * [Format Name](#format-name)
+    * [Nombre del formato](#Nombre-del-formato)
 
-    * [Extensions](#extensions)
+    * [Extensiones](#Extensiones)
 
-    * [Description](#description)
+    * [Descripción](#Descripción)
 
-    * [MIME Types and Identifiers](#mime-types-and-identifiers)
+    * [Tipos e identificadores MIME](#Tipos-e-identificadores-MIME)
 
-    * [File Format Type](#file-format-type)
+    * [Tipo de formato de archivo](#Tipo-de-formato-de-archivo)
 
-    * [Vendors](#vendors)
+    * [Vendedores](#Vendedores)
 
-    * [Links](#links)
+    * [Enlaces](#Enlaces)
 
-    * [Credits](#credits)
+    * [Créditos](#Créditos)
 
-[GO!](#go)
+[¡IR!](#¡IR!)
 
-[List of Resources and Tools](#list-of-resources-and-tools)
+[Lista de Recursos y Herramientas](#Lista-de-Recursos-y-Herramientas)
 
 # Listo…
 Probablemente esté aquí porque tiene algunos formatos de archivo en su colección que no se identifican o no se identifican como cree que deberían. Si este es el caso, ya tienes un problema que investigar. Sin embargo, si no lo hace y aún desea contribuir, encontrará una lista de formatos de archivos sin firmas aquí, una lista de formatos de archivos sin descripciones aquí o puede buscar en la base de datos de PRONOM para ver si sus formatos de archivos favoritos ya están allí.
@@ -98,7 +98,7 @@ En este paquete encontrará una plantilla para su investigación de formatos de 
 
 Hay varios blogs útiles escritos sobre la investigación de formatos de archivos. Para empezar, recomendamos este blog escrito por Ross Spencer, esta guía escrita por Jenny Mitcham y el blog escrito por el equipo de PRONOM mencionado anteriormente.
 
-## Software 
+## Software Útil
 
 Necesitará:
 - Editor hexadecimal
@@ -112,15 +112,15 @@ También necesitará una **herramienta de identificación de formato de archivo*
 
 Es posible que también necesite la herramienta 7Zip para investigar firmas de contenedores y extraer información de ellas (más sobre esto más adelante).
 
-# Configuración …
+# Configuración…
 
 En esta sección, le explicaremos los siguientes aspectos de la investigación de formatos 
 de archivos:
 * Encontrar información sobre el formato de su archivo.
   *Cómo encontrar el mejor método de identificación para tu formato de archivo (hay tres 
-tipos). 
+tipos).
 
-## Creación de la firma
+Creación de la firma.
 
 Para comenzar a analizar el formato de su archivo, debe seguir algunos pasos. No es necesario completar estos pasos en un orden establecido y usted puede ajustar la forma en que realiza su investigación para que sea más adecuada a sus métodos de trabajo individuales.
 
@@ -153,7 +153,7 @@ Si su archivo se identifica correctamente pero también se identifica como otros
 
 Si su archivo se identifica correctamente en el software de identificación pero tiene un error de extensión que no coincide y, por lo tanto, es difícil buscarlo en la base de datos, vaya a **IR!** sección. Cuéntanos sobre la extensión que falta.
 
-## Finding File Samples
+## Encontrar muestras de archivos
 
 Debe intentar tener una cantidad sustancial de muestras, cuantas más, mejor (¡cinco a veinte ejemplos es un buen rango)! Es preferible que los archivos de muestra provengan de más de una fuente. es decir, si todas sus muestras de archivos provienen de la misma computadora, entonces las consistencias en el formato del archivo pueden deberse a la computadora que está utilizando y no al formato del archivo en sí. Una advertencia de que descargar cualquier cosa en su máquina conlleva sus propios riesgos. Tener instalada una protección de seguridad cibernética y un buen software antivirus podría mitigar cualquier riesgo potencial de malware.Para encontrar ejemplos de archivos en línea, puede buscar en línea utilizando recursos como:
 
@@ -425,7 +425,7 @@ Felicitaciones por completar su investigación sobre el formato de archivo. Espe
 **  
 **
 
-# List of Resources and Tools
+# Lista de Recursos y Herramientas
 
 <table>
 <colgroup>
