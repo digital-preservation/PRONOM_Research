@@ -491,12 +491,13 @@ Congratulations on completing your file format research, we hope you enjoyed it 
 <td></td>
 </tr>
 <tr class="even">
-<td></td>
-<td>Just Solve the File Format Problem (archiveteam.org)</td>
+<td>Just Solve the File Format Problem, a database of file formats and information related to them</td>
+<td><a href="http://fileformats.archiveteam.org/wiki/Main_Page">Just Solve the File Format Problem (archiveteam.org</a></td>
+<td>)</td>
 </tr>
 <tr class="odd">
-<td></td>
-<td>File Extension Seeker - Metasearch engine for file extensions (file-extension.net)</td>
+<td>File Extension Seeker, a searchable file extension database</td>
+<td><a href="https://file-extension.net/seeker/">File Extension Seeker - Metasearch engine for file extensions (file-extension.net)</a></td>
 </tr>
 <tr class="even">
 <td></td>
