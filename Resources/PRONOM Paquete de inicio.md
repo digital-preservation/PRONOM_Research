@@ -482,114 +482,39 @@ de formatos de archivos -El Nacional Archivo</a></td>
 <td><a href="https://fileformats.archiveteam.org/wiki/Main_Page">Simplemente resuelva el problema del formato de archivo(archiveteam.org)</a></td>
 </tr>
 <tr class="odd">
-
-
-<td>File Extension Seeker - Metasearch engine for file extensions (file-extension.net)</td>
+<td>Archivo Extensión Buscador</td>
+<td><a href="https://file-extension.net/seeker/">
+Archivo Extensión Buscador - Metabuscador motor para archivo extensiones (extensión-de-archivo.net)</a></td>
 </tr>
 <tr class="even">
-
-
-<td>Marco Pontello's Home - Software - TrID - Files Extensions and File Type Definitions list (mark0.net)</td>
+<td>Página TrID para buscar por extensión de archivo</td>
+<td><a href="https://mark0.net/soft-trid-deflist.html">Marco Pontello's Hogar - Software - trid - Archivos Lista de extensiones y definiciones de tipos de archivos (marca0.net)</a></td>
 </tr>
 <tr class="odd">
-
-
-<td>DROID Container Signature Files: What they are and how to create them: A template and an example, or few… - Open Preservation Foundation</td>
+<td>Publicación de blog escrita por Ross Spencer que presenta la firma de contenedores y cómo crearlos.</td>
+<td><a href="https://openpreservation.org/blogs/droid-container-signature-files-what-they-are-and-how-to-create-them-a-template-and-an-example-or-few/">DROIDE Envase Firma Archivos: Qué ellos son y cómo a crear a ellos: A plantilla y un ejemplo, o pocos</a></td>
 </tr>
 <tr class="even">
-
-
-<td>Signature development utillity 2.0 (ffdev.info)</td>
-</tr>
-<tr class="odd">
-
-
-<td>digital-preservation/PRONOM_Research (github.com)</td>
+<td>Herramienta de utilidad de desarrollo de firmas que le permite probar las firmas de formato de archivo</td>
+<td><a href="https://ffdev.info/">Firma desarrollo utilidad 2.0 (ffdev.info)</a></td>
 </tr>
 <tr class="even">
-
-
-<td>pronom-research-week/formats_without_signatures_Oct_2020.csv at master · digital-preservation/pronom-research-week (github.com)</td>
+<td>PRONOM GitHub página creado para</td>
+<td><a href="https://github.com/digital-preservation/PRONOM_Research">preservación-digital/PRONOM_Research(github.com)</a></td>
 </tr>
 <tr class="odd">
-
-
+<td>Enlace a los formatos de archivo actualmente en nuestro entorno de prueba.</td>
+<td><a href="https://docs.google.com/spreadsheets/d/1P1GGevHysUQnivsmf6EFo8ZyfKRPwUJa5eoJ3JODRq0/edit?gid=1951343839#gid=1951343839">Formatos de archivo en el entorno de prueba(docs.google.com)</a></td>
 <td>File Formats in Test Environment (docs.google.com)</td>
 </tr>
 <tr class="even">
-
-
-<td>PRONOM_Research/Test Releases at main · digital-preservation/PRONOM_Research (github.com)</td>
+<td>Carpeta de GitHub a la que cargamos versiones de prueba semanalmente. Los usuarios de PRONOM pueden probar y utilizar firmas antes de cada lanzamiento.</td>
+<td><a href="https://github.com/digital-preservation/PRONOM_Research/tree/main/Test%20Releases">Prueba Lanzamientos en
+principal</a></td>
 </tr>
 <tr class="odd">
-
-
-<td>https://www.iana.org/assignments/media-types/media-types.xhtml</td>
-</tr>
-<tr class="even">
-
-
-
-</tr>
-<tr class="odd">
-
-
-
-</tr>
-<tr class="even">
-
-
-
-</tr>
-<tr class="odd">
-
-
-
-</tr>
-<tr class="even">
-
-
-
-</tr>
-<tr class="odd">
-
-
-
-</tr>
-<tr class="even">
-
-
-
-</tr>
-<tr class="odd">
-
-
-
-</tr>
-<tr class="even">
-
-
-
-</tr>
-<tr class="odd">
-
-
-
-</tr>
-<tr class="even">
-
-
-
-</tr>
-<tr class="odd">
-
-
-
-</tr>
-<tr class="even">
-
-
-
+<td>Lista de tipos MIME registrados oficialmente en la IANA</td>
+<td><a href="https://www.iana.org/assignments/media-types/media-types.xhtml">www.iana.org/assignments/media-tipos/tipos-media</a></td>
 </tr>
 </tbody>
 </table>
