@@ -177,7 +177,7 @@ Puede utilizar su motor de búsqueda para buscar muestras. Dependiendo del motor
 -   filetype:jpg ‘filetype:&lt;fileextension&gt;’ 
 
 
-### Just Solve the File Format Problem
+### Simplemente resuelva el problema del formato de archivo
 
 Otro método para encontrar archivos de muestra es utilizar la entrada wiki Just Solve the File Format Problem. Es posible que otra persona ya haya investigado su formato y puede encontrar más información al respecto en este sitio. Dependiendo del formato que estés investigando podrás encontrar páginas web que podría tener archivos de muestra para su formato, como se muestra a continuación:
 
