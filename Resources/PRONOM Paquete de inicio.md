@@ -27,7 +27,7 @@ Notará que hay muchos enlaces a recursos adicionales en el documento y la lista
 
 [Contenido](#Contenido)
 
-[Listo…](#Listo…)
+[Listo…](#Listo)
 
 * [Envío Plantilla](#Envío-Plantilla)
 
@@ -35,7 +35,7 @@ Notará que hay muchos enlaces a recursos adicionales en el documento y la lista
 
 * [Software  Útil](#Software-Útil)
 
-[Configuración…](#Configuración…)
+[Configuración…](#Configuración)
 
 * [Verifique antes de comenzar](#Verifique-antes-de-comenzar)
 
