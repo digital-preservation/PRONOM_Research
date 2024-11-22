@@ -483,21 +483,21 @@ Congratulations on completing your file format research, we hope you enjoyed it 
 <td><a href="https://mh-nexus.de/en/hxd/">Download HxD</a></td>
 </tr>
 <tr class="odd">
-<td></td>
-<td></td>
+<td>Library of Congress,Sustainability of Digital Formats, an in-depth database of file formats and information about them </td>
+<td><a href="https://www.loc.gov/preservation/digital/formats/intro/intro.shtml">Sustainability of Digital Formats: Planning for Library of Congress Collections</a></td>  
 </tr>
 <tr class="even">
 <td>Just Solve the File Format Problem, a database of file formats and information related to them</td>
-<td><a href="http://fileformats.archiveteam.org/wiki/Main_Page">Just Solve the File Format Problem (archiveteam.org</a></td>
-<td>)</td>
+<td><a href="http://fileformats.archiveteam.org/wiki/Main_Page">Just Solve the File Format Problem (archiveteam.org)</a></td>
+<td></td>
 </tr>
 <tr class="odd">
 <td>File Extension Seeker, a searchable file extension database</td>
 <td><a href="https://file-extension.net/seeker/">File Extension Seeker - Metasearch engine for file extensions (file-extension.net)</a></td>
 </tr>
 <tr class="even">
-<td></td>
-<td>Marco Pontello's Home - Software - TrID - Files Extensions and File Type Definitions list (mark0.net)</td>
+<td>Marco Pontello's File Format Database List of Extensions</td>
+<td><a href="https://mark0.net/soft-trid-deflist-x.html">Marco Pontello's Home - Software - TrID - Files Extensions and File Type Definitions list (mark0.net)</a></td>
 </tr>
 <tr class="odd">
 <td>Ross Spencer, "DROID Container Signature Files: What they are and how to create them: A template and an example, or few…", introductory blog on container signatures</td>
@@ -524,9 +524,8 @@ Congratulations on completing your file format research, we hope you enjoyed it 
 <td><a href="https://ffdev-info.github.io/pronom-page/">PRONOM Statistics</a></td>
 </tr>
 <tr class="odd">
-<td></td>
-<td>File Formats in Test Environment (docs.google.com)</td>
-https://docs.google.com/spreadsheets/d/1P1GGevHysUQnivsmf6EFo8ZyfKRPwUJa5eoJ3JODRq0/edit?usp=sharing
+<td>File Formats in Test Environment, a google sheet to tell the status and file formats included in the next PRONOM Release</td>
+<td><a href="https://docs.google.com/spreadsheets/d/1P1GGevHysUQnivsmf6EFo8ZyfKRPwUJa5eoJ3JODRq0/edit?usp=sharing">File Formats in Test Environment (docs.google.com)</a></td>
 </tr>
 <tr class="even">
 <td>PRONOM Test Releases, where you can see and try out the latest signatures in development from the PRONOM team before official release</td>
