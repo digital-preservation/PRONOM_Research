@@ -438,29 +438,25 @@ Congratulations on completing your file format research, we hope you enjoyed it 
 <thead>
 <tr class="header">
 <th><strong>Resource</strong></th>
-<th><strong>About</strong></th>
 <th><strong>Link</strong></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
 <td>PRONOM Home Page</td>
-<td></td>
-<td>PRONOM | Welcome (nationalarchives.gov.uk)</td>
+<td>PRONOM Home Page</td>
+<td><a href="https://www.nationalarchives.gov.uk/PRONOM/Format/proFormatSearch.aspx?status=new">PRONOM | Welcome (nationalarchives.gov.uk)</a></td>
 </tr>
 <tr class="even">
 <td>PRONOM Search Page</td>
-<td></td>
-<td>PRONOM | Search (nationalarchives.gov.uk)</td>
+<td><a href="https://www.nationalarchives.gov.uk/pronom/">PRONOM | Search (nationalarchives.gov.uk)</a></td>
 </tr>
 <tr class="odd">
-<td>The National Archives, ‘PRONOM: a database centenary’</td>
-<td></td>
+<td>Blog post from The National Archives, ‘PRONOM: a database centenary’</td>
 <td><a href="https://blog.nationalarchives.gov.uk/pronom-a-database-centenary/">PRONOM: A database centenary - The National Archives blog</a></td>
 </tr>
 <tr class="even">
-<td>Ross Spencer, ‘</td>
-<td></td>
+<td>Ross Spencer, "Five Star File Format Signature Development", describing the principles of getting involved in the community and beginning to research file formats.</td>
 <td><a href="https://openpreservation.org/blogs/five-star-file-format-signature-development/">Five Star File Format Signature Development - Open Preservation Foundation</a></td>
 </tr>
 <tr class="odd">
@@ -535,73 +531,7 @@ Congratulations on completing your file format research, we hope you enjoyed it 
 </tr>
 <tr class="odd">
 <td></td>
-<td></td>
 <td>https://www.iana.org/assignments/media-types/media-types.xhtml</td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="odd">
-<td></td>
-<td></td>
-<td></td>
-</tr>
-<tr class="even">
-<td></td>
-<td></td>
-<td></td>
 </tr>
 </tbody>
 </table>
