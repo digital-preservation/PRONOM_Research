@@ -61,7 +61,7 @@ Notará que hay muchos enlaces a recursos adicionales en el documento y la lista
 
 * [Investigación de firmas de contenedores](#Investigación-de-firmas-de-contenedores)
 
-* [¿Sin firma? Formatos solo de extensión](#¿Sin-firma?-Formatos-solo-de-extensión)
+* [¿Sin firma? Formatos solo de extensión](#Sin-firma-Formatos-solo-de-extensión)
 
 * [Comprobando que funciona](Comprobando-que-funciona)
 
@@ -83,7 +83,7 @@ Notará que hay muchos enlaces a recursos adicionales en el documento y la lista
 
     * [Créditos](#Créditos)
 
-[¡IR!](#¡IR!)
+[¡IR!](#IR)
 
 [Lista de Recursos y Herramientas](#Lista-de-Recursos-y-Herramientas)
 
