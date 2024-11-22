@@ -86,7 +86,7 @@ You will notice that there are a lot of links to additional resources in the doc
 
 # Ready…
 
-You are probably here because you have some file formats in your collection that are not being identified or do not identify as you think they should. If this is the case, you already have an issue to research. However, if you do not and you still wish to contribute, you will find a list of file formats without signatures here, a list of file formats without descriptions here or you can search the PRONOM database to see if your favourite file formats are already there
+You are probably here because you have some file formats in your collection that are not being identified or do not identify as you think they should. If this is the case, you already have an issue to research. However, if you do not and you still wish to contribute, you will find a list of file formats without signatures and a list of file formats without descriptions [here](https://ffdev-info.github.io/pronom-page/) on a statistics website created by Ross Spencer. Alternatively you can search the [PRONOM database](https://www.nationalarchives.gov.uk/PRONOM/Format/proFormatSearch.aspx?status=new) to see if your favourite file formats are already there.
 
 ## Submission Template
 
