@@ -435,21 +435,21 @@ Felicitaciones por completar su investigación sobre el formato de archivo. Espe
 </colgroup>
 <thead>
 <tr class="header">
-<th><strong>Resource</strong></th>
-<th><strong>About</strong></th>
+<th><strong>Recurso Enlace</strong></th>
+<th><strong>Acerca de</strong></th>
 <th><strong>Link</strong></th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td>PRONOM Home Page</td>
+<td>PRONOM  página</td>
 <td></td>
-<td>PRONOM | Welcome (nationalarchives.gov.uk)</td>
+<td>PRONOM | Bienvenido (nationalarchives.gov.uk)</td>
 </tr>
 <tr class="even">
-<td>PRONOM Search Page</td>
+<td>base de datos PRONOM buscar página</td>
 <td></td>
-<td>PRONOM | Search (nationalarchives.gov.uk)</td>
+<td>PRONOM | Buscar (nationalarchives.gov.uk)</td>
 </tr>
 <tr class="odd">
 <td>The National Archives, ‘PRONOM: a database centenary’</td>
