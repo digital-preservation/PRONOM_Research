@@ -100,54 +100,47 @@ There are a number of useful blogs written about file format research. To start 
 
 You will need:
 
--   Hex editor
+* Hex editor
 
--   File format identification tool
+* File format identification tool
 
--   7ZIP (for certain types of file formats only)
+* 7ZIP (for certain types of file formats only)
 
-In the introductory reading we found that file format research involves analysing hex and looking for byte sequences within the file format. Internally we use HxD **hex editor**, which is a free software and can be downloaded [<u>here</u>]. Other software is available also.
+In the introductory reading we found that file format research involves analysing hex and looking for byte sequences within the file format. Internally we use HxD **hex editor**, which is a free software and can be downloaded [here](https://mh-nexus.de/en/hxd/). Other software is available also.
 
-You will also need a **file format identification tool**, at The National Archives we use [<u>DROID</u>] to analyse files. Please download a file format identification tool prior to starting your research, you can use DROID or other tools such as [<u>Siegfried</u>] or [<u>FIDO</u>]. For this exercise the tool should use the data from the PRONOM database.
+You will also need a **file format identification tool**, at The National Archives we use [DROID](https://www.nationalarchives.gov.uk/information-management/manage-information/preserving-digital-records/droid/) to analyse files. Please download a file format identification tool prior to starting your research, you can use DROID or other tools such as [Siegfried](https://www.itforarchivists.com/siegfried/) or [FIDO](https://openpreservation.org/tools). For this exercise the tool should use the data from the PRONOM database.
 
-You may also need [<u>7Zip tool</u>] for researching container signatures and extracting information from them (more on this later).
-
-**  
-**
+You may also need [7Zip tool](https://www.7-zip.org/download.html) for researching container signatures and extracting information from them (more on this later).
 
 # Set…
 
 In this section we will talk you through the following aspects of file format research:
 
--   Finding information about your file format.
+* Finding information about your file format.
 
--   How to find the best identification method for your file format (there are three types).
+* How to find the best identification method for your file format (there are three types).
 
--   
-
--   Creating the signature.
+* Creating the signature.
 
 To start analysing your file format there are few steps you should follow. These steps do not necessarily need to be completed in a set order and you can adjust how you conduct your research to make it most suitable to your individual working methods.
 
 Steps that we need to take:
 
--   Things to check before starting. Verifying the problem you need to solve and double checking your file formats are not already in the database.
+* Things to check before starting. Verifying the problem you need to solve and double checking your file formats are not already in the database.
 
--   
+* Finding file samples (maybe you have these already), the more the better from lots of different places!
 
--   Finding file samples (maybe you have these already), the more the better from lots of different places!
+* The type of file format identification in PRONOM.
 
--   The type of file format identification in PRONOM.
+* How to find a file format signature and analyse your file format using hex and other tools.
 
--   How to find a file format signature and analyse your file format using hex and other tools.
+* Checking your signature is successful!
 
--   Checking your signature is successful!
-
--   Finding additional information about the file format.
+* Finding additional information about the file format.
 
 ## Check Before Starting
 
-We recommend as the first step running your files through a file format identification tool. To do this, you should have a file format identification tool that uses the data from the PRONOM database, such as DROID, Siegfried and FIDO . Secondly, we recommend searching the PRONOM database for your file format using the extension-only search and the free text search.
+We recommend as the first step running your files through a file format identification tool. To do this, you should have a file format identification tool that uses the [data from the PRONOM database](https://www.nationalarchives.gov.uk/PRONOM/Format/proFormatSearch.aspx?status=new), such as DROID, Siegfried and FIDO . Secondly, we recommend searching the PRONOM database for your file format using the extension-only search and the free text search.
 
 If your file is neither in the PRONOM database nor identifying as it should be using the software then it will need a new entry. Follow the steps ahead as proposed. There is an exception to this rule. If your file identifies unexpectedly as a ZIP or OLE2 file then there is a possibility it is a container file. See the next section **Types of Identification in PRONOM**.
 
@@ -189,14 +182,14 @@ You can use your search engine to look for samples. Depending on the search engi
 
 ### Just Solve the File Format Problem
 
-Another method to find sample files is using the [<u>Just Solve</u> <u>the File Format</u>] <u>Problem</u> wiki entry. Your format may have already been researched by someone else and more information about it can be found on this site. Depending on the format you are researching you can find webpages which might have sample files for your format, as shown below:
+Another method to find sample files is using the [Just Solve the File Format Problem](https://fileformats.archiveteam.org/wiki/Main_Page) wiki entry. Your format may have already been researched by someone else and more information about it can be found on this site. Depending on the format you are researching you can find webpages which might have sample files for your format, as shown below:
 ![]("https://github.com/digital-preservation/PRONOM_Research/blob/main/Resources/media/image2.png?raw=true" "A title")
 
 ### Be Aware
 
 The internet is the wild west of extensions and there are no rules. Something that can be seen often on GitHub but something to be aware of on other sites too. Developers can assign a random extension to their code that may be the same as the one you are looking for.
 
-Unfortunately your file format may not be the only file format with this extension. You can also use the file-extension seeker or TrID database to check if there are any other formats associated with the same extension. This can help avoid samples of different files with same extension as you are looking for.
+Unfortunately your file format may not be the only file format with this extension. You can also use the [file-extension seeker](https://file-extension.net/seeker/) or [TrID database](https://mark0.net/soft-trid-deflist.html) to check if there are any other formats associated with the same extension. This can help avoid samples of different files with same extension as you are looking for.
 
 With all these take a look at the file you have downloaded. If it has a similar structure to other file samples you already have or matches elements of the specification then it is likely to be what you are looking for. If it is completely different it could be another file format entirely.
 
@@ -248,7 +241,7 @@ Think of container files as stacking boxes or a matryoshka doll.
 
 <img src="https://github.com/digital-preservation/PRONOM_Research/blob/main/Resources/media/image10.jpg?raw=true" style="width:3.10139in;height:2.32639in" /><img src="https://github.com/digital-preservation/PRONOM_Research/blob/main/Resources/media/image11.jpeg?raw=true" style="width:2.53472in;height:2.64583in" alt="Grimms Lollipop Small Stacking Boxes" />
 
-Each container file contains other file formats and possibly folders which we aim to extract and analyse. We use information such as the internal file paths within the file format and the binary signatures within individual files to create a signature. We look for file paths that multiple samples have in common as well as binary signatures within those files that multiple files have in common. Think of it like the binary signature identification but with the additional consideration of file structure. You can also read more information about container signatures in Ross Spencer’s [<u>blog</u>][2].
+Each container file contains other file formats and possibly folders which we aim to extract and analyse. We use information such as the internal file paths within the file format and the binary signatures within individual files to create a signature. We look for file paths that multiple samples have in common as well as binary signatures within those files that multiple files have in common. Think of it like the binary signature identification but with the additional consideration of file structure. You can also read more information about container signatures in Ross Spencer’s [blog](https://openpreservation.org/blogs/droid-container-signature-files-what-they-are-and-how-to-create-them-a-template-and-an-example-or-few/).
 
 ## 
 
@@ -323,9 +316,9 @@ And after all this work, you realise that none of the above methods work, you ca
 
 Well, you might be dealing with a format which does not have a specific signature – yes, those sadly do exist. These formats are trickier to be identified but we can still identify them by their extension. This method of identification is not very secure and so we try to avoid it as much as possible. This is because file format extension can be easily altered by anyone (as you may have done when researching container signature), and we also have examples of file formats which can have over fifty different file format extensions. However, if you have analysed your files correctly using the above steps and you can conclude that no clear sequence is present in the file format, you can submit the file format to PRONOM team as an extension only format.
 
-Checking It Works!
+## Checking It Works!
 
-The best way to check if your signature works is to use Ross Spencer’s Signature Development Utility tool. Instructions and a walk through on how to use this can be found here, and the tool itself is found here.
+The best way to check if your signature works is to use Ross Spencer’s Signature Development Utility tool. Instructions and a walk through on how to use this can be found [here](https://openpreservation.org/blogs/pronom-research-week-signature-development-utility-2-0-ffdev-info/), and the tool itself is found [here](https://ffdev.info/).
 
 The tool works by inputting your signature and research into the fields provided and then generates a signature that you can download and test using your file format identification tool.
 
@@ -357,7 +350,7 @@ Questions you could ask for example are what different extensions may refer to? 
 
 ### MIME Types and Identifiers
 
-Another aspect of the research we do is finding out if there are any MIME types or other identifiers associated with the file format. A brief description of what a MIME type is can be found here. This should be an official Media Type. We only accept MIME types that are either registered and listed via the IANA (https://www.iana.org/assignments/media-types/media-types.xhtml) or listed in official format documentation produced by the vendor. The best way to search IANA is to find in page and search for key words of the format.
+Another aspect of the research we do is finding out if there are any MIME types or other identifiers associated with the file format. A brief description of what a MIME type is can be found here. This should be an official Media Type. We only accept MIME types that are either registered and listed via the [IANA](https://www.iana.org/assignments/media-types/media-types.xhtml) or listed in official format documentation produced by the vendor. The best way to search IANA is to find in page and search for key words of the format.
 
 We have other types of identifiers such as apple resource forks that are less common but if relevant useful to note down in research.
 
@@ -409,7 +402,7 @@ It is always good to know where you found all your information. If you want to a
 
 ### Credits
 
-We want to make sure that everyone (who would like to be) is credited for all the work they’ve put in to researching for us. Usually this is by organisation but if you prefer it can be by individual. We put this information in the source of a new PRONOM entry and in our release notes that can be found here.
+We want to make sure that everyone (who would like to be) is credited for all the work they’ve put in to researching for us. Usually this is by organisation but if you prefer it can be by individual. We put this information in the source of a new PRONOM entry and in our release notes that can be found [here](https://www.nationalarchives.gov.uk/aboutapps/pronom/release-notes.xml).
 
 ## 
 
@@ -417,13 +410,13 @@ We want to make sure that everyone (who would like to be) is credited for all th
 
 Once you have identified all the above information, you can use one of the templates attached with this welcome pack to input the information and share it with PRONOM team.
 
-Alternatively, you can use the [<u>Signature Development Utility Tool</u>] to create sequences and send it to PRONOM team. More information about this tool can be found [<u>here</u>][3].
+Alternatively, you can use the [Signature Development Utility Tool](https://ffdev.info/) to create sequences and send it to PRONOM team. More information about this tool can be found [here](https://openpreservation.org/blogs/pronom-research-week-signature-development-utility-2-0-ffdev-info/).
 
-You have not completed your research and it is time to share it with the community! You can post your research to our [mailbox] or in our [GitHub page].
+You have not completed your research and it is time to share it with the community! You can post your research to our [mailbox](pronom@nationalarchives.gov.uk) or in our [GitHub page](https://github.com/digital-preservation/PRONOM_Research).
 
-In case of any troubleshooting or more information, please contact the PRONOM team using mailbox <pronom@nationalarchives.gov.uk> or our dedicated Google groups, [<u>PRONOM</u>][4] and [<u>DROID</u>][5].
+In case of any troubleshooting or more information, please contact the PRONOM team using [mailbox](pronom@nationalarchives.gov.uk) or our dedicated Google groups, [PRONOM](https://groups.google.com/g/pronom) and [DROID](https://groups.google.com/g/droid-list).
 
-To check in and see how we are progressing with our work we update an online spreadsheet with our progress towards the next release as we go. This will give you a preview of what will be in the next release. We try and keep each release to around 40-70 changes. We also upload any changes we have made in our development environment to GitHub every Friday here. If you don’t want to wait for the official release you can download the signatures and use them (just be warned that these will not have been officially tested and may have errors).
+To check in and see how we are progressing with our work we update an online spreadsheet with our progress towards the next release as we go. This will give you a preview of what will be in the next release. We try and keep each release to around 40-70 changes. We also upload any changes we have made in our development environment to GitHub most Fridays [here](https://github.com/digital-preservation/PRONOM_Research/tree/main/Test%20Releases). If you don’t want to wait for the official release you can download the signatures and use them (just be warned that these will not have been officially tested and may have errors).
 
 Could we have explained something better in this pack? Was there a part that was difficult to understand? Do you have some tips that you wish we’d added in? Let us know via our mailbox and we will improve it!
 
