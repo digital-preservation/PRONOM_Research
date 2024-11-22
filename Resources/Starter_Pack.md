@@ -542,5 +542,9 @@ Congratulations on completing your file format research, we hope you enjoyed it 
 <td>DROID Google Group, for community queries related to PRONOM</td>
 <td><a href="https://groups.google.com/g/droid-list">DROID Google Group</a></td>
 </tr>
+<tr class="odd">
+<td>PRONOM Descriptathon Challenge, a google spreadsheet that allows anyone to add descriptions for file formats that don't have them yet. Instructions in sheet.</td>
+<td><a href="https://docs.google.com/spreadsheets/d/1-iaHhNDP2yvWZxm8R-4UDrsdBzn8EfFCjw9sdJ1AnJM/edit?usp=sharing">PRONOM Descriptathon</a></td>
+</tr>
 </tbody>
 </table>
