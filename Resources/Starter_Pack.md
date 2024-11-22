@@ -501,13 +501,11 @@ Congratulations on completing your file format research, we hope you enjoyed it 
 </tr>
 <tr class="odd">
 <td></td>
-<td></td>
 <td>DROID Container Signature Files: What they are and how to create them: A template and an example, or few… - Open Preservation Foundation</td>
 </tr>
 <tr class="even">
-<td></td>
-<td></td>
-<td>Signature development utillity 2.0 (ffdev.info)</td>
+<td>Ross Spencer, Signature Development Utility Tool, a useful way to check that the signatures you are creating work or to make your own signatures</td>
+<td><a href="https://ffdev.info/">Signature development utillity 2.0 (ffdev.info)</a></td>
 </tr>
 <tr class="odd">
 <td></td>
@@ -515,17 +513,14 @@ Congratulations on completing your file format research, we hope you enjoyed it 
 <td>digital-preservation/PRONOM_Research (github.com)</td>
 </tr>
 <tr class="even">
-<td></td>
-<td></td>
-<td>pronom-research-week/formats_without_signatures_Oct_2020.csv at master · digital-preservation/pronom-research-week (github.com)</td>
+<td>PRONOM Statistics, created by Ross Spencer as an easy way to identify gaps within the database for contribution</td>
+<td><a href="https://ffdev-info.github.io/pronom-page/">PRONOM Statistics</a></td>
 </tr>
 <tr class="odd">
-<td></td>
 <td></td>
 <td>File Formats in Test Environment (docs.google.com)</td>
 </tr>
 <tr class="even">
-<td></td>
 <td></td>
 <td>PRONOM_Research/Test Releases at main · digital-preservation/PRONOM_Research (github.com)</td>
 </tr>
@@ -535,21 +530,3 @@ Congratulations on completing your file format research, we hope you enjoyed it 
 </tr>
 </tbody>
 </table>
-
-  [<u>PRONOM</u>]: https://www.nationalarchives.gov.uk/PRONOM/Default.aspx
-  [<u>blog</u>]: https://blog.nationalarchives.gov.uk/pronom-a-database-centenary/
-  [1]: https://openpreservation.org/blogs/five-star-file-format-signature-development/
-  [<u>guidance</u>]: http://digital-archiving.blogspot.com/2016/08/my-first-file-format-signature_88.html
-  [<u>here</u>]: https://mh-nexus.de/en/hxd/
-  [<u>DROID</u>]: https://www.nationalarchives.gov.uk/information-management/manage-information/preserving-digital-records/droid/
-  [<u>Siegfried</u>]: https://www.itforarchivists.com/siegfried/
-  [<u>FIDO</u>]: https://openpreservation.org/products/fido/
-  [<u>7Zip tool</u>]: https://www.7-zip.org/download.html
-  [<u>Just Solve</u> <u>the File Format</u>]: http://fileformats.archiveteam.org/wiki/Main_Page
-  [2]: https://openpreservation.org/blogs/droid-container-signature-files-what-they-are-and-how-to-create-them-a-template-and-an-example-or-few/
-  [<u>Signature Development Utility Tool</u>]: http://ffdev.info/
-  [3]: https://openpreservation.org/blogs/pronom-research-week-signature-development-utility-2-0-ffdev-info/
-  [mailbox]: mailto:PRONOM@nationalarchives.gov.uk
-  [GitHub page]: https://github.com/digital-preservation/PRONOM_Research
-  [4]: https://groups.google.com/g/pronom
-  [5]: https://groups.google.com/g/droid-list
