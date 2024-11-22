@@ -442,47 +442,44 @@ Felicitaciones por completar su investigación sobre el formato de archivo. Espe
 <tbody>
 <tr class="odd">
 <td>PRONOM  página</td>
-<td>PRONOM | Bienvenido (nationalarchives.gov.uk)</td>
+<td><a href="https://www.nationalarchives.gov.uk/PRONOM/Format/proFormatSearch.aspx?status=new">PRONOM | Bienvenido (nationalarchives.gov.uk)</a></td>
 </tr>
 <tr class="even">
 <td>base de datos PRONOM buscar página</td>
-<td><a href="https://www.nationalarchives.gov.uk/PRONOM/Format/proFormatSearch.aspx?status=new">PRONOM | Buscar (nationalarchives.gov.uk)</a></td>
+<td><a href="https://www.nationalarchives.gov.uk/pronom/">PRONOM | Buscar (nationalarchives.gov.uk)</a></td>
 </tr>
 <tr class="odd">
-<td>The National Archives, ‘PRONOM: a database centenary’</td>
-<td><a href="https://blog.nationalarchives.gov.uk/pronom-a-database-centenary/">PRONOM: A database centenary - The National Archives blog</a></td>
+<td>Publicación de blog introductoria del equipo de PRONOM presentando el trabajo que hacemos y algunos de nuestros procesos.y’</td>
+<td><a href="https://blog.nationalarchives.gov.uk/pronom-a-database-centenary/">PRONOM: A base de datos centenario - El Nacional Archivo Blog</a></td>
 </tr>
 <tr class="even">
-<td>Ross Spencer, ‘</td>
-<td><a href="https://openpreservation.org/blogs/five-star-file-format-signature-development/">Five Star File Format Signature Development - Open Preservation Foundation</a></td>
+<td>ublicación de blog escrita por Ross Spencer que describe la investigación de formatos de archivo.</td>
+<td><a href="https://openpreservation.org/blogs/five-star-file-format-signature-development/">Cinco Estrella Archivo Formato Firma Desarrollo -Abierto Preservación Base</a></td>
 </tr>
 <tr class="odd">
 <td>Publicación de blog de Jenny Mitcham que presenta una primera experiencia en la realización de investigaciones sobre formatos de archivos</td>
-<td><a href="http://digital-archiving.blogspot.com/2016/08/my-first-file-format-signature_88.html">Archivo digital en la Universidad de York: mi primera firma de formato de archivo (digital.archiving.blogspot.com)
-)</a></td>
+<td><a href="http://digital-archiving.blogspot.com/2016/08/my-first-file-format-signature_88.html">Archivo digital en la Universidad de York: mi primera firma de formato de archivo</a></td>
 </tr>
 <tr class="even">
-
-
-<td><a href="https://www.nationalarchives.gov.uk/information-management/manage-information/preserving-digital-records/droid/">Download DROID: file format identification tool - The National Archives</a></td>
+<td>página principal DROID</td>
+<td><a href="https://www.nationalarchives.gov.uk/information-management/manage-information/preserving-digital-records/droid/">Descargar DROID: herramienta de identificación 
+de formatos de archivos -El Nacional Archivo</a></td>
 </tr>
 <tr class="odd">
 <td>página principal Sigfrido</td>
-
 <td><a href="https://www.itforarchivists.com/siegfried/">Sigfrido para archiveros</a></td>
 </tr>
 <tr class="even">
 <td>página principal Fido</td>
+<td><a href="https://www.itforarchivists.com/siegfried/">fido - Fundación de preservación abierta</a></td>
 </tr>
 <tr class="odd">
-
-
-<td>Download (7-zip.org)</td>
+<td>Página de descarga de la herramienta 7-zip</td>
+<td><a href="https://www.7-zip.org/download.html">Descargar (7-zip.org) </a></td>
 </tr>
 <tr class="even">
-
-
-<td>Just Solve the File Format Problem (archiveteam.org)</td>
+<td>La página de inicio para resolver el problema del formato de archivo desde la cual puede utilizar la búsqueda o navegar por extensión.</td>
+<td><a href="https://fileformats.archiveteam.org/wiki/Main_Page">Simplemente resuelva el problema del formato de archivo(archiveteam.org)</a></td>
 </tr>
 <tr class="odd">
 
