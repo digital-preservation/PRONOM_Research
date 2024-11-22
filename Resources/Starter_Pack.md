@@ -492,11 +492,19 @@ Congratulations on completing your file format research, we hope you enjoyed it 
 </tr>
 <tr class="odd">
 <td></td>
-<td>DROID Container Signature Files: What they are and how to create them: A template and an example, or few… - Open Preservation Foundation</td>
+<td><a href="https://openpreservation.org/blogs/droid-container-signature-files-what-they-are-and-how-to-create-them-a-template-and-an-example-or-few/">DROID Container Signature Files: What they are and how to create them: A template and an example, or few…</a></td>
 </tr>
 <tr class="even">
 <td>Ross Spencer, Signature Development Utility Tool, a useful way to check that the signatures you are creating work or to make your own signatures</td>
 <td><a href="https://ffdev.info/">Signature development utillity 2.0 (ffdev.info)</a></td>
+</tr>
+<tr class="odd">
+<td>Ross Spencer, "Signature Development Utility Tool 2.0", A walkthrough of using the Signature Development Utility Tool</td>
+<td><a href="https://openpreservation.org/blogs/pronom-research-week-signature-development-utility-2-0-ffdev-info/">PRONOM Research Week: Signature Development Utility 2.0 – ffdev.info</a></td>
+</tr>
+<tr class="even">
+<td></td>
+<td><a href=""></a></td>
 </tr>
 <tr class="odd">
 <td></td>
