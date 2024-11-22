@@ -435,9 +435,8 @@ Felicitaciones por completar su investigación sobre el formato de archivo. Espe
 </colgroup>
 <thead>
 <tr class="header">
-<th><strong>Recurso Enlace</strong></th>
 <th><strong>Acerca de</strong></th>
-<th><strong>Link</strong></th>
+<th><strong>Recurso Enlace</strong></th>
 </tr>
 </thead>
 <tbody>
@@ -462,9 +461,10 @@ Felicitaciones por completar su investigación sobre el formato de archivo. Espe
 <td><a href="https://openpreservation.org/blogs/five-star-file-format-signature-development/">Five Star File Format Signature Development - Open Preservation Foundation</a></td>
 </tr>
 <tr class="odd">
-<td>Jenny Mitcham, ‘Digital Archiving at the University of York: My first file format signature’</td>
+<td>Publicación de blog de Jenny Mitcham que presenta una primera experiencia en la realización de investigaciones sobre formatos de archivos</td>
 <td></td>
-<td><a href="http://digital-archiving.blogspot.com/2016/08/my-first-file-format-signature_88.html">Digital Archiving at the University of York: My first file format signature (digital-archiving.blogspot.com)</a></td>
+<td><a href="http://digital-archiving.blogspot.com/2016/08/my-first-file-format-signature_88.html">Archivo digital en la Universidad de York: mi primera firma de formato de archivo (digital.archiving.blogspot.com)
+)</a></td>
 </tr>
 <tr class="even">
 <td></td>
