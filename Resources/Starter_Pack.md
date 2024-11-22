@@ -517,6 +517,13 @@ Congratulations on completing your file format research, we hope you enjoyed it 
 <tr class="odd">
 <td>IANA MIME Type List, useful for checking during file format research for officially registered MIME types.</td>
 <td><a href="https://www.iana.org/assignments/media-types/media-types.xhtml/">IANA Media Types</a></td>
+<tr class="even">
+<td>PRONOM Google Group, for community queries related to PRONOM</td>
+<td><a href="https://groups.google.com/g/pronom">PRONOM Google Group</a></td>
+</tr>
+<tr class="odd">
+<td>DROID Google Group, for community queries related to PRONOM</td>
+<td><a href="https://groups.google.com/g/droid-list">DROID Google Group</a></td>
 </tr>
 </tbody>
 </table>
