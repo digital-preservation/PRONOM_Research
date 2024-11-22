@@ -4,7 +4,7 @@
 
 # Introduction
 
-Welcome to [<u>PRONOM</u>]! We are thrilled that you are interested in file format research and hope that you too enjoy researching some of the fun file formats you find in the wild. You do not need any previous experience to contribute to PRONOM and most of our team also didn’t have any before starting out. We want to hear from all our users in order to best serve the PRONOM community and are excited that you wish to join the conversation. You can read further about PRONOM team in our [<u>blog</u>], which also explains a little bit about our work, and how file format research is conducted. This is a good starting point as it unpacks PRONOM, what it stands for, and how your work will contribute to wider digital preservation practices.
+Welcome to [PRONOM](https://www.nationalarchives.gov.uk/pronom/)! We are thrilled that you are interested in file format research and hope that you too enjoy researching some of the fun file formats you find in the wild. You do not need any previous experience to contribute to PRONOM and most of our team also didn’t have any before starting out. We want to hear from all our users in order to best serve the PRONOM community and are excited that you wish to join the conversation. You can read further about PRONOM team in our [blog](https://blog.nationalarchives.gov.uk/pronom-a-database-centenary/), which also explains a little bit about our work, and how file format research is conducted. This is a good starting point as it unpacks PRONOM, what it stands for, and how your work will contribute to wider digital preservation practices.
 
 We have laid out this starter pack in three sections:
 
