@@ -444,7 +444,6 @@ Congratulations on completing your file format research, we hope you enjoyed it 
 <tbody>
 <tr class="odd">
 <td>PRONOM Home Page</td>
-<td>PRONOM Home Page</td>
 <td><a href="https://www.nationalarchives.gov.uk/PRONOM/Format/proFormatSearch.aspx?status=new">PRONOM | Welcome (nationalarchives.gov.uk)</a></td>
 </tr>
 <tr class="even">
@@ -461,41 +460,33 @@ Congratulations on completing your file format research, we hope you enjoyed it 
 </tr>
 <tr class="odd">
 <td>Jenny Mitcham, ‘Digital Archiving at the University of York: My first file format signature’</td>
-<td></td>
 <td><a href="http://digital-archiving.blogspot.com/2016/08/my-first-file-format-signature_88.html">Digital Archiving at the University of York: My first file format signature (digital-archiving.blogspot.com)</a></td>
 </tr>
 <tr class="even">
 <td></td>
-<td></td>
 <td><a href="https://www.nationalarchives.gov.uk/information-management/manage-information/preserving-digital-records/droid/">Download DROID: file format identification tool - The National Archives</a></td>
 </tr>
 <tr class="odd">
-<td>Siegfried Home Page</td>
-<td></td>
+<td>Siegfried (A File Format Identification Tool) Home Page</td>
 <td><a href="https://www.itforarchivists.com/siegfried/">IT for archivists</a></td>
 </tr>
 <tr class="even">
-<td></td>
-<td></td>
-<td>fido - Open Preservation Foundation</td>
+<td>Fido (A File Format Identification Tool) Home Page</td>
+<td><a href="https://openpreservation.org/products/fido/">Fido Home Page</a></td>
 </tr>
 <tr class="odd">
-<td></td>
 <td></td>
 <td>Download (7-zip.org)</td>
 </tr>
 <tr class="even">
 <td></td>
-<td></td>
 <td>Just Solve the File Format Problem (archiveteam.org)</td>
 </tr>
 <tr class="odd">
 <td></td>
-<td></td>
 <td>File Extension Seeker - Metasearch engine for file extensions (file-extension.net)</td>
 </tr>
 <tr class="even">
-<td></td>
 <td></td>
 <td>Marco Pontello's Home - Software - TrID - Files Extensions and File Type Definitions list (mark0.net)</td>
 </tr>
@@ -508,7 +499,6 @@ Congratulations on completing your file format research, we hope you enjoyed it 
 <td><a href="https://ffdev.info/">Signature development utillity 2.0 (ffdev.info)</a></td>
 </tr>
 <tr class="odd">
-<td></td>
 <td></td>
 <td>digital-preservation/PRONOM_Research (github.com)</td>
 </tr>
