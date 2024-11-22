@@ -23,11 +23,11 @@ Notará que hay muchos enlaces a recursos adicionales en el documento y la lista
 
 # Contenido
 
-[Introduction](#introduction)
+[Introducción](#Introducción)
 
-[Contenido](# Contenido)
+[Contenido](#Contenido)
 
-[Listo…](# Listo…)
+[Listo…](#Listo…)
 
 * [Submission Template](#submission-template)
 
