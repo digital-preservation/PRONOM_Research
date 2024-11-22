@@ -520,7 +520,7 @@ Congratulations on completing your file format research, we hope you enjoyed it 
 </tr>
 <tr class="odd">
 <td>PRONOM Research GitHub Home Page, here find our resources, information about latest releases, get involved in discussions and submit issues or suggestions for improvement</td>
-<td><a href="https://github.com/digital-preservation/PRONOM_Research">PRONOM Statistics</a>digital-preservation/PRONOM_Research (github.com)</td>
+<td><a href="https://github.com/digital-preservation/PRONOM_Research">digital-preservation/PRONOM_Research (github.com)</a></td>
 </tr>
 <tr class="even">
 <td>PRONOM Statistics, created by Ross Spencer as an easy way to identify gaps within the database for contribution</td>
