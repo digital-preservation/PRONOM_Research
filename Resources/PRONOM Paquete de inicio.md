@@ -25,9 +25,9 @@ Notará que hay muchos enlaces a recursos adicionales en el documento y la lista
 
 [Introduction](#introduction)
 
-[Contents](#contents)
+[Contenido](# Contenido)
 
-[Ready…](#ready)
+[Listo…](# Listo…)
 
 * [Submission Template](#submission-template)
 
