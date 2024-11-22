@@ -88,7 +88,7 @@ Notará que hay muchos enlaces a recursos adicionales en el documento y la lista
 [Lista de Recursos y Herramientas](#Lista-de-Recursos-y-Herramientas)
 
 # Listo…
-Probablemente esté aquí porque tiene algunos formatos de archivo en su colección que no se identifican o no se identifican como cree que deberían. Si este es el caso, ya tienes un problema que investigar. Sin embargo, si no lo hace y aún desea contribuir, encontrará una lista de formatos de archivos sin firmas aquí, una lista de formatos de archivos sin descripciones aquí o puede buscar en la base de datos de PRONOM para ver si sus formatos de archivos favoritos ya están allí.
+Probablemente esté aquí porque tiene algunos formatos de archivo en su colección que no se identifican o no se identifican como cree que deberían. Si este es el caso, ya tienes un problema que investigar. Sin embargo, si no lo hace y aún desea contribuir, encontrará una lista de formatos de archivos sin firmas y una lista de formatos de archivos sin descripciones [aquí](https://ffdev-info.github.io/pronom-page/) o puede buscar en la [base de datos de PRONOM](https://www.nationalarchives.gov.uk/PRONOM/Format/proFormatSearch.aspx?status=new) para ver si sus formatos de archivos favoritos ya están allí.
 
 ## Envío Plantilla
 En este paquete encontrará una plantilla para su investigación de formatos de archivos. La plantilla está en formato Microsoft Excel y Word, elija el que le resulte más fácil. La plantilla tiene una lista de campos.-esta lista es la información que recopilamos antes de que el formato de archivo entre en PRONOM. Si no puede completarlo todo, no hay ningún problema, pero cuanto más completa sea la plantilla, más rápido podremos procesar el envío.
@@ -96,7 +96,7 @@ En este paquete encontrará una plantilla para su investigación de formatos de 
 
 ## Lectura Introductoria
 
-Hay varios blogs útiles escritos sobre la investigación de formatos de archivos. Para empezar, recomendamos este blog escrito por Ross Spencer, esta guía escrita por Jenny Mitcham y el blog escrito por el equipo de PRONOM mencionado anteriormente.
+Hay varios blogs útiles escritos sobre la investigación de formatos de archivos. Para empezar, recomendamos este [blog](https://openpreservation.org/blogs/five-star-file-format-signature-development/) escrito por Ross Spencer, [esta guía](https://digital-archiving.blogspot.com/2016/08/my-first-file-format-signature_88.html) escrita por Jenny Mitcham y el [blog](https://blog.nationalarchives.gov.uk/pronom-a-database-centenary/) escrito por el equipo de PRONOM mencionado anteriormente.
 
 ## Software Útil
 
@@ -106,18 +106,18 @@ Necesitará:
 - 7ZIP (solo para ciertos tipos de formatos de archivo)
 
 
-En la lectura introductoria descubrimos que la investigación de formatos de archivos implica analizar hexadecimal y buscar secuencias de bytes dentro del formato de archivo. Internamente utilizamos el editor hexadecimal HxD, que es un software gratuito y se puede descargar aquí. También hay otro software disponible.
+En la lectura introductoria descubrimos que la investigación de formatos de archivos implica analizar hexadecimal y buscar secuencias de bytes dentro del formato de archivo. Internamente utilizamos el editor hexadecimal HxD, que es un software gratuito y se puede descargar [aquí](https://mh-nexus.de/en/hxd/). También hay otro software disponible.
 
-También necesitará una **herramienta de identificación de formato de archivo**, en The National Archives utilizamos [<u>DROID</u>]  para analizar archivos. Descargue una herramienta de identificación de formato de archivo antes de comenzar su investigación; puede usar DROID u otras herramientas como Siegfried o FIDO. Para este ejercicio la herramienta deberá utilizar los datos de la base de datos del PRONOM.
+También necesitará una **herramienta de identificación de formato de archivo**, en The National Archives utilizamos [DROID](https://www.nationalarchives.gov.uk/information-management/manage-information/preserving-digital-records/droid/)  para analizar archivos. Descargue una herramienta de identificación de formato de archivo antes de comenzar su investigación; puede usar DROID u otras herramientas como [Siegfried](https://www.itforarchivists.com/siegfried/) o [FIDO](https://openpreservation.org/tools). Para este ejercicio la herramienta deberá utilizar los datos de la base de datos del PRONOM.
 
-Es posible que también necesite la herramienta 7Zip para investigar firmas de contenedores y extraer información de ellas (más sobre esto más adelante).
+Es posible que también necesite la herramienta [7Zip](https://www.7-zip.org/download.html) para investigar firmas de contenedores y extraer información de ellas (más sobre esto más adelante).
 
 # Configuración…
 
 En esta sección, le explicaremos los siguientes aspectos de la investigación de formatos 
 de archivos:
 * Encontrar información sobre el formato de su archivo.
-  *Cómo encontrar el mejor método de identificación para tu formato de archivo (hay tres 
+* Cómo encontrar el mejor método de identificación para tu formato de archivo (hay tres 
 tipos).
 
 Creación de la firma.
@@ -126,22 +126,17 @@ Para comenzar a analizar el formato de su archivo, debe seguir algunos pasos. No
 
 Pasos que debemos seguir:
 
--   Cosas a comprobar antes de empezar. Verificar el problema que necesita resolver y verificar que los formatos de sus archivos no estén ya en la base de datos
-
--   Encontrar muestras de archivos (tal vez ya las tenga), ¡cuanto más, mejor en muchos lugares diferentes!
-
--   El tipo de identificación del formato de archivo en PRONOM.
-
--   Cómo encontrar una firma de formato de archivo y analizar su formato de archivo 
+* Cosas a comprobar antes de empezar. Verificar el problema que necesita resolver y verificar que los formatos de sus archivos no estén ya en la base de datos
+* Encontrar muestras de archivos (tal vez ya las tenga), ¡cuanto más, mejor en muchos lugares diferentes!
+* El tipo de identificación del formato de archivo en PRONOM.
+* Cómo encontrar una firma de formato de archivo y analizar su formato de archivo 
 usando hexadecimal y otras herramientas.
-
--    ¡La verificación de su firma fue exitosa!
-
--   Encontrar información adicional sobre el formato del archivo.
+* ¡La verificación de su firma fue exitosa!
+* Encontrar información adicional sobre el formato del archivo.
 
 ## Verifique antes de comenzar
 
-Recomendamos como primer paso ejecutar sus archivos a través de una herramienta de identificación de formato de archivo. Para hacer esto, debe tener una herramienta de identificación de formato de archivo que utilice los datos de la base de datos PRONOM, como DROID, Siegfried y FIDO. En segundo lugar, recomendamos buscar en la base de datos PRONOM su formato de archivo utilizando la búsqueda de solo extensión y la búsqueda de texto libre.
+Recomendamos como primer paso ejecutar sus archivos a través de una herramienta de identificación de formato de archivo. Para hacer esto, debe tener una herramienta de identificación de formato de archivo que utilice los datos [de la base de datos PRONOM](https://www.nationalarchives.gov.uk/PRONOM/Format/proFormatSearch.aspx?status=new), como DROID, Siegfried y FIDO. En segundo lugar, recomendamos buscar en la base de datos PRONOM su formato de archivo utilizando la búsqueda de solo extensión y la búsqueda de texto libre.
 
 Si su archivo no está en la base de datos de PRONOM ni se identifica como debería estar usando el software, entonces necesitará una nueva entrada.
 
@@ -179,7 +174,7 @@ Puede utilizar su motor de búsqueda para buscar muestras. Dependiendo del motor
 
 ### Simplemente resuelva el problema del formato de archivo
 
-Otro método para encontrar archivos de muestra es utilizar la entrada wiki Just Solve the File Format Problem. Es posible que otra persona ya haya investigado su formato y puede encontrar más información al respecto en este sitio. Dependiendo del formato que estés investigando podrás encontrar páginas web que podría tener archivos de muestra para su formato, como se muestra a continuación:
+Otro método para encontrar archivos de muestra es utilizar la entrada wiki [Just Solve the File Format Problem](https://fileformats.archiveteam.org/wiki/Main_Page). Es posible que otra persona ya haya investigado su formato y puede encontrar más información al respecto en este sitio. Dependiendo del formato que estés investigando podrás encontrar páginas web que podría tener archivos de muestra para su formato, como se muestra a continuación:
 
 ![]("https://github.com/digital-preservation/PRONOM_Research/blob/main/Resources/media/image2.png?raw=true" "A title")
 
@@ -187,7 +182,7 @@ Otro método para encontrar archivos de muestra es utilizar la entrada wiki Just
 
 Internet es el salvaje oeste de las extensiones y no existen reglas. Algo que se puede ver a menudo en GitHub pero que también hay que tener en cuenta en otros sitios. Los desarrolladores pueden asignar una extensión aleatoria a su código que puede ser igual a la que estás buscando.
 
-Lamentablemente, es posible que su formato de archivo no sea el único formato de archivo con esta extensión. También puede utilizar el buscador de extensiones de archivos o la base de datos TrID para comprobar si hay otros formatos asociados con la misma extensión. Esto puede ayudar a evitar muestras de diferentes archivos con la misma extensión que está buscando.
+Lamentablemente, es posible que su formato de archivo no sea el único formato de archivo con esta extensión. También puede utilizar el [buscador de extensiones de archivos](https://file-extension.net/seeker/) o [la base de datos TrID](https://mark0.net/soft-trid-deflist.html) para comprobar si hay otros formatos asociados con la misma extensión. Esto puede ayudar a evitar muestras de diferentes archivos con la misma extensión que está buscando.
 
 Con todo esto echa un vistazo al archivo que has descargado. Si tiene una estructura similar a otros archivos de muestra que ya tiene o coincide con elementos de la especificación, entonces es probable que sea lo que está buscando. Si es completamente diferente, podría ser otro formato de archivo completamente diferente.
 
@@ -243,7 +238,7 @@ Pensar de envase archivos como apilado cajas o a muñeca matrioska.
 
 <img src="https://github.com/digital-preservation/PRONOM_Research/blob/main/Resources/media/image10.jpg?raw=true" style="width:3.10139in;height:2.32639in" /><img src="https://github.com/digital-preservation/PRONOM_Research/blob/main/Resources/media/image11.jpeg?raw=true" style="width:2.53472in;height:2.64583in" alt="Grimms Lollipop Small Stacking Boxes" />
 
-Cada archivo contenedor contiene otros formatos de archivo y posiblemente carpetas que pretendemos extraer y analizar. Usamos información como las rutas de archivos internas dentro del formato de archivo y las firmas binarias dentro de archivos individuales para crear una firma. Buscamos rutas de archivos que tengan en común varias muestras, así como firmas binarias dentro de aquellos archivos que tengan en común varios archivos. Piense en ello como la identificación de firma binaria pero con la consideración adicional de la estructura del archivo. También puede leer más información sobre las firmas de contenedores en el blog de Ross Spencer.
+Cada archivo contenedor contiene otros formatos de archivo y posiblemente carpetas que pretendemos extraer y analizar. Usamos información como las rutas de archivos internas dentro del formato de archivo y las firmas binarias dentro de archivos individuales para crear una firma. Buscamos rutas de archivos que tengan en común varias muestras, así como firmas binarias dentro de aquellos archivos que tengan en común varios archivos. Piense en ello como la identificación de firma binaria pero con la consideración adicional de la estructura del archivo. También puede leer más información sobre las firmas de contenedores en el [blog](https://openpreservation.org/blogs/droid-container-signature-files-what-they-are-and-how-to-create-them-a-template-and-an-example-or-few/) de Ross Spencer.
 
 ## 
 
@@ -359,7 +354,7 @@ Las preguntas que podría hacer, por ejemplo, son ¿a qué se pueden referir las
 
 ### Tipos e identificadores MIME
 
-Otro aspecto de la investigación que hacemos es descubrir si hay algún tipo MIME u otros identificadores asociados con el formato de archivo. Puede encontrar una breve descripción de qué es un tipo MIME aquí. Este debería ser un tipo de medio oficial. Solo aceptamos tipos MIME que estén registrados y enumerados a través de la IANA (https://www.iana.org/assignments/mediatypes/media-types.xhtml) o enumerados en la documentación de formato oficial producida por el proveedor. La mejor manera de buscar en la IANA es buscar en la página y buscar palabras clave del formato.
+Otro aspecto de la investigación que hacemos es descubrir si hay algún tipo MIME u otros identificadores asociados con el formato de archivo. Puede encontrar una breve descripción de qué es un tipo MIME aquí. Este debería ser un tipo de medio oficial. Solo aceptamos tipos MIME que estén registrados y enumerados a través [de la IANA](https://www.iana.org/assignments/mediatypes/media-types.xhtml) o enumerados en la documentación de formato oficial producida por el proveedor. La mejor manera de buscar en la IANA es buscar en la página y buscar palabras clave del formato.
 
 Tenemos otros tipos de identificadores, como las bifurcaciones de recursos, que son menos comunes pero, si son relevantes, son útiles para anotar en la investigación.
 
@@ -398,7 +393,7 @@ los enlaces a su envío, podemos consultarlos para futuros usuarios.
 
 ### Créditos
 
-Queremos asegurarnos de que todos los que quieran serlo reciban crédito por todo el trabajo que han realizado para investigar para nosotros. Generalmente esto es por organización pero si lo prefieres puede ser por individuo. Nosotros coloque esta información en la fuente de una nueva entrada de PRONOM y en nuestras notas de la versión que se pueden encontrar aqu
+Queremos asegurarnos de que todos los que quieran serlo reciban crédito por todo el trabajo que han realizado para investigar para nosotros. Generalmente esto es por organización pero si lo prefieres puede ser por individuo. Nosotros coloque esta información en la fuente de una nueva entrada de PRONOM y en nuestras notas de la versión que se pueden encontrar [aqui](https://www.nationalarchives.gov.uk/aboutapps/pronom/release-notes.xml).
 
 ## 
 
@@ -406,12 +401,13 @@ Queremos asegurarnos de que todos los que quieran serlo reciban crédito por tod
 
 Una vez que haya identificado toda la información anterior, puede utilizar una de las plantillas adjuntas con este paquete de bienvenida para ingresar la información y compartirla con el equipo de PRONOM. 
 
-Alternativamente, puede utilizar la herramienta de utilidad de desarrollo de firmas para crear secuencias y enviarlas al equipo de PRONOM. Puede encontrar más información sobre esta herramienta aquí.¡No has completado tu investigación y es hora de compartirla con la comunidad! Puede publicar su investigación en nuestro buzón de correo o en nuestra página de GitHub. 
+Alternativamente, puede utilizar la [herramienta de utilidad de desarrollo de firmas](https://ffdev.info/) para crear secuencias y enviarlas al equipo de PRONOM. Puede encontrar más información sobre esta herramienta [aquí](https://openpreservation.org/blogs/pronom-research-week-signature-development-utility-2-0-ffdev-info/).
 
-En caso de solucionar problemas o obtener más información, comuníquese con el equipo de PRONOM mediante el buzón de correo pronom@nationalarchives.gov.uk o con nuestros grupos dedicados de Google, PRONOM y DROID. 
+¡No has completado tu investigación y es hora de compartirla con la comunidad! Puede publicar su investigación en [nuestro buzón de correo](PRONOM@nationalarchives.gov.uk) o en nuestra [página de GitHub](https://github.com/digital-preservation/PRONOM_Research). 
 
-Para registrarnos y ver cómo estamos progresando con nuestro trabajo, actualizamos una hoja de cálculo en línea con nuestro progreso hacia la próxima versión a medida que avanzamos. Esto le dará una vista previa de lo 
-que habrá en la próxima versión. Intentamos mantener cada versión entre 40 y 70 cambios. También cargamos aquí cualquier cambio que hayamos realizado en nuestro entorno de desarrollo en GitHub todos los viernes. Si no quieres esperar al lanzamiento oficial, puedes descargar las firmas y usarlas (sólo ten en cuenta que no habrán sido probadas oficialmente y pueden tener 
+En caso de solucionar problemas o obtener más información, comuníquese con el equipo de PRONOM mediante el buzón de correo pronom@nationalarchives.gov.uk o con nuestros grupos dedicados de Google, [PRONOM](https://groups.google.com/g/pronom) y [DROID](https://groups.google.com/g/droid-list). 
+
+Para registrarnos y ver cómo estamos progresando con nuestro trabajo, actualizamos una hoja de cálculo en línea con nuestro progreso hacia la próxima versión a medida que avanzamos. Esto le dará una vista previa de lo que habrá en la próxima versión. Intentamos mantener cada versión entre 40 y 70 cambios. También cargamos [aquí](https://github.com/digital-preservation/PRONOM_Research/tree/main/Test%20Releases) cualquier cambio que hayamos realizado en nuestro entorno de desarrollo en GitHub todos los viernes. Si no quieres esperar al lanzamiento oficial, puedes descargar las firmas y usarlas (sólo ten en cuenta que no habrán sido probadas oficialmente y pueden tener 
 errores). 
 
 ¿Podríamos haber explicado algo mejor en este pack? ¿Hubo alguna parte que fue difícil de entender? ¿Tiene algunos consejos que le gustaría que hubiéramos agregado? ¡Háganos saber a través de nuestro buzón y lo mejoraremos!
