@@ -446,7 +446,7 @@ Felicitaciones por completar su investigación sobre el formato de archivo. Espe
 </tr>
 <tr class="even">
 <td>base de datos PRONOM buscar página</td>
-<td>PRONOM | Buscar (nationalarchives.gov.uk)</td>
+<td><a href="https://www.nationalarchives.gov.uk/PRONOM/Format/proFormatSearch.aspx?status=new">PRONOM | Buscar (nationalarchives.gov.uk)</a></td>
 </tr>
 <tr class="odd">
 <td>The National Archives, ‘PRONOM: a database centenary’</td>
@@ -467,14 +467,12 @@ Felicitaciones por completar su investigación sobre el formato de archivo. Espe
 <td><a href="https://www.nationalarchives.gov.uk/information-management/manage-information/preserving-digital-records/droid/">Download DROID: file format identification tool - The National Archives</a></td>
 </tr>
 <tr class="odd">
-<td>Siegfried Home Page</td>
+<td>página principal Sigfrido</td>
 
-<td><a href="https://www.itforarchivists.com/siegfried/">IT for archivists</a></td>
+<td><a href="https://www.itforarchivists.com/siegfried/">Sigfrido para archiveros</a></td>
 </tr>
 <tr class="even">
-
-
-<td>fido - Open Preservation Foundation</td>
+<td>página principal Fido</td>
 </tr>
 <tr class="odd">
 
