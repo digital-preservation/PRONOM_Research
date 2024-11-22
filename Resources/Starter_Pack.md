@@ -511,12 +511,12 @@ Congratulations on completing your file format research, we hope you enjoyed it 
 <td>File Formats in Test Environment (docs.google.com)</td>
 </tr>
 <tr class="even">
-<td></td>
-<td>PRONOM_Research/Test Releases at main · digital-preservation/PRONOM_Research (github.com)</td>
+<td>PRONOM Test Releases, where you can see and try out the latest signatures in development from the PRONOM team before official release</td>
+<td><a href="https://github.com/digital-preservation/PRONOM_Research/tree/main/Test%20Releases/">PRONOM_Research/Test Releases at main · digital-preservation/PRONOM_Research (github.com</a>)</td>
 </tr>
 <tr class="odd">
-<td></td>
-<td>https://www.iana.org/assignments/media-types/media-types.xhtml</td>
+<td>IANA MIME Type List, useful for checking during file format research for officially registered MIME types.</td>
+<td><a href="https://www.iana.org/assignments/media-types/media-types.xhtml/">IANA Media Types</a></td>
 </tr>
 </tbody>
 </table>
