@@ -442,164 +442,159 @@ Felicitaciones por completar su investigación sobre el formato de archivo. Espe
 <tbody>
 <tr class="odd">
 <td>PRONOM  página</td>
-<td></td>
 <td>PRONOM | Bienvenido (nationalarchives.gov.uk)</td>
 </tr>
 <tr class="even">
 <td>base de datos PRONOM buscar página</td>
-<td></td>
 <td>PRONOM | Buscar (nationalarchives.gov.uk)</td>
 </tr>
 <tr class="odd">
 <td>The National Archives, ‘PRONOM: a database centenary’</td>
-<td></td>
 <td><a href="https://blog.nationalarchives.gov.uk/pronom-a-database-centenary/">PRONOM: A database centenary - The National Archives blog</a></td>
 </tr>
 <tr class="even">
 <td>Ross Spencer, ‘</td>
-<td></td>
 <td><a href="https://openpreservation.org/blogs/five-star-file-format-signature-development/">Five Star File Format Signature Development - Open Preservation Foundation</a></td>
 </tr>
 <tr class="odd">
 <td>Publicación de blog de Jenny Mitcham que presenta una primera experiencia en la realización de investigaciones sobre formatos de archivos</td>
-<td></td>
 <td><a href="http://digital-archiving.blogspot.com/2016/08/my-first-file-format-signature_88.html">Archivo digital en la Universidad de York: mi primera firma de formato de archivo (digital.archiving.blogspot.com)
 )</a></td>
 </tr>
 <tr class="even">
-<td></td>
-<td></td>
+
+
 <td><a href="https://www.nationalarchives.gov.uk/information-management/manage-information/preserving-digital-records/droid/">Download DROID: file format identification tool - The National Archives</a></td>
 </tr>
 <tr class="odd">
 <td>Siegfried Home Page</td>
-<td></td>
+
 <td><a href="https://www.itforarchivists.com/siegfried/">IT for archivists</a></td>
 </tr>
 <tr class="even">
-<td></td>
-<td></td>
+
+
 <td>fido - Open Preservation Foundation</td>
 </tr>
 <tr class="odd">
-<td></td>
-<td></td>
+
+
 <td>Download (7-zip.org)</td>
 </tr>
 <tr class="even">
-<td></td>
-<td></td>
+
+
 <td>Just Solve the File Format Problem (archiveteam.org)</td>
 </tr>
 <tr class="odd">
-<td></td>
-<td></td>
+
+
 <td>File Extension Seeker - Metasearch engine for file extensions (file-extension.net)</td>
 </tr>
 <tr class="even">
-<td></td>
-<td></td>
+
+
 <td>Marco Pontello's Home - Software - TrID - Files Extensions and File Type Definitions list (mark0.net)</td>
 </tr>
 <tr class="odd">
-<td></td>
-<td></td>
+
+
 <td>DROID Container Signature Files: What they are and how to create them: A template and an example, or few… - Open Preservation Foundation</td>
 </tr>
 <tr class="even">
-<td></td>
-<td></td>
+
+
 <td>Signature development utillity 2.0 (ffdev.info)</td>
 </tr>
 <tr class="odd">
-<td></td>
-<td></td>
+
+
 <td>digital-preservation/PRONOM_Research (github.com)</td>
 </tr>
 <tr class="even">
-<td></td>
-<td></td>
+
+
 <td>pronom-research-week/formats_without_signatures_Oct_2020.csv at master · digital-preservation/pronom-research-week (github.com)</td>
 </tr>
 <tr class="odd">
-<td></td>
-<td></td>
+
+
 <td>File Formats in Test Environment (docs.google.com)</td>
 </tr>
 <tr class="even">
-<td></td>
-<td></td>
+
+
 <td>PRONOM_Research/Test Releases at main · digital-preservation/PRONOM_Research (github.com)</td>
 </tr>
 <tr class="odd">
-<td></td>
-<td></td>
+
+
 <td>https://www.iana.org/assignments/media-types/media-types.xhtml</td>
 </tr>
 <tr class="even">
-<td></td>
-<td></td>
-<td></td>
+
+
+
 </tr>
 <tr class="odd">
-<td></td>
-<td></td>
-<td></td>
+
+
+
 </tr>
 <tr class="even">
-<td></td>
-<td></td>
-<td></td>
+
+
+
 </tr>
 <tr class="odd">
-<td></td>
-<td></td>
-<td></td>
+
+
+
 </tr>
 <tr class="even">
-<td></td>
-<td></td>
-<td></td>
+
+
+
 </tr>
 <tr class="odd">
-<td></td>
-<td></td>
-<td></td>
+
+
+
 </tr>
 <tr class="even">
-<td></td>
-<td></td>
-<td></td>
+
+
+
 </tr>
 <tr class="odd">
-<td></td>
-<td></td>
-<td></td>
+
+
+
 </tr>
 <tr class="even">
-<td></td>
-<td></td>
-<td></td>
+
+
+
 </tr>
 <tr class="odd">
-<td></td>
-<td></td>
-<td></td>
+
+
+
 </tr>
 <tr class="even">
-<td></td>
-<td></td>
-<td></td>
+
+
+
 </tr>
 <tr class="odd">
-<td></td>
-<td></td>
-<td></td>
+
+
+
 </tr>
 <tr class="even">
-<td></td>
-<td></td>
-<td></td>
+
+
+
 </tr>
 </tbody>
 </table>
