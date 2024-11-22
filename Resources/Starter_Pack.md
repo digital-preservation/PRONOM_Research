@@ -547,5 +547,9 @@ https://docs.google.com/spreadsheets/d/1P1GGevHysUQnivsmf6EFo8ZyfKRPwUJa5eoJ3JOD
 <td>DROID Google Group, for community queries related to PRONOM</td>
 <td><a href="https://groups.google.com/g/droid-list">DROID Google Group</a></td>
 </tr>
+<tr class="even">
+<td>PRONOM Email</td>
+<td><a href="mailto:PRONOM@nationalarchives.gov.uk">PRONOM@nationalarchives.gov.uk</a></td>
+</tr>
 </tbody>
 </table>
