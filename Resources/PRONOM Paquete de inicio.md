@@ -317,7 +317,7 @@ Bueno, es posible que estés tratando con un formato que no tiene una firma espe
 
 ## Comprobando que funciona
 
-La mejor manera de comprobar si su firma funciona es utilizar la herramienta Utilidad de desarrollo de firmas de Ross Spencer. Las instrucciones y un tutorial sobre cómo utilizarlo se pueden encontrar aquí, y la herramienta en sí se encuentra aquí.
+La mejor manera de comprobar si su firma funciona es utilizar la herramienta Utilidad de desarrollo de firmas de Ross Spencer. Las instrucciones y un tutorial sobre cómo utilizarlo se pueden encontrar [aquí](https://openpreservation.org/blogs/pronom-research-week-signature-development-utility-2-0-ffdev-info/), y la herramienta en sí se encuentra [aquí](https://ffdev.info/).
 
 La herramienta funciona ingresando su firma e investigando los campos proporcionados y luego genera una firma que puede descargar y probar usando su herramienta de identificación de formato de archivo.
 
