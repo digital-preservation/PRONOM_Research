@@ -484,10 +484,6 @@ Congratulations on completing your file format research, we hope you enjoyed it 
 </tr>
 <tr class="odd">
 <td></td>
-<td>File Extension Seeker - Metasearch engine for file extensions (file-extension.net)</td>
-</tr>
-<tr class="odd">
-<td></td>
 <td></td>
 </tr>
 <tr class="even">
@@ -504,7 +500,7 @@ Congratulations on completing your file format research, we hope you enjoyed it 
 <td>Marco Pontello's Home - Software - TrID - Files Extensions and File Type Definitions list (mark0.net)</td>
 </tr>
 <tr class="odd">
-<td></td>
+<td>Ross Spencer, "DROID Container Signature Files: What they are and how to create them: A template and an example, or few…", introductory blog on container signatures</td>
 <td><a href="https://openpreservation.org/blogs/droid-container-signature-files-what-they-are-and-how-to-create-them-a-template-and-an-example-or-few/">DROID Container Signature Files: What they are and how to create them: A template and an example, or few…</a></td>
 </tr>
 <tr class="even">
