@@ -422,9 +422,6 @@ Felicitaciones por completar su investigación sobre el formato de archivo. Espe
 
 <img src="https://github.com/digital-preservation/PRONOM_Research/blob/main/Resources/media/image23.JPG?raw=true" style="width:4.16963in;height:1.25694in" />
 
-**  
-**
-
 # Lista de Recursos y Herramientas
 
 <table>
@@ -505,7 +502,6 @@ Archivo Extensión Buscador - Metabuscador motor para archivo extensiones (exten
 <tr class="odd">
 <td>Enlace a los formatos de archivo actualmente en nuestro entorno de prueba.</td>
 <td><a href="https://docs.google.com/spreadsheets/d/1P1GGevHysUQnivsmf6EFo8ZyfKRPwUJa5eoJ3JODRq0/edit?gid=1951343839#gid=1951343839">Formatos de archivo en el entorno de prueba(docs.google.com)</a></td>
-<td>File Formats in Test Environment (docs.google.com)</td>
 </tr>
 <tr class="even">
 <td>Carpeta de GitHub a la que cargamos versiones de prueba semanalmente. Los usuarios de PRONOM pueden probar y utilizar firmas antes de cada lanzamiento.</td>
