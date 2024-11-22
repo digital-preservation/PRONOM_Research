@@ -475,8 +475,20 @@ Congratulations on completing your file format research, we hope you enjoyed it 
 <td><a href="https://openpreservation.org/products/fido/">Fido Home Page</a></td>
 </tr>
 <tr class="odd">
+<td>7 Zip Download Page, please check before downloading</td>
+<td><a href="https://www.7-zip.org/download.html">Download (7-zip.org)</a></td>
+</tr>
+<tr class="even">
+<td>HxD Software Download Page, a hex analysis tool (there are many alternatives please check before downloading)</td>
+<td><a href="https://mh-nexus.de/en/hxd/">Download HxD</a></td>
+</tr>
+<tr class="odd">
 <td></td>
-<td>Download (7-zip.org)</td>
+<td>File Extension Seeker - Metasearch engine for file extensions (file-extension.net)</td>
+</tr>
+<tr class="odd">
+<td></td>
+<td></td>
 </tr>
 <tr class="even">
 <td></td>
@@ -507,8 +519,8 @@ Congratulations on completing your file format research, we hope you enjoyed it 
 <td><a href=""></a></td>
 </tr>
 <tr class="odd">
-<td></td>
-<td>digital-preservation/PRONOM_Research (github.com)</td>
+<td>PRONOM Research GitHub Home Page, here find our resources, information about latest releases, get involved in discussions and submit issues or suggestions for improvement</td>
+<td><a href="https://github.com/digital-preservation/PRONOM_Research">PRONOM Statistics</a>digital-preservation/PRONOM_Research (github.com)</td>
 </tr>
 <tr class="even">
 <td>PRONOM Statistics, created by Ross Spencer as an easy way to identify gaps within the database for contribution</td>
@@ -517,10 +529,11 @@ Congratulations on completing your file format research, we hope you enjoyed it 
 <tr class="odd">
 <td></td>
 <td>File Formats in Test Environment (docs.google.com)</td>
+https://docs.google.com/spreadsheets/d/1P1GGevHysUQnivsmf6EFo8ZyfKRPwUJa5eoJ3JODRq0/edit?usp=sharing
 </tr>
 <tr class="even">
 <td>PRONOM Test Releases, where you can see and try out the latest signatures in development from the PRONOM team before official release</td>
-<td><a href="https://github.com/digital-preservation/PRONOM_Research/tree/main/Test%20Releases/">PRONOM_Research/Test Releases at main · digital-preservation/PRONOM_Research (github.com</a>)</td>
+<td><a href="https://github.com/digital-preservation/PRONOM_Research/tree/main/Test%20Releases/">PRONOM_Research/Test Releases at main · digital-preservation/PRONOM_Research (github.com)</a></td>
 </tr>
 <tr class="odd">
 <td>IANA MIME Type List, useful for checking during file format research for officially registered MIME types.</td>
