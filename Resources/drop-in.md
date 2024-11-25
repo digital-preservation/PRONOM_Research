@@ -14,7 +14,7 @@ Every 2 weeks at Thursday 4pm UK time or 11am (ET). The meeting link to join for
 
 * 30/01/2025
 
-* 13/01/2025
+* 13/02/2025
 
 An [iCalendar](https://en.wikipedia.org/wiki/ICalendar) for the meetings at the UK times can be found in the calendar folder, and is linked to [here](calendar/pronom-drop-in-gmt.ics).
 
