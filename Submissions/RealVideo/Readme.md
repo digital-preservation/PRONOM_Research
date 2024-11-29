@@ -9,11 +9,11 @@ add .rv extension
 ## New Signatures
 
 BYU/dev1 RealPix Image \
-BOF ```3C696D666C3E```
+BOF ```3C696D666C3E``` \
 EOF ```3C2F696D666C3E``` max offset 4
 
 BYU/dev2 RealText \
-BOF ```3C77696E646F77```
+BOF ```3C77696E646F77``` \
 EOF ```3C2F77696E646F773E``` max offset 4
 
 BYU/dev3 RealMedia High Definition \
