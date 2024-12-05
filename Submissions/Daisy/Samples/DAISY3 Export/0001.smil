@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE smil PUBLIC "-//NISO//DTD dtbsmil 2005-2//EN" "http://www.daisy.org/z3986/2005/dtbsmil-2005-2.dtd">
+<smil xmlns="http://www.w3.org/2001/SMIL20/">
+	<head>
+		<meta
+			name="dtb:uid"
+			content="589c550e-303b-4c0d-9921-ae76d782fd53" />
+		<meta
+			name="dtb:generator"
+			content="Obi and the Urakawa SDK: the open-source DAISY multimedia authoring toolkit" />
+		<meta
+			name="dtb:totalElapsedTime"
+			content="00:00:00" />
+	</head>
+	<body>
+		<seq
+			id="sm_1"
+			dur="00:00:28.4813152"
+			fill="remove">
+			<par
+				id="sm_2">
+				<audio
+					clipBegin="00:00:00"
+					clipEnd="00:00:01.6235147"
+					src="aud0001.mp3" />
+			</par>
+			<par
+				id="sm_3">
+				<audio
+					clipBegin="00:00:01.6235147"
+					clipEnd="00:00:26.8578005"
+					src="aud0001.mp3" />
+			</par>
+			<par
+				id="sm_4">
+				<audio
+					clipBegin="00:00:26.8578005"
+					clipEnd="00:00:28.4813152"
+					src="aud0001.mp3" />
+			</par>
+		</seq>
+	</body>
+</smil>
