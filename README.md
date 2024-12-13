@@ -1,5 +1,11 @@
 # PRONOM_Research Overview
 
+## What is PRONOM?
+
+PRONOM is an on-line information system about file formats and how to identify them. Originally developed to support the accession and long-term preservation of electronic records held by the National Archives, PRONOM is a resource available for anyone requiring access to this type of information. A full description of the individual fields used by PRONOM is available in the system documentation.
+
+## What is the PRONOM_Research GitHub?
+
 PRONOM_Research has been created so that there is a permanent GitHub repository for collaboration. This could include research submissions, issues, improvements, submitting samples or using/ collaborating on resources.
 
 We want those who use and submit to PRONOM to have a better understanding of the work we do on a daily basis. Therefore we have [created an area](https://github.com/digital-preservation/PRONOM_Research/tree/main/Test%20Releases) to which we shall upload the test signatures we are working on, on a weekly basis and a [spreadsheet](https://docs.google.com/spreadsheets/d/1P1GGevHysUQnivsmf6EFo8ZyfKRPwUJa5eoJ3JODRq0/edit?usp=sharing) where you can view the progress of the next release.
@@ -85,6 +91,7 @@ Your format may not easily fit into any of the above categories, so feel free to
 # Resources
 
 * The main PRONOM website can be found here: www.nationalarchives.gov.uk/PRONOM.
+* To get started on doing PRONOM Research the best place is to take a look at the Starter Pack, available in both [English](https://github.com/digital-preservation/PRONOM_Research/blob/main/Resources/Starter_Pack.md) and [Spanish](https://github.com/digital-preservation/PRONOM_Research/blob/main/Resources/PRONOM%20Paquete%20de%20inicio.md)
 * Ross Spencer's signature development utility for both binary and container signatures can be found [here](https://openpreservation.org/blogs/pronom-research-week-signature-development-utility-2-0-ffdev-info/).
 * A list of blogs, presentations, and other resources to assist with PRONOM research and file format signature development [can be found here](https://docs.google.com/spreadsheets/d/12YnUPnHaoYzDrf2SgxGDxi5e6r3WOpEfk23ibt3qVyg/edit#gid=0).
 * If you would like help or advice on conducting your research, crafting your submission, creating a signature, or if you're having difficulty finding samples, please create a conversation thread on our [Google Group](https://groups.google.com/g/pronom).

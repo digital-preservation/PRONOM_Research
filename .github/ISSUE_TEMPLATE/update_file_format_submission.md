@@ -1,6 +1,6 @@
 ---
 name: Update File Format Submission
-description: This template is designed for anyone who would like to suggest improvements or changes to the current database
+about: This template is designed for anyone who would like to suggest improvements or changes to the current database
 title: ''
 labels: 'update-format'
 assignees: ''
