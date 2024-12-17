@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FFSignatureFile xmlns="http://www.nationalarchives.gov.uk/pronom/SignatureFile" Version="454545" DateCreated="2024-12-13T05:57:03+00:00">
+  <InternalSignatureCollection>
+  
+  <InternalSignature ID="1" Specificity="Specific">
+  <ByteSequence Reference="BOFoffset">
+    <SubSequence MinFragLength="0" Position="1" SubSeqMaxOffset="0" SubSeqMinOffset="0">
+      <Sequence>52494646</Sequence>
+      <DefaultShift>5</DefaultShift>
+      <Shift Byte="52">4</Shift>
+      <Shift Byte="49">3</Shift>
+      <Shift Byte="46">1</Shift>
+      <RightFragment MaxOffset="4" MinOffset="4" Position="1">5346504A</RightFragment>
+    </SubSequence>
+  </ByteSequence>
+</InternalSignature>
+
+  <InternalSignature ID="2" Specificity="Specific">
+  <ByteSequence Reference="BOFoffset">
+    <SubSequence MinFragLength="0" Position="1" SubSeqMaxOffset="0" SubSeqMinOffset="0">
+      <Sequence>72696666</Sequence>
+      <DefaultShift>5</DefaultShift>
+      <Shift Byte="72">4</Shift>
+      <Shift Byte="69">3</Shift>
+      <Shift Byte="66">1</Shift>
+      <RightFragment MaxOffset="4" MinOffset="4" Position="1">A5D628DB</RightFragment>
+    </SubSequence>
+  </ByteSequence>
+</InternalSignature>
+
+</InternalSignatureCollection>
+<FileFormatCollection>
+
+  <FileFormat ID="1" Name="CD Architect Project File" PUID="BYUdev/1" Version="4">
+    <InternalSignatureID>1</InternalSignatureID>
+    <Extension>cdp</Extension>
+  </FileFormat>
+  
+    <FileFormat ID="2" Name="CD Architect Project File" PUID="BYUdev/2" Version="5">
+    <InternalSignatureID>2</InternalSignatureID>
+    <Extension>cdp</Extension>
+  </FileFormat>
+  
+</FileFormatCollection></FFSignatureFile>
