@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FFSignatureFile xmlns="http://www.nationalarchives.gov.uk/pronom/SignatureFile" Version="333002" DateCreated="2024-11-26T05:56:47+00:00">
+  <InternalSignatureCollection>
+  
+          <InternalSignature ID="9" Specificity="Specific">
+            <ByteSequence Reference="BOFoffset">
+                <SubSequence MinFragLength="0" Position="1"
+                    SubSeqMaxOffset="0" SubSeqMinOffset="0">
+                    <Sequence>49492A00</Sequence>
+                    <DefaultShift>5</DefaultShift>
+                    <Shift Byte="00">1</Shift>
+                    <Shift Byte="2A">2</Shift>
+                    <Shift Byte="49">3</Shift>
+                </SubSequence>
+            </ByteSequence>
+        </InternalSignature>
+        <InternalSignature ID="10" Specificity="Specific">
+            <ByteSequence Reference="BOFoffset">
+                <SubSequence MinFragLength="0" Position="1"
+                    SubSeqMaxOffset="0" SubSeqMinOffset="0">
+                    <Sequence>4D4D002A</Sequence>
+                    <DefaultShift>5</DefaultShift>
+                    <Shift Byte="00">2</Shift>
+                    <Shift Byte="2A">1</Shift>
+                    <Shift Byte="4D">3</Shift>
+                </SubSequence>
+            </ByteSequence>
+        </InternalSignature>
+        
+                <InternalSignature ID="1439" Specificity="Specific">
+            <ByteSequence Reference="BOFoffset">
+                <SubSequence MinFragLength="14" Position="1"
+                    SubSeqMaxOffset="0" SubSeqMinOffset="0">
+                    <Sequence>4B6F64616B</Sequence>
+                    <DefaultShift>6</DefaultShift>
+                    <Shift Byte="4B">5</Shift>
+                    <Shift Byte="61">2</Shift>
+                    <Shift Byte="64">3</Shift>
+                    <Shift Byte="6B">1</Shift>
+                    <Shift Byte="6F">4</Shift>
+                    <LeftFragment MaxOffset="16384" MinOffset="4" Position="1">FDE8</LeftFragment>
+                    <LeftFragment MaxOffset="16384" MinOffset="4" Position="2">4D4D002A</LeftFragment>
+                    <RightFragment MaxOffset="256" MinOffset="4" Position="1">FDE8</RightFragment>
+                </SubSequence>
+            </ByteSequence>
+        </InternalSignature>
+  
+  <InternalSignature ID="1" Specificity="Specific">
+  <ByteSequence Reference="BOFoffset">
+    <SubSequence MinFragLength="16" Position="1" SubSeqMaxOffset="0" SubSeqMinOffset="0">
+      <Sequence>4B4F44414B</Sequence>
+      <DefaultShift>6</DefaultShift>
+      <Shift Byte="4B">1</Shift>
+      <Shift Byte="4F">4</Shift>
+      <Shift Byte="44">3</Shift>
+      <Shift Byte="41">2</Shift>
+      <LeftFragment MaxOffset="12" MinOffset="12" Position="1">49492A00</LeftFragment>
+      <RightFragment MaxOffset="11" MinOffset="11" Position="1">444353</RightFragment>
+      <RightFragment MaxOffset="11" MinOffset="11" Position="1">454F53444353</RightFragment>
+    </SubSequence>
+  </ByteSequence>
+</InternalSignature>
+
+  <InternalSignature ID="2" Specificity="Specific">
+  <ByteSequence Reference="BOFoffset">
+    <SubSequence MinFragLength="64" Position="1" SubSeqMaxOffset="0" SubSeqMinOffset="0">
+      <Sequence>5468697320696D6167652066696C652077617320637265617465642062792061204B6F64616B20444353</Sequence>
+      <DefaultShift>43</DefaultShift>
+      <Shift Byte="54">42</Shift>
+      <Shift Byte="68">41</Shift>
+      <Shift Byte="69">30</Shift>
+      <Shift Byte="73">24</Shift>
+      <Shift Byte="20">4</Shift>
+      <Shift Byte="6D">36</Shift>
+      <Shift Byte="61">6</Shift>
+      <Shift Byte="67">34</Shift>
+      <Shift Byte="65">17</Shift>
+      <Shift Byte="66">31</Shift>
+      <Shift Byte="6C">29</Shift>
+      <Shift Byte="77">26</Shift>
+      <Shift Byte="63">22</Shift>
+      <Shift Byte="72">21</Shift>
+      <Shift Byte="74">18</Shift>
+      <Shift Byte="64">7</Shift>
+      <Shift Byte="62">14</Shift>
+      <Shift Byte="79">13</Shift>
+      <Shift Byte="4B">9</Shift>
+      <Shift Byte="6F">8</Shift>
+      <Shift Byte="6B">5</Shift>
+      <Shift Byte="44">3</Shift>
+      <Shift Byte="43">2</Shift>
+      <Shift Byte="53">1</Shift>
+      <LeftFragment MaxOffset="60" MinOffset="60" Position="1">4D4D002A</LeftFragment>
+      <RightFragment MaxOffset="5" MinOffset="5" Position="1">6469676974616C2063616D6572612E</RightFragment>
+    </SubSequence>
+  </ByteSequence>
+</InternalSignature>
+
+</InternalSignatureCollection>
+<FileFormatCollection>
+
+  <FileFormat ID="1" Name="Kodak DCS Image" PUID="BYUdev/1" Version="3" MIMEType="image/x-dcs">
+    <InternalSignatureID>1</InternalSignatureID>
+    <Extension>tif</Extension>
+    <Extension>tiff</Extension>
+    <HasPriorityOverFileFormatID>1099</HasPriorityOverFileFormatID>
+  </FileFormat>
+  
+    <FileFormat ID="2" Name="Kodak DCS Image" PUID="BYUdev/2" MIMEType="image/x-dcs">
+    <InternalSignatureID>2</InternalSignatureID>
+    <Extension>tif</Extension>
+    <Extension>tiff</Extension>
+    <HasPriorityOverFileFormatID>1099</HasPriorityOverFileFormatID>
+  </FileFormat>
+  
+          <FileFormat ID="1099" MIMEType="image/tiff"
+            Name="Tagged Image File Format" PUID="fmt/353">
+            <InternalSignatureID>9</InternalSignatureID>
+            <InternalSignatureID>10</InternalSignatureID>
+            <Extension>tif</Extension>
+            <Extension>tiff</Extension>
+            <HasPriorityOverFileFormatID>687</HasPriorityOverFileFormatID>
+        </FileFormat>
+        
+               <FileFormat ID="917" Name="Kodak Digital Camera Raw Image File" PUID="fmt/192">
+            <InternalSignatureID>1439</InternalSignatureID>
+            <Extension>dcr</Extension>
+            <HasPriorityOverFileFormatID>1099</HasPriorityOverFileFormatID>
+        </FileFormat>
+  
+</FileFormatCollection></FFSignatureFile>

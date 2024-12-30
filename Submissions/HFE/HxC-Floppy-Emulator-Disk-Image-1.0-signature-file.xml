@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FFSignatureFile xmlns="http://www.nationalarchives.gov.uk/pronom/SignatureFile" Version="113356" DateCreated="2024-09-27T04:26:51+00:00">
+  <InternalSignatureCollection>
+  
+  <InternalSignature ID="1" Specificity="Specific">
+  <ByteSequence Reference="BOFoffset">
+    <SubSequence MinFragLength="0" Position="1" SubSeqMaxOffset="0" SubSeqMinOffset="0">
+      <Sequence>4858435049434645</Sequence>
+      <DefaultShift>9</DefaultShift>
+      <Shift Byte="48">8</Shift>
+      <Shift Byte="58">7</Shift>
+      <Shift Byte="43">3</Shift>
+      <Shift Byte="50">5</Shift>
+      <Shift Byte="49">4</Shift>
+      <Shift Byte="46">2</Shift>
+      <Shift Byte="45">1</Shift>
+    </SubSequence>
+  </ByteSequence>
+</InternalSignature>
+
+  <InternalSignature ID="2" Specificity="Specific">
+  <ByteSequence Reference="BOFoffset">
+    <SubSequence MinFragLength="0" Position="1" SubSeqMaxOffset="0" SubSeqMinOffset="0">
+      <Sequence>4858434846455633</Sequence>
+      <DefaultShift>9</DefaultShift>
+      <Shift Byte="48">5</Shift>
+      <Shift Byte="58">7</Shift>
+      <Shift Byte="43">6</Shift>
+      <Shift Byte="46">4</Shift>
+      <Shift Byte="45">3</Shift>
+      <Shift Byte="56">2</Shift>
+      <Shift Byte="33">1</Shift>
+    </SubSequence>
+  </ByteSequence>
+</InternalSignature>
+
+  <InternalSignature ID="3" Specificity="Specific">
+  <ByteSequence Reference="BOFoffset">
+    <SubSequence MinFragLength="0" Position="1" SubSeqMaxOffset="0" SubSeqMinOffset="0">
+      <Sequence>4878435F53747265616D5F496D616765</Sequence>
+      <DefaultShift>17</DefaultShift>
+      <Shift Byte="48">16</Shift>
+      <Shift Byte="78">15</Shift>
+      <Shift Byte="43">14</Shift>
+      <Shift Byte="5F">6</Shift>
+      <Shift Byte="53">12</Shift>
+      <Shift Byte="74">11</Shift>
+      <Shift Byte="72">10</Shift>
+      <Shift Byte="65">1</Shift>
+      <Shift Byte="61">3</Shift>
+      <Shift Byte="6D">4</Shift>
+      <Shift Byte="49">5</Shift>
+      <Shift Byte="67">2</Shift>
+    </SubSequence>
+  </ByteSequence>
+</InternalSignature>
+
+</InternalSignatureCollection>
+<FileFormatCollection>
+
+  <FileFormat ID="1" Name="HxC Floppy Emulator Disk Image" PUID="BYUdev/1" Version="1">
+    <InternalSignatureID>1</InternalSignatureID>
+    <Extension>hfe</Extension>
+  </FileFormat>
+  
+    <FileFormat ID="2" Name="HxC Floppy Emulator Disk Image" PUID="BYUdev/2" Version="3">
+    <InternalSignatureID>2</InternalSignatureID>
+    <Extension>hfe</Extension>
+  </FileFormat>
+  
+    <FileFormat ID="3" Name="HxC Floppy Emulator Stream Image" PUID="BYUdev/3">
+    <InternalSignatureID>3</InternalSignatureID>
+    <Extension>hfe</Extension>
+  </FileFormat>
+  
+</FileFormatCollection></FFSignatureFile>
