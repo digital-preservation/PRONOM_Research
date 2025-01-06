@@ -28,9 +28,9 @@ If you wish to upload research into our submissions area, or wish to make improv
 
 PRONOM has a [Google Group](https://groups.google.com/g/pronom)  where you can join discussions, post queries and receive updates on our work. It is also useful if you would like help or advice on conducting your research, crafting your submission, creating a signature, or if you're having difficulty finding samples. 
 
-## Google Sheets
+## Descriptathon via Google Sheets
 
-If you are not sure where to start with file format research, then this could be the perfect place to start. If you have cataloguing and research skills, then working on descriptions in the PRONOM database could be for you, no technical expertise is required. Many of the file formats in PRONOM do not have a proper description, they only have what we call 'Outline Descriptions', therefore the team have set up an [online spreadsheet](https://docs.google.com/spreadsheets/d/1-iaHhNDP2yvWZxm8R-4UDrsdBzn8EfFCjw9sdJ1AnJM/edit?usp=sharing) to help tackle this issue.
+If you are not sure where to start with file format research, then this could be the perfect place to start. If you have cataloguing and research skills, then working on descriptions in the PRONOM database could be for you, no technical expertise is required. Many of the file formats in PRONOM do not have a proper description, they only have what we call 'Outline Descriptions', therefore the team have set up an [online spreadsheet](https://docs.google.com/spreadsheets/d/1-iaHhNDP2yvWZxm8R-4UDrsdBzn8EfFCjw9sdJ1AnJM/edit?usp=sharing) to help tackle this issue (no GitHub account necessary). Full instructions are within the sheet but it's pretty simple, simply add a new description and how we can credit you.
 
 ## Email
 
