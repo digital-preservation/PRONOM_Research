@@ -106,7 +106,7 @@ You will need:
 
 * 7ZIP (for certain types of file formats only)
 
-In the introductory reading we found that file format research involves analysing hex and looking for byte sequences within the file format. Internally we use HxD **hex editor**, which is a free software and can be downloaded [here](https://mh-nexus.de/en/hxd/). Other software is available also.
+File format research involves opening file formats in an encoding called hex and looking for common patterns, or byte sequences within the file format. Examples of this can be seen in the blog posts listed in the introductory reading section. Internally we use HxD **hex editor**, which is a free software and can be downloaded [here](https://mh-nexus.de/en/hxd/). Other software is available also.
 
 You will also need a **file format identification tool**, at The National Archives we use [DROID](https://www.nationalarchives.gov.uk/information-management/manage-information/preserving-digital-records/droid/) to analyse files. Please download a file format identification tool prior to starting your research, you can use DROID or other tools such as [Siegfried](https://www.itforarchivists.com/siegfried/) or [FIDO](https://openpreservation.org/tools). For this exercise the tool should use the data from the PRONOM database.
 
@@ -144,7 +144,7 @@ We recommend as the first step running your files through a file format identifi
 
 If your file is neither in the PRONOM database nor identifying as it should be using the software then it will need a new entry. Follow the steps ahead as proposed. There is an exception to this rule. If your file identifies unexpectedly as a ZIP or OLE2 file then there is a possibility it is a container file. See the next section **Types of Identification in PRONOM**.
 
-If your file can be found in the PRONOM database but is not identifying using the software then there is a good chance that the signature needs improving or there is a missing file extension. Follow the steps ahead and research your file format, however, try and work out what the differences are between what is in the PRONOM entry and in your files. See if you can investigate what has gone wrong. To help take a look at the method by which it is identifying (Signature, Container or Extension).
+If your file can be found in the PRONOM database but is not identifying using the software then there is a good chance that the signature needs improving or there is a missing file extension. You should stick to the stages ahead but as you do so try and work out what the differences are between what is in the PRONOM entry and in your files. See if you can investigate what has gone wrong. To do so it will help to take a look at the method by which it is identifying (Signature, Container or Extension).
 
 If your file identifies correctly but also identifies as other file types then it has the characteristics of two or more signatures in the database. Take a look at how it is identifying. If it is by Extension then there is very little we can do (though do tell us about it and jump ahead to the **GO!** section if you think it is important). However if it is by Signature or Container see if you can investigate why your file may identify as both types by following the steps ahead. Is there a way that one signature can be improved so that this doesn’t happen? Should one signature be given a priority over the other (so that if it identifies as both only one appears)?
 
@@ -412,9 +412,9 @@ Once you have identified all the above information, you can use one of the templ
 
 Alternatively, you can use the [Signature Development Utility Tool](https://ffdev.info/) to create sequences and send it to PRONOM team. More information about this tool can be found [here](https://openpreservation.org/blogs/pronom-research-week-signature-development-utility-2-0-ffdev-info/).
 
-You have now completed your research and it is time to share it with the community! You can post your research to our [mailbox](pronom@nationalarchives.gov.uk) or in our [GitHub page](https://github.com/digital-preservation/PRONOM_Research).
+You have now completed your research and it is time to share it with the community! You can post your research to our [mailbox](mailto:PRONOM@nationalarchives.gov.uk) or in our [GitHub page](https://github.com/digital-preservation/PRONOM_Research).
 
-In case of any troubleshooting or more information, please contact the PRONOM team using [mailbox](pronom@nationalarchives.gov.uk) or our dedicated Google groups, [PRONOM](https://groups.google.com/g/pronom) and [DROID](https://groups.google.com/g/droid-list).
+In case of any troubleshooting or more information, please contact the PRONOM team using [mailbox](mailto:PRONOM@nationalarchives.gov.uk) or our dedicated Google groups, [PRONOM](https://groups.google.com/g/pronom) and [DROID](https://groups.google.com/g/droid-list).
 
 To check in and see how we are progressing with our work we update an online spreadsheet with our progress towards the next release as we go. This will give you a preview of what will be in the next release. We try and keep each release to around 40-70 changes. We also upload any changes we have made in our development environment to GitHub most Fridays [here](https://github.com/digital-preservation/PRONOM_Research/tree/main/Test%20Releases). If you don’t want to wait for the official release you can download the signatures and use them (just be warned that these will not have been officially tested and may have errors).
 
