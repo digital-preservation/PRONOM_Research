@@ -94,7 +94,7 @@ You will find a template for your file format research in this pack. The templat
 
 ## Introductory Reading
 
-There are a number of useful blogs written about file format research. To start we recommend this [<u>blog</u>][1] written by Ross Spencer, this [<u>guidance</u>] written by Jenny Mitcham and the <u>[blog][<u>blog</u>]</u> written by PRONOM team mentioned earlier.
+There are a number of useful blogs written about file format research. To start we recommend this [blog](https://openpreservation.org/blogs/five-star-file-format-signature-development/) written by Ross Spencer, this [guidance](https://digital-archiving.blogspot.com/2016/08/my-first-file-format-signature_88.html) written by Jenny Mitcham and the [blog](https://blog.nationalarchives.gov.uk/pronom-a-database-centenary/) written by PRONOM team mentioned earlier.
 
 ## Useful Software
 
@@ -412,7 +412,7 @@ Once you have identified all the above information, you can use one of the templ
 
 Alternatively, you can use the [Signature Development Utility Tool](https://ffdev.info/) to create sequences and send it to PRONOM team. More information about this tool can be found [here](https://openpreservation.org/blogs/pronom-research-week-signature-development-utility-2-0-ffdev-info/).
 
-You have not completed your research and it is time to share it with the community! You can post your research to our [mailbox](pronom@nationalarchives.gov.uk) or in our [GitHub page](https://github.com/digital-preservation/PRONOM_Research).
+You have now completed your research and it is time to share it with the community! You can post your research to our [mailbox](pronom@nationalarchives.gov.uk) or in our [GitHub page](https://github.com/digital-preservation/PRONOM_Research).
 
 In case of any troubleshooting or more information, please contact the PRONOM team using [mailbox](pronom@nationalarchives.gov.uk) or our dedicated Google groups, [PRONOM](https://groups.google.com/g/pronom) and [DROID](https://groups.google.com/g/droid-list).
 
