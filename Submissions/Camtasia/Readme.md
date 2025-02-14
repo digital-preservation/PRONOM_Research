@@ -1,6 +1,12 @@
 # Camtasia
 - http://fileformats.archiveteam.org/wiki/Camtasia_Recording_File
 
+## Description
+Camtasia Studio is screen recording software. From version 3 to version 8.3, the software would record to an OLE container in the AVI video format, container will also include metadata, cursor data, audio, webcam video, etc. Starting in version 8.4, the recordings where made to a TREC (mp42/isom) format.
+
+## Headers
+CAMREC files are in the OLE2 Container format. Identification is made from the file "manifest.camxml".
+
 ## New Signatures
 
 BYU/dev1 Camtasia Recorder Video \
