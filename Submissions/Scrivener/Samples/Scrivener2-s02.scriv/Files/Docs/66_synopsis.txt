@@ -1,0 +1,1 @@
+Time and temperature to cook a given cut of meat; recommended minimum internal temperature

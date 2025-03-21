@@ -1,0 +1,752 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<ScrivenerProject Version="1.0" Creator="SCRMAC-2.5-25238" Modified="2025-03-20 22:54:48 -0600">
+    <Binder>
+        <BinderItem ID="83" Type="Text" Created="2025-03-20 22:54:23 -0600" Modified="2025-03-20 22:54:23 -0600">
+            <Title>How to Use</Title>
+            <MetaData>
+                <LabelID>0</LabelID>
+                <StatusID>0</StatusID>
+                <NotesTextSelection>0,0</NotesTextSelection>
+                <IconFileName>Information.tiff</IconFileName>
+            </MetaData>
+            <TextSettings>
+                <TextSelection>0,0</TextSelection>
+            </TextSettings>
+        </BinderItem>
+        <BinderItem ID="0" Type="DraftFolder" Created="2025-03-20 22:54:23 -0600" Modified="2025-03-20 22:54:23 -0600">
+            <Title>Recipes</Title>
+            <MetaData>
+                <PageBreakBefore>Yes</PageBreakBefore>
+            </MetaData>
+            <CorkboardAndOutliner>
+                <SelectedSubdocumentIDs>48, 62</SelectedSubdocumentIDs>
+                <OutlinerExpandedState>
+                    <ItemID>46</ItemID>
+                    <ItemID>15</ItemID>
+                    <ItemID>53</ItemID>
+                    <ItemID>12</ItemID>
+                    <ItemID>54</ItemID>
+                    <ItemID>11</ItemID>
+                    <ItemID>21</ItemID>
+                    <ItemID>17</ItemID>
+                    <ItemID>18</ItemID>
+                    <ItemID>19</ItemID>
+                    <ItemID>20</ItemID>
+                    <ItemID>51</ItemID>
+                    <ItemID>52</ItemID>
+                    <ItemID>55</ItemID>
+                    <ItemID>56</ItemID>
+                    <ItemID>57</ItemID>
+                    <ItemID>14</ItemID>
+                    <ItemID>26</ItemID>
+                    <ItemID>63</ItemID>
+                    <ItemID>64</ItemID>
+                    <ItemID>65</ItemID>
+                    <ItemID>13</ItemID>
+                    <ItemID>27</ItemID>
+                    <ItemID>48</ItemID>
+                    <ItemID>62</ItemID>
+                    <ItemID>58</ItemID>
+                    <ItemID>42</ItemID>
+                    <ItemID>49</ItemID>
+                    <ItemID>50</ItemID>
+                </OutlinerExpandedState>
+            </CorkboardAndOutliner>
+            <Children>
+                <BinderItem ID="46" Type="Folder" Created="2025-03-20 22:54:23 -0600" Modified="2025-03-20 22:54:23 -0600">
+                    <Title>Breakfast Dishes</Title>
+                    <MetaData>
+                        <LabelID>0</LabelID>
+                        <StatusID>0</StatusID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="15" Type="Folder" Created="2025-03-20 22:54:23 -0600" Modified="2025-03-20 22:54:23 -0600">
+                    <Title>Appetizers</Title>
+                    <MetaData>
+                        <LabelID>0</LabelID>
+                        <StatusID>0</StatusID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="53" Type="Folder" Created="2025-03-20 22:54:23 -0600" Modified="2025-03-20 22:54:23 -0600">
+                    <Title>Sauces &amp; Salsas</Title>
+                    <MetaData>
+                        <LabelID>0</LabelID>
+                        <StatusID>0</StatusID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="120" Type="Text" Created="2025-03-20 22:54:23 -0600" Modified="2025-03-20 22:54:23 -0600">
+                            <Title>Fake Sauce</Title>
+                            <MetaData>
+                                <LabelID>4</LabelID>
+                                <StatusID>3</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>390,0</TextSelection>
+                            </TextSettings>
+                            <Keywords>
+                                <KeywordID>10</KeywordID>
+                            </Keywords>
+                            <References>
+                                <Reference BinderID="119" Destination="[Internal Link]">Sample Recipe</Reference>
+                                <Reference BinderID="83" Destination="[Internal Link]">How to Use</Reference>
+                            </References>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="12" Type="Folder" Created="2025-03-20 22:54:23 -0600" Modified="2025-03-20 22:54:23 -0600">
+                    <Title>Soups</Title>
+                    <MetaData>
+                        <LabelID>0</LabelID>
+                        <StatusID>0</StatusID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="54" Type="Folder" Created="2025-03-20 22:54:23 -0600" Modified="2025-03-20 22:54:23 -0600">
+                    <Title>Salads</Title>
+                    <MetaData>
+                        <LabelID>0</LabelID>
+                        <StatusID>0</StatusID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="11" Type="Folder" Created="2025-03-20 22:54:23 -0600" Modified="2025-03-20 22:54:23 -0600">
+                    <Title>Entrées</Title>
+                    <MetaData>
+                        <LabelID>0</LabelID>
+                        <StatusID>0</StatusID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="21" Type="Folder" Created="2025-03-20 22:54:23 -0600" Modified="2025-03-20 22:54:23 -0600">
+                            <Title>Meat</Title>
+                            <MetaData>
+                                <LabelID>0</LabelID>
+                                <StatusID>0</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem ID="17" Type="Folder" Created="2025-03-20 22:54:23 -0600" Modified="2025-03-20 22:54:23 -0600">
+                                    <Title>Poultry</Title>
+                                    <MetaData>
+                                        <LabelID>0</LabelID>
+                                        <StatusID>0</StatusID>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                    <Children>
+                                        <BinderItem ID="119" Type="Text" Created="2025-03-20 22:54:23 -0600" Modified="2025-03-20 22:54:23 -0600">
+                                            <Title>Sample Recipe</Title>
+                                            <MetaData>
+                                                <LabelID>4</LabelID>
+                                                <StatusID>2</StatusID>
+                                                <IncludeInCompile>Yes</IncludeInCompile>
+                                                <NotesTextSelection>0,0</NotesTextSelection>
+                                                <CustomMetaData>
+                                                    <MetaDataItem>
+                                                        <FieldID>source</FieldID>
+                                                        <Value>This template</Value>
+                                                    </MetaDataItem>
+                                                </CustomMetaData>
+                                            </MetaData>
+                                            <TextSettings>
+                                                <TextSelection>354,0</TextSelection>
+                                            </TextSettings>
+                                            <Keywords>
+                                                <KeywordID>10</KeywordID>
+                                            </Keywords>
+                                            <References>
+                                                <Reference BinderID="83" Destination="[Internal Link]">How to Use</Reference>
+                                            </References>
+                                        </BinderItem>
+                                    </Children>
+                                </BinderItem>
+                                <BinderItem ID="18" Type="Folder" Created="2025-03-20 22:54:23 -0600" Modified="2025-03-20 22:54:23 -0600">
+                                    <Title>Seafood</Title>
+                                    <MetaData>
+                                        <LabelID>0</LabelID>
+                                        <StatusID>0</StatusID>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="19" Type="Folder" Created="2025-03-20 22:54:23 -0600" Modified="2025-03-20 22:54:23 -0600">
+                                    <Title>Beef</Title>
+                                    <MetaData>
+                                        <LabelID>0</LabelID>
+                                        <StatusID>0</StatusID>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="20" Type="Folder" Created="2025-03-20 22:54:23 -0600" Modified="2025-03-20 22:54:23 -0600">
+                                    <Title>Pork</Title>
+                                    <MetaData>
+                                        <LabelID>0</LabelID>
+                                        <StatusID>0</StatusID>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="51" Type="Folder" Created="2025-03-20 22:54:23 -0600" Modified="2025-03-20 22:54:23 -0600">
+                                    <Title>Veal</Title>
+                                    <MetaData>
+                                        <LabelID>0</LabelID>
+                                        <StatusID>0</StatusID>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                                <BinderItem ID="52" Type="Folder" Created="2025-03-20 22:54:23 -0600" Modified="2025-03-20 22:54:23 -0600">
+                                    <Title>Lamb</Title>
+                                    <MetaData>
+                                        <LabelID>0</LabelID>
+                                        <StatusID>0</StatusID>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                        <NotesTextSelection>0,0</NotesTextSelection>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>0,0</TextSelection>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                        <BinderItem ID="55" Type="Folder" Created="2025-03-20 22:54:23 -0600" Modified="2025-03-20 22:54:23 -0600">
+                            <Title>Pasta</Title>
+                            <MetaData>
+                                <LabelID>0</LabelID>
+                                <StatusID>0</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="56" Type="Folder" Created="2025-03-20 22:54:23 -0600" Modified="2025-03-20 22:54:23 -0600">
+                            <Title>Pizzas &amp; Stromboli</Title>
+                            <MetaData>
+                                <LabelID>0</LabelID>
+                                <StatusID>0</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                            <CorkboardAndOutliner>
+                                <SelectedSubdocumentIDs>115</SelectedSubdocumentIDs>
+                            </CorkboardAndOutliner>
+                        </BinderItem>
+                        <BinderItem ID="57" Type="Folder" Created="2025-03-20 22:54:23 -0600" Modified="2025-03-20 22:54:23 -0600">
+                            <Title>Eggs &amp; Cheese</Title>
+                            <MetaData>
+                                <LabelID>0</LabelID>
+                                <StatusID>0</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="14" Type="Folder" Created="2025-03-20 22:54:23 -0600" Modified="2025-03-20 22:54:23 -0600">
+                    <Title>Sides</Title>
+                    <MetaData>
+                        <LabelID>0</LabelID>
+                        <StatusID>0</StatusID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <CorkboardAndOutliner>
+                        <SelectedSubdocumentIDs>22</SelectedSubdocumentIDs>
+                    </CorkboardAndOutliner>
+                    <Children>
+                        <BinderItem ID="22" Type="Folder" Created="2025-03-20 22:54:23 -0600" Modified="2025-03-20 22:54:23 -0600">
+                            <Title>Vegetables</Title>
+                            <MetaData>
+                                <LabelID>0</LabelID>
+                                <StatusID>0</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="23" Type="Folder" Created="2025-03-20 22:54:23 -0600" Modified="2025-03-20 22:54:23 -0600">
+                            <Title>Grains</Title>
+                            <MetaData>
+                                <LabelID>0</LabelID>
+                                <StatusID>0</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="47" Type="Folder" Created="2025-03-20 22:54:23 -0600" Modified="2025-03-20 22:54:23 -0600">
+                            <Title>Rice &amp; Potatoes</Title>
+                            <MetaData>
+                                <LabelID>0</LabelID>
+                                <StatusID>0</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="26" Type="Folder" Created="2025-03-20 22:54:23 -0600" Modified="2025-03-20 22:54:23 -0600">
+                    <Title>Breads</Title>
+                    <MetaData>
+                        <LabelID>0</LabelID>
+                        <StatusID>0</StatusID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="63" Type="Folder" Created="2025-03-20 22:54:23 -0600" Modified="2025-03-20 22:54:23 -0600">
+                            <Title>Artisan</Title>
+                            <MetaData>
+                                <LabelID>0</LabelID>
+                                <StatusID>0</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="64" Type="Folder" Created="2025-03-20 22:54:23 -0600" Modified="2025-03-20 22:54:23 -0600">
+                            <Title>Enriched</Title>
+                            <MetaData>
+                                <LabelID>0</LabelID>
+                                <StatusID>0</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="65" Type="Folder" Created="2025-03-20 22:54:23 -0600" Modified="2025-03-20 22:54:23 -0600">
+                            <Title>Regular</Title>
+                            <MetaData>
+                                <LabelID>0</LabelID>
+                                <StatusID>0</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="13" Type="Folder" Created="2025-03-20 22:54:23 -0600" Modified="2025-03-20 22:54:23 -0600">
+                    <Title>Desserts</Title>
+                    <MetaData>
+                        <LabelID>0</LabelID>
+                        <StatusID>0</StatusID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="27" Type="Folder" Created="2025-03-20 22:54:23 -0600" Modified="2025-03-20 22:54:23 -0600">
+                            <Title>Cakes &amp; Pies</Title>
+                            <MetaData>
+                                <LabelID>0</LabelID>
+                                <StatusID>0</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="48" Type="Folder" Created="2025-03-20 22:54:23 -0600" Modified="2025-03-20 22:54:23 -0600">
+                            <Title>Cookies</Title>
+                            <MetaData>
+                                <LabelID>0</LabelID>
+                                <StatusID>0</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="62" Type="Folder" Created="2025-03-20 22:54:23 -0600" Modified="2025-03-20 22:54:23 -0600">
+                            <Title>Candies</Title>
+                            <MetaData>
+                                <LabelID>0</LabelID>
+                                <StatusID>0</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="58" Type="Folder" Created="2025-03-20 22:54:23 -0600" Modified="2025-03-20 22:54:23 -0600">
+                            <Title>Miscellaneous</Title>
+                            <MetaData>
+                                <LabelID>0</LabelID>
+                                <StatusID>0</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="42" Type="Folder" Created="2025-03-20 22:54:23 -0600" Modified="2025-03-20 22:54:23 -0600">
+                    <Title>Beverages</Title>
+                    <MetaData>
+                        <LabelID>0</LabelID>
+                        <StatusID>0</StatusID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="49" Type="Folder" Created="2025-03-20 22:54:23 -0600" Modified="2025-03-20 22:54:23 -0600">
+                            <Title>Hot</Title>
+                            <MetaData>
+                                <LabelID>0</LabelID>
+                                <StatusID>0</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="50" Type="Folder" Created="2025-03-20 22:54:23 -0600" Modified="2025-03-20 22:54:23 -0600">
+                            <Title>Cold</Title>
+                            <MetaData>
+                                <LabelID>0</LabelID>
+                                <StatusID>0</StatusID>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <NotesTextSelection>0,0</NotesTextSelection>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>0,0</TextSelection>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem ID="1" Type="ResearchFolder" Created="2025-03-20 22:54:23 -0600" Modified="2025-03-20 22:54:23 -0600">
+            <Title>Resources</Title>
+            <MetaData>
+                <PageBreakBefore>Yes</PageBreakBefore>
+            </MetaData>
+            <Children>
+                <BinderItem ID="95" Type="Folder" Created="2025-03-20 22:54:23 -0600" Modified="2025-03-20 22:54:23 -0600">
+                    <Title>Grain Cook Times</Title>
+                    <MetaData>
+                        <LabelID>0</LabelID>
+                        <StatusID>0</StatusID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="66" Type="Folder" Created="2025-03-20 22:54:23 -0600" Modified="2025-03-20 22:54:23 -0600">
+                    <Title>Meat Cook Times</Title>
+                    <MetaData>
+                        <LabelID>0</LabelID>
+                        <StatusID>0</StatusID>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="118" Type="Text" Created="2025-03-20 22:54:23 -0600" Modified="2025-03-20 22:54:23 -0600">
+                    <Title>Measurements &amp; Equivalents</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <NotesTextSelection>0,0</NotesTextSelection>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>489,0</TextSelection>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem ID="2" Type="TrashFolder" Created="2025-03-20 22:54:23 -0600" Modified="2025-03-20 22:54:23 -0600">
+            <Title>Trash</Title>
+            <MetaData>
+                <PageBreakBefore>Yes</PageBreakBefore>
+            </MetaData>
+        </BinderItem>
+    </Binder>
+    <Collections>
+        <Collection Type="Binder" ID="23182582-C7A4-4220-AED4-5F0892C89F79" Color="0.785036 0.814987 0.851674">
+            <Title>Binder</Title>
+        </Collection>
+        <Collection Type="RecentSearch" ID="5CD516EC-EBE0-42A5-9366-9FFC9EEB0460" Color="0.922 0.91 0.98">
+            <Title>Search Results</Title>
+        </Collection>
+        <Collection Type="Arbitrary" ID="6524E062-ECEB-4995-82F1-758D6154C920" Color="0.826973 0.967731 0.728186">
+            <Title>Sample Recipes</Title>
+            <BinderIDs>
+                <BinderID>120</BinderID>
+                <BinderID>119</BinderID>
+            </BinderIDs>
+        </Collection>
+    </Collections>
+    <Keywords>
+        <Keyword ID="0">
+            <Title>allergens</Title>
+            <Color>1.0 1.0 1.0</Color>
+            <Children>
+                <Keyword ID="1">
+                    <Title>gluten-free</Title>
+                    <Color>0.84484 0.833299 0.615833</Color>
+                </Keyword>
+                <Keyword ID="2">
+                    <Title>lactose-free</Title>
+                    <Color>0.506787 0.499864 0.369415</Color>
+                </Keyword>
+                <Keyword ID="30">
+                    <Title>nut-free</Title>
+                    <Color>0.280543 0.27671 0.204498</Color>
+                </Keyword>
+                <Keyword ID="3">
+                    <Title>shellfish-free</Title>
+                    <Color>0.122172 0.120503 0.089055</Color>
+                </Keyword>
+            </Children>
+        </Keyword>
+        <Keyword ID="4">
+            <Title>cooking method</Title>
+            <Color>0.941176 0.575416 0.178137</Color>
+            <Children>
+                <Keyword ID="5">
+                    <Title>microwave</Title>
+                    <Color>0.515837 0.315372 0.097633</Color>
+                </Keyword>
+                <Keyword ID="6">
+                    <Title>no-bake</Title>
+                    <Color>1.0 0.775537 0.536174</Color>
+                </Keyword>
+                <Keyword ID="7">
+                    <Title>one dish</Title>
+                    <Color>0.687783 0.533401 0.368771</Color>
+                </Keyword>
+                <Keyword ID="8">
+                    <Title>oven</Title>
+                    <Color>0.357466 0.277228 0.191664</Color>
+                </Keyword>
+                <Keyword ID="9">
+                    <Title>slow cooker</Title>
+                    <Color>0.357466 0.22222 0.071123</Color>
+                </Keyword>
+                <Keyword ID="10">
+                    <Title>stove top</Title>
+                    <Color>0.723982 0.450066 0.144047</Color>
+                </Keyword>
+            </Children>
+        </Keyword>
+        <Keyword ID="11">
+            <Title>healthy</Title>
+            <Color>0.615515 0.886878 0.621524</Color>
+            <Children>
+                <Keyword ID="12">
+                    <Title>low-carb</Title>
+                    <Color>0.674425 0.886878 0.661523</Color>
+                </Keyword>
+                <Keyword ID="13">
+                    <Title>low-fat</Title>
+                    <Color>0.398829 0.574661 0.402722</Color>
+                </Keyword>
+            </Children>
+        </Keyword>
+        <Keyword ID="14">
+            <Title>holiday/celebration</Title>
+            <Color>0.574661 0.06526 0.071496</Color>
+            <Children>
+                <Keyword ID="15">
+                    <Title>Christmas</Title>
+                    <Color>0.764706 0.086843 0.095141</Color>
+                </Keyword>
+                <Keyword ID="16">
+                    <Title>Halloween</Title>
+                    <Color>0.846154 0.529265 0.181578</Color>
+                </Keyword>
+                <Keyword ID="17">
+                    <Title>St. Patrick's Day</Title>
+                    <Color>0.165 0.556561 0.172325</Color>
+                </Keyword>
+                <Keyword ID="18">
+                    <Title>Valentine's Day</Title>
+                    <Color>0.764706 0.201205 0.387462</Color>
+                </Keyword>
+            </Children>
+        </Keyword>
+        <Keyword ID="19">
+            <Title>international</Title>
+            <Color>0.734426 0.430288 0.764706</Color>
+            <Children>
+                <Keyword ID="20">
+                    <Title>Chinese</Title>
+                    <Color>0.633484 0.608445 0.10234</Color>
+                </Keyword>
+                <Keyword ID="21">
+                    <Title>Italian</Title>
+                    <Color>0.319263 0.633484 0.257702</Color>
+                </Keyword>
+                <Keyword ID="22">
+                    <Title>Japanese</Title>
+                    <Color>0.633484 0.155511 0.121112</Color>
+                </Keyword>
+                <Keyword ID="23">
+                    <Title>Mexican</Title>
+                    <Color>0.773756 0.453458 0.219189</Color>
+                </Keyword>
+            </Children>
+        </Keyword>
+        <Keyword ID="24">
+            <Title>seasonal</Title>
+            <Color>1.0 1.0 1.0</Color>
+            <Children>
+                <Keyword ID="25">
+                    <Title>autumn</Title>
+                    <Color>0.764706 0.395745 0.209371</Color>
+                </Keyword>
+                <Keyword ID="26">
+                    <Title>spring</Title>
+                    <Color>0.764706 0.303407 0.328315</Color>
+                </Keyword>
+                <Keyword ID="27">
+                    <Title>summer</Title>
+                    <Color>0.196 0.757987 0.0</Color>
+                </Keyword>
+                <Keyword ID="28">
+                    <Title>winter</Title>
+                    <Color>0.569426 0.696832 0.764706</Color>
+                </Keyword>
+            </Children>
+        </Keyword>
+        <Keyword ID="32">
+            <Title>vegan</Title>
+            <Color>0.0 0.417647 0.0</Color>
+        </Keyword>
+        <Keyword ID="29">
+            <Title>vegetarian</Title>
+            <Color>0.0 0.162914 0.69</Color>
+        </Keyword>
+    </Keywords>
+    <LabelSettings>
+        <Title>Time</Title>
+        <DefaultLabelID>-1</DefaultLabelID>
+        <Labels>
+            <Label ID="-1"></Label>
+            <Label ID="4" Color="0.72 0.881662 0.327445">&lt; 30 min</Label>
+            <Label ID="3" Color="0.881662 0.77716 0.219733">30-60 min</Label>
+            <Label ID="6" Color="0.881662 0.37258 0.16863">1-2 hr</Label>
+            <Label ID="7" Color="0.723982 0.142955 0.0">>2 hr</Label>
+            <Label ID="2" Color="0.443439 0.0 0.216583">1-2 days</Label>
+        </Labels>
+    </LabelSettings>
+    <StatusSettings>
+        <Title>Rating</Title>
+        <DefaultStatusID>-1</DefaultStatusID>
+        <StatusItems>
+            <Status ID="-1"></Status>
+            <Status ID="1">★</Status>
+            <Status ID="2">★★</Status>
+            <Status ID="3">★★★</Status>
+            <Status ID="4">★★★★</Status>
+            <Status ID="5">★★★★★</Status>
+            <Status ID="6">untried</Status>
+        </StatusItems>
+    </StatusSettings>
+    <CustomMetaDataSettings>
+        <MetaDataField ID="source" Wraps="Yes">Source</MetaDataField>
+        <MetaDataField ID="recommendedby" Wraps="Yes">Recommended By</MetaDataField>
+        <MetaDataField ID="publicationinfo" Wraps="Yes">Publication Info</MetaDataField>
+        <MetaDataField ID="caloriesperserving" Wraps="No">Cal/serv</MetaDataField>
+        <MetaDataField ID="fatperserving" Wraps="No">Fat/serv</MetaDataField>
+        <MetaDataField ID="fiberperserving" Wraps="No">Fiber/serv</MetaDataField>
+    </CustomMetaDataSettings>
+    <ProjectTargets Notify="No">
+        <DraftTarget Type="Words" CountIncludedOnly="No" CurrentCompileGroupOnly="Yes" Deadline="2011-07-07 06:39:27 -0600" IgnoreDeadline="Yes">0</DraftTarget>
+        <SessionTarget Type="Words" CountDraftOnly="Yes" AllowNegatives="Yes" ResetType="Midnight" DeterminedFromDeadline="No" WritingDays="" CanWriteOnDeadlineDate="No">0</SessionTarget>
+        <PreviousSession Words="0" Characters="0" Date="2025-03-20 22:54:20 -0600"></PreviousSession>
+    </ProjectTargets>
+    <PrintSettings PaperSize="612.0,792.0" LeftMargin="72.0" RightMargin="72.0" TopMargin="90.0" BottomMargin="90.0" PaperType="na-letter" Orientation="Portrait" HorizontalPagination="Clip" VerticalPagination="Auto" ScaleFactor="1.0" HorizontallyCentered="Yes" VerticallyCentered="Yes" Collates="Yes" PagesAcross="1" PagesDown="1"></PrintSettings>
+</ScrivenerProject>
