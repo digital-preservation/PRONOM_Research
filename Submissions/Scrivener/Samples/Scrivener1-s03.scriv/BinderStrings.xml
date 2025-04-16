@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>14</key>
+	<dict>
+		<key>Notes</key>
+		<string></string>
+		<key>Synopsis</key>
+		<string>[TITLE]  [Issue XX]  "[STORYTITLE]" Part [XX]  By  [author]  Draft 1.0 - [Date]  [address]  [phone #]  [email] [TITLE] #XX - Draft X.X - [AUTHOR] - 1  PAGE 1  PANEL 1  Our hero stands in the shadows of a street corner. At night.  Obviously.  CAPTION  It was a dark and stormy night...  BALLOON (NO TAIL)  Man, this is one dark and stormy night.  (cont)  Good thing I have a second dialogue balloon.</string>
+		<key>Text</key>
+		<string>[TITLE] 
+[Issue XX] 
+"[STORYTITLE]" Part [XX] 
+By 
+[author] 
+Draft 1.0 - [Date] 
+[address] 
+[phone #] 
+[email]
+[TITLE] #XX - Draft X.X - [AUTHOR] - 1 
+PAGE 1 
+PANEL 1 
+Our hero stands in the shadows of a street corner. At night. 
+Obviously. 
+CAPTION 
+It was a dark and stormy night... 
+BALLOON (NO TAIL) 
+Man, this is one dark and stormy night. 
+(cont) 
+Good thing I have a second dialogue balloon.</string>
+		<key>Title</key>
+		<string>Comic Script Format</string>
+	</dict>
+	<key>4</key>
+	<dict>
+		<key>Notes</key>
+		<string></string>
+		<key>Synopsis</key>
+		<string></string>
+		<key>Text</key>
+		<string>Comic Script Format
+
+See the “Comic Script” PDF file in the Research folder for an example of how this project template can be used to generate a formatted comic script. There is no industry standard for comic scripting, so this template is based on the Final Draft template created by Antony Johnston:
+
+http://www.antonyjohnston.com./downloads/
+
+You could equally create a comic script template in Scrivener based on the Final Draft template created by Andy Diggle:
+
+http://andydiggle.blogspot.com/2006/07/final-draft-for-comics.html
+
+Or, you could create a template that fits the way you work, by using Text &gt; Script Settings… to completely customise the script template.
+
+This template works as follows:
+
+Title Page
+A document entitled “Title Page” is placed at the top of the draft (“Comic Script”) folder. This is used to hold the title and by-line and your name and address. Be sure to change the information in this document as appropriate.
+
+Pages
+Pages are represented by text containers in the Comic Script. Upon export, a page break is inserted before each of these containers. Each “Page” contains numerous panels, that can be dragged around and rearranged as you wish. “Page” text containers have text inside them formatted as the page header text. Note that you can select the “Page” container and use Simple Duplicate from the Documents menu to create other other pages.
+
+Panels
+Panels are represented by text documents within the folders that represent pages.
+
+Printing
+To print your manuscript, go to File &gt; Compile Comic Script…, and then click on Print. You can also generate a PDF from the panel that appears (the PDF document in the Research folder was created in this way).
+
+Exporting
+You can either export to a word processor (using rich text or .doc format) or to Final Draft for final formatting. To export to Final Draft, select “Plain Text” as the export format in the Compile Comic Script sheet. Also be sure to uncheck “Include” for the title page document, as you will not want to export the title page for use in Final Draft—instead, use Final Draft itself to create the title page. Choose to import the text file as a script when importing into Final Draft.
+
+The Styles
+This template contains the most common styles used for comics: Page Number, Panel, Action, Character, Dialogue and Parenthetical.
+Page Number appears only in each page’s container document. Pressing TAB after typing will insert the &lt;$N&gt; character string, to auto-number your pages.
+Panel is used to denote a single panel of comic art on the page. Press TAB after typing to insert the &lt;$sn&gt; string, to auto-number your panels within each page. Press ENTER to automatically put the text into Action mode.
+Action is used to describe the image within each panel of art. Multiple paragraphs of Action text can be used in a panel description. Therefore, press ENTER after typing to keep the text in Action mode. To enter Character mode, press TAB either after typing, or while on a blank line.
+Character denotes a speaking character within a panel, and precedes their dialogue. Press ENTER to put the text into Dialogue mode. Press TAB to make notes on lettering style for the dialogue that follows, e.g. “Large”, “Small”, “Jagged”, or “Off” (useful for when a speaking character is not visible in panel). These notes are usually made in parentheses, so in this template a left parenthesis [i.e. the ( character] is automatically inserted after the character’s name, and the auto-complete library for this style contains text with closed parentheses. 
+Caption boxes are regarded as dialogue, and the character “CAPTION” should be used, followed by the text to appear in the box.
+Sound effects are similarly denoted with “SFX”.
+If a panel is completely silent (i.e. has no dialogue, caption or sound effect) then a character of “NO DIALOGUE” should be entered, ending the panel.
+Dialogue is the speech of each character. Dialogue is not broken up into true paragraphs. Therefore, press ENTER to move the text back into Action mode. If you wish to break a long section of dialogue into multiple balloons, press TAB to enter Parenthetical mode.
+Parenthetical is used to link together multiple dialogue balloons spoken by the same character in a single panel. Simply type “cont” and hit either TAB or ENTER; parentheses will automatically be placed around the “cont” text, and the text will return to Dialogue mode on a new line.
+Other lettering notes can also be made in the parentheticals after the “cont” text, e.g. “cont, small” or “cont, jagged”. Lettering notes that affect the entire dialogue should be made on the Character line, as noted above.</string>
+		<key>Title</key>
+		<string>Comic Script Format</string>
+	</dict>
+	<key>5</key>
+	<dict>
+		<key>Notes</key>
+		<string></string>
+		<key>Synopsis</key>
+		<string></string>
+		<key>Text</key>
+		<string>
+
+
+
+
+
+
+
+
+
+
+
+
+[TITLE]
+
+[Issue XX]
+
+”[STORYTITLE]" Part [XX]
+
+By
+
+[author]
+
+
+
+
+
+
+
+
+
+
+Draft 1.0 - [Date]
+
+
+
+
+
+
+
+
+[address]
+[phone #]
+[email]</string>
+		<key>Title</key>
+		<string>Title Page</string>
+	</dict>
+	<key>6</key>
+	<dict>
+		<key>Notes</key>
+		<string></string>
+		<key>Synopsis</key>
+		<string></string>
+		<key>Text</key>
+		<string>PAGE &lt;$N&gt;</string>
+		<key>Title</key>
+		<string>Page</string>
+	</dict>
+	<key>7</key>
+	<dict>
+		<key>Notes</key>
+		<string></string>
+		<key>Synopsis</key>
+		<string></string>
+		<key>Text</key>
+		<string>PANEL &lt;$sn&gt;
+</string>
+		<key>Title</key>
+		<string>A panel</string>
+	</dict>
+</dict>
+</plist>

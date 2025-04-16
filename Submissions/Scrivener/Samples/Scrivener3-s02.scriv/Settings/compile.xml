@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CompileSettings>
+    <ProjectSettings>
+        <Content Scope="Included">
+            <CompileGroup Type="BinderItem"/>
+            <Filter State="Off" Exclude="No" Type="Label">
+                <Label>-1</Label>
+            </Filter>
+        </Content>
+        <Options>
+            <RemoveComments>Yes</RemoveComments>
+            <RemoveAnnotations>Yes</RemoveAnnotations>
+            <ResampleImages DPI="72" MaxSize="0">No</ResampleImages>
+            <ConvertRichTextToMMD>No</ConvertRichTextToMMD>
+            <Links/>
+            <PDF>
+                <Cover Source="" Bleed="0.0" BleedUnits="pt"></Cover>
+                <Compression Enabled="No">
+                    <ImageResolutionCompressionType></ImageResolutionCompressionType>
+                    <ImageResolution>300</ImageResolution>
+                    <CompressionQuality>0.5</CompressionQuality>
+                </Compression>
+            </PDF>
+            <Scriptwriting>
+                <IncludeTitles>Yes</IncludeTitles>
+                <IncludeSynopses>Yes</IncludeSynopses>
+                <CommentsAsScriptNotes>Yes</CommentsAsScriptNotes>
+            </Scriptwriting>
+            <Ebook>
+                <Cover>
+                    <ImageDocument Source="FrontMatter"></ImageDocument>
+                    <Title>Cover</Title>
+                    <SVG Width="-1" Height="-1"><![CDATA[]]></SVG>
+                </Cover>
+                <TOC PandocDepth="3">
+                    <HTML Generate="Yes">
+                        <Title>Contents</Title>
+                    </HTML>
+                </TOC>
+            </Ebook>
+        </Options>
+        <MetaData>
+            <EbookLanguage>en</EbookLanguage>
+            <FountainTitlePageMetaData>
+                <Value Key="Title"><![CDATA[<$projecttitle>]]></Value>
+                <Value Key="Author"><![CDATA[<$author>]]></Value>
+            </FountainTitlePageMetaData>
+            <MMDMetaData>
+                <Value Key="Title"><![CDATA[<$projecttitle>]]></Value>
+                <Value Key="Author"><![CDATA[<$author>]]></Value>
+            </MMDMetaData>
+        </MetaData>
+    </ProjectSettings>
+    <CurrentFileType>print</CurrentFileType>
+    <FormatSettings>
+        <Format ID="bbc-radio-scene-style">
+            <SectionLayouts>
+                <Type ID="43233633-CEB1-45C7-BD9A-760BCC379D5F">6A7D1337-34BD-4F1D-8EC3-0E6DBA2E7DAE</Type>
+                <Type ID="52F383BB-EF86-44DD-8A4A-D9CEEA89662B">TEXT-SECTION</Type>
+                <Type ID="EE5E21D3-F864-4787-8B27-E4EC47BCCA20">240D1A05-6283-4CC2-890B-A89D08063EFF</Type>
+            </SectionLayouts>
+            <FrontAndBackMatter>
+                <DefaultFrontMatter Add="Yes">3D2C0847-1B98-4E0C-8F6B-41DBD718D587</DefaultFrontMatter>
+            </FrontAndBackMatter>
+        </Format>
+        <Format ID="script-screenplay">
+            <SectionLayouts>
+                <Type ID="43233633-CEB1-45C7-BD9A-760BCC379D5F">6A7D1337-34BD-4F1D-8EC3-0E6DBA2E7DAE</Type>
+                <Type ID="52F383BB-EF86-44DD-8A4A-D9CEEA89662B">TEXT-SECTION</Type>
+                <Type ID="EE5E21D3-F864-4787-8B27-E4EC47BCCA20">TEXT-SECTION</Type>
+            </SectionLayouts>
+            <FrontAndBackMatter>
+                <DefaultFrontMatter Add="Yes">47491ADC-1DDF-4D4B-99D5-2EE7F0590222</DefaultFrontMatter>
+            </FrontAndBackMatter>
+        </Format>
+        <Format ID="DEFAULT">
+            <FrontAndBackMatter>
+                <DefaultFrontMatter>3D2C0847-1B98-4E0C-8F6B-41DBD718D587</DefaultFrontMatter>
+            </FrontAndBackMatter>
+        </Format>
+        <Format ID="paperback-novel">
+            <FrontAndBackMatter>
+                <DefaultFrontMatter>3D2C0847-1B98-4E0C-8F6B-41DBD718D587</DefaultFrontMatter>
+            </FrontAndBackMatter>
+        </Format>
+    </FormatSettings>
+    <LastUsedFormats>
+        <Print>bbc-radio-scene-style</Print>
+        <fdx>bbc-radio-scene-style</fdx>
+    </LastUsedFormats>
+</CompileSettings>
