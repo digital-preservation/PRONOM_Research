@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?> 
 
-<ContainerSignatureMapping schemaVersion="1.0" signatureVersion="567816"> 
+<ContainerSignatureMapping schemaVersion="1.0" signatureVersion="567820"> 
     <ContainerSignatures>
 
         <ContainerSignature Id="1000" ContainerType="OLE2">
@@ -384,7 +384,7 @@
 	                        <InternalSignature ID="300">
 	                            <ByteSequence Reference="BOFoffset">
 	                                <SubSequence Position="1" SubSeqMinOffset="0" SubSeqMaxOffset="200">
-	                                    <Sequence>'xflVersion="2.' [37 38 39] '"'</Sequence>
+	                                    <Sequence>'xflVersion="2.' [37 38 39]</Sequence>
 	                                </SubSequence>
 	                            </ByteSequence>
 	                        </InternalSignature>
