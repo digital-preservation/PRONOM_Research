@@ -1,5 +1,5 @@
 # Davinci Resolve formats
-- 
+- http://fileformats.archiveteam.org/wiki/DaVinci_Resolve
 
 ## New Container Signatures
 
