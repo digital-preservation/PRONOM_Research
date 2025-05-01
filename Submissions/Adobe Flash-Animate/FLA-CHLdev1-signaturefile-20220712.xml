@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?> 
 
-<ContainerSignatureMapping schemaVersion="1.0" signatureVersion="567822"> 
+<ContainerSignatureMapping schemaVersion="1.0" signatureVersion="567825"> 
     <ContainerSignatures>
 
         <ContainerSignature Id="1000" ContainerType="OLE2">
@@ -245,7 +245,7 @@
                         <InternalSignatureCollection>                    
 	                        <InternalSignature ID="300">
 	                            <ByteSequence Reference="BOFoffset">
-	                                <SubSequence Position="1" SubSeqMinOffset="0" SubSeqMaxOffset="200">
+	                                <SubSequence Position="1" SubSeqMinOffset="0" SubSeqMaxOffset="300">
 	                                    <Sequence>'xflVersion="2.0"'</Sequence>
 	                                </SubSequence>
 	                            </ByteSequence>
@@ -268,7 +268,7 @@
                         <InternalSignatureCollection>                    
 	                        <InternalSignature ID="300">
 	                            <ByteSequence Reference="BOFoffset">
-	                                <SubSequence Position="1" SubSeqMinOffset="0" SubSeqMaxOffset="200">
+	                                <SubSequence Position="1" SubSeqMinOffset="0" SubSeqMaxOffset="300">
 	                                    <Sequence>'xflVersion="2.1"'</Sequence>
 	                                </SubSequence>
 	                            </ByteSequence>
@@ -291,7 +291,7 @@
                         <InternalSignatureCollection>                    
 	                        <InternalSignature ID="300">
 	                            <ByteSequence Reference="BOFoffset">
-	                                <SubSequence Position="1" SubSeqMinOffset="0" SubSeqMaxOffset="200">
+	                                <SubSequence Position="1" SubSeqMinOffset="0" SubSeqMaxOffset="300">
 	                                    <Sequence>'xflVersion="2.2"'</Sequence>
 	                                </SubSequence>
 	                            </ByteSequence>
@@ -314,7 +314,7 @@
                         <InternalSignatureCollection>                    
 	                        <InternalSignature ID="300">
 	                            <ByteSequence Reference="BOFoffset">
-	                                <SubSequence Position="1" SubSeqMinOffset="0" SubSeqMaxOffset="200">
+	                                <SubSequence Position="1" SubSeqMinOffset="0" SubSeqMaxOffset="300">
 	                                    <Sequence>'xflVersion="2.' [33 34] '"'</Sequence>
 	                                </SubSequence>
 	                            </ByteSequence>
@@ -337,7 +337,7 @@
                         <InternalSignatureCollection>                    
 	                        <InternalSignature ID="300">
 	                            <ByteSequence Reference="BOFoffset">
-	                                <SubSequence Position="1" SubSeqMinOffset="0" SubSeqMaxOffset="200">
+	                                <SubSequence Position="1" SubSeqMinOffset="0" SubSeqMaxOffset="300">
 	                                    <Sequence>'xflVersion="2.5"'</Sequence>
 	                                </SubSequence>
 	                            </ByteSequence>
@@ -360,7 +360,7 @@
                         <InternalSignatureCollection>                    
 	                        <InternalSignature ID="300">
 	                            <ByteSequence Reference="BOFoffset">
-	                                <SubSequence Position="1" SubSeqMinOffset="0" SubSeqMaxOffset="200">
+	                                <SubSequence Position="1" SubSeqMinOffset="0" SubSeqMaxOffset="300">
 	                                    <Sequence>'xflVersion="2.6"'</Sequence>
 	                                </SubSequence>
 	                            </ByteSequence>
@@ -383,7 +383,7 @@
                         <InternalSignatureCollection>                    
 	                        <InternalSignature ID="300">
 	                            <ByteSequence Reference="BOFoffset">
-	                                <SubSequence Position="1" SubSeqMinOffset="0" SubSeqMaxOffset="200">
+	                                <SubSequence Position="1" SubSeqMinOffset="0" SubSeqMaxOffset="300">
 	                                    <Sequence>'xflVersion="2.' [37 38 39]</Sequence>
 	                                </SubSequence>
 	                            </ByteSequence>
@@ -406,7 +406,7 @@
                         <InternalSignatureCollection>                    
 	                        <InternalSignature ID="300">
 	                            <ByteSequence Reference="BOFoffset">
-	                                <SubSequence Position="1" SubSeqMinOffset="0" SubSeqMaxOffset="200">
+	                                <SubSequence Position="1" SubSeqMinOffset="0" SubSeqMaxOffset="300">
 	                                    <Sequence>'xflVersion="2' [32 33]</Sequence>
 	                                </SubSequence>
 	                            </ByteSequence>
