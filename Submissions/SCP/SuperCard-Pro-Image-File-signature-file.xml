@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FFSignatureFile xmlns="http://www.nationalarchives.gov.uk/pronom/SignatureFile" Version="242424" DateCreated="2025-06-27T03:27:12+00:00">
+  <InternalSignatureCollection>
+  
+  <InternalSignature ID="1" Specificity="Specific">
+  <ByteSequence Reference="BOFoffset">
+    <SubSequence MinFragLength="0" Position="1" SubSeqMaxOffset="0" SubSeqMinOffset="0">
+      <Sequence>534350</Sequence>
+      <DefaultShift>4</DefaultShift>
+      <Shift Byte="53">3</Shift>
+      <Shift Byte="43">2</Shift>
+      <Shift Byte="50">1</Shift>
+    </SubSequence>
+  </ByteSequence>
+  <ByteSequence Reference="EOFoffset">
+    <SubSequence MinFragLength="0" Position="1" SubSeqMaxOffset="0" SubSeqMinOffset="0">
+      <Sequence>46504353</Sequence>
+      <DefaultShift>-5</DefaultShift>
+      <Shift Byte="46">-1</Shift>
+      <Shift Byte="50">-2</Shift>
+      <Shift Byte="43">-3</Shift>
+      <Shift Byte="53">-4</Shift>
+    </SubSequence>
+  </ByteSequence>
+</InternalSignature>
+
+</InternalSignatureCollection>
+<FileFormatCollection>
+
+  <FileFormat ID="1" Name="SuperCard Pro Image File" PUID="BYUdev/1">
+    <InternalSignatureID>1</InternalSignatureID>
+    <Extension>scp</Extension>
+  </FileFormat>
+  
+</FileFormatCollection></FFSignatureFile>
