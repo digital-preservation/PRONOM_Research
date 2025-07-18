@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>.lockedInPlace</key>
+	<false/>
+	<key>binderSelection</key>
+	<array>
+		<integer>1</integer>
+	</array>
+	<key>binderSplitFrames</key>
+	<array>
+		<string>{{0, 0}, {130, 550}}</string>
+		<string>{{131, 0}, {615, 550}}</string>
+	</array>
+	<key>binderState</key>
+	<array>
+		<integer>0</integer>
+	</array>
+	<key>closedSuccessfully</key>
+	<true/>
+	<key>editorSplitType</key>
+	<integer>0</integer>
+	<key>inspectorIsCollapsed</key>
+	<true/>
+	<key>inspectorWidth</key>
+	<real>200</real>
+	<key>mainDocumentEditor.binderDocuments</key>
+	<array>
+		<integer>3</integer>
+	</array>
+	<key>mainDocumentEditor.lockedInPlace</key>
+	<false/>
+	<key>mainDocumentEditor.navHistory</key>
+	<dict>
+		<key>CurrentIndex</key>
+		<integer>0</integer>
+		<key>NavigationHistoryArray</key>
+		<array>
+			<dict>
+				<key>BinderDocID</key>
+				<integer>3</integer>
+				<key>Mode</key>
+				<integer>0</integer>
+			</dict>
+		</array>
+	</dict>
+	<key>mainDocumentEditor.textMode</key>
+	<integer>0</integer>
+	<key>supportingDocumentEditor.textMode</key>
+	<integer>0</integer>
+	<key>supportingDocumentViewIsCurrent</key>
+	<false/>
+</dict>
+</plist>

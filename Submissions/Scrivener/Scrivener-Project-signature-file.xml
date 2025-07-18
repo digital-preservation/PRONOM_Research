@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FFSignatureFile xmlns="http://www.nationalarchives.gov.uk/pronom/SignatureFile" Version="112233" DateCreated="2025-03-21T05:12:13+00:00">
+  <InternalSignatureCollection>
+  <InternalSignature ID="1" Specificity="Specific">
+  <ByteSequence Reference="BOFoffset">
+    <SubSequence MinFragLength="19" Position="1" SubSeqMaxOffset="0" SubSeqMinOffset="0">
+      <Sequence>3C5363726976656E657250726F6A656374</Sequence>
+      <DefaultShift>18</DefaultShift>
+      <Shift Byte="3C">17</Shift>
+      <Shift Byte="53">16</Shift>
+      <Shift Byte="63">2</Shift>
+      <Shift Byte="72">6</Shift>
+      <Shift Byte="69">13</Shift>
+      <Shift Byte="76">12</Shift>
+      <Shift Byte="65">3</Shift>
+      <Shift Byte="6E">10</Shift>
+      <Shift Byte="50">7</Shift>
+      <Shift Byte="6F">5</Shift>
+      <Shift Byte="6A">4</Shift>
+      <Shift Byte="74">1</Shift>
+      <LeftFragment MaxOffset="256" MinOffset="20" Position="1">22</LeftFragment>
+      <LeftFragment MaxOffset="256" MinOffset="20" Position="1">27</LeftFragment>
+      <LeftFragment MaxOffset="0" MinOffset="0" Position="2">312E30</LeftFragment>
+      <LeftFragment MaxOffset="0" MinOffset="0" Position="3">22</LeftFragment>
+      <LeftFragment MaxOffset="0" MinOffset="0" Position="3">27</LeftFragment>
+      <LeftFragment MaxOffset="0" MinOffset="0" Position="4">3C3F786D6C2076657273696F6E3D</LeftFragment>
+    </SubSequence>
+  </ByteSequence>
+</InternalSignature>
+</InternalSignatureCollection>
+<FileFormatCollection>
+  <FileFormat ID="1" Name="Scrivener Project" PUID="BYUdev/1" MIMEType="text/xml">
+    <InternalSignatureID>1</InternalSignatureID>
+    <Extension>scrivx</Extension>
+  </FileFormat>
+</FileFormatCollection></FFSignatureFile>

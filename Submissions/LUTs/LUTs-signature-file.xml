@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FFSignatureFile xmlns="http://www.nationalarchives.gov.uk/pronom/SignatureFile" Version="213341" DateCreated="2025-02-28T06:16:21+00:00">
+  <InternalSignatureCollection>
+  
+  <InternalSignature ID="1" Specificity="Specific">
+  <ByteSequence Reference="BOFoffset">
+    <SubSequence MinFragLength="5" Position="1" SubSeqMaxOffset="512" SubSeqMinOffset="0">
+      <Sequence>445F53495A45</Sequence>
+      <DefaultShift>7</DefaultShift>
+      <Shift Byte="44">6</Shift>
+      <Shift Byte="5F">5</Shift>
+      <Shift Byte="53">4</Shift>
+      <Shift Byte="49">3</Shift>
+      <Shift Byte="5A">2</Shift>
+      <Shift Byte="45">1</Shift>
+      <LeftFragment MaxOffset="0" MinOffset="0" Position="1">31</LeftFragment>
+      <LeftFragment MaxOffset="0" MinOffset="0" Position="1">33</LeftFragment>
+      <LeftFragment MaxOffset="0" MinOffset="0" Position="2">4C55545F</LeftFragment>
+    </SubSequence>
+  </ByteSequence>
+</InternalSignature>
+
+  <InternalSignature ID="2" Specificity="Specific">
+  <ByteSequence Reference="BOFoffset">
+    <SubSequence MinFragLength="0" Position="1" SubSeqMaxOffset="0" SubSeqMinOffset="0">
+      <Sequence>4353504C555456313030</Sequence>
+      <DefaultShift>11</DefaultShift>
+      <Shift Byte="43">10</Shift>
+      <Shift Byte="53">9</Shift>
+      <Shift Byte="50">8</Shift>
+      <Shift Byte="4C">7</Shift>
+      <Shift Byte="55">6</Shift>
+      <Shift Byte="54">5</Shift>
+      <Shift Byte="56">4</Shift>
+      <Shift Byte="31">3</Shift>
+      <Shift Byte="30">1</Shift>
+    </SubSequence>
+  </ByteSequence>
+</InternalSignature>
+
+</InternalSignatureCollection>
+<FileFormatCollection>
+
+  <FileFormat ID="1" Name="Cube LUT" PUID="BYUdev/1" Version="1.0">
+    <InternalSignatureID>1</InternalSignatureID>
+    <Extension>cube</Extension>
+  </FileFormat>
+  
+    <FileFormat ID="2" Name="cineSpace LUT" PUID="BYUdev/2">
+    <InternalSignatureID>2</InternalSignatureID>
+    <Extension>csp</Extension>
+  </FileFormat>
+  
+</FileFormatCollection></FFSignatureFile>

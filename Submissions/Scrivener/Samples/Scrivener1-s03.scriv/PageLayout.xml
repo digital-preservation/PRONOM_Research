@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SCRPageLayoutAvoidsWidowsAndOrphansKey</key>
+	<true/>
+	<key>SCRPageLayoutBottomMarginKey</key>
+	<real>72</real>
+	<key>SCRPageLayoutBottomUnitKey</key>
+	<integer>0</integer>
+	<key>SCRPageLayoutLeftMarginKey</key>
+	<real>72</real>
+	<key>SCRPageLayoutLeftUnitKey</key>
+	<integer>0</integer>
+	<key>SCRPageLayoutPrintFootnotesKey</key>
+	<true/>
+	<key>SCRPageLayoutPrintMetaDataKey</key>
+	<false/>
+	<key>SCRPageLayoutPrintNotesKey</key>
+	<false/>
+	<key>SCRPageLayoutPrintPageNumbersKey</key>
+	<true/>
+	<key>SCRPageLayoutPrintSynopsisKey</key>
+	<false/>
+	<key>SCRPageLayoutPrintTextKey</key>
+	<true/>
+	<key>SCRPageLayoutPrintTitleKey</key>
+	<false/>
+	<key>SCRPageLayoutPrintWebBackgroundsKey</key>
+	<false/>
+	<key>SCRPageLayoutRemoveAnnotationsKey</key>
+	<false/>
+	<key>SCRPageLayoutRightMarginKey</key>
+	<real>72</real>
+	<key>SCRPageLayoutRightUnitKey</key>
+	<integer>0</integer>
+	<key>SCRPageLayoutScaleImagesToFitKey</key>
+	<false/>
+	<key>SCRPageLayoutTopMarginKey</key>
+	<real>72</real>
+	<key>SCRPageLayoutTopUnitKey</key>
+	<integer>0</integer>
+	<key>SCRPageLayoutUseExportFormattingKey</key>
+	<false/>
+</dict>
+</plist>
