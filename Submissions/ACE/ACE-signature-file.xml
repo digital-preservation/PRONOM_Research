@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FFSignatureFile xmlns="http://www.nationalarchives.gov.uk/pronom/SignatureFile" Version="11121314" DateCreated="2025-09-11T16:39:47+00:00">
+  <InternalSignatureCollection>
+  
+  <InternalSignature ID="1" Specificity="Specific">
+  <ByteSequence Reference="BOFoffset">
+    <SubSequence MinFragLength="0" Position="1" SubSeqMaxOffset="7" SubSeqMinOffset="7">
+      <Sequence>2A2A4143452A2A</Sequence>
+      <DefaultShift>8</DefaultShift>
+      <Shift Byte="2A">1</Shift>
+      <Shift Byte="41">5</Shift>
+      <Shift Byte="43">4</Shift>
+      <Shift Byte="45">3</Shift>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="1">0A</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="1">0B</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="1">0C</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="1">0D</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="2">0A</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="2">0B</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="2">0C</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="2">0D</RightFragment>
+      <RightFragment MaxOffset="0" MinOffset="0" Position="2">14</RightFragment>
+    </SubSequence>
+  </ByteSequence>
+</InternalSignature>
+
+  <InternalSignature ID="2" Specificity="Specific">
+  <ByteSequence Reference="BOFoffset">
+    <SubSequence MinFragLength="0" Position="1" SubSeqMaxOffset="7" SubSeqMinOffset="7">
+      <Sequence>2A2A4143452A2A1414</Sequence>
+      <DefaultShift>10</DefaultShift>
+      <Shift Byte="2A">3</Shift>
+      <Shift Byte="41">7</Shift>
+      <Shift Byte="43">6</Shift>
+      <Shift Byte="45">5</Shift>
+      <Shift Byte="14">1</Shift>
+    </SubSequence>
+  </ByteSequence>
+</InternalSignature>
+
+</InternalSignatureCollection>
+<FileFormatCollection>
+
+  <FileFormat ID="1" Name="ACE" PUID="BYUdev/1" Version="1" MIMEType="application/x-ace-compressed">
+    <InternalSignatureID>1</InternalSignatureID>
+    <Extension>ace</Extension>
+  </FileFormat>
+  
+    <FileFormat ID="2" Name="ACE" PUID="BYUdev/2" Version="2" MIMEType="application/x-ace-compressed">
+    <InternalSignatureID>2</InternalSignatureID>
+    <Extension>ace</Extension>
+  </FileFormat>
+  
+</FileFormatCollection></FFSignatureFile>
