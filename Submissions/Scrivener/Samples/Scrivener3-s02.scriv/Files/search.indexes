@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SearchIndexes Version="1.0">
+    <Documents>
+        <Document ID="2788594D-9193-43A9-AA2C-BDEC7280DAC0">
+            <Title>Notes</Title>
+        </Document>
+        <Document ID="31AD73E2-2C69-476F-8DED-4BA57802A11F">
+            <Title>BBC Radio Scene Style</Title>
+            <Text>BBC RADIO SCENE STYLE
+About This Template
+When compiled (File &gt; Compile…), this project will generate a script in the BBC’s standard “scene style” format for radio. Please see the “BBC Radio Format: Scene Style” specifications for a description of the expected format, which you can find on the BBC Writers’ Room website here:
+
+http://downloads.bbc.co.uk/writersroom/scripts/bbcradioscene.pdf
+How To Use This Template
+Edit the “Title Page” document in the “Front Matter” folder to ensure it contains the correct information.
+Create a new text document for each scene inside the “Act” folder.
+One way of doing this is to choose Project &gt; New From Template &gt; New Scene (which is also available from the binder’s right-click contextual menu).
+Alternatively, click on the dropdown arrow beside the green “Add” button in the toolbar and select “New Scene” from the choice of document types.
+Finally, you can simply hit “Add” or Ctrl+N while in the “Act” folder to automatically create a “New Scene” document (instead of a blank text document). This is because the “Act” folder is set to use the “New Scene” template as its default document type. This has been set via Documents &gt; Default Template for Subdocuments.
+Any of the above methods will create a scene that already has the scene heading entered for you. (Note that the “&lt;$N&gt;” in the scene headings will be changed to sequential numbers upon compile.)
+The template for the “New Scene” document is contained in the “Templates” folder (documents in that folder can be used as the basis for new documents and appear in the New From Template menu).
+You can create more “Act” folders if you wish, although this is not necessary. (A page break will be inserted between acts on Compile.) To do so, go to Project &gt; New From Template &gt; New Act. Doing this rather than just adding a regular folder will ensure that new documents added to your act folder will be of the “New Scene” type rather than blank text documents. This is because the “New Act” template folder has been set to use the “New Scene” template as its default document type (via Documents &gt; Default Template for Subdocuments).
+Ensure you are in script mode (Format &gt; Scriptwriting &gt; Script Mode) when typing your scenes (when in script mode, the footer bar will show the script elements instead of the word and character count, and the document icon in the binder will be yellowish).
+When typing dialogue, do not enter the colon after the character name. Instead, just hit the tab key—the colon will be inserted for you. Any names you type at the beginning of dialogue lines will automatically be added to the project auto-complete list (Project &gt; Project Settings…), so that you don’t have to keep typing them out.
+Characters, Settings and Notes folders have been set up for you, which you can use however you wish—or you can delete them and create different folders to organise your project. (These are just regular folders that have had custom icons assigned to them using the Documents &gt; Change Icon feature.)
+Compile your manuscript for printing by selecting File &gt; Compile…
+BBC Radio format expects “page turns” at the end of pages where dialogue is split and spills over to the next page—for instance, “(CHARA #1/CONT’D OVER)”. Although a “Page Turns” element is provided, it will be awkward to add page turns during the drafting stage, even using Scrivener’s page view, so it is recommended that you instead add the page turns either in a word processor after compiling your script, or in Scrivener’s page view only when the script is finished and ready for submission.
+Final Note
+Scrivener project templates are flexible and are not intended to restrict you to a particular workflow. You can change, delete or move the files and folders contained in the template to suit how you work.
+
+Like all templates in Scrivener, this project was originally created from the “Blank” template. We’ve simply added a few folders and set everything up in ways that should be useful to novel writers. Everything you can do with this project, you could equally do by creating a “Blank” project and setting it up yourself.
+
+You can create your own templates by setting up a skeletal project with the files, folders and settings you would like to use for new projects and using File &gt; Save As Template…</Text>
+        </Document>
+        <Document ID="3D2C0847-1B98-4E0C-8F6B-41DBD718D587">
+            <Title>Title Page</Title>
+            <Text>
+
+
+
+
+
+
+
+&lt;$PROJECTTITLE&gt;
+by
+&lt;$fullname&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+Tyler Thorsted
+Your address
+
+
+
+Your phone number
+Your e-mail address
+Agent’s address and phone number
+
+
+</Text>
+            <Notes>The &lt;$PROJECTTITLE&gt; and &lt;$fullname&gt; tags get replaced with metadata information you can set when compiling. Other information is taken from the Author Information settings in File &gt; Options… when the project is created.
+
+Feel free to edit the text of the title page as required.</Notes>
+        </Document>
+        <Document ID="5FD6A08D-8CAD-4627-92DA-352785D020B9">
+            <Title>Templates</Title>
+        </Document>
+        <Document ID="7121FBD9-F03D-426D-8BCF-F2691BAE6814">
+            <Title>Characters</Title>
+        </Document>
+        <Document ID="96D8D452-3E2A-4450-8E4E-62AB052E8A5E">
+            <Title>New Act</Title>
+        </Document>
+        <Document ID="A76B7DDC-F1ED-40C2-ABBA-321FBC7B3BFA">
+            <Title>New Scene</Title>
+            <Text>SCENE &lt;$N&gt;.
+</Text>
+        </Document>
+        <Document ID="B0CDA850-285D-40FE-8184-CF3F2EBAA331">
+            <Title>Scene</Title>
+            <Text>SCENE &lt;$N&gt;.
+</Text>
+        </Document>
+        <Document ID="B974585C-7BB2-49F3-849D-04C5E10725CB">
+            <Title>Settings</Title>
+        </Document>
+        <Document ID="C39FB4EC-0164-43CA-AD49-083A9B3F6904">
+            <Title>Front Matter</Title>
+        </Document>
+        <Document ID="C6B212E7-7D08-4862-8F19-B0F4C7167136">
+            <Title>Act</Title>
+        </Document>
+    </Documents>
+</SearchIndexes>

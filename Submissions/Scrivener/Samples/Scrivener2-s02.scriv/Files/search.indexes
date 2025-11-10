@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<SearchIndexes Version="1.0">
+    <Documents>
+        <Document ID="65">
+            <Title>Regular</Title>
+            <Synopsis>Basic everyday and bread-machine breads</Synopsis>
+        </Document>
+        <Document ID="119">
+            <Title>Sample Recipe</Title>
+            <Synopsis>A ridiculously boring recipe to saute some chicken.</Synopsis>
+            <Text>Ingredients:
+chicken breasts or tenders, boneless and skinless really, no reason you couldn’t keep on the skin if you prefer it that way
+herbs
+olive oil
+
+Sprinkle herbs on chicken. Heat skillet over med-high and add a drizzle of olive oil (about 1-2 Tbs). Sauté chicken until cooked through, about 3-4 minutes per side.
+Serve chicken drizzled with sauce.</Text>
+            <Notes>Yes, I realize this is not a very exciting recipe. Ergo, two stars. You can do better, I feel sure of it.</Notes>
+        </Document>
+        <Document ID="63">
+            <Title>Artisan</Title>
+            <Synopsis>Whole grain breads, sourdough, Italian, French, and other artisan breads</Synopsis>
+        </Document>
+        <Document ID="118">
+            <Title>Measurements &amp; Equivalents</Title>
+            <Text>a dash = 8 drops (liquid) ≈ ⅛ teaspoon (slightly less)
+
+1 teaspoon = 60 drops
+3 teaspoons = 1 tablespoon = ½ fluid ounce
+
+½ tablespoon = 1½ teaspoons
+2 tablespoons (liquid) = 1 fluid ounce = ⅛ cup
+3 tablespoons = 1 ½ fluid ounces = 1 jigger
+4 tablespoons = ¼ cup
+
+⅛ cup = 2 tablespoons
+⅙  cup = 2 tablespoons + 2 teaspoons
+⅓  cup = 5 tablespoons + 1 teaspoon
+1 cup = ½ pint = 8 fluid ounces
+2 cups = 1 pint = 16 fluid ounces
+4 cups = 1 quart = 2 pints = 32 fluid ounces
+4 quarts = 1 gallon
+
+1 peck = 8 quarts = 2 gallons
+1 bushel = 4 pecks</Text>
+        </Document>
+        <Document ID="66">
+            <Title>Meat Cook Times</Title>
+            <Synopsis>Time and temperature to cook a given cut of meat; recommended minimum internal temperature</Synopsis>
+        </Document>
+        <Document ID="22">
+            <Title>Vegetables</Title>
+        </Document>
+        <Document ID="95">
+            <Title>Grain Cook Times</Title>
+            <Synopsis>Time and method for cooking various types of grains (for use in breads, soups, etc.)</Synopsis>
+        </Document>
+        <Document ID="64">
+            <Title>Enriched</Title>
+            <Synopsis>"Dessert" or "breakfast" breads, enriched with eggs and butter</Synopsis>
+        </Document>
+        <Document ID="120">
+            <Title>Fake Sauce</Title>
+            <Synopsis>A made up recipe: no promises that this will work. Could be good, though.</Synopsis>
+            <Text>Ingredients:
+3 Tbs. brandy
+¼ C whipping cream
+1 Tbs. green pepper corns
+
+After cooking meat and removing from pan, remove pan from heat. Pour brandy into pan, light with match. Enjoy flames and deglaze pan. Stir in cream and pepper corns. I’m totally making this up, but it sounds good. It’s got brandy and whipping cream, for goodness’ sake. And fire. What could go wrong?
+Serve over meat.</Text>
+            <Comments>Carefully, so as not to burn yourself or set off the fire alarm.</Comments>
+        </Document>
+        <Document ID="23">
+            <Title>Grains</Title>
+        </Document>
+        <Document ID="83">
+            <Title>How to Use</Title>
+            <Synopsis>A guide to the various parts of this template.</Synopsis>
+            <Text>RECIPE COLLECTION
+Contributed by Jennifer Hughes
+
+The Recipe Collection template is designed to help you organize your personal recipe collection by providing a binder structure, adjusted meta-data, and a simple compile format. Check out the two sample recipes to see the pieces in action and don’t be afraid to tweak the template to fit your needs.
+
+This template works as follows.
+
+The Binder
+The folder hierarchy in the Binder categorizes recipes in a fairly cookbook-traditional method under the “Recipes” folder. Most folder titles are self-explanatory, so they have no synopsis card. Feel free to add or delete categories as makes sense to you and the sort of recipes you collect—for instance, you may wish to divide “Sauces &amp; Salsas” into “sweet” and “savory” sections or add more specific categories to the “Desserts” group. If you don’t bake bread, just delete that whole folder and reduce your Binder clutter.
+
+While the top section of the Binder catalogues the recipes, the bottom section is meant to house “Resources” that provide useful references when cooking and baking, such as the included Measurements &amp; Equivalents document.
+
+Rating
+Rate your recipes with one to five stars or mark them as still “untried.” For non-recipe documents, leave blank. (New documents are blank by default.)
+
+Time
+Adapted from the cookbook template made by Anael of ScriptApart, the color-coded “Time” labeling system allows you to set and see at a glance the estimated total prep and cook time for any recipe, starting with quick cool green up through the longer warmer reds. (New documents are blank by default.)
+
+Keywords
+Keywords help you search for recipes by providing additional information not included in the recipe or its synopsis and make it easy to view a group of related recipes. Cooking method, some diet and allergen labels, dish ethnicity, seasons, and a few holidays have been included; adjust the colors and delete or add to these as you find useful.
+
+Custom Meta-data
+Record basic author and publication information in the “source” field and use “recommended by” to note who (if anyone) suggested the recipe to you. (In some cases the source and recommended by might be the same, for instance an old family recipe. Use whichever makes sense or both—it’s just a tool to help you find your recipes quickly and easily.) Though you may want to include the issue date in the “source” category (e.g. MagazineTitle, July 2010), “seasonal” and “holiday” keywords can also help you find recipes that you remember vaguely as “it was in the Christmas issue!” To keep the “source” column easy to skim, you can include full bibliography information in the separate “publication info” field or link to such (externally or internally) in the document reference pane.
+
+Use the fields for calories, fat, and fiber per serving if you (or your recipes) track that information and you’d like to have an easy way to see the numbers when looking at a group of recipes in the Outliner. (Note that if you want to sort a column of numbers, you will need to include leading zeros.) You may prefer to keep this information only in the body of the text or in the synopsis, or you may find you have other needs to replace these.
+
+Synopsis
+Use the synopsis to write a brief description of the dish and any other information you want immediately visible in Corkboard mode, e.g. the yield or specific prep and cook time. Colored time labels, rating information, and meta-data including keywords can provide additional information without taking up space in the synopsis (though custom meta-data like “source” and “recommended by” will not be visible in Corkboard mode except via the Inspector). If you find an image is worth fifty or so words, switch this to display a photo of your dish.
+
+Document Notes
+Include a photo of the dish, if you have one available and choose not to place it in the synopsis field, and make comments on the preparation, the taste of the dish, serving suggestions, and other “margin notes” you might write in a cookbook.
+
+Be aware that notes will not sync or export in a single file with the body document, so if, for example, you use the Sync feature to get your recipes into the kitchen on your iPad, you should use inline annotations to make comments that you will want available.
+
+Collections
+Use Collections for quick access to groups of recipes you frequent: collate all the vegetarian entrées, the low-carb dishes, your kids’ favorite meals, or the “five ingredients or less” recipes that you can pull together when your pantry is empty.
+
+Search
+Remember use the search bar! Pull up recipes by ingredient or search for keywords, sources, and any notes you’ve made to yourself.
+
+Printing, Syncing, &amp; Exporting
+With the exception of Compile, in most cases when exporting or syncing your documents, the synopsis, notes, and meta-data such as “source” will not be included (or they will not be combined in a single file), which means if you intend to do this you should check that you’ve included all necessary information in your actual recipe document as well.
+
+The template’s default compile settings keep individual documents’ tabs and indents (to preserve ingredient lists) and include all meta-data, synopsis, and notes for Recipe documents while stripping comments and inline annotations for a cleaner appearance. As with everything, modify this to your needs.</Text>
+        </Document>
+    </Documents>
+</SearchIndexes>
