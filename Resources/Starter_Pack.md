@@ -182,7 +182,7 @@ You can use your search engine to look for samples. Depending on the search engi
 
 ### Just Solve the File Format Problem
 
-Another method to find sample files is using the [Just Solve the File Format Problem](https://fileformats.archiveteam.org/wiki/Main_Page) wiki entry. Your format may have already been researched by someone else and more information about it can be found on this site. Depending on the format you are researching you can find webpages which might have sample files for your format, as shown below:
+Another method to find sample files is using the [Just Solve the File Format Problem](http://fileformats.archiveteam.org/wiki/Main_Page) wiki entry. Your format may have already been researched by someone else and more information about it can be found on this site. Depending on the format you are researching you can find webpages which might have sample files for your format, as shown below:
 ![]("https://github.com/digital-preservation/PRONOM_Research/blob/main/Resources/media/image2.png?raw=true" "A title")
 
 ### Be Aware
@@ -203,7 +203,7 @@ There are currently three types of file format identification. Extension-only, B
 
 In DROID the method of identification appears under the Method column. Here the ‘Signature’ category applies to binary signatures.
 
-###Extension-only
+### Extension-only
 
 This type of identification is the least secure method of identifying a file format. If possible we try to apply a binary or container signature to the file format as file format extensions can be easily changed. It is by extension that your windows PC identifies file formats.
 
@@ -211,11 +211,13 @@ This type of identification is the least secure method of identifying a file for
 
 For instance copying and pasting this Text Document and then changing the extension (which is done by renaming the file) results in windows identifying the Text Document as an ASDFGHJKL File.
 
-###Binary Signatures
+### Binary Signatures
 
 All files and systems on a computer are made up of binary (the 01100010 01101001 01101110 01100001 01110010 01111001 often seen in images associated with computers), which in turn can be translated into another ‘computer language’ called hex (or 68 65 78). To find a binary signature we use a hex editor to look for repeated patterns across files of the same file type. We then input these patterns into PRONOM. For example an internal signature on the website is displayed as below:
 
-<img src="https://github.com/digital-preservation/PRONOM_Research/blob/main/Resources/media/image5.png?raw=true" style="width:6.05556in;height:2.56742in" />PRONOM has its own syntax, similar to regex which it uses to describe the specific pattern (more on this later). Some of the patterns are purposefully left there by developers for identification purposes and are called Magic Bytes. Think of it as a trademark or a stamp that a developer left behind when creating a file format.
+<img src="https://github.com/digital-preservation/PRONOM_Research/blob/main/Resources/media/image5.png?raw=true" style="width:6.05556in;height:2.56742in" />
+
+PRONOM has its own syntax, similar to regex which it uses to describe the specific pattern (more on this later). Some of the patterns are purposefully left there by developers for identification purposes and are called Magic Bytes. Think of it as a trademark or a stamp that a developer left behind when creating a file format.
 
 <img src="https://github.com/digital-preservation/PRONOM_Research/blob/main/Resources/media/image6.png?raw=true" style="width:7.64583in;height:4.91042in" />
 
@@ -229,13 +231,15 @@ When your file format identification software recognises a file type it is becau
 
 <img src="https://github.com/digital-preservation/PRONOM_Research/blob/main/Resources/media/image7.png?raw=true" style="width:7.65278in;height:5.0566in" alt="Image 2- How we read files" />
 
-###Container Signatures
+### Container Signatures
 
 These are file formats that are compressed or zipped. Though you won’t often see this immediately just by looking at the file. For example, most Microsoft file formats are actually zipped folders. As the file is zipped it contains other files and possibly folders inside it. For instance a Microsoft Word file in windows normally looks like this:
 
 <img src="https://github.com/digital-preservation/PRONOM_Research/blob/main/Resources/media/image8.png?raw=true" style="width:7.64583in;height:0.32639in" />
 
-<img src="https://github.com/digital-preservation/PRONOM_Research/blob/main/Resources/media/image9.png?raw=true" style="width:4.70208in;height:1.22222in" />But when you unzip or extract the file it looks like this:
+<img src="https://github.com/digital-preservation/PRONOM_Research/blob/main/Resources/media/image9.png?raw=true" style="width:4.70208in;height:1.22222in" />
+
+But when you unzip or extract the file it looks like this:
 
 Think of container files as stacking boxes or a matryoshka doll.
 
