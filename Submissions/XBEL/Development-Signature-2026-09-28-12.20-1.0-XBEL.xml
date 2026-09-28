@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FFSignatureFile xmlns="http://www.nationalarchives.gov.uk/pronom/SignatureFile" Version="1790590983" DateCreated="2026-09-28T10:23:03+00:00">
+  <InternalSignatureCollection>
+  <InternalSignature ID="1" Specificity="Specific">
+  <ByteSequence>
+    <SubSequence MinFragLength="0" Position="1" SubSeqMinOffset="0">
+      <Sequence>2B 2F 2F 49 44 4E 20 70 79 74 68 6F 6E 2E 6F 72 67 2F 2F 44 54 44 20 58 4D 4C 20 42 6F 6F 6B 6D 61 72 6B 20 45 78 63 68 61 6E 67 65 20 4C 61 6E 67 75 61 67 65 20 31 2E 30 2F 2F 45 4E 2F 2F 58 4D 4C</Sequence>
+      <DefaultShift>99.5</DefaultShift>
+      <Shift Byte="2B">98.5</Shift>
+      <Shift Byte=" 2">7.5</Shift>
+      <Shift Byte="F ">6.5</Shift>
+      <Shift Byte="2F">5.5</Shift>
+      <Shift Byte=" 4">1.5</Shift>
+      <Shift Byte="9 ">93.5</Shift>
+      <Shift Byte="44">92.5</Shift>
+      <Shift Byte="E ">15.5</Shift>
+      <Shift Byte="20">32.5</Shift>
+      <Shift Byte=" 7">25.5</Shift>
+      <Shift Byte="0 ">18.5</Shift>
+      <Shift Byte="79">86.5</Shift>
+      <Shift Byte="4 ">66.5</Shift>
+      <Shift Byte="68">83.5</Shift>
+      <Shift Byte=" 6">22.5</Shift>
+      <Shift Byte="6E">80.5</Shift>
+      <Shift Byte="6F">56.5</Shift>
+      <Shift Byte="2 ">48.5</Shift>
+      <Shift Byte="67">26.5</Shift>
+      <Shift Byte="54">68.5</Shift>
+      <Shift Byte=" 5">4.5</Shift>
+      <Shift Byte="8 ">3.5</Shift>
+      <Shift Byte="4D">2.5</Shift>
+      <Shift Byte="C ">30.5</Shift>
+      <Shift Byte="6B">47.5</Shift>
+      <Shift Byte="D ">51.5</Shift>
+      <Shift Byte="61">23.5</Shift>
+      <Shift Byte="45">44.5</Shift>
+      <Shift Byte="63">41.5</Shift>
+      <Shift Byte="5 ">9.5</Shift>
+      <Shift Byte="7 ">21.5</Shift>
+      <Shift Byte="65">20.5</Shift>
+      <Shift Byte="31">17.5</Shift>
+      <Shift Byte="30">14.5</Shift>
+      <Shift Byte="4E">8.5</Shift>
+      <Shift Byte="C">0.5</Shift>
+    </SubSequence>
+  </ByteSequence>
+</InternalSignature>
+</InternalSignatureCollection>
+<FileFormatCollection>
+  <FileFormat ID="1" Name="Development Signature 2026-09-28 12.20" PUID="dev/1" Version="1.0" MIMEType="">
+    <InternalSignatureID>1</InternalSignatureID>
+    <Extension>xbel</Extension>
+  </FileFormat>
+</FileFormatCollection></FFSignatureFile>
