@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xbel PUBLIC "+//IDN python.org//DTD XML Bookmark Exchange Language 1.0//EN//XML" "http://pyxml.sourceforge.net/topics/dtds/xbel.dtd">
+<xbel version="1.0">
+  <title>Lesezeichen!</title>
+  <desc>Lernen von XBEL am Beispiel von zwei Lesezeichen und einer Verknüpfung</desc>
+  <folder id="f0" added="2007-11-10">
+    <title>Wiki</title>
+    <desc>Webseiten von Autoren-Gemeinschaften</desc>
+    <bookmark href="http://wikimediafoundation.org/" id="b0" added="2007-11-11" modified="2007-11-14" visited="2007-11-14">
+      <title>Wikimedia Foundation</title>
+    </bookmark>
+    <bookmark href="http://de.wikipedia.org/" id="b1" added="2007-11-11" modified="2007-11-14" visited="2007-12-27">
+      <title>Wikipedia</title>
+    </bookmark>
+  </folder>
+  <separator />
+  <alias ref="b1" />
+</xbel>
