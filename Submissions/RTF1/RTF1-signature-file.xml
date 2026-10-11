@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<FFSignatureFile xmlns="http://www.nationalarchives.gov.uk/pronom/SignatureFile" DateCreated="2026-03-10T15:04:20" Version="122">
+	<InternalSignatureCollection>
+		<InternalSignature ID="26" Specificity="Specific">
+			<ByteSequence Reference="BOFoffset">
+				<SubSequence Position="1" SubSeqMaxOffset="0" SubSeqMinOffset="0">
+					<Sequence>5C616E7369637067</Sequence>
+					<LeftFragment MaxOffset="0" MinOffset="0" Position="1">616E7369</LeftFragment>
+					<LeftFragment MaxOffset="0" MinOffset="0" Position="1">6D6163</LeftFragment>
+					<LeftFragment MaxOffset="0" MinOffset="0" Position="1">7063</LeftFragment>
+					<LeftFragment MaxOffset="0" MinOffset="0" Position="1">706361</LeftFragment>
+					<LeftFragment MaxOffset="0" MinOffset="0" Position="2">5C</LeftFragment>
+					<LeftFragment MaxOffset="0" MinOffset="0" Position="3">66</LeftFragment>
+					<LeftFragment MaxOffset="0" MinOffset="0" Position="3">6631</LeftFragment>
+					<LeftFragment MaxOffset="0" MinOffset="0" Position="4">7B5C7274</LeftFragment>
+				</SubSequence>
+				<SubSequence Position="2" SubSeqMinOffset="3">
+					<Sequence>5C737473686664626368</Sequence>
+					<RightFragment MaxOffset="4" MinOffset="1" Position="1">5C73747368666C6F6368</RightFragment>
+					<RightFragment MaxOffset="4" MinOffset="1" Position="2">5C737473686668696368</RightFragment>
+					<RightFragment MaxOffset="4" MinOffset="1" Position="3">5C73747368666269</RightFragment>
+				</SubSequence>
+			</ByteSequence>
+		</InternalSignature>
+		<InternalSignature ID="30" Specificity="Specific">
+			<ByteSequence Reference="BOFoffset">
+				<SubSequence Position="1" SubSeqMaxOffset="0" SubSeqMinOffset="0">
+					<Sequence>7B5C7274</Sequence>
+					<RightFragment MaxOffset="0" MinOffset="0" Position="1">66</RightFragment>
+					<RightFragment MaxOffset="0" MinOffset="0" Position="1">6631</RightFragment>
+					<RightFragment MaxOffset="0" MinOffset="0" Position="2">5C</RightFragment>
+					<RightFragment MaxOffset="0" MinOffset="0" Position="3">616E7369</RightFragment>
+					<RightFragment MaxOffset="0" MinOffset="0" Position="3">6D6163</RightFragment>
+					<RightFragment MaxOffset="0" MinOffset="0" Position="3">7063</RightFragment>
+					<RightFragment MaxOffset="0" MinOffset="0" Position="3">706361</RightFragment>
+				</SubSequence>
+			</ByteSequence>
+		</InternalSignature>
+		<InternalSignature ID="158" Specificity="Specific">
+			<ByteSequence Reference="BOFoffset">
+				<SubSequence Position="1" SubSeqMaxOffset="0" SubSeqMinOffset="0">
+					<Sequence>5C616E7369637067</Sequence>
+					<LeftFragment MaxOffset="0" MinOffset="0" Position="1">616E7369</LeftFragment>
+					<LeftFragment MaxOffset="0" MinOffset="0" Position="1">6D6163</LeftFragment>
+					<LeftFragment MaxOffset="0" MinOffset="0" Position="1">7063</LeftFragment>
+					<LeftFragment MaxOffset="0" MinOffset="0" Position="1">706361</LeftFragment>
+					<LeftFragment MaxOffset="0" MinOffset="0" Position="2">5C</LeftFragment>
+					<LeftFragment MaxOffset="1" MinOffset="0" Position="3">66</LeftFragment>
+					<LeftFragment MaxOffset="1" MinOffset="0" Position="3">6631</LeftFragment>
+					<LeftFragment MaxOffset="0" MinOffset="0" Position="4">7B5C7274</LeftFragment>
+				</SubSequence>
+			</ByteSequence>
+		</InternalSignature>
+		<InternalSignature ID="522" Specificity="Specific">
+			<ByteSequence Reference="BOFoffset">
+				<SubSequence Position="1" SubSeqMaxOffset="0" SubSeqMinOffset="0">
+					<Sequence>5C616E7369637067</Sequence>
+					<LeftFragment MaxOffset="0" MinOffset="0" Position="1">616E7369</LeftFragment>
+					<LeftFragment MaxOffset="0" MinOffset="0" Position="1">6D6163</LeftFragment>
+					<LeftFragment MaxOffset="0" MinOffset="0" Position="1">7063</LeftFragment>
+					<LeftFragment MaxOffset="0" MinOffset="0" Position="1">706361</LeftFragment>
+					<LeftFragment MaxOffset="15" MinOffset="0" Position="2">66</LeftFragment>
+					<LeftFragment MaxOffset="15" MinOffset="0" Position="2">6631</LeftFragment>
+					<LeftFragment MaxOffset="0" MinOffset="0" Position="3">7B5C7274</LeftFragment>
+				</SubSequence>
+				<SubSequence Position="2" SubSeqMinOffset="3">
+					<Sequence>5C737473686664626368</Sequence>
+					<RightFragment MaxOffset="5" MinOffset="1" Position="1">5C73747368666C6F6368</RightFragment>
+					<RightFragment MaxOffset="5" MinOffset="1" Position="2">5C737473686668696368</RightFragment>
+					<RightFragment MaxOffset="5" MinOffset="1" Position="3">5C73747368666269</RightFragment>
+				</SubSequence>
+				<SubSequence Position="3" SubSeqMinOffset="0">
+					<Sequence>5C</Sequence>
+					<RightFragment MaxOffset="0" MinOffset="0" Position="1">2A5C636F6C6F72736368656D656D617070696E67</RightFragment>
+					<RightFragment MaxOffset="0" MinOffset="0" Position="1">6166656C6576</RightFragment>
+					<RightFragment MaxOffset="0" MinOffset="0" Position="1">2A5C6461746173746F7265</RightFragment>
+					<RightFragment MaxOffset="0" MinOffset="0" Position="1">2A5C646566636870</RightFragment>
+				</SubSequence>
+			</ByteSequence>
+		</InternalSignature>
+		<InternalSignature ID="523" Specificity="Specific">
+			<ByteSequence Reference="BOFoffset">
+				<SubSequence Position="1" SubSeqMaxOffset="0" SubSeqMinOffset="0">
+					<Sequence>5C616E7369637067</Sequence>
+					<LeftFragment MaxOffset="0" MinOffset="0" Position="1">616E7369</LeftFragment>
+					<LeftFragment MaxOffset="0" MinOffset="0" Position="1">6D6163</LeftFragment>
+					<LeftFragment MaxOffset="0" MinOffset="0" Position="1">7063</LeftFragment>
+					<LeftFragment MaxOffset="0" MinOffset="0" Position="1">706361</LeftFragment>
+					<LeftFragment MaxOffset="15" MinOffset="0" Position="2">66</LeftFragment>
+					<LeftFragment MaxOffset="15" MinOffset="0" Position="2">6631</LeftFragment>
+					<LeftFragment MaxOffset="0" MinOffset="0" Position="3">7B5C7274</LeftFragment>
+				</SubSequence>
+				<SubSequence Position="2" SubSeqMinOffset="3">
+					<Sequence>5C737473686664626368</Sequence>
+					<RightFragment MaxOffset="4" MinOffset="1" Position="1">5C73747368666C6F6368</RightFragment>
+					<RightFragment MaxOffset="4" MinOffset="1" Position="2">5C737473686668696368</RightFragment>
+					<RightFragment MaxOffset="4" MinOffset="1" Position="3">5C73747368666269</RightFragment>
+				</SubSequence>
+				<SubSequence Position="3" SubSeqMinOffset="0">
+					<Sequence>5C6C73647374696D6178</Sequence>
+				</SubSequence>
+			</ByteSequence>
+		</InternalSignature>
+		<InternalSignature ID="1333" Specificity="Specific">
+			<ByteSequence Reference="BOFoffset">
+				<SubSequence Position="1" SubSeqMaxOffset="0" SubSeqMinOffset="0">
+					<Sequence>7B5C727466305C</Sequence>
+					<RightFragment MaxOffset="0" MinOffset="0" Position="1">616E7369</RightFragment>
+					<RightFragment MaxOffset="0" MinOffset="0" Position="1">6D6163</RightFragment>
+					<RightFragment MaxOffset="0" MinOffset="0" Position="1">7063</RightFragment>
+					<RightFragment MaxOffset="0" MinOffset="0" Position="1">706361</RightFragment>
+				</SubSequence>
+			</ByteSequence>
+		</InternalSignature>
+		<InternalSignature ID="3455" Specificity="Specific">
+			<ByteSequence Reference="BOFoffset">
+				<SubSequence Position="1" SubSeqMaxOffset="0" SubSeqMinOffset="0">
+					<Sequence>7B5C72746631</Sequence>
+				</SubSequence>
+			</ByteSequence>
+		</InternalSignature>
+	</InternalSignatureCollection>
+	<FileFormatCollection>
+		<FileFormat ID="626" PUID="fmt/45" Name="Rich Text Format" Version="1.0-1.4" MIMEType="application/rtf">
+			<HasPriorityOverFileFormatID>3969</HasPriorityOverFileFormatID>
+			<Extension>rtf</Extension>
+			<InternalSignatureID>30</InternalSignatureID>
+		</FileFormat>
+		<FileFormat ID="627" PUID="fmt/46" Name="Rich Text Format" Version="1.1"/>
+		<FileFormat ID="628" PUID="fmt/47" Name="Rich Text Format" Version="1.2"/>
+		<FileFormat ID="629" PUID="fmt/48" Name="Rich Text Format" Version="1.3"/>
+		<FileFormat ID="630" PUID="fmt/49" Name="Rich Text Format" Version="1.4"/>
+		<FileFormat ID="631" PUID="fmt/50" Name="Rich Text Format" Version="1.5-1.6" MIMEType="application/rtf">
+			<HasPriorityOverFileFormatID>626</HasPriorityOverFileFormatID>
+			<HasPriorityOverFileFormatID>627</HasPriorityOverFileFormatID>
+			<HasPriorityOverFileFormatID>628</HasPriorityOverFileFormatID>
+			<HasPriorityOverFileFormatID>629</HasPriorityOverFileFormatID>
+			<HasPriorityOverFileFormatID>630</HasPriorityOverFileFormatID>
+			<HasPriorityOverFileFormatID>3969</HasPriorityOverFileFormatID>
+			<Extension>rtf</Extension>
+			<InternalSignatureID>158</InternalSignatureID>
+		</FileFormat>
+		<FileFormat ID="632" PUID="fmt/51" Name="Rich Text Format" Version="1.6"/>
+		<FileFormat ID="633" PUID="fmt/52" Name="Rich Text Format" Version="1.7" MIMEType="application/rtf">
+			<HasPriorityOverFileFormatID>626</HasPriorityOverFileFormatID>
+			<HasPriorityOverFileFormatID>627</HasPriorityOverFileFormatID>
+			<HasPriorityOverFileFormatID>628</HasPriorityOverFileFormatID>
+			<HasPriorityOverFileFormatID>629</HasPriorityOverFileFormatID>
+			<HasPriorityOverFileFormatID>630</HasPriorityOverFileFormatID>
+			<HasPriorityOverFileFormatID>631</HasPriorityOverFileFormatID>
+			<HasPriorityOverFileFormatID>632</HasPriorityOverFileFormatID>
+			<HasPriorityOverFileFormatID>3969</HasPriorityOverFileFormatID>
+			<Extension>rtf</Extension>
+			<InternalSignatureID>26</InternalSignatureID>
+		</FileFormat>
+		<FileFormat ID="753" PUID="fmt/53" Name="Rich Text Format" Version="1.8" MIMEType="application/rtf">
+			<HasPriorityOverFileFormatID>626</HasPriorityOverFileFormatID>
+			<HasPriorityOverFileFormatID>627</HasPriorityOverFileFormatID>
+			<HasPriorityOverFileFormatID>628</HasPriorityOverFileFormatID>
+			<HasPriorityOverFileFormatID>629</HasPriorityOverFileFormatID>
+			<HasPriorityOverFileFormatID>630</HasPriorityOverFileFormatID>
+			<HasPriorityOverFileFormatID>631</HasPriorityOverFileFormatID>
+			<HasPriorityOverFileFormatID>632</HasPriorityOverFileFormatID>
+			<HasPriorityOverFileFormatID>633</HasPriorityOverFileFormatID>
+			<HasPriorityOverFileFormatID>3969</HasPriorityOverFileFormatID>
+			<Extension>rtf</Extension>
+			<InternalSignatureID>523</InternalSignatureID>
+		</FileFormat>
+		<FileFormat ID="1101" PUID="fmt/355" Name="Rich Text Format" Version="1.9" MIMEType="application/rtf">
+			<HasPriorityOverFileFormatID>626</HasPriorityOverFileFormatID>
+			<HasPriorityOverFileFormatID>627</HasPriorityOverFileFormatID>
+			<HasPriorityOverFileFormatID>628</HasPriorityOverFileFormatID>
+			<HasPriorityOverFileFormatID>629</HasPriorityOverFileFormatID>
+			<HasPriorityOverFileFormatID>630</HasPriorityOverFileFormatID>
+			<HasPriorityOverFileFormatID>631</HasPriorityOverFileFormatID>
+			<HasPriorityOverFileFormatID>632</HasPriorityOverFileFormatID>
+			<HasPriorityOverFileFormatID>633</HasPriorityOverFileFormatID>
+			<HasPriorityOverFileFormatID>753</HasPriorityOverFileFormatID>
+			<HasPriorityOverFileFormatID>3969</HasPriorityOverFileFormatID>
+			<Extension>rtf</Extension>
+			<InternalSignatureID>522</InternalSignatureID>
+		</FileFormat>
+		<FileFormat ID="1774" PUID="fmt/969" Name="Rich Text Format" Version="0" MIMEType="application/rtf">
+			<Extension>rtf</Extension>
+			<InternalSignatureID>1333</InternalSignatureID>
+		</FileFormat>
+		<FileFormat ID="3969" PUID="fmt/2092" Name="Rich Text Format" Version="1" MIMEType="application/rtf">
+			<HasPriorityOverFileFormatID>627</HasPriorityOverFileFormatID>
+			<HasPriorityOverFileFormatID>628</HasPriorityOverFileFormatID>
+			<HasPriorityOverFileFormatID>629</HasPriorityOverFileFormatID>
+			<HasPriorityOverFileFormatID>630</HasPriorityOverFileFormatID>
+			<HasPriorityOverFileFormatID>632</HasPriorityOverFileFormatID>
+			<Extension>rtf</Extension>
+			<InternalSignatureID>3455</InternalSignatureID>
+		</FileFormat>
+	</FileFormatCollection>
+</FFSignatureFile>
