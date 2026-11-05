@@ -44,8 +44,8 @@ In Version 1.1 the difference to other zipped RO-Crate packages (which may also 
 
 Version 1.2 additionally introduces an ID:
 
-- The ID is `https://purl.archive.org/purl/elnconsortium/eln-spec/1.2+20260923` which allows a strong signature.
-- TBC if the signature should omit the last part `+20260923` as this may change often, or only changes together with the previous part.
+- The ID is `https://purl.org/elnconsortium/eln-spec/1.2+20260923` which allows a strong signature.
+- TBC if the signature should omit the last part `+20260923` as this may change often, or only changes together with the previous part - see open questions below.
 
 The file format is supported by a variety of applications, see the ELN specification above.
 
@@ -98,7 +98,7 @@ Version 1.1:
        <InternalSignature ID="300">
         <ByteSequence Reference="Variable">
          <SubSequence Position="1">
-          <Sequence>'https://purl.org/elnconsortium/eln-spec/1.2+20260923'</Sequence>
+          <Sequence>'https://purl.org/elnconsortium/eln-spec/1.2'</Sequence>
          </SubSequence>
         </ByteSequence>
        </InternalSignature>
