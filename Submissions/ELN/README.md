@@ -12,7 +12,7 @@ Electronic Laboratory Notebook (ELN)
 
 **PUID**
 
-new format
+new formats
 
 **Extensions**
 
@@ -24,7 +24,7 @@ https://www.iana.org/assignments/media-types/application/vnd.eln+zip
 
 **Description**
 
-A zip container file for the exchange of experimental results and data.
+A zip container file for the exchange and storage of experimental results and data.
 
 **Format type**
 
@@ -98,7 +98,7 @@ Version 1.1:
        <InternalSignature ID="300">
         <ByteSequence Reference="Variable">
          <SubSequence Position="1">
-          <Sequence>'https://purl.archive.org/purl/elnconsortium/eln-spec/1.2'</Sequence>
+          <Sequence>'https://purl.org/elnconsortium/eln-spec/1.2+20260923'</Sequence>
          </SubSequence>
         </ByteSequence>
        </InternalSignature>
@@ -122,6 +122,8 @@ Landesinitiative LZV.nrw / Hochschulbibliothekszentrum NRW (hbz)
 
 # open questions
 
-- [ ] Version 1.1: This signature works but it could be called 'weak' as there will be other RO-Crate packages where folders containing the ro-crate-metadata.json file have been zipped, resulting in false posiives. (Unfortunately the .eln extension can not be used as part of the signature.) Should it still be submitted as ELN v1.1? Alternatively, does it make more sense to submit an entry for RO-Crate, and in the description for that entry explain that there is a subtype with the file extension .eln, together with a link to the ELN spec? (Assuming that RO-Crate could legitimately be called a file format. Apparently it's more a way to structure a range of files and folders, so that the sometimes large binary files within can be worked on, without necessarily putting them into a container. ELN on the other hand is explictly designed to be an exchange and storage format.)
-- [ ] The ELN consortium has recently added an identifier (https://github.com/TheELNConsortium/TheELNFileFormat/issues/161), and this first stable version is called 1.2. In my understanding (all?) previous versions of the file should be called v1.1. I'll try to confirm this with the consortium. Also the question how often they expect the format spec to change, and if the date stamp at the end changes independently (and more often) or always together with the 1.x version number.
+- [ ] Version 1.1: This signature works but it could be called weak as there will be other zipped RO-Crate packages, resulting in false posiives. Here it's only the .eln file extension that tells you it's an .eln file, and unfortunately the extension can not be used as part of the signature. Should this still be submitted as ELN v1.1, for example with a comment that if the .eln extension is missing it's likely to be just a zipped RO-Crate? 
+- To give some background on that: RO-Crate is not a file format but a data packaging specification and method. It may be zipped or not, basically it's just folders and files together with machine-readable metadata. https://www.researchobject.org/ro-crate/specification
+- [ ] The ELN consortium is in the process of adding an identifier, and this first stable version will be called 1.2. In my understanding (all?) previous versions of the file could/should be called v1.1. I'll try to confirm this with the consortium, see https://github.com/TheELNConsortium/TheELNFileFormat/issues/161. 
+- [ ] Another question is how often they expect the format spec to change, and if the date stamp at the end changes independently (and more often) or always together with the 1.x version number.
 

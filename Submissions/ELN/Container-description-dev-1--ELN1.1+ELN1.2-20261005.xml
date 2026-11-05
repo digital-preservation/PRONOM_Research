@@ -41,7 +41,7 @@
        <InternalSignature ID="300">
         <ByteSequence Reference="Variable">
          <SubSequence Position="1">
-          <Sequence>'https://purl.archive.org/purl/elnconsortium/eln-spec/1.2'</Sequence>
+          <Sequence>'https://purl.org/elnconsortium/eln-spec/1.2'</Sequence>
          </SubSequence>
         </ByteSequence>
        </InternalSignature>
