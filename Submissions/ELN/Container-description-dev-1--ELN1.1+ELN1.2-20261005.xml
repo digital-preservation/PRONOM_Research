@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContainerSignatureMapping SchemaVersion="1.0" SignatureVersion="1788511934">
+ 
+ <ContainerSignatures>
+  <ContainerSignature Id="1001" ContainerType="ZIP">
+   <Description>Electronic Laboratory Notebook (ELN) Format</Description>
+   <Files>
+    <File>
+     <Path>*/ro-crate-metadata.json</Path>
+     <BinarySignatures>
+      <InternalSignatureCollection>
+<!-- all ro-crate-metadata.json files have this string, ending either on 1.1 or 1.2-->
+       <InternalSignature ID="300">
+        <ByteSequence Reference="Variable">
+         <SubSequence Position="1">
+           <Sequence>68747470733a2f2f773369642e6f72672f726f2f63726174652f312e(31|32)</Sequence>
+         </SubSequence>
+        </ByteSequence>
+       </InternalSignature>
+<!-- one example file (created by elabftw) has backslashes -->
+       <InternalSignature ID="400">
+        <ByteSequence Reference="Variable">
+         <SubSequence Position="1">
+          <Sequence>68747470733a5c2f5c2f773369642e6f72675c2f726f5c2f63726174655c2f312e(31|32)</Sequence>
+         </SubSequence>
+        </ByteSequence>
+       </InternalSignature>
+      </InternalSignatureCollection>
+     </BinarySignatures>
+    </File>
+   </Files>
+  </ContainerSignature>
+
+  <ContainerSignature Id="1002" ContainerType="ZIP">
+   <Description>Electronic Laboratory Notebook (ELN)</Description>
+   <Files>
+    <File>
+     <Path>*/ro-crate-metadata.json</Path>
+     <BinarySignatures>
+      <InternalSignatureCollection>
+       <InternalSignature ID="500">
+        <ByteSequence Reference="Variable">
+         <SubSequence Position="1">
+          <Sequence>68747470733a2f2f7075726c2e6f72672f656c6e636f6e736f727469756d2f656c6e2d737065632f312e32</Sequence>
+         </SubSequence>
+        </ByteSequence>
+       </InternalSignature>
+       <!-- elabftw uses backslashes also in 1.2 -->
+        <InternalSignature ID="600">
+        <ByteSequence Reference="Variable">
+         <SubSequence Position="1">
+          <Sequence>68747470733a5c2f5c2f7075726c2e6f72675c2f656c6e636f6e736f727469756d5c2f656c6e2d737065635c2f312e32</Sequence>
+         </SubSequence>
+        </ByteSequence>
+       </InternalSignature>
+      </InternalSignatureCollection>
+     </BinarySignatures>
+    </File>
+   </Files>
+  </ContainerSignature>
+ </ContainerSignatures>
+
+
+
+
+
+
+
+ <FileFormatMappings>
+    <!-- Electronic Laboratory Notebook (ELN) 1.1-->
+  <FileFormatMapping signatureId="1001" Puid="dev/1"></FileFormatMapping>
+    <!-- Electronic Laboratory Notebook (ELN) 1.2-->
+  <FileFormatMapping signatureId="1002" Puid="dev/2"></FileFormatMapping>
+ </FileFormatMappings>
+
+ <TriggerPuids>
+  <TriggerPuid ContainerType="OLE2" Puid="fmt/111"></TriggerPuid>
+  <TriggerPuid ContainerType="ZIP" Puid="fmt/189"></TriggerPuid>
+  <TriggerPuid ContainerType="ZIP" Puid="x-fmt/263"></TriggerPuid>
+ </TriggerPuids>
+</ContainerSignatureMapping>
