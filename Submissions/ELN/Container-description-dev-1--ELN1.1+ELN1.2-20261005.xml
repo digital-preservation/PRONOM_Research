@@ -13,7 +13,7 @@
        <InternalSignature ID="300">
         <ByteSequence Reference="Variable">
          <SubSequence Position="1">
-           <Sequence>'https://w3id.org/ro/crate/1.'(31|32)</Sequence>
+           <Sequence>68747470733a2f2f773369642e6f72672f726f2f63726174652f312e(31|32)</Sequence>
          </SubSequence>
         </ByteSequence>
        </InternalSignature>
@@ -21,7 +21,7 @@
        <InternalSignature ID="400">
         <ByteSequence Reference="Variable">
          <SubSequence Position="1">
-          <Sequence>'https:\/\/w3id.org\/ro\/crate\/1.'(31|32)</Sequence>
+          <Sequence>68747470733a5c2f5c2f773369642e6f72675c2f726f5c2f63726174655c2f312e(31|32)</Sequence>
          </SubSequence>
         </ByteSequence>
        </InternalSignature>
@@ -38,14 +38,21 @@
      <Path>*/ro-crate-metadata.json</Path>
      <BinarySignatures>
       <InternalSignatureCollection>
-       <InternalSignature ID="300">
+       <InternalSignature ID="500">
         <ByteSequence Reference="Variable">
          <SubSequence Position="1">
-          <Sequence>'https://purl.org/elnconsortium/eln-spec/1.2'</Sequence>
+          <Sequence>68747470733a2f2f7075726c2e6f72672f656c6e636f6e736f727469756d2f656c6e2d737065632f312e32</Sequence>
          </SubSequence>
         </ByteSequence>
        </InternalSignature>
-       <!-- one of the example files (examples/elabftw/export.eln) contains backslashes in files prior to v1.2, probably also in 1.2 - need to add a Bytesequence for that when elabftw can supply sample file -->
+       <!-- elabftw uses backslashes also in 1.2 -->
+        <InternalSignature ID="600">
+        <ByteSequence Reference="Variable">
+         <SubSequence Position="1">
+          <Sequence>68747470733a5c2f5c2f7075726c2e6f72675c2f656c6e636f6e736f727469756d5c2f656c6e2d737065635c2f312e32</Sequence>
+         </SubSequence>
+        </ByteSequence>
+       </InternalSignature>
       </InternalSignatureCollection>
      </BinarySignatures>
     </File>

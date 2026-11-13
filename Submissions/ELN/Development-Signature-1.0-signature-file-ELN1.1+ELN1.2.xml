@@ -2,8 +2,6 @@
 <FFSignatureFile xmlns="http://www.nationalarchives.gov.uk/pronom/SignatureFile" Version="1788511934" DateCreated="2026-09-04T08:52:14+00:00">
 
  <InternalSignatureCollection>
-<!-- these formats are here so that DROID can recognize the container format -->
-
     <InternalSignature ID="170" Specificity="Specific">
             <ByteSequence Reference="BOFoffset">
                 <SubSequence MinFragLength="0" Position="1"
@@ -111,7 +109,6 @@
     <Extension>eln</Extension>
     <!-- version 1.2 is more specific and has a stronger signature so should have priority -->
     <HasPriorityOverFileFormatID>1</HasPriorityOverFileFormatID>
-    <!-- I think I need the below line-->
     <HasPriorityOverFileFormatID>382</HasPriorityOverFileFormatID>
   </FileFormat>
 

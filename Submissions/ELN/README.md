@@ -7,12 +7,12 @@ Electronic Laboratory Notebook (ELN)
 
 **Version number**
 
-- 1.1 (TBC, all files created before the initial stable ELN Specification 1.2+20260923 was published)
+- 1.1 (all files created before the initial stable ELN specification 1.2+20260923 was published)
 - 1.2
 
 **PUID**
 
-new formats
+two new formats
 
 **Extensions**
 
@@ -45,7 +45,7 @@ In Version 1.1 the difference to other zipped RO-Crate packages (which may also 
 Version 1.2 additionally introduces an ID:
 
 - The ID is `https://purl.org/elnconsortium/eln-spec/1.2+20260923` which allows a strong signature.
-- TBC if the signature should omit the last part `+20260923` as this may change often, or only changes together with the previous part - see open questions below.
+- We propose to omit the last part `+20260923` as this may change more often.
 
 The file format is supported by a variety of applications, see the ELN specification above.
 
@@ -102,6 +102,14 @@ Version 1.1:
          </SubSequence>
         </ByteSequence>
        </InternalSignature>
+           <!-- elabftw uses backslashes also in 1.2 -->
+        <InternalSignature ID="600">
+        <ByteSequence Reference="Variable">
+         <SubSequence Position="1">
+          <Sequence>'https:\/\/purl.org\/elnconsortium\/eln-spec\/1.2'</Sequence>
+         </SubSequence>
+        </ByteSequence>
+       </InternalSignature>
       </InternalSignatureCollection>
      </BinarySignatures>
     </File>
@@ -113,17 +121,18 @@ Version 1.1:
 
 **Relevant links, documentation, extra information**
 
-The ro-crate-metadata.json file is inside a variably named folder. Tyler helped out, suggesting the glob matching solution (see https://github.com/digital-preservation/pronom/issues/10), which seems to work. 
+The ro-crate-metadata.json file is inside a variably named folder. Tyler helped out, suggesting the glob matching solution (see https://github.com/digital-preservation/pronom/issues/10), which works well. 
+
+Notes:
+
+- Version 1.1: This signature works even though it's not strong, as there will be other zipped RO-Crate packages, resulting in false positives. In this older version of the format it's only the .eln file extension that tells you it's an .eln file (and as we know unfortunately the extension can not be used as part of the signature). We propose that this signature should still be submitted as ELN v1.1, with a comment that if the .eln extension is missing it's likely to be more generally a zipped RO-Crate. 
+- To give some background on that: RO-Crate is not a file format but a data packaging specification and method for Research Objects. It may be zipped or not. Basically it's just folders and files, packaged together with machine-readable metadata. https://www.researchobject.org/ro-crate/specification
+- The ELN consortium has recently added a permanent identifier, and called this first the stable version 1.2. I checked with the consortium: all previous versions of the file could/should be called v1.1. See https://github.com/TheELNConsortium/TheELNFileFormat/issues/161. 
+- Minor version updates are possible, identified by the date string at the end of the identifier. They call it "the patch part of the semantic versioning". From a PRONOM perspective I think it makes most sense to only register the major versions. 
+
+
 
 **Credit**
 
 Landesinitiative LZV.nrw / Hochschulbibliothekszentrum NRW (hbz)
-
-
-# open questions
-
-- [ ] Version 1.1: This signature works but it could be called weak as there will be other zipped RO-Crate packages, resulting in false posiives. Here it's only the .eln file extension that tells you it's an .eln file, and unfortunately the extension can not be used as part of the signature. Should this still be submitted as ELN v1.1, for example with a comment that if the .eln extension is missing it's likely to be just a zipped RO-Crate? 
-- To give some background on that: RO-Crate is not a file format but a data packaging specification and method. It may be zipped or not, basically it's just folders and files together with machine-readable metadata. https://www.researchobject.org/ro-crate/specification
-- [ ] The ELN consortium is in the process of adding an identifier, and this first stable version will be called 1.2. In my understanding (all?) previous versions of the file could/should be called v1.1. I'll try to confirm this with the consortium, see https://github.com/TheELNConsortium/TheELNFileFormat/issues/161. 
-- [ ] Another question is how often they expect the format spec to change, and if the date stamp at the end changes independently (and more often) or always together with the 1.x version number.
 
